@@ -1874,3 +1874,382 @@ La cadena ahora queda:
 Y esta es probablemente una de las reglas más importantes para la futura expansión:
 
 > **No agregar palabras para que WNL parezca más grande. Agregar experiencias para que el lector descubra que ya era grande.**
+
+
+---
+
+# BLOQUE 7 — PROPULSIÓN: CADA ESCENA DEBE DEJAR LA HISTORIA EN OTRO LUGAR
+
+El estudio de *Ready Player One* muestra otra diferencia importante entre una historia que simplemente contiene acontecimientos y una historia que continuamente empuja al lector hacia el siguiente momento.
+
+La clave no es terminar cada escena con un cliffhanger.
+
+La clave es que **algo haya cambiado cuando la escena termina**.
+
+## 73. Una escena puede terminar sin resolver nada, pero no debe terminar igual que empezó
+
+Una escena no necesita revelar una gran verdad.
+
+Puede terminar con:
+
+- una decisión tomada;
+- una relación modificada;
+- un objetivo nuevo;
+- una información que cambia una estrategia;
+- una consecuencia inesperada;
+- un problema que antes no existía;
+- una oportunidad;
+- una pérdida;
+- una nueva obligación.
+
+La sensación buscada es:
+
+> **“Ahora la historia está en otro punto.”**
+
+No necesariamente:
+
+> “Tengo que saber inmediatamente cuál es el secreto.”
+
+Esto es importante para WNL porque permite que el libro avance incluso cuando el misterio principal permanece abierto.
+
+## 74. El final de una escena debe crear movimiento, no solo suspense
+
+El suspense pregunta:
+
+> “¿Qué ocurrirá?”
+
+La propulsión narrativa puede preguntar además:
+
+> **“¿Qué hará ahora el protagonista?”**
+
+La segunda pregunta suele ser más poderosa porque convierte la curiosidad en acción.
+
+Por ejemplo:
+
+**descubrimiento → decisión → siguiente escena**
+
+es más dinámico que:
+
+**descubrimiento → frase misteriosa → corte**
+
+El misterio sigue existiendo, pero ahora obliga a alguien a hacer algo.
+
+## 75. Los finales pueden pagar y abrir al mismo tiempo
+
+Un buen cierre puede hacer dos movimientos simultáneos:
+
+**cerrar una pequeña unidad**
+
+y
+
+**abrir una situación nueva.**
+
+Por ejemplo:
+
+> descubre qué ocurrió → ahora debe decidir qué hacer con ello.
+
+O:
+
+> consigue llegar a un lugar → descubre que llegar allí empeoró su situación.
+
+O:
+
+> obtiene una respuesta → comprende que la pregunta importante era otra.
+
+Esto evita que cada capítulo parezca una caja completamente cerrada.
+
+## 76. No convertir todos los finales en cliffhangers
+
+Si cada capítulo termina con:
+
+- una puerta que se abre;
+- una voz desconocida;
+- una explosión;
+- una aparición;
+- una frase inquietante;
+- una nueva anomalía;
+
+el recurso pierde fuerza.
+
+WNL puede alternar finales de distinta naturaleza:
+
+### Final de descubrimiento
+El protagonista comprende algo.
+
+### Final de decisión
+El protagonista elige qué hacer.
+
+### Final de consecuencia
+Una acción anterior produce un resultado.
+
+### Final emocional
+Una relación cambia.
+
+### Final de peligro
+La situación se vuelve físicamente más arriesgada.
+
+### Final de anticipación
+El lector sabe que una decisión tendrá consecuencias más adelante.
+
+### Final de revelación parcial
+Una pregunta recibe una respuesta incompleta que modifica la investigación.
+
+### Final de transición
+El protagonista entra en una situación completamente distinta.
+
+La variedad hace que el lector no pueda anticipar mecánicamente cómo se cerrará cada capítulo.
+
+## 77. La próxima escena debe existir por una razón
+
+Durante la revisión de WNL conviene preguntar:
+
+> **“¿Por qué necesitamos la escena siguiente?”**
+
+Una respuesta fuerte puede ser:
+
+> “Porque la decisión tomada aquí obliga al protagonista a hacer aquello.”
+
+Otra:
+
+> “Porque el personaje acaba de descubrir algo que cambia su objetivo.”
+
+Otra:
+
+> “Porque una consecuencia de esta escena ya está ocurriendo.”
+
+Una respuesta débil sería:
+
+> “Porque necesitamos seguir contando.”
+
+La transición debería tener una causa narrativa.
+
+## 78. El protagonista debe empujar parte de la historia
+
+No todo tiene que sucederle.
+
+En una novela de misterio existe el riesgo de que el protagonista simplemente vaya de anomalía en anomalía esperando descubrir qué significa todo.
+
+Para evitarlo, debemos darle acciones que generen acontecimientos.
+
+Puede:
+
+- investigar;
+- preguntar;
+- ocultar algo;
+- ayudar a alguien;
+- intentar regresar;
+- tomar una decisión equivocada;
+- probar una hipótesis;
+- rechazar una posibilidad;
+- seguir una intuición;
+- actuar según una habilidad que no comprende.
+
+No hace falta que tenga siempre razón.
+
+De hecho, equivocarse puede generar más historia que acertar.
+
+## 79. La incertidumbre también puede producir acción
+
+El protagonista no necesita comprender una situación para actuar.
+
+En WNL puede pensar, por ejemplo:
+
+> “No sé qué significa esto, pero necesito comprobarlo.”
+
+Ese tipo de decisión permite conservar el misterio sin inmovilizar la narración.
+
+La pregunta no se responde todavía.
+
+Pero la búsqueda avanza.
+
+## 80. La Habitación necesita movimiento narrativo
+
+Esta regla es especialmente importante después del Capítulo 7.
+
+El regreso a la Habitación puede ser deliberadamente silencioso, pero el silencio debe contener una dirección.
+
+Durante una estancia allí, el protagonista podría:
+
+- reconstruir una experiencia;
+- revisar sus notas;
+- comprobar un recuerdo;
+- intentar entender una consecuencia;
+- tomar una decisión sobre la próxima visita;
+- descubrir que una nota anterior contradice lo que recuerda;
+- prepararse para algo;
+- decidir investigar una ventana concreta.
+
+No significa que haya que introducir una gran acción artificial.
+
+Significa que la reflexión debe estar vinculada a **algo que el protagonista intenta conseguir**.
+
+## 81. Un capítulo puede cambiar de motor a mitad de camino
+
+No es necesario que toda una secuencia mantenga el mismo tipo de interés.
+
+Puede comenzar como:
+
+**investigación**
+
+y convertirse en:
+
+**peligro**.
+
+O empezar como:
+
+**relación**
+
+y terminar como:
+
+**decisión**.
+
+O comenzar como:
+
+**calma**
+
+y terminar como:
+
+**consecuencia**.
+
+Esto permite que una escena aparentemente sencilla gane impulso sin necesitar un giro gigantesco.
+
+## 82. La transición entre capítulos puede ser directa cuando la historia lo necesita
+
+El Capítulo 8 demostró una posibilidad que conviene conservar:
+
+**Capítulo 7 termina → Capítulo 8 continúa exactamente desde ese instante.**
+
+No siempre necesitamos saltar inmediatamente a otra situación.
+
+Una continuidad directa puede:
+
+- conservar la energía de una escena;
+- mostrar la consecuencia inmediata;
+- permitir que el lector experimente un acontecimiento que antes habría sido resumido;
+- hacer que un capítulo se sienta como continuación real y no como episodio independiente.
+
+Pero tampoco debe convertirse en una obligación estructural.
+
+La pregunta correcta es:
+
+> **“¿La historia necesita que permanezcamos aquí?”**
+
+Si la respuesta es sí, continuar directamente puede ser más fuerte.
+
+## 83. El final de un capítulo debe modificar el punto de partida del siguiente
+
+Pensar en pares:
+
+**final del capítulo N → condición inicial del capítulo N+1.**
+
+Si el protagonista termina un capítulo:
+
+- herido;
+- con nueva información;
+- perseguido;
+- separado de alguien;
+- con una decisión pendiente;
+- con una relación dañada;
+
+el siguiente capítulo debería recordar que esa condición existe.
+
+No necesariamente mediante explicación.
+
+Puede aparecer en:
+
+- una acción;
+- un comportamiento;
+- una dificultad;
+- una conversación;
+- una consecuencia física.
+
+Así se evita la sensación de que cada capítulo reinicia la novela.
+
+## 84. La energía no siempre es velocidad
+
+Una escena puede ser lenta y aun así tener mucha energía narrativa.
+
+La energía puede venir de:
+
+- una decisión pendiente;
+- una conversación tensa;
+- una investigación;
+- una expectativa;
+- una consecuencia;
+- un objetivo concreto.
+
+Por eso una escena tranquila no tiene que llenarse de acción.
+
+Tiene que tener **dirección**.
+
+## 85. Regla editorial para revisar cada escena
+
+Durante la corrección futura, preguntar:
+
+1. ¿Dónde comienza la escena?
+2. ¿Qué quiere conseguir el protagonista?
+3. ¿Qué obstáculo aparece?
+4. ¿Qué descubre o experimenta?
+5. ¿Qué decide?
+6. ¿Qué consecuencia produce?
+7. ¿En qué estado queda la historia al terminar?
+
+Si la respuesta a la última pregunta es:
+
+> “Exactamente igual que antes”
+
+la escena probablemente necesita una revisión.
+
+No necesariamente para hacerla más grande.
+
+Para hacerla más significativa.
+
+## 86. Regla maestra del bloque 7
+
+> **No terminar una escena porque ya contamos lo que queríamos contar. Terminarla porque algo acaba de cambiar.**
+
+Para WNL:
+
+**objetivo → acción → obstáculo → descubrimiento/experiencia → decisión → consecuencia → nuevo estado**
+
+No todas las escenas necesitan todos los elementos.
+
+Pero la cadena ayuda a detectar escenas que solamente mantienen el misterio sin hacer avanzar la historia.
+
+## 87. Relación con los bloques anteriores
+
+Bloque 1:
+
+> **El misterio debe ocurrir dentro de una historia.**
+
+Bloque 2:
+
+> **Cada descubrimiento debe producir consecuencias.**
+
+Bloque 3:
+
+> **Las semillas deben crear futuro.**
+
+Bloque 4:
+
+> **El lector necesita algo que le importe.**
+
+Bloque 5:
+
+> **La escalada aumenta lo que está en juego, no solamente el espectáculo.**
+
+Bloque 6:
+
+> **El mundo debe sentirse vivido antes de sentirse explicado.**
+
+Bloque 7:
+
+> **Cada escena debe dejar la historia en otro lugar.**
+
+La cadena queda ahora:
+
+> **MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → ESCALADA → NUEVO ESTADO**
+
+Y esta regla será especialmente útil durante la próxima etapa de corrección:
+
+> **Si una escena es interesante pero al quitarla nada cambia, debemos preguntarnos qué historia está realmente haciendo.**
