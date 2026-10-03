@@ -13,15 +13,29 @@ El Capítulo 6 termina en la Ventana 7, en el hospital, junto a Daniel inconscie
 El misterio central de ese capítulo no tiene todavía una explicación canónica.
 
 ## Próxima zona de desarrollo
-Las ventanas todavía no utilizadas son:
+El próximo capítulo en desarrollo es:
 
+**Capítulo 7 — Ventana 5 / 2056 / Las Siete Arquitecturas**
+
+Dirección canónica:
+- el protagonista aparece ya en mitad de una operación armada;
+- es uno de los soldados humanos que llevan exoesqueletos;
+- la unidad intenta entrar por la fuerza al establecimiento de las siete arquitecturas;
+- el objetivo humano de la operación es reprogramar las arquitecturas;
+- la narración comienza con la orden de entrada ya dada;
+- el protagonista vive la operación desde dentro, no como observador;
+- la respuesta de las arquitecturas debe presentarse desde lo que el protagonista puede percibir, sin convertirlas prematuramente en una entidad malvada ni explicar desde fuera sus protocolos.
+
+Apertura de referencia:
+**"La orden estaba dada. Ahora era nuestro turno: entrar, o al menos intentarlo."**
+
+Las otras ventanas todavía no utilizadas son:
 1. Ventana 1 — Y2K
 2. Ventana 4 — Cortexia 2026
-3. Ventana 5 — Siete Arquitecturas 2056
-4. Ventana 9 — Mundo Perfecto
-5. Ventana 10 — Copia Exacta
+3. Ventana 9 — Mundo Perfecto
+4. Ventana 10 — Copia Exacta
 
-No se debe decidir el contenido del Capítulo 7 por inferencia de archivos antiguos.
+No usar archivos antiguos para alterar esta dirección canónica.
 
 ## Protección de continuidad
 Los archivos antiguos pueden contener ideas o versiones previas incompatibles con el canon actual. Deben conservarse como histórico, no como autoridad.
