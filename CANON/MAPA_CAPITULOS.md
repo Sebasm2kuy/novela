@@ -104,7 +104,7 @@ El capítulo comienza con la acción ya en marcha, después de que la orden de e
 Dirección de apertura:
 **"La orden estaba dada. Ahora era nuestro turno: entrar, o al menos intentarlo."**
 
-El protagonista participa en la operación y la experiencia debe mantenerse estrictamente desde su percepción en primera persona.
+El protagonista participa en la operación y la experiencia debe mantenerse estrictamente desde su percepción en primera persona. El combate debe integrar su conciencia, miedo, memoria corporal y decisiones dentro de la acción. Las siete arquitecturas deben advertir antes de escalar la fuerza y responder según protocolos, no por malicia. La incursión obliga al protagonista a elegir dentro del combate y asumir consecuencias.
 
 ## Ventanas pendientes
 - Ventana 1 — 1999 / Y2K
