@@ -872,3 +872,357 @@ Juntos forman una cadena útil para WNL:
 > **HISTORIA → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → FUTURO**
 
 La próxima revisión del manuscrito debe utilizar esta cadena sin convertirla en una fórmula rígida.
+
+
+---
+
+# BLOQUE 4 — VÍNCULO EMOCIONAL, OBJETIVOS Y APUESTAS
+
+## 33. El misterio no puede ser la única razón para seguir leyendo
+
+Una gran pregunta intelectual puede sostener la curiosidad, pero la implicación aumenta cuando el lector también tiene algo que perder.
+
+Hay una diferencia entre:
+
+> **“Quiero saber qué significa esto.”**
+
+y:
+
+> **“Quiero saber qué va a pasar.”**
+
+La segunda pregunta suele aparecer cuando existen personajes, relaciones, decisiones y consecuencias.
+
+### Regla para WNL
+
+Cada ventana importante debería intentar producir al menos una razón emocional o práctica para continuar, además de la pregunta misteriosa.
+
+---
+
+## 34. Los personajes necesitan algo que quieran
+
+Un personaje puede entregar información y seguir siendo funcional, pero adquiere mayor fuerza cuando persigue algo propio.
+
+Ese objetivo puede ser pequeño.
+
+No tiene que salvar el mundo.
+
+Puede querer:
+
+- proteger a alguien;
+- encontrar a alguien;
+- terminar un trabajo;
+- obtener una respuesta;
+- recuperar algo;
+- evitar una pérdida;
+- convencer al protagonista;
+- solucionar un problema personal.
+
+### Pregunta editorial
+
+> **¿Qué quiere esta persona antes de que aparezca el protagonista?**
+
+Y después:
+
+> **¿Qué cambia para ella porque él apareció?**
+
+---
+
+## 35. La relación también debe avanzar
+
+Una relación no debería quedarse exactamente igual después de cada escena.
+
+Puede avanzar mediante:
+
+- confianza;
+- desconfianza;
+- cercanía;
+- conflicto;
+- decepción;
+- admiración;
+- miedo;
+- deuda;
+- resentimiento;
+- comprensión.
+
+No hace falta convertir cada relación en una gran trama romántica.
+
+Una relación puede ser simplemente humana.
+
+### Aplicación a WNL
+
+Esto puede ser especialmente importante en:
+
+- Daniel;
+- Martín;
+- la familia de la casa;
+- los soldados de 2056;
+- cualquier personaje que acompañe al protagonista durante una ventana.
+
+---
+
+## 36. Las decisiones generan apuestas
+
+Una escena se vuelve más fuerte cuando el protagonista tiene que elegir entre posibilidades que tienen consecuencias.
+
+No hace falta que sean decisiones gigantes.
+
+Puede ser:
+
+- entrar o no entrar;
+- confiar o desconfiar;
+- quedarse o marcharse;
+- contar algo o callarlo;
+- ayudar a alguien o continuar;
+- regresar a un lugar peligroso;
+- utilizar una información;
+- arriesgarse para obtener una respuesta.
+
+La clave es que la elección tenga un costo o una consecuencia.
+
+---
+
+## 37. Las consecuencias emocionales son consecuencias reales
+
+No todo resultado importante tiene que ser una explosión, una muerte o una revelación.
+
+También puede ser:
+
+- alguien que deja de confiar en él;
+- alguien que se siente abandonado;
+- una relación que cambia;
+- una promesa que ya no puede cumplir;
+- una persona que toma una decisión porque él desapareció;
+- culpa por no haber estado presente;
+- miedo ante algo que antes parecía seguro.
+
+Esto es especialmente poderoso en una historia donde el protagonista está obligado a desaparecer de cada ventana.
+
+### Aplicación a WNL
+
+La regla de las 24 horas no solo significa:
+
+> “Me tengo que ir.”
+
+También puede significar:
+
+> **“Me tengo que ir aunque esta persona todavía me necesite.”**
+
+Ahí la mecánica se convierte en conflicto emocional.
+
+---
+
+## 38. Las ausencias deben importar
+
+El protagonista puede desaparecer de una ventana, pero para los demás no necesariamente desaparece sin consecuencias.
+
+Una ausencia puede provocar:
+
+- preocupación;
+- abandono;
+- sospecha;
+- una decisión;
+- una búsqueda;
+- una explicación improvisada;
+- una relación dañada;
+- una nueva versión de lo ocurrido.
+
+No necesitamos mostrar siempre la consecuencia directamente.
+
+A veces basta con que aparezca cuando el protagonista regresa.
+
+---
+
+## 39. El antagonismo puede ser personal sin convertirlo en villanía
+
+Un conflicto fuerte no exige que todos los personajes tengan malas intenciones.
+
+Puede existir oposición porque dos personas:
+
+- quieren cosas diferentes;
+- interpretan una situación de manera distinta;
+- tienen responsabilidades incompatibles;
+- protegen a personas diferentes;
+- obedecen reglas distintas.
+
+Esto es especialmente compatible con el canon de las siete arquitecturas:
+
+**el conflicto entre humanos y las IA no necesita depender de que las IA sean malvadas.**
+
+La tensión puede surgir porque ambos lados consideran legítima su propia posición.
+
+---
+
+## 40. El peligro funciona mejor cuando ya conocemos lo que puede perderse
+
+Una amenaza se siente diferente cuando el lector ya conoce a la persona, lugar o relación que puede verse afectada.
+
+Por eso:
+
+> **primero importa algo → después puede estar en peligro.**
+
+No siempre es necesario presentar el peligro inmediatamente.
+
+El lector debe tener oportunidad de valorar aquello que podría perder.
+
+---
+
+## 41. Las escenas de calma también necesitan una dirección
+
+Una escena tranquila no tiene que convertirse en acción.
+
+Pero debería existir alguna tensión narrativa:
+
+- una conversación pendiente;
+- una decisión que se acerca;
+- una investigación;
+- una preocupación;
+- una relación que está cambiando;
+- una pregunta que el protagonista intenta resolver;
+- una consecuencia que todavía no sabe cómo afrontar.
+
+Esto es especialmente relevante para la Habitación.
+
+La calma puede funcionar muy bien allí, pero no debería convertirse en una sucesión de reflexión sin objetivo.
+
+---
+
+## 42. Aplicación directa al Capítulo 8
+
+La reacción del lector a Chapter 8 mostró algo útil para la futura revisión.
+
+Después de la enorme intensidad del Capítulo 7, la vuelta a la Habitación reduce naturalmente:
+
+- movimiento;
+- conflicto externo;
+- interacción;
+- objetivo inmediato.
+
+Eso no significa que la Habitación sea un error.
+
+Significa que una escena de interior necesita otra clase de motor.
+
+Para futuras revisiones, preguntar:
+
+> **¿Qué quiere conseguir el protagonista durante su estancia en la Habitación?**
+
+Puede ser algo tan simple como:
+
+- comprender qué ocurrió;
+- reconstruir una experiencia;
+- decidir si regresar;
+- descubrir qué escribió anteriormente;
+- comprobar algo;
+- prepararse para la próxima ventana;
+- enfrentarse a una consecuencia emocional.
+
+La reflexión debe acompañar ese objetivo, no sustituirlo.
+
+---
+
+## 43. El espectáculo debe tener consecuencias
+
+Una gran escena de acción no debería ser solamente memorable visualmente.
+
+Debe cambiar algo.
+
+Después de una gran acción podemos tener:
+
+- heridos;
+- relaciones modificadas;
+- nueva información;
+- pérdida de recursos;
+- nuevas responsabilidades;
+- culpa;
+- enemigos;
+- decisiones;
+- consecuencias en capítulos posteriores.
+
+Esto permite que una escena espectacular siga viva después de terminar.
+
+### Aplicación a WNL
+
+El Capítulo 7 no debería existir solamente como “la gran batalla”.
+
+Su valor aumenta si la operación de 2056 deja consecuencias que sobrevivan al regreso del protagonista a la Habitación y a futuras visitas.
+
+No significa decidir ahora cuáles serán.
+
+Significa no desperdiciar las consecuencias posibles.
+
+---
+
+## 44. El lector debe tener razones diferentes para continuar
+
+Una novela larga puede alternar motores de interés:
+
+**misterio**
+
+> ¿Qué está ocurriendo?
+
+**personaje**
+
+> ¿Qué va a hacer él?
+
+**relación**
+
+> ¿Qué ocurrirá entre estas personas?
+
+**peligro**
+
+> ¿Qué puede perderse?
+
+**descubrimiento**
+
+> ¿Qué acaba de descubrir?
+
+**consecuencia**
+
+> ¿Qué provocará esto?
+
+**anticipación**
+
+> ¿Qué ocurrirá cuando vuelva?
+
+Esto permite que la novela respire sin depender de un único mecanismo.
+
+---
+
+## 45. Regla maestra del bloque 4
+
+> **No basta con que el lector quiera saber la respuesta. Debe haber algo que quiera ver suceder.**
+
+Para WNL:
+
+**Misterio + personaje + objetivo + decisión + consecuencia = implicación.**
+
+No todas las escenas necesitan los cinco elementos.
+
+Pero una ventana completa debería tener suficientes de ellos para sentirse como una historia y no solamente como una investigación.
+
+---
+
+## 46. Relación con los bloques anteriores
+
+Bloque 1:
+
+> **El misterio debe ocurrir dentro de una historia.**
+
+Bloque 2:
+
+> **Cada descubrimiento debe producir consecuencias.**
+
+Bloque 3:
+
+> **Las semillas deben crear posibilidades para el futuro.**
+
+Bloque 4:
+
+> **El lector necesita algo que le importe, no solo algo que quiera entender.**
+
+La cadena se amplía:
+
+> **HISTORIA → PERSONAJES → OBJETIVOS → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA**
+
+El misterio sigue siendo el corazón de WNL.
+
+Pero ahora tiene algo que proteger: **la historia humana que ocurre alrededor de él.**
