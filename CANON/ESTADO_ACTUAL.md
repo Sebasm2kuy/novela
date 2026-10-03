@@ -34,3 +34,20 @@ Toda nueva decisión canónica relevante debe reflejarse primero en `CANON/BIBLI
 - `CANON/ESTADO_ACTUAL.md`
 
 Las propuestas no confirmadas van a `IDEAS/` y nunca a CANON.
+
+
+## Manuscrito definitivo disponible
+
+El autor confirmó que el archivo:
+
+`CAPITULOS/W A T H N E V E R L E F T prologo + caps 1-6`
+
+contiene todo lo escrito y considerado definitivo hasta el Capítulo 6 en la versión actual.
+
+Commit de referencia confirmado por el autor: `6351e5fb513440b6c9832ce3bce037d0a0acffcd`.
+
+Este archivo debe tratarse como el manuscrito definitivo vigente, salvo que exista una versión posterior explícitamente confirmada.
+
+## Inicio de chat nuevo
+
+El autor no necesita copiar instrucciones ni volver a explicar el proyecto. Basta con indicar que se revise el repositorio. El asistente debe leer `CANON/PROMPT_MAESTRO_CHATGPT.md` y los archivos canónicos necesarios, y continuar desde allí.
