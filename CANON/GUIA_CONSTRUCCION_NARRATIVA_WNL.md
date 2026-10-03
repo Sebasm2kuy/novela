@@ -1519,3 +1519,358 @@ La cadena queda:
 Y aparece una idea especialmente útil para las diez ventanas:
 
 > **Cada ventana no necesita superar a la anterior. Necesita hacer que la novela sea más grande.**
+
+
+---
+
+# BLOQUE 6 — HACER GRANDE EL MUNDO SIN FRENAR LA HISTORIA
+
+## 59. El mundo debe sentirse vivo, no explicado
+
+Una de las fortalezas de RPO es que el mundo no existe únicamente en los párrafos dedicados a describirlo.
+
+Se ve funcionando.
+
+Hay:
+
+- escuelas;
+- trabajos;
+- viajes;
+- negocios;
+- amistades;
+- juegos;
+- economía;
+- tecnología;
+- reglas;
+- lugares de encuentro;
+- problemas cotidianos;
+- diferencias sociales.
+
+La información aparece mientras el protagonista vive dentro de ese mundo.
+
+### Regla para WNL
+
+Cuando necesitemos explicar una realidad, preguntar primero:
+
+> **¿Podemos hacer que el lector lo descubra mientras alguien hace algo?**
+
+---
+
+## 60. La actividad puede reemplazar la explicación
+
+En lugar de explicar durante varios párrafos cómo funciona una realidad, podemos mostrar al protagonista:
+
+- utilizando algo;
+- intentando conseguir algo;
+- hablando con alguien;
+- teniendo que pagar algo;
+- equivocándose;
+- recorriendo un lugar;
+- esperando;
+- resolviendo un problema cotidiano.
+
+La acción hace visible el mundo.
+
+---
+
+## 61. Un detalle cotidiano puede construir más mundo que una página de explicación
+
+Una persona que desayuna, trabaja, toma un transporte o discute con alguien puede revelar simultáneamente:
+
+- tecnología;
+- economía;
+- cultura;
+- personalidad;
+- relaciones;
+- clase social;
+- reglas del lugar.
+
+Esto permite que la expansión aumente el tamaño percibido de WNL sin convertirse en exposición.
+
+---
+
+## 62. Cada ventana necesita una vida normal
+
+Antes de que la anomalía domine una ventana, debería existir la posibilidad de percibir qué significa vivir allí.
+
+No hace falta describir una civilización completa.
+
+Basta con pequeños elementos:
+
+- cómo se despierta alguien;
+- cómo se desplaza;
+- dónde trabaja;
+- qué come;
+- qué teme;
+- con quién habla;
+- qué espera del día.
+
+Después, cuando aparece lo extraño, el contraste tiene más fuerza.
+
+### Aplicación a WNL
+
+Esto es especialmente importante para las ventanas que actualmente funcionan principalmente como concepto:
+
+- Y2K;
+- CERN 2012;
+- Bajo la Ciudad;
+- La Casa que Recuerda;
+- La Ciudad que Despierta;
+- 2056;
+- El Mundo Perfecto;
+- Copia Exacta.
+
+No todas necesitan la misma cantidad de vida cotidiana.
+
+Pero ninguna debería sentirse como un decorado construido únicamente para entregar una anomalía.
+
+---
+
+## 63. La normalidad también puede contener historia
+
+No hace falta esperar a que aparezca el misterio para que una ventana sea interesante.
+
+Una conversación cotidiana puede:
+
+- presentar un personaje;
+- revelar una relación;
+- mostrar una costumbre;
+- introducir un conflicto;
+- entregar información útil;
+- establecer una decisión posterior.
+
+Esto es expansión útil.
+
+No es relleno si cambia nuestra comprensión del lugar o de alguien.
+
+---
+
+## 64. Los lugares deben tener función narrativa
+
+Un escenario memorable no necesita una descripción interminable.
+
+Debe permitir que algo ocurra.
+
+Una calle puede servir para:
+
+- encontrar a alguien;
+- perderse;
+- descubrir algo;
+- tener una conversación;
+- ser perseguido;
+- recordar algo.
+
+Una casa puede servir para:
+
+- una relación;
+- una rutina;
+- un secreto;
+- un conflicto.
+
+Un hospital puede servir para:
+
+- esperar;
+- recibir información;
+- encontrarse con alguien;
+- descubrir una contradicción.
+
+### Regla
+
+> **No diseñar lugares solo para que sean interesantes. Diseñarlos para que permitan historia.**
+
+---
+
+## 65. El mundo puede revelar al personaje
+
+La forma en que el protagonista interactúa con una realidad puede decir quién es.
+
+Por ejemplo:
+
+- qué observa primero;
+- qué ignora;
+- qué le da miedo;
+- qué sabe hacer;
+- qué le resulta familiar;
+- qué le cuesta;
+- a quién decide ayudar.
+
+En WNL esto tiene una ventaja especial:
+
+**el protagonista puede comportarse como alguien que conoce un mundo que su memoria consciente no reconoce.**
+
+Eso puede funcionar como caracterización antes de convertirse en misterio.
+
+---
+
+## 66. No todo detalle debe convertirse en pista
+
+Un mundo creíble necesita detalles que simplemente sean parte de la vida.
+
+Si cada objeto extraño, cada número, cada conversación y cada edificio parece contener una pista, el lector aprende a desconfiar de todo.
+
+Eso puede matar la sensación de mundo real.
+
+### Regla de revisión
+
+Preguntar:
+
+> **¿Este detalle necesita tener un significado futuro?**
+
+Si la respuesta es no, puede seguir siendo válido.
+
+Incluso puede ser beneficioso.
+
+---
+
+## 67. La escala puede aparecer por acumulación
+
+No necesitamos explicar todo el tamaño de una realidad de una sola vez.
+
+Podemos mostrarla mediante pequeñas piezas:
+
+una calle → un edificio → una persona → una conversación → un transporte → otro lugar → una noticia → una costumbre.
+
+Al final, el lector comprende que existe mucho más allá de lo que la historia ha mostrado.
+
+Esto es especialmente útil para WNL porque tenemos diez realidades.
+
+El objetivo no es explicar diez universos.
+
+Es conseguir que el lector sienta que **podrían seguir existiendo aunque la cámara narrativa se alejara de ellos**.
+
+---
+
+## 68. La expansión de WNL debe priorizar escenas
+
+Cuando revisemos capítulos existentes, una ampliación debería preferir este orden:
+
+1. escena;
+2. interacción;
+3. decisión;
+4. consecuencia;
+5. detalle de mundo;
+6. explicación.
+
+No significa eliminar toda explicación.
+
+Significa reservarla para cuando realmente sea la herramienta más eficaz.
+
+---
+
+## 69. La información puede tener doble función
+
+La mejor expansión suele hacer dos cosas al mismo tiempo.
+
+Por ejemplo:
+
+Una conversación puede:
+
+- desarrollar una relación;
+- y explicar cómo funciona el lugar.
+
+Un viaje puede:
+
+- mostrar la geografía;
+- y revelar el estado emocional del protagonista.
+
+Una comida puede:
+
+- mostrar costumbres;
+- y presentar un conflicto.
+
+Una pelea puede:
+
+- desarrollar acción;
+- y demostrar una habilidad que el protagonista no sabía que tenía.
+
+### Regla
+
+> **Si una escena solo informa, buscar qué otra cosa puede hacer.**
+
+---
+
+## 70. Aplicación a las diez ventanas
+
+Las ventanas pueden crecer mediante funciones diferentes.
+
+No necesitamos repetir la misma estructura diez veces.
+
+Una podría sentirse como:
+
+**vida cotidiana + anomalía**
+
+Otra:
+
+**investigación + relación**
+
+Otra:
+
+**familia + terror**
+
+Otra:
+
+**ciudad + supervivencia**
+
+Otra:
+
+**acción + conflicto moral**
+
+Otra:
+
+**maravilla + deseo**
+
+Otra:
+
+**identidad + consecuencias**
+
+La estructura exacta todavía no está fijada.
+
+Lo importante es que cada ventana tenga una identidad narrativa propia.
+
+---
+
+## 71. Regla maestra del bloque 6
+
+> **No explicar el tamaño del universo. Hacer que el lector lo experimente.**
+
+Para WNL:
+
+**vida cotidiana → actividad → personajes → conflicto → detalles → anomalía**
+
+Así, cuando llegue lo imposible, el lector sentirá que ha irrumpido en un mundo que ya existía.
+
+---
+
+## 72. Relación con los bloques anteriores
+
+Bloque 1:
+
+> **El misterio debe ocurrir dentro de una historia.**
+
+Bloque 2:
+
+> **Cada descubrimiento debe producir consecuencias.**
+
+Bloque 3:
+
+> **Las semillas deben crear futuro.**
+
+Bloque 4:
+
+> **El lector necesita algo que le importe.**
+
+Bloque 5:
+
+> **La escalada aumenta lo que está en juego, no solamente el espectáculo.**
+
+Bloque 6:
+
+> **El mundo debe sentirse vivido antes de sentirse explicado.**
+
+La cadena ahora queda:
+
+> **MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → ESCALADA**
+
+Y esta es probablemente una de las reglas más importantes para la futura expansión:
+
+> **No agregar palabras para que WNL parezca más grande. Agregar experiencias para que el lector descubra que ya era grande.**
