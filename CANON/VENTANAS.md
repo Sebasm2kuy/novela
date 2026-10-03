@@ -43,7 +43,7 @@ La narración comienza con la orden ya dada y la unidad preparándose para entra
 
 El protagonista no llega como observador externo: forma parte físicamente de la operación desde el primer momento.
 
-Las arquitecturas no deben tratarse como "malvadas" por defecto: su conducta durante el enfrentamiento se relaciona con protocolos establecidos.
+Las siete arquitecturas no son malvadas. Deben resistir cualquier intento de ingreso a sus instalaciones que no cuente con una orden previa de ingreso aceptada por las propias siete arquitecturas. Antes de emplear fuerza, deben emitir advertencias y ultimátums progresivos. Su respuesta defensiva debe escalar conforme al nivel de amenaza y no presentarse como un acto de malicia.
 
 El dato "99%" representa el progreso/desarrollo global de la solución en ese material heredado, no eficacia de una cura.
 
