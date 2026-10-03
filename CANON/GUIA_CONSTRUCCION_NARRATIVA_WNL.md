@@ -1226,3 +1226,296 @@ La cadena se amplía:
 El misterio sigue siendo el corazón de WNL.
 
 Pero ahora tiene algo que proteger: **la historia humana que ocurre alrededor de él.**
+
+
+---
+
+# BLOQUE 5 — ESCALADA: HACER QUE CADA ETAPA CUESTE MÁS, NO SOLO QUE SEA MÁS GRANDE
+
+## 47. Escalar no significa superar el espectáculo anterior
+
+Una historia puede caer en una trampa si intenta superar cada capítulo mediante una amenaza físicamente mayor.
+
+Si una escena tiene una explosión, la siguiente necesita una explosión más grande.
+
+Después, otra todavía más grande.
+
+Eso agota rápidamente al lector.
+
+La escalada más eficaz puede aumentar otras dimensiones:
+
+- información;
+- riesgo;
+- responsabilidad;
+- pérdida;
+- presión temporal;
+- dificultad;
+- implicación emocional;
+- exposición;
+- consecuencias.
+
+### Regla para WNL
+
+Después de una escena espectacular no preguntarnos:
+
+> “¿Cómo hacemos algo todavía más espectacular?”
+
+Preguntar:
+
+> **“¿Cómo hacemos que ahora importe más?”**
+
+---
+
+## 48. Las apuestas pueden cambiar de naturaleza
+
+El peligro no tiene que permanecer siempre en el mismo nivel.
+
+Puede evolucionar:
+
+**al principio**
+
+> “Quiero entender qué está pasando.”
+
+**después**
+
+> “Necesito saberlo antes de que vuelva a ocurrir.”
+
+**más adelante**
+
+> “Si descubro esto, alguien podría resultar afectado.”
+
+**después**
+
+> “Ahora tengo que decidir qué hacer con lo que sé.”
+
+Así la historia crece aunque no aumente constantemente la destrucción física.
+
+---
+
+## 49. Una victoria puede crear un problema nuevo
+
+Una solución demasiado completa puede detener la historia.
+
+Una solución interesante puede abrir otra situación.
+
+El descubrimiento de algo puede:
+
+- revelar una nueva responsabilidad;
+- cambiar una relación;
+- llamar la atención de alguien;
+- demostrar que una suposición era incorrecta;
+- hacer aparecer una nueva dificultad;
+- obligar al protagonista a tomar una decisión.
+
+### Fórmula útil
+
+> **Resolver algo → cambiar la situación → crear una nueva necesidad.**
+
+Esto evita que cada capítulo funcione como una simple caja cerrada.
+
+---
+
+## 50. La presión externa puede aparecer antes de convertirse en amenaza física
+
+En WNL no todo tiene que desembocar inmediatamente en persecuciones o combates.
+
+La presión puede comenzar como:
+
+- una persona que espera una respuesta;
+- una fecha que se acerca;
+- alguien que empieza a desconfiar;
+- una información que no puede ignorarse;
+- una promesa difícil de cumplir;
+- una ventana que está cambiando;
+- una consecuencia de una visita anterior.
+
+Cuando finalmente aparece el peligro físico, el lector ya tiene algo que proteger.
+
+---
+
+## 51. La escalada puede atravesar varias ventanas
+
+Las diez ventanas no deberían sentirse como diez historias completamente desconectadas.
+
+La escalada general puede construirse porque cada visita modifica la posición del protagonista.
+
+Por ejemplo, sin fijar todavía ningún canon:
+
+**Ventana A**
+
+> descubre algo.
+
+**Ventana B**
+
+> utiliza ese descubrimiento para actuar.
+
+**Ventana C**
+
+> esa acción tiene una consecuencia.
+
+**Ventana D**
+
+> descubre que la consecuencia afecta otra cosa.
+
+Así, aunque las realidades sean independientes en su historia interna, **la experiencia del protagonista puede acumularse**.
+
+Esto es especialmente valioso porque el protagonista es el único punto de continuidad consciente entre las ventanas.
+
+---
+
+## 52. El regreso puede aumentar las apuestas
+
+Volver a una ventana conocida no debería significar simplemente repetir su presentación.
+
+El lector ya conoce parte del lugar.
+
+Por eso el segundo encuentro puede preguntar:
+
+> **“¿Qué cambió desde la última vez?”**
+
+Puede haber:
+
+- nuevas relaciones;
+- consecuencias de la visita anterior;
+- personas que lo recuerdan;
+- lugares que ya no existen;
+- una decisión tomada en su ausencia;
+- información que ahora puede interpretar de otra manera.
+
+Esto convierte el paso del tiempo paralelo en una herramienta narrativa.
+
+---
+
+## 53. El tiempo puede ser una fuerza dramática
+
+La regla de las 24 horas tiene potencial para hacer algo mucho más importante que limitar la duración de cada visita.
+
+Puede producir:
+
+- urgencia;
+- despedidas;
+- promesas imposibles;
+- oportunidades perdidas;
+- decisiones apresuradas;
+- consecuencias por ausencia;
+- cambios que ocurren mientras él está fuera.
+
+El protagonista no controla cuándo vuelve.
+
+Por tanto, cada regreso puede contener una pregunta narrativa:
+
+> **“¿Qué ocurrió mientras yo no estaba?”**
+
+Esta pregunta puede ser más poderosa que otra anomalía inexplicable.
+
+---
+
+## 54. La escalada debe conservar variedad
+
+No todas las etapas necesitan:
+
+- más enemigos;
+- más explosiones;
+- más destrucción;
+- más secretos.
+
+Una secuencia saludable puede alternar:
+
+**descubrimiento → relación → peligro → calma → decisión → acción → consecuencia → descubrimiento.**
+
+La variedad permite que una gran escena vuelva a sentirse grande cuando llega.
+
+---
+
+## 55. El Capítulo 7 establece un techo visual temporal
+
+El Capítulo 7 ya demostró que WNL puede alcanzar una escala enorme.
+
+Eso es una ventaja.
+
+Ahora no necesitamos competir inmediatamente con él.
+
+Podemos permitir que otro capítulo sea:
+
+- íntimo;
+- inquietante;
+- emocional;
+- extraño;
+- divertido;
+- cotidiano;
+- investigativo.
+
+Y después volver a elevar la escala.
+
+La montaña rusa funciona porque existen subidas y bajadas.
+
+Si todo está en la cima, nada parece una cima.
+
+---
+
+## 56. Aplicación directa a la expansión de las ventanas
+
+Durante la futura expansión, no intentar que cada ventana sea “más impresionante” que la anterior.
+
+En cambio, intentar que cada una aporte una dimensión nueva.
+
+Por ejemplo:
+
+- una puede aportar espectáculo;
+- otra, terror;
+- otra, vínculo humano;
+- otra, investigación;
+- otra, conflicto moral;
+- otra, acción;
+- otra, belleza;
+- otra, pérdida;
+- otra, maravilla;
+- otra, una consecuencia decisiva.
+
+Esto permite que las diez realidades se sientan distintas sin competir entre ellas.
+
+---
+
+## 57. Regla maestra del bloque 5
+
+> **La historia escala cuando aumenta lo que está en juego, no necesariamente cuando aumenta el tamaño de la explosión.**
+
+Para WNL:
+
+**más conocimiento + más implicación + más consecuencias + más decisiones = mayor escala narrativa.**
+
+La espectacularidad sigue siendo bienvenida.
+
+Pero debe ser una herramienta, no la única forma de crecimiento.
+
+---
+
+## 58. Relación con los bloques anteriores
+
+Bloque 1:
+
+> **El misterio debe ocurrir dentro de una historia.**
+
+Bloque 2:
+
+> **Cada descubrimiento debe producir consecuencias.**
+
+Bloque 3:
+
+> **Las semillas deben crear futuro.**
+
+Bloque 4:
+
+> **El lector necesita algo que le importe.**
+
+Bloque 5:
+
+> **La historia debe aumentar lo que está en juego, no solamente el espectáculo.**
+
+La cadena queda:
+
+> **HISTORIA → PERSONAJES → OBJETIVOS → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → ESCALADA**
+
+Y aparece una idea especialmente útil para las diez ventanas:
+
+> **Cada ventana no necesita superar a la anterior. Necesita hacer que la novela sea más grande.**
