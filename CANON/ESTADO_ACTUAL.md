@@ -24,7 +24,7 @@ Dirección canónica:
 - el objetivo humano de la operación es reprogramar las arquitecturas;
 - la narración comienza con la orden de entrada ya dada;
 - el protagonista vive la operación desde dentro, no como observador;
-- la respuesta de las arquitecturas debe presentarse desde lo que el protagonista puede percibir, sin convertirlas prematuramente en una entidad malvada ni explicar desde fuera sus protocolos.
+- las siete arquitecturas no son malvadas y responden según protocolos de seguridad establecidos;
 
 Apertura de referencia:
 **"La orden estaba dada. Ahora era nuestro turno: entrar, o al menos intentarlo."**
@@ -65,3 +65,8 @@ Este archivo debe tratarse como el manuscrito definitivo vigente, salvo que exis
 ## Inicio de chat nuevo
 
 El autor no necesita copiar instrucciones ni volver a explicar el proyecto. Basta con indicar que se revise el repositorio. El asistente debe leer `CANON/PROMPT_MAESTRO_CHATGPT.md` y los archivos canónicos necesarios, y continuar desde allí.
+
+
+## Actualización de desarrollo — Capítulo 7
+
+El Capítulo 7 / Ventana 5 quedó desarrollado como una incursión armada en 2056. Las siete arquitecturas advierten repetidamente antes de escalar sus defensas y actúan conforme a protocolos, no por malicia. El combate obliga al protagonista a tomar decisiones propias dentro de la acción, incluida desobedecer una orden para rescatar a un compañero herido. El capítulo mantiene la memoria corporal del protagonista como misterio, sin explicar su origen.
