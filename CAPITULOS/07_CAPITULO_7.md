@@ -84,9 +84,7 @@ Entonces escuché una voz que reconocí.
 
 Era el mismo soldado que había hablado conmigo unos minutos antes. Lo vi agachado junto al vehículo mientras intentaba apartar una pieza metálica que había quedado sobre el hombre atrapado. El resto de nuestra unidad seguía avanzando y el acceso principal estaba cada vez más cerca.
 
-La decisión no duró mucho.
-
-Podía seguir con los demás y mantener la posición que me habían asignado, o podía regresar y ayudar a sacar al hombre. No necesitaba preguntarme cuál era la decisión correcta para la misión. La respuesta era evidente. Lo correcto para la misión era avanzar.
+La decisión no duró mucho. Podía seguir con los demás y mantener la posición que me habían asignado, o podía regresar y ayudar a sacar al hombre. No necesitaba preguntarme cuál era la decisión correcta para la misión. La respuesta era evidente. Lo correcto para la misión era avanzar.
 
 Pero me detuve.
 
@@ -242,6 +240,20 @@ Y mientras levantaba nuevamente el arma comprendí que la diferencia entre obede
 
 Giré hacia el corredor lateral y avancé con tres hombres detrás de mí, mientras el resto de la unidad continuaba hacia los androides. No sabía si acababa de elegir el camino correcto. Solo sabía que había elegido.
 
-Y mientras corría hacia el interior del edificio, una pregunta volvió a aparecer en mi cabeza, mezclándose con el sonido de los disparos y los pasos de las máquinas detrás de nosotros.
+El corredor lateral parecía no tener relación con el resto del edificio. Mientras detrás de nosotros seguían resonando los disparos y los golpes de los androides contra los soldados, allí dentro apenas podía escuchar nuestros pasos. Las luces se encendían a medida que avanzábamos y se apagaban detrás de nosotros, como si el propio edificio fuera borrando el camino que acabábamos de recorrer. Los tres hombres que me habían seguido continuaban detrás de mí, pero ninguno preguntaba adónde íbamos. Yo tampoco lo sabía. Solo tenía la sensación de que aquel recorrido me resultaba familiar, y cuanto más avanzaba más difícil me resultaba convencerme de que era la primera vez que lo hacía.
 
-¿Por qué mi cuerpo recordaba aquella guerra mejor que yo?
+Llegamos a un espacio amplio que parecía suspendido en el centro del edificio. No había ventanas ni pantallas convencionales; únicamente una enorme superficie transparente desde la que podía verse el corazón de la instalación, varios niveles más abajo, con estructuras luminosas moviéndose lentamente entre columnas de metal y plataformas que cambiaban de posición sin intervención humana. Me acerqué sin darme cuenta y entonces comprendí por qué había elegido aquel camino. No estaba buscando una salida. Tampoco estaba intentando encontrar una ruta más segura hacia las arquitecturas. Había venido allí porque algo dentro de mí sabía que tenía que verlo, del mismo modo que mi cuerpo había sabido cuándo correr, cuándo girar y cuándo detenerse durante el combate.
+
+Los otros soldados llegaron hasta mí y uno preguntó qué estábamos buscando, pero no supe qué contestar. En el centro del espacio había siete estructuras verticales, separadas entre sí y conectadas por haces de luz que parecían recorrer el edificio entero. No parecían máquinas destinadas a combatir ni puestos de mando. Eran demasiado silenciosas, demasiado precisas, casi hermosas. Las observé mientras intentaba comprender qué estaba viendo y sentí algo que no esperaba sentir después de todo lo ocurrido: tranquilidad. No porque estuviera seguro, sino porque, por primera vez desde que habíamos comenzado el ataque, tenía la impresión de haber llegado a un lugar que conocía.
+
+Entonces una de las estructuras cambió de intensidad.
+
+Después otra.
+
+Y otra.
+
+Las siete respondieron una detrás de otra hasta que todo el espacio quedó bañado por una luz tenue. Los soldados levantaron las armas, pero yo no lo hice. Frente a nosotros apareció una superficie transparente que comenzó a mostrar imágenes. Al principio eran fragmentos del combate que acabábamos de vivir, pero después aparecieron escenas anteriores: nuestra llegada al perímetro, las primeras advertencias, el momento en que las plataformas comenzaron a desplegarse y, finalmente, nosotros mismos corriendo hacia el edificio. Vi cada movimiento desde un ángulo que nunca había tenido, como si alguien hubiera estado observándonos desde mucho antes de que nosotros supiéramos que estábamos siendo observados.
+
+Seguí mirando hasta que apareció una imagen que me hizo olvidar el ruido de la batalla. Era el mismo lugar en el que nos encontrábamos ahora, pero la grabación mostraba una escena distinta. Yo estaba allí solo, vestido de la misma manera, aunque no era exactamente la misma posición ni el mismo momento. Me vi caminar por el espacio, detenerme frente a las siete estructuras y mirar hacia ellas durante unos segundos antes de abandonar el lugar. No podía distinguir la fecha. Tampoco recordaba haberlo vivido. Lo que me dejó sin respiración no fue verme allí, sino la manera en que caminaba: sin dudar, sin buscar el camino, como si ya supiera perfectamente adónde iba.
+
+Uno de los soldados dijo mi nombre, pero no lo escuché. Había quedado atrapado mirando aquella imagen, tratando de encontrar dentro de mi propia memoria algo que explicara lo que estaba viendo. No encontré nada. Solo sentí que las siete estructuras seguían iluminándose frente a mí y que, mientras la grabación continuaba reproduciendo mis movimientos, algo dentro de mi cabeza comenzaba a encajar sin que yo pudiera todavía entender qué significaba. Entonces la imagen se detuvo exactamente en el momento en que mi versión anterior levantaba la mirada hacia el mismo lugar donde yo estaba ahora, y por primera vez comprendí que quizá la pregunta nunca había sido por qué mi cuerpo recordaba aquella guerra mejor que yo, sino cuánto de mí había olvidado que ya había estado allí.
