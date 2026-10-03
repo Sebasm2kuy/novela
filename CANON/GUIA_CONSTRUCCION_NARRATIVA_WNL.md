@@ -2253,3 +2253,197 @@ La cadena queda ahora:
 Y esta regla será especialmente útil durante la próxima etapa de corrección:
 
 > **Si una escena es interesante pero al quitarla nada cambia, debemos preguntarnos qué historia está realmente haciendo.**
+
+
+---
+
+# BLOQUE 8 — CONTROL DE INFORMACIÓN: EL LECTOR DEBE DESCUBRIR, NO SER MANIPULADO
+
+El estudio de la primera persona en *Ready Player One* aporta una regla especialmente útil para WNL: limitar la información al campo de experiencia del protagonista no significa esconder información artificialmente. La incertidumbre funciona mejor cuando nace de los límites naturales de lo que él sabe.
+
+## 88. La información debe respetar el punto de vista
+
+En primera persona, el lector recibe lo que el protagonista observa, escucha, recuerda, deduce, sospecha, comprueba o interpreta. No debe aparecer una explicación externa simplemente porque el lector la necesita.
+
+> **Si él no puede saberlo todavía, nosotros tampoco.**
+
+## 89. La ignorancia no debe convertirse en una excusa para ocultar información
+
+Hay diferencia entre “el protagonista no sabe esto” y “el autor evita decirlo porque necesita conservar el misterio”. La primera es natural; la segunda puede sentirse manipulada.
+
+Cuando no sepa algo, debe reaccionar: preguntar, investigar, formular una hipótesis, recordar algo incompleto, decidir con información insuficiente o equivocarse.
+
+El lector puede permanecer sin respuesta porque **el personaje está realmente sin respuesta**, no porque la narración haga trampa.
+
+## 90. Una teoría del protagonista no es canon
+
+El protagonista puede interpretar mal una situación. En WNL esto es fundamental con la Habitación, las diez ventanas, su cuerpo, los recuerdos, las grabaciones, las anomalías, las siete arquitecturas y su propia identidad.
+
+Conviene distinguir entre:
+
+**sé → recuerdo → creo → supongo → me dijeron → no entiendo**
+
+> **Una teoría del protagonista no se convierte en canon solo porque él la piense.**
+
+## 91. Las respuestas deben tener una causa narrativa
+
+Una revelación puede surgir porque alguien la cuenta, encuentra un documento, observa una consecuencia, conecta experiencias, prueba algo, comete un error, regresa a un lugar o descubre que una suposición era falsa.
+
+Así la información parece **ganada por la historia**, no entregada arbitrariamente.
+
+## 92. El lector puede llegar a una revelación junto al protagonista
+
+Una secuencia especialmente útil para WNL es:
+
+**observación → asociación → hipótesis → comprobación → descubrimiento.**
+
+La recompensa no consiste solamente en recibir una explicación, sino en comprender algo que ya habíamos visto.
+
+Esto es muy útil cuando una futura visita reinterpreta un detalle de una ventana anterior.
+
+## 93. La ironía dramática debe surgir de lo que está en la página
+
+Primera persona no impide que el lector comprenda algo antes que el protagonista. Puede reconocer una fecha, un acontecimiento o una referencia que él todavía no identifica.
+
+Pero esa ventaja debe surgir de la información disponible, no de una voz omnisciente que abandone el punto de vista.
+
+Esto resulta especialmente valioso para ventanas como 1999/Y2K, 2012/CERN y 2014/MH370.
+
+## 94. Mostrar una consecuencia antes de explicar su causa es válido
+
+WNL puede utilizar:
+
+**consecuencia → investigación → causa parcial**
+
+en lugar de explicar siempre primero la causa.
+
+Una nota que el protagonista no recuerda, una persona que asegura haber hablado con él o una consecuencia de una visita anterior pueden aparecer antes de que entendamos su origen.
+
+La narración no tiene que explicar inmediatamente por qué ocurrió, pero sí debe permitir que el protagonista **haga algo con esa información**.
+
+## 95. El conocimiento acumulado debe modificar sus decisiones
+
+Cada visita aporta experiencias, habilidades, errores, sospechas, relaciones y consecuencias. Aunque no conozca la verdad completa, el protagonista no debería investigar las ventanas como si cada visita fuera la primera.
+
+> **No sabe la respuesta, pero ahora sabe más que antes.**
+
+Esto convierte la experiencia acumulada en historia y evita reinicios narrativos.
+
+## 96. Un hecho puede conservarse mientras cambia su significado
+
+Una técnica especialmente útil para WNL es mantener el hecho y modificar la interpretación.
+
+**Primera visita:** “Alguien dejó esto aquí.”
+
+**Más adelante:** “Ahora sé que fui yo quien lo dejó.”
+
+**Después:** “Pero no recuerdo haberlo hecho.”
+
+La información inicial no era falsa. Estaba incompleta.
+
+Esto permite construir misterio mediante **reinterpretación**, no solamente mediante nuevas pistas.
+
+## 97. No explicar una anomalía antes de que tenga consecuencias
+
+Una anomalía puede primero afectar al protagonista, después obligarlo a actuar y solo más adelante recibir una explicación parcial.
+
+### Secuencia útil
+
+**anomalía → reacción → acción → consecuencia → investigación → comprensión parcial.**
+
+No:
+
+**anomalía → explicación técnica → continuar.**
+
+## 98. El lenguaje de certeza debe ser preciso
+
+Durante la corrección de WNL habrá que vigilar palabras como “sabía”, “recordaba”, “era”, “había ocurrido”, “entendí” y “comprendí”. En una historia con memoria, realidades y percepción alteradas, una frase demasiado absoluta puede revelar accidentalmente algo que el protagonista todavía no debería saber.
+
+A veces convendrá “me pareció” en lugar de “era”, o “recordaba haber” en lugar de “había”. No para debilitar la prosa, sino para respetar exactamente el nivel de conocimiento del narrador.
+
+## 99. Misterio no significa confusión
+
+Una narración limitada puede ser perfectamente clara.
+
+El lector debería comprender:
+
+- dónde está el protagonista;
+- qué está haciendo;
+- qué quiere;
+- qué acaba de ocurrir;
+- qué sabe;
+- qué no sabe;
+- qué intenta descubrir.
+
+Lo misterioso debe ser **el significado**, no necesariamente la acción.
+
+> **El lector puede estar perdido sobre la verdad, pero no debería estar perdido sobre lo que está ocurriendo en la escena.**
+
+## 100. Una revelación parcial sigue siendo progreso
+
+Una respuesta puede cerrar una pregunta y dejar otra abierta:
+
+> “Ahora sé qué ocurrió aquí, pero todavía no sé por qué.”
+
+O:
+
+> “Ahora sé quién lo hizo, pero todavía no sé para qué.”
+
+Esto permite entregar recompensas sin destruir el misterio central.
+
+## 101. Auditoría de información
+
+En cada escena revisar:
+
+### Punto de vista
+- ¿Cómo sabe el protagonista esto?
+- ¿Lo vio, recordó, dedujo, escuchó o alguien se lo contó?
+
+### Certeza
+- ¿Es un hecho, una interpretación o una sospecha?
+
+### Descubrimiento
+- ¿La información aparece porque ocurrió algo o porque el autor necesita explicarla?
+
+### Consecuencia
+- ¿El protagonista hace algo con lo que acaba de descubrir?
+
+### Continuidad
+- ¿La información contradice lo que debería recordar o demuestra precisamente que su recuerdo era incompleto?
+
+### Claridad
+- Aunque el misterio permanezca, ¿el lector entiende qué ocurre físicamente en la escena?
+
+## 102. Regla maestra del bloque 8
+
+> **No ocultar información para fabricar misterio. Limitarla al conocimiento real del protagonista y dejar que la historia produzca el descubrimiento.**
+
+Para WNL:
+
+**percepción → interpretación → acción → consecuencia → descubrimiento → reinterpretación**
+
+Y una segunda regla queda fijada:
+
+> **El lector puede no saber la verdad. Pero siempre debe poder entender qué está viviendo el protagonista.**
+
+## 103. Relación con los bloques anteriores
+
+Bloque 1: **El misterio debe ocurrir dentro de una historia.**
+
+Bloque 2: **Cada descubrimiento debe producir consecuencias.**
+
+Bloque 3: **Las semillas deben crear futuro.**
+
+Bloque 4: **El lector necesita algo que le importe.**
+
+Bloque 5: **La escalada aumenta lo que está en juego, no solamente el espectáculo.**
+
+Bloque 6: **El mundo debe sentirse vivido antes de sentirse explicado.**
+
+Bloque 7: **Cada escena debe dejar la historia en otro lugar.**
+
+Bloque 8: **La información debe respetar el conocimiento real del protagonista.**
+
+La cadena queda:
+
+> **MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → PERCEPCIÓN → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → REINTERPRETACIÓN → NUEVO ESTADO**
