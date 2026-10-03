@@ -71,8 +71,6 @@ La Habitación sigue siendo enigmática.
 
 Es una nueva estancia en la misma Ventana 7, no una ventana nueva.
 
-Han transcurrido al menos 48 horas desde la salida anterior de esa realidad.
-
 El protagonista aparece en una habitación de hospital sin recordar cómo llegó.
 
 No sabe qué ocurrió con Daniel y debe descubrirlo mediante investigación.
