@@ -1,21 +1,19 @@
 # ESTADO ACTUAL DEL PROYECTO
 
 ## Situación narrativa
-El manuscrito vigente llega hasta el Capítulo 6.
+El manuscrito vigente llega hasta el Capítulo 7.
 
 El protagonista ya ha pasado por varias ventanas y ha empezado a percibir patrones relacionados con ausencias, recuerdos, espacios imposibles y discontinuidades temporales.
 
 La naturaleza de la Habitación continúa protegida.
 
 ## Último punto narrativo
-El Capítulo 6 termina en la Ventana 7, en el hospital, junto a Daniel inconsciente, con una discrepancia documental relacionada con los horarios y el contacto del protagonista.
+El Capítulo 7 termina en la Ventana 5, dentro del edificio de las siete arquitecturas, después de una incursión armada en la que el protagonista toma decisiones propias dentro del combate y descubre una grabación de sí mismo que demuestra que ya había estado allí anteriormente.
 
-El misterio central de ese capítulo no tiene todavía una explicación canónica.
+El significado de esa grabación y la relación entre lo que su cuerpo recuerda y lo que su memoria consciente recuerda siguen sin explicación canónica.
 
 ## Próxima zona de desarrollo
-El próximo capítulo en desarrollo es:
-
-**Capítulo 7 — Ventana 5 / 2056 / Las Siete Arquitecturas**
+El próximo capítulo a desarrollar es el **Capítulo 8**. La Ventana 5 / 2056 / Las Siete Arquitecturas queda desarrollada en el Capítulo 7.
 
 Dirección canónica:
 - el protagonista aparece ya en mitad de una operación armada;
