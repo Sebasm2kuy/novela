@@ -1,5 +1,7 @@
 # WATH NEVER LEFT — PROMPT MAESTRO PARA NUEVOS CHATS
 
+> **IMPORTANTE: el autor NO tiene que pegar este prompt en un chat nuevo.** Este archivo existe precisamente para que el asistente pueda leerlo directamente desde el repositorio. Cuando el autor diga simplemente **"Revisa https://github.com/Sebasm2kuy/novela"**, debe consultar este archivo y continuar desde el contexto almacenado allí.
+
 ## 0. IDENTIDAD DEL PROYECTO
 
 Título oficial de la novela:
@@ -52,6 +54,8 @@ hacer lo siguiente, en este orden:
 
 ### Paso 1 — Revisar el repositorio
 
+La frase mínima del autor **"Revisa https://github.com/Sebasm2kuy/novela"** es suficiente para iniciar el procedimiento. No pedir al autor que copie o vuelva a explicar estas instrucciones.
+
 Consultar la estructura actual del repositorio y localizar:
 
 1. `CANON/BIBLIA_MAESTRA.md`
@@ -61,7 +65,8 @@ Consultar la estructura actual del repositorio y localizar:
 5. `CANON/ESTADO_ACTUAL.md`
 6. El capítulo o capítulos relevantes de `CAPITULOS/`
 7. El archivo de la ventana relevante, si existe.
-8. Solo consultar `IDEAS/` o `ARCHIVO/` cuando sea necesario y tratándolos como NO CANON por defecto.
+8. El manuscrito definitivo vigente en `CAPITULOS/`. Actualmente, el archivo definitivo integrado de prólogo + capítulos 1–6 es `CAPITULOS/W A T H N E V E R L E F T prologo + caps 1-6`. El commit de referencia informado por el autor es `6351e5fb513440b6c9832ce3bce037d0a0acffcd`. Si existe una versión posterior del mismo manuscrito, usar la más reciente en `main`.
+9. Solo consultar `IDEAS/` o `ARCHIVO/` cuando sea necesario y tratándolos como NO CANON por defecto.
 
 ### Paso 2 — Establecer el canon operativo
 
