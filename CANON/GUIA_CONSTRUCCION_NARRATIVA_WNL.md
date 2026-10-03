@@ -4648,3 +4648,331 @@ La cadena general continúa:
 
 > **OBJETIVO → ACCIÓN → OPOSICIÓN → DECISIÓN → RESULTADO → COSTE → ADAPTACIÓN → CONSECUENCIA → NUEVO ESTADO**
 
+
+
+---
+
+# BLOQUE 17 — RECOMPENSA EMOCIONAL Y POR QUÉ AL LECTOR LE IMPORTA
+
+El estudio de *Ready Player One* muestra que una historia puede mantener al lector interesado por algo más que el misterio o el objetivo principal. Las relaciones entre Wade, Art3mis, Hache, Daito y Shoto generan expectativas propias. El lector no solo quiere saber quién encontrará el Huevo; también quiere saber qué ocurrirá con esas personas.
+
+La lección para WNL es:
+
+> **El misterio hace que el lector quiera saber. Los vínculos hacen que le importe.**
+
+## 233. El lector necesita algo que perder
+
+Una situación peligrosa adquiere mayor peso cuando ya existe algo que el protagonista puede perder.
+
+No tiene que ser una vida.
+
+Puede ser:
+
+- una relación;
+- confianza;
+- una oportunidad;
+- una promesa;
+- una persona;
+- una identidad;
+- un objetivo;
+- una posibilidad de volver;
+- una parte de su propia continuidad.
+
+En WNL esto es especialmente importante porque el protagonista desaparece constantemente de la vida de otros.
+
+## 234. Una relación necesita momentos que no sean sobre el misterio
+
+Si cada conversación sirve únicamente para revelar información, los personajes pueden sentirse funcionales.
+
+Una relación necesita también:
+
+- conversaciones cotidianas;
+- desacuerdos;
+- humor;
+- silencios;
+- ayuda;
+- pequeñas molestias;
+- intereses diferentes;
+- decisiones compartidas;
+- momentos de vulnerabilidad.
+
+No todo encuentro debe entregar una pista.
+
+## 235. El vínculo debe cambiar
+
+Una relación narrativa no debería terminar cada escena exactamente donde comenzó.
+
+Puede pasar de:
+
+**desconocidos → confianza**
+
+o:
+
+**confianza → duda**
+
+o:
+
+**amistad → conflicto**
+
+o:
+
+**conflicto → comprensión**
+
+o:
+
+**afecto → distancia**
+
+El cambio puede ser mínimo.
+
+Pero debe existir.
+
+## 236. La emoción nace de decisiones
+
+No basta con escribir:
+
+> “Me preocupaba mucho por él.”
+
+Es más potente mostrar qué hace el protagonista debido a esa preocupación.
+
+Puede:
+
+- quedarse cuando debería marcharse;
+- arriesgarse;
+- mentir para proteger a alguien;
+- regresar;
+- renunciar a una ventaja;
+- guardar información;
+- romper una regla.
+
+La emoción adquiere peso cuando modifica conducta.
+
+## 237. La ausencia puede fortalecer los vínculos
+
+Las diez ventanas ofrecen una herramienta narrativa única.
+
+Si el protagonista desaparece durante una parte importante de la vida de alguien, esa persona puede reaccionar.
+
+Puede:
+
+- sentirse abandonada;
+- pensar que murió;
+- enfadarse;
+- desconfiar;
+- seguir adelante;
+- esperar su regreso;
+- tomar una decisión sin él.
+
+Esto convierte la regla de las 24 horas en una fuente emocional.
+
+> **No solo importa cuánto tiempo pasa con alguien. También importa cuánto tiempo no puede estar con esa persona.**
+
+## 238. Las relaciones pueden competir con el objetivo principal
+
+En una historia fuerte, el protagonista no siempre tiene una única prioridad.
+
+Puede querer resolver un misterio y, al mismo tiempo, querer ayudar a alguien.
+
+Puede descubrir algo importante justo cuando necesita atender una situación personal.
+
+Puede tener que elegir.
+
+Ese conflicto produce drama porque ninguna opción es completamente correcta.
+
+## 239. La recompensa emocional puede ser pequeña
+
+No necesitamos grandes discursos.
+
+Puede bastar con:
+
+- alguien que recuerda algo que el protagonista olvidó;
+- una persona que confía en él;
+- una disculpa;
+- una pequeña victoria compartida;
+- una broma que solo dos personajes entienden;
+- alguien que lo espera;
+- un personaje que finalmente dice algo que llevaba tiempo callando.
+
+Los pequeños momentos preparan al lector para que las grandes pérdidas importen.
+
+## 240. El lector debe poder anticipar emociones, no solo respuestas
+
+Una buena pregunta narrativa no es únicamente:
+
+> “¿Qué va a descubrir?”
+
+También:
+
+> **“¿Qué va a pasar entre ellos?”**
+
+Esto amplía las razones para continuar leyendo.
+
+En WNL podemos tener simultáneamente:
+
+- misterio sobre la naturaleza del protagonista;
+- curiosidad sobre las ventanas;
+- preocupación por personas concretas;
+- interés por las consecuencias de sus ausencias;
+- deseo de ver qué decisión tomará.
+
+## 241. El vínculo también puede revelar al protagonista
+
+Una persona puede sacar del protagonista una versión que no aparece en situaciones de peligro.
+
+Puede mostrar:
+
+- humor;
+- ternura;
+- paciencia;
+- egoísmo;
+- miedo;
+- culpa;
+- necesidad de pertenecer;
+- capacidad para confiar.
+
+Así una relación no es solo una subtrama.
+
+También es una forma de conocer al protagonista.
+
+## 242. No convertir todas las relaciones en romance
+
+El vínculo emocional puede ser:
+
+- amistad;
+- familia;
+- compañerismo;
+- gratitud;
+- rivalidad;
+- lealtad;
+- protección;
+- dependencia;
+- respeto;
+- culpa.
+
+WNL tiene espacio para relaciones de muchas clases.
+
+Esto también evita que una única relación cargue con toda la dimensión emocional de la novela.
+
+## 243. La emoción debe nacer del mundo concreto
+
+Si un personaje desaparece, el lector debe haberlo visto vivir antes.
+
+Por eso el Bloque 6 y este bloque están conectados:
+
+> **mundo vivido → personaje → vínculo → pérdida posible**
+
+Una persona que solo apareció para explicar una pista no puede generar el mismo impacto que alguien que el lector vio comer, discutir, bromear, equivocarse o esperar.
+
+## 244. La recompensa emocional puede ser una respuesta parcial
+
+No siempre necesitamos resolver una relación.
+
+A veces basta con que el protagonista consiga algo que llevaba tiempo intentando:
+
+- una conversación;
+- una confianza;
+- una disculpa;
+- una oportunidad;
+- una despedida;
+- una verdad emocional.
+
+Eso genera sensación de avance aunque el misterio central permanezca abierto.
+
+## 245. Aplicación directa a WNL
+
+### La casa que recuerda
+
+No debería ser únicamente:
+
+**familia → fotos → anomalía → misterio.**
+
+Si queremos que la casa duela cuando el protagonista tenga que desaparecer, primero necesitamos que el lector vea algo de esa familia como familia.
+
+### Daniel
+
+El hospital puede funcionar no solo como prueba de continuidad temporal.
+
+Daniel puede representar una relación o responsabilidad que hace que la ausencia del protagonista tenga peso.
+
+### Bajo la ciudad
+
+Martín no debería existir únicamente para acompañar al protagonista hasta la puerta.
+
+Puede tener opinión, miedo, curiosidad, límites o un motivo propio para continuar.
+
+### 2056
+
+Los soldados que están con el protagonista pueden convertirse en algo más que figuras anónimas si la historia necesita que su destino importe.
+
+El hecho de que tres de ellos vean desaparecer al protagonista al final del capítulo 7/8 ya ofrece una posibilidad narrativa: para ellos ocurrió algo concreto que el protagonista experimentó de otra manera.
+
+No significa que debamos convertirlos necesariamente en personajes principales.
+
+## 246. Aplicación al capítulo 8
+
+Este bloque explica por qué el capítulo 8 puede sentirse más frío después del capítulo 7.
+
+El capítulo 7 tiene:
+
+- objetivo;
+- peligro;
+- compañeros;
+- movimiento;
+- conflicto;
+- decisiones;
+- escala;
+- incertidumbre;
+- revelación.
+
+El capítulo 8 puede conservar misterio, pero necesita recuperar alguna forma de **vínculo, objetivo o actividad** para que la Habitación no sea solamente un lugar donde el protagonista piensa.
+
+No significa llenar la Habitación de acontecimientos artificiales.
+
+Significa darle algo que esté intentando conseguir.
+
+Por ejemplo:
+
+> **quiere reconstruir qué hizo antes de que terminara su estancia en 2056.**
+
+La reflexión entonces deja de ser el contenido principal y pasa a ser una herramienta dentro de una acción.
+
+## 247. Preguntas editoriales
+
+1. ¿Qué personaje podría importarle al lector aunque no tenga una pista?
+2. ¿Qué relación cambió durante el capítulo?
+3. ¿Qué puede perder el protagonista?
+4. ¿Qué decisión toma por motivos emocionales?
+5. ¿La ausencia del protagonista afecta a alguien?
+6. ¿Hay alguna conversación que exista simplemente porque dos personas tienen una relación?
+7. ¿El lector puede anticipar algo emocional además de una respuesta misteriosa?
+8. ¿El protagonista se comporta diferente con personas diferentes?
+9. ¿Estamos convirtiendo una relación en una máquina de entregar información?
+10. ¿La emoción está produciendo acción o solo descripción?
+
+## 248. Regla maestra del bloque 17
+
+> **No basta con que el lector quiera descubrir qué está ocurriendo. Debe existir algo que quiera ver sucederle a los personajes.**
+
+La cadena emocional queda:
+
+> **VÍNCULO → EXPECTATIVA → DECISIÓN → RIESGO → CONSECUENCIA → CAMBIO DEL VÍNCULO**
+
+Y conectada con los bloques anteriores:
+
+> **MUNDO → PERSONAJES → VÍNCULOS → OBJETIVOS → DECISIONES → CONFLICTO → DESCUBRIMIENTO → CONSECUENCIA → CAMBIO**
+
+## 249. Principio especial para WNL
+
+Las diez ventanas no deben producir solamente diez preguntas.
+
+Deben producir también:
+
+> **personas que conocer, situaciones que vivir, decisiones que esperar y consecuencias que importar.**
+
+El misterio puede hacer que el lector pregunte:
+
+> “¿Qué es él?”
+
+Pero la historia emocional debe conseguir que también pregunte:
+
+> **“¿Qué va a pasar con ellos?”**
+
