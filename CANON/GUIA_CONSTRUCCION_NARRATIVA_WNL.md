@@ -511,3 +511,364 @@ La ejecución debe pertenecer completamente a WNL.
 **WNL no necesita parecerse a otra novela para crecer.**
 
 **Necesita aprovechar la historia que ya existe dentro de sus diez ventanas.**
+
+
+---
+
+# BLOQUE 3 — SEMILLAS, PREPARACIÓN Y PAGO NARRATIVO
+
+## 19. Una semilla no es una pista: es una posibilidad narrativa
+
+Una de las técnicas más útiles observadas durante el estudio comparativo es presentar un elemento antes de revelar para qué sirve.
+
+Pero hay una diferencia fundamental:
+
+**sembrar algo no significa decirle al lector que es importante.**
+
+Una semilla puede aparecer como:
+
+- un objeto;
+- una costumbre;
+- un conocimiento;
+- una habilidad;
+- una frase;
+- una relación;
+- un lugar;
+- una anomalía pequeña;
+- un dato aparentemente secundario.
+
+Más adelante, ese elemento puede adquirir una función que el lector no podía conocer todavía.
+
+### Regla para WNL
+
+> **La semilla debe poder existir naturalmente antes de que conozcamos su significado.**
+
+---
+
+## 20. El pago funciona mejor cuando transforma el significado anterior
+
+El mejor pago no consiste solamente en decir:
+
+> “¿Ves? Esto era una pista.”
+
+Es más interesante cuando el lector puede mirar hacia atrás y reinterpretar algo.
+
+La experiencia buscada es:
+
+> **“Ahora entiendo por qué eso estaba ahí.”**
+
+Pero no todos los elementos necesitan producir este efecto.
+
+Algunos deben permanecer simplemente como parte del mundo.
+
+---
+
+## 21. Preparar no significa explicar
+
+Una preparación demasiado evidente puede destruir la sorpresa.
+
+Si un personaje dice exactamente lo que necesitará cinco capítulos después, la preparación se vuelve visible.
+
+En cambio, si la información aparece de forma natural porque tiene sentido en ese momento, el lector puede recordarla sin saber todavía para qué servirá.
+
+### Aplicación a WNL
+
+El protagonista puede:
+
+- aprender algo por necesidad;
+- utilizar un objeto por razones prácticas;
+- conocer una rutina;
+- desarrollar una habilidad;
+- escuchar un dato aparentemente irrelevante;
+- tener una experiencia que después resulte significativa.
+
+No necesitamos anunciar su importancia.
+
+---
+
+## 22. El conocimiento debe sentirse ganado
+
+Cuando una capacidad resulta necesaria más adelante, es mejor que el lector pueda recordar que el protagonista ya tenía alguna relación previa con ella.
+
+Esto evita la sensación de:
+
+> “El protagonista acaba de aprender esto porque el autor lo necesitaba.”
+
+En WNL esto es especialmente útil con:
+
+- habilidades físicas;
+- conocimiento de lugares;
+- objetos que aparecen en varias visitas;
+- procedimientos;
+- relaciones entre personajes;
+- comportamientos que el cuerpo parece recordar.
+
+La preparación puede ser muy discreta.
+
+---
+
+## 23. Un objeto puede tener varias vidas narrativas
+
+Un objeto no tiene que cumplir una sola función.
+
+Puede comenzar como:
+
+**objeto cotidiano → objeto asociado a un recuerdo → objeto relevante → objeto reinterpretado.**
+
+Pero tampoco debemos convertir todos los objetos recurrentes en artefactos secretos.
+
+### Regla
+
+> **Un objeto solo merece convertirse en una semilla importante si la historia obtiene algo valioso al recuperarlo.**
+
+La moneda del bolsillo, por ejemplo, no debe convertirse automáticamente en una pista solo porque apareció.
+
+---
+
+## 24. Las semillas necesitan distancia
+
+Si sembramos y pagamos inmediatamente, el lector puede percibir demasiado claramente la construcción.
+
+Si sembramos y nunca recuperamos, la semilla pierde valor.
+
+La distancia correcta depende de la historia.
+
+Puede ser:
+
+- unas páginas;
+- varios capítulos;
+- otra visita a una ventana;
+- una futura etapa de la novela.
+
+La distancia también permite que el lector olvide parcialmente un detalle y experimente una pequeña sorpresa cuando vuelva.
+
+---
+
+## 25. No todas las semillas tienen que ser misteriosas
+
+Esta regla es especialmente importante para WNL.
+
+Podemos sembrar:
+
+- una relación;
+- una habilidad;
+- una costumbre;
+- una decisión;
+- una consecuencia;
+- una información práctica.
+
+Eso permite construir continuidad sin aumentar constantemente la cantidad de enigmas.
+
+Así evitamos el problema:
+
+> **misterio → pista → misterio → pista → misterio.**
+
+Y conseguimos:
+
+> **vida → experiencia → aprendizaje → consecuencia → significado posterior.**
+
+---
+
+## 26. Una preparación puede pagar de varias maneras
+
+El pago de una semilla no tiene que ser una revelación.
+
+Puede convertirse en:
+
+### Pago práctico
+El protagonista utiliza algo que aprendió antes.
+
+### Pago emocional
+Una relación o recuerdo adquiere nuevo peso.
+
+### Pago causal
+Una decisión anterior provoca un acontecimiento posterior.
+
+### Pago informativo
+Un dato permite comprender algo que antes parecía extraño.
+
+### Pago de reinterpretación
+Una escena anterior adquiere otro significado.
+
+### Pago de continuidad
+Algo demuestra que el mundo siguió avanzando mientras el protagonista estaba ausente.
+
+Esta última categoría es especialmente poderosa para las diez ventanas.
+
+---
+
+## 27. El lector debe poder sentir progreso
+
+Una historia de misterio puede mantener preguntas abiertas y, al mismo tiempo, entregar recompensas.
+
+Cada cierto tiempo conviene que el lector pueda decir:
+
+> **“Ahora sé más que antes.”**
+
+No necesariamente:
+
+> **“Ahora ya sé toda la verdad.”**
+
+Para WNL, esto permite revelar gradualmente:
+
+- cómo funcionan determinadas situaciones;
+- qué consecuencias tuvo una visita;
+- qué recuerda un personaje;
+- qué hizo anteriormente el protagonista;
+- qué cambió en una ventana;
+- qué significa parcialmente un objeto o comportamiento.
+
+La gran explicación final no debe ser la única fuente de satisfacción.
+
+---
+
+## 28. La mejor recompensa puede ser una conexión
+
+Una conexión entre dos elementos ya conocidos puede producir una sensación de avance sin necesidad de introducir otro misterio.
+
+Ejemplo abstracto:
+
+**Elemento A** aparece temprano.
+
+**Elemento B** aparece mucho después.
+
+El lector descubre que ambos estaban relacionados.
+
+La satisfacción proviene de conectar información existente.
+
+### Aplicación a WNL
+
+Ya existen elementos potencialmente capaces de producir este tipo de conexión:
+
+- los tres golpes;
+- la llave y la puerta;
+- las anomalías del hospital;
+- las diferencias horarias;
+- el comportamiento corporal del protagonista;
+- las grabaciones;
+- el cuaderno;
+- su nombre desconocido;
+- las siete arquitecturas;
+- los cambios que ocurren entre visitas.
+
+Esto no significa que todos deban terminar relacionados entre sí.
+
+**Solo significa que debemos evaluar cuáles merecen una conexión futura y cuáles deben permanecer independientes.**
+
+---
+
+## 29. Registrar las semillas para no perderlas
+
+A partir de esta etapa, durante la planificación conviene distinguir:
+
+**SEMILLA**
+Elemento introducido con una posible función futura.
+
+**PISTA**
+Elemento que apunta deliberadamente hacia una información o respuesta.
+
+**RECURSO NARRATIVO**
+Elemento útil para la escena, pero sin necesidad de significado futuro.
+
+**DETALLE DE MUNDO**
+Elemento que hace que la realidad se sienta viva.
+
+**COINCIDENCIA**
+Elemento que no necesita explicación.
+
+Esta clasificación evita que nosotros mismos sobreinterpretemos nuestro propio manuscrito.
+
+---
+
+## 30. Regla práctica para futuras revisiones
+
+Cuando encontremos un detalle antiguo durante la corrección, no debemos preguntar inmediatamente:
+
+> “¿Cómo podemos convertir esto en una pista?”
+
+Primero preguntar:
+
+> **“¿Qué función ya cumple?”**
+
+Después:
+
+> **“¿La historia necesita que tenga otra función?”**
+
+Solo si la respuesta es sí debemos transformarlo en una semilla narrativa.
+
+---
+
+## 31. Aplicación a WNL: inventario inicial de semillas potenciales
+
+Sin convertir ninguna de estas posibilidades en canon nuevo, podemos mantener bajo observación:
+
+- los tres golpes;
+- la puerta bajo la ciudad;
+- la llave;
+- la habitación de la casa;
+- el mensaje relacionado con Daniel;
+- el registro de las 06:19;
+- el mensaje de las 08:20;
+- las grabaciones;
+- las notas encontradas en distintas ventanas;
+- el nombre del protagonista que el lector todavía no conoce;
+- las habilidades que el cuerpo recuerda;
+- la grabación del protagonista dentro de las siete arquitecturas;
+- el cuaderno;
+- las notas escritas en él;
+- la vibración detrás de la pared;
+- la frase relacionada con esperar a que se apague la luz.
+
+**Importante:** esta lista no establece qué significa ninguno de esos elementos.
+
+Solo identifica elementos que podrían tener valor narrativo futuro.
+
+Algunos deberán recibir respuesta.
+
+Otros pueden adquirir una nueva interpretación.
+
+Otros pueden resultar no ser importantes.
+
+Y algunos pueden ser simplemente parte del mundo.
+
+---
+
+## 32. Principio maestro del bloque 3
+
+> **No sembrar para crear misterio. Sembrar para crear futuro.**
+
+Una buena semilla no obliga a la historia a detenerse.
+
+Permite que una historia futura aproveche algo que ya existe.
+
+Por eso, cuando una semilla reciba su pago, el lector debería sentir que la historia avanzó, no que el autor simplemente tachó una tarea pendiente.
+
+### Fórmula
+
+**Sembrar → desarrollar → dejar vivir → recuperar → transformar el significado.**
+
+No:
+
+**sembrar → señalar → recordar al lector que era importante → explicar.**
+
+---
+
+## Relación con los bloques anteriores
+
+Bloque 1:
+
+> **El misterio debe ocurrir dentro de una historia.**
+
+Bloque 2:
+
+> **Cada descubrimiento debe producir consecuencias.**
+
+Bloque 3:
+
+> **Las semillas deben crear posibilidades para el futuro y sus pagos deben producir progreso.**
+
+Juntos forman una cadena útil para WNL:
+
+> **HISTORIA → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → FUTURO**
+
+La próxima revisión del manuscrito debe utilizar esta cadena sin convertirla en una fórmula rígida.
