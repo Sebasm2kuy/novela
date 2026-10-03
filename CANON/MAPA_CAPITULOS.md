@@ -106,6 +106,21 @@ Dirección de apertura:
 
 El protagonista participa en la operación y la experiencia debe mantenerse estrictamente desde su percepción en primera persona. El combate debe integrar su conciencia, miedo, memoria corporal y decisiones dentro de la acción. Las siete arquitecturas deben advertir antes de escalar la fuerza y responder según protocolos, no por malicia. La incursión obliga al protagonista a elegir dentro del combate y asumir consecuencias.
 
+## Capítulo 8
+**Continuación directa de la Ventana 5 — 2056 / Regreso a la Habitación**
+
+El capítulo comienza exactamente donde termina el Capítulo 7, frente a las siete arquitecturas y la grabación del protagonista.
+
+Antes de poder comprender el significado de la grabación, llega el final de su estancia y se produce el desplazamiento de regreso.
+
+Tres soldados presencian la desaparición y uno de ellos pronuncia el nombre del protagonista. El nombre se mantiene oculto para el lector.
+
+Ya en la Habitación, el protagonista registra lo sucedido y revisa su cuaderno. Aparecen una advertencia relacionada con las siete estructuras y otras anotaciones cotidianas cuya importancia permanece abierta.
+
+Una vibración sutil detrás de la pared le resulta familiar después de la experiencia en 2056, pero el texto no confirma ninguna conexión entre ambos fenómenos.
+
+El capítulo conserva el misterio: no establece una conexión automática entre la Habitación y los archivos, sistemas o redes de las ventanas, ni explica la naturaleza del protagonista, de la Habitación o de las siete arquitecturas.
+
 ## Ventanas pendientes
 - Ventana 1 — 1999 / Y2K
 - Ventana 4 — 2026 / Cortexia
