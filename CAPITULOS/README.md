@@ -15,14 +15,15 @@ El manuscrito está separado en archivos independientes:
 - `CAPITULOS/04_CAPITULO_4.md`
 - `CAPITULOS/05_CAPITULO_5.md`
 - `CAPITULOS/06_CAPITULO_6.md`
-- `07_CAPITULO_7.md` — Capítulo 7 / Ventana 5 / Las Siete Arquitecturas
+- `CAPITULOS/07_CAPITULO_7.md` — Capítulo 7 / Ventana 5 / Las Siete Arquitecturas
+- `CAPITULOS/08_CAPITULO_8.md` — Capítulo 8 / continuación directa del Capítulo 7 / regreso a la Habitación
 
-Estos archivos constituyen la versión de trabajo vigente del prólogo y los capítulos 1–6.
+Estos archivos constituyen la versión de trabajo vigente del manuscrito.
 
 ## Archivo consolidado
 
-`CAPITULOS/W A T H N E V E R L E F T prologo + caps 1-6` conserva una copia consolidada del manuscrito y funciona como respaldo/histórico.
+`CAPITULOS/W A T H N E V E R L E F T prologo + caps 1-6` conserva una copia consolidada del manuscrito anterior y funciona como respaldo/histórico.
 
 A partir de esta estructura, las modificaciones narrativas deben hacerse en los archivos independientes y, cuando corresponda, actualizar también la copia consolidada.
 
-- `08_CAPITULO_8.md` — Capítulo 8 / continuación directa desde Ventana 5, regreso a la Habitación (en desarrollo)
+El Capítulo 8 queda como versión de trabajo vigente tras la revisión de continuidad, tipografía y prosa narrativa.
