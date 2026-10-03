@@ -94,9 +94,20 @@ No convertir automáticamente la discrepancia en:
 - una intervención consciente del protagonista;
 - una explicación sobre quién provocó el accidente.
 
+## Capítulo 7
+**Ventana 5 — 2056 / Las Siete Arquitecturas**
+
+El protagonista entra directamente en mitad de una operación armada. Es uno de los soldados humanos equipados con exoesqueletos que intentan entrar por la fuerza al establecimiento de las siete arquitecturas para reprogramarlas.
+
+El capítulo comienza con la acción ya en marcha, después de que la orden de entrada haya sido dada.
+
+Dirección de apertura:
+**"La orden estaba dada. Ahora era nuestro turno: entrar, o al menos intentarlo."**
+
+El protagonista participa en la operación y la experiencia debe mantenerse estrictamente desde su percepción en primera persona.
+
 ## Ventanas pendientes
 - Ventana 1 — 1999 / Y2K
 - Ventana 4 — 2026 / Cortexia
-- Ventana 5 — 2056 / Las Siete Arquitecturas
 - Ventana 9 — El Mundo Perfecto
 - Ventana 10 — Copia Exacta
