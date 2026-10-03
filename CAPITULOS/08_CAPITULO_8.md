@@ -1,309 +1,43 @@
 # CAPÍTULO 8
 
-Las siete estructuras seguían frente a mí, iluminadas con una intensidad que apenas me permitía distinguir sus contornos. La grabación había quedado detenida en el momento exacto en que mi otra versión levantaba la mirada y, durante unos segundos, nadie dijo nada. Los tres soldados permanecían detrás de mí esperando una explicación que yo no podía darles, mientras yo seguía mirando aquella imagen de mí mismo intentando encontrar en mi memoria un solo recuerdo que me dijera cuándo había estado allí antes. Entonces sentí que algo comenzaba a cambiar. No fue un sonido ni una luz, sino esa sensación que ya conocía demasiado bien, una especie de vacío que nacía muy dentro de mí y se extendía lentamente por todo el cuerpo. Miré las estructuras una vez más y comprendí que el tiempo se había terminado.
+Las siete estructuras seguían frente a mí, iluminadas con una intensidad que apenas me permitía distinguir sus contornos. La grabación había quedado detenida en el momento en que mi otra versión levantaba la mirada y, durante unos segundos, ninguno de los tres soldados dijo nada. Permanecían detrás de mí esperando una explicación que yo no podía darles, mientras yo seguía mirando aquella imagen e intentaba encontrar en mi memoria un solo recuerdo que me dijera cuándo había estado allí antes. Entonces apareció aquella sensación que ya conocía demasiado bien: un vacío que parecía nacer en algún punto del cuerpo y extenderse hacia las extremidades mientras la sala empezaba a perder la consistencia que había tenido hasta ese momento. Miré una última vez las estructuras y comprendí que el tiempo se había terminado antes de que pudiera averiguar qué significaba aquella grabación.
 
-Uno de los soldados dijo mi nombre. Esta vez lo escuché.
+Uno de los soldados alcanzó a pronunciar mi nombre y esta vez sí lo escuché con claridad, aunque apenas tuve tiempo de reconocerlo antes de que los rostros comenzaran a alejarse y el suelo dejara de sentirse firme bajo mis pies. Vi a uno de ellos dar un paso hacia mí, todavía con la misma expresión de desconcierto que había tenido al mirar la pantalla, y quise decirle que no sabía qué estaba pasando, pero la voz no llegó a salir. La sala se volvió borrosa hasta desaparecer y, cuando volví a sentir el peso de mi cuerpo, estaba sentado en el borde de la cama.
 
-Quise responderle, pero ya no estaba seguro de que pudiera hacerlo. La sala comenzó a perder nitidez delante de mí, los rostros de los otros hombres se alejaron como si estuvieran detrás de un vidrio y el suelo dejó de sentirse firme bajo mis pies. Alcancé a ver a uno de ellos dar un paso hacia mí, con una expresión de desconcierto que todavía puedo recordar, pero no tuve tiempo de explicar nada, ni siquiera de mirar una última vez la grabación. En el instante siguiente ya no estaba allí.
+Durante unos segundos no fui capaz de entender dónde estaba porque todo mi cuerpo seguía esperando el ruido de los disparos, las voces de los soldados y las vibraciones del edificio. Sin embargo, allí solo estaban el zumbido tenue de la nevera y el sonido irregular de una gota que caía en el lavabo. Permanecí quieto, respirando despacio hasta que aquella tensión empezó a ceder. Bajé la mirada hacia mis manos, abrí y cerré los dedos y comprobé los brazos en busca de alguna herida nueva, pero no encontré nada aparte del pequeño corte que tenía junto a la ceja. Fui hasta el lavabo, lo limpié con agua y observé mi reflejo durante unos segundos, todavía intentando separar mi propia cara de la del hombre que acababa de ver en la grabación. Él había recorrido aquella sala como si conociera cada rincón y yo acababa de descubrir que podía haber hecho lo mismo sin conservar un recuerdo de ello.
 
-Caí sentado sobre el borde de la cama y tardé varios segundos en comprender que había regresado.
+Cuando regresé a la mesa, el cuaderno seguía donde lo había dejado. Lo abrí por la página que estaba leyendo antes de marcharme y encontré de nuevo, escrita con mi letra, la misma frase que ahora parecía haber adquirido un peso distinto: **Si alguna vez llegás hasta las siete, no confíes en lo que te muestren.** La leí despacio y dejé que las palabras permanecieran allí sin intentar convertirlas en una respuesta. No sabía cuándo la había escrito, ni qué me había llevado a hacerlo, y después de todo lo que había vivido ya no me parecía sensato decidir que dos cosas estaban relacionadas únicamente porque habían aparecido una junto a la otra. Podía ser una advertencia sobre las siete estructuras, pero también podía referirse a algo que todavía no había encontrado.
 
-El silencio me resultó casi violento después del ruido del combate. Durante un rato permanecí inmóvil, todavía con la sensación de que el suelo vibraba bajo mis pies, aunque sabía que ya no ocurría. Miré mis manos, abrí y cerré los dedos y después comprobé mis brazos, esperando encontrar alguna marca o alguna señal que me demostrara que lo que acababa de vivir había sido real. No encontré nada. Seguía llevando lo que había llevado al entrar en aquella realidad, pero el peso del equipo había desaparecido y el cuerpo que me quedaba parecía otra vez el de siempre.
+Cerré el cuaderno y me quedé pensando en los soldados. Por primera vez, mi desaparición no había ocurrido a solas. Ellos habían estado conmigo en la sala, habían visto la grabación y uno de ellos había pronunciado mi nombre justo antes del salto. Intenté imaginar qué explicación podían encontrar para lo que acababan de presenciar, pero ninguna parecía posible desde mi propio punto de vista. El recuerdo del nombre me inquietó todavía más porque, aunque sabía que me habían llamado, cuando trataba de repetirlo en mi cabeza la palabra se deshacía antes de llegar a formarse. Había tenido un nombre toda mi vida, o eso debía ser cierto, pero en ese momento no podía recuperarlo. Después de varios intentos comprendí que seguir buscándolo no iba a devolverlo y preferí dejarlo donde estaba.
 
-Me levanté con cuidado y tardé un momento en acostumbrarme a que mis movimientos ya no produjeran aquella respuesta mecánica. Caminé hasta el lavabo, abrí el grifo y dejé correr el agua mientras observaba mi reflejo. Tenía la cara cubierta de sudor y un pequeño corte cerca de la ceja que no recordaba haber sentido durante el combate. Lo limpié con una toalla y me quedé un rato frente al espejo. No sabía cuánto tiempo había pasado desde que había visto por última vez mi propia cara. En las ventanas anteriores había tenido demasiadas cosas en las que pensar para detenerme a mirarla durante más de unos segundos. Esa vez era diferente. Había algo en aquella versión de mí mismo que acababa de ver en la grabación que no conseguía separar de mi rostro.
+Abrí la nevera, saqué una botella de agua y me senté junto a la mesa. Desde allí podía ver casi todo el lugar de una sola vez: la cama, el armario, el baño, la puerta y los objetos que con el tiempo habían terminado convirtiéndose en parte de mi rutina. Conocía cada uno de ellos con una precisión que a veces me parecía extraña; sabía dónde encontrar las llaves incluso a oscuras, qué tabla del suelo crujía al pisarla y qué pequeño ruido hacía el pomo cuando apoyaba la mano sin llegar a girarlo. Esa familiaridad no había aparecido de golpe. Se había acumulado poco a poco, hasta el punto de que ya no podía distinguir con facilidad qué hábitos había elegido y cuáles simplemente se habían quedado conmigo después de tantas vueltas.
 
-Volví a la mesa y me senté.
+Me levanté y fui hasta la puerta de salida. Apoyé la mano sobre el picaporte sin intentar abrirlo y recordé las primeras veces que había tratado de adelantarme al momento en que correspondía. Había esperado frente a ella durante horas, había tirado del pomo hasta cansarme y una vez incluso había pasado tanto tiempo sentado en el suelo con la mano apoyada sobre la superficie que terminé quedándome dormido. Nada había cambiado entonces y tampoco esperaba que cambiara ahora. Retiré la mano y fui hasta el armario. En uno de los bolsillos de una chaqueta encontré una moneda vieja que no recordaba haber guardado. La hice girar entre los dedos, intenté reconocer la marca de una de sus caras y, al no encontrar ningún recuerdo que la relacionara con un lugar concreto, la dejé sobre la mesa. Durante demasiado tiempo había supuesto que todo lo que no recordaba debía esconder alguna respuesta, y la experiencia empezaba a enseñarme que a veces una moneda podía ser simplemente una moneda.
 
-El cuaderno seguía allí.
+Tomé un bolígrafo y anoté la fecha de mi regreso en una hoja aparte. Debajo escribí que había vuelto de 2056 y dejé constancia, de la manera más sencilla que pude, de que las siete estructuras habían mostrado una grabación de mí mismo y de que tres soldados habían presenciado mi desaparición. Pensé en añadir una explicación, pero preferí no hacerlo. No sabía qué había significado aquella escena y no quería llenar el papel con algo que, unas horas después, pudiera convertirme un detalle incierto en una certeza falsa. Al terminar, miré la hoja y me sorprendió que una experiencia tan brutal pudiera caber en unas pocas líneas. El ruido, las explosiones, los hombres corriendo y la imagen de mi otra versión caminando por aquella sala habían ocupado horas de mi vida, pero ahora solo existían como tinta sobre un papel.
 
-Lo abrí por la página que había estado leyendo antes de marcharme. La frase permanecía exactamente igual y, sin embargo, ahora me parecía distinta.
+El cansancio llegó después, más profundo que el sueño. Me acosté sin quitarme la ropa y cerré los ojos mientras todavía tenía en la cabeza la imagen de las siete estructuras iluminándose una detrás de otra. No tardé en dormirme y, en el sueño, volví a la sala interior. La batalla había desaparecido; tampoco estaban los soldados ni las máquinas. Caminaba solo por aquel lugar y no necesitaba buscar el camino porque cada paso parecía llevarme exactamente donde debía estar. Cuando llegué al centro levanté la cabeza hacia las estructuras, pero antes de poder ver qué había detrás de ellas escuché una voz a mi espalda. Intenté girarme y desperté.
 
-**Si alguna vez llegás hasta las siete, no confíes en lo que te muestren.**
+La oscuridad me recibió durante unos segundos hasta que encendí la lámpara y reconocí nuevamente cada cosa que me rodeaba. Miré la hora y comprendí que apenas habían pasado unas horas. Me quedé un momento sentado en la cama, dejando que el sueño terminara de desaparecer sin intentar interpretarlo. Ya había aprendido que, cuando buscaba una explicación demasiado rápido, corría el riesgo de inventarla para llenar un vacío que todavía no estaba preparado para comprender.
 
-La leí una vez más.
+Me levanté y preparé algo de comer. Mientras esperaba que el agua se calentara, advertí que había empezado a desarrollar pequeños hábitos que ya no recordaba haber elegido: sabía exactamente cuánta agua necesitaba para preparar café, dónde guardar lo que sobraba y cuánto tiempo debía dejar encendida la lámpara antes de sentir que el lugar se volvía demasiado silencioso. Eran detalles insignificantes, pero me hicieron pensar en cuánto tiempo podía haber pasado allí sin darme cuenta de que esas pequeñas decisiones también terminaban formando una vida.
 
-No sabía cuándo la había escrito ni por qué había elegido esas palabras, pero tampoco estaba dispuesto a convertirla en una respuesta solo porque acababa de ocurrir algo que parecía relacionarse con ella. Podía ser una coincidencia. Podía tratarse de una advertencia sobre algo completamente distinto. Después de todo lo que había vivido, había aprendido que encontrar dos cosas cerca una de otra no significaba necesariamente que una explicara la otra.
+Después de comer regresé al cuaderno y empecé a recorrer sus páginas sin buscar una anotación concreta. Había horarios, direcciones, nombres, listas de cosas que debía llevar y observaciones tan pequeñas que algunas parecían pertenecer a una vida completamente normal. En una de las hojas aparecía una lista que incluía teléfono, documento, linterna, agua y libreta; debajo había una palabra tachada que no conseguía leer. Más adelante encontré una dirección que no reconocía y, varias páginas después, la misma dirección acompañada por otra fecha. La repetición me llamó la atención, pero no quise convertirla automáticamente en una pista. Podía haber ido allí dos veces, podía haberla copiado por error o podía tratarse de un lugar que en otro momento había sido importante y que ahora ya no significaba nada para mí.
 
-Cerré la libreta y la dejé sobre la mesa.
+Seguí pasando las páginas hasta encontrar una hoja casi vacía en la que había una pequeña marca en la esquina inferior y, debajo, dos números separados por un guion. Los leí varias veces antes de pensar que podían indicar una hora. No recordaba qué significaban, así que continué. Aparecieron notas sobre una comida, una llamada y un trayecto que no conseguía situar, y esa mezcla de cosas insignificantes me tranquilizó más que las advertencias. Me recordó que no todo lo que había escrito allí tenía que esconder un misterio. Algunas páginas eran simplemente el registro de una vida que yo había llevado, aunque ya no recordara por qué determinados días habían parecido importantes en el momento de escribirlos.
 
-Me quedé pensando en los tres soldados.
+Fue casi al final de una de las páginas cuando encontré una frase junto a un pequeño dibujo de la puerta de salida: **No tocarla hasta que se apague la luz.** No había fecha ni una explicación que permitiera saber a qué se refería. Podía ser una regla que hubiera descubierto tiempo atrás, una instrucción para algo que ya no recordaba o una precaución que había dejado de tener sentido. La releí una vez y, en lugar de seguir buscando, cerré el cuaderno. No quería que cada detalle cotidiano terminara convertido por mi propia obsesión en una señal dirigida hacia mí.
 
-Uno de ellos había dicho mi nombre justo antes del salto y, por un instante, la ausencia de ese nombre me resultó extraña. Toda mi vida había tenido uno. Había personas que lo habían pronunciado miles de veces. Yo mismo debía haberlo escuchado tantas veces que tendría que formar parte de mí de la misma manera que mi rostro o mi voz, y aun así no había nada que quisiera aparecer cuando intentaba encontrarlo. No era que hubiera olvidado una palabra concreta. Era más raro que eso. Sabía que me habían llamado, pero el nombre no estaba conmigo.
+Mientras permanecía sentado, una vibración muy tenue recorrió la pared. No era un golpe ni un ruido lo bastante fuerte como para distinguirlo con facilidad; era una especie de zumbido profundo que aparecía durante unos segundos y luego desaparecía. Esperé en silencio y volvió a escucharse con la misma cadencia. Me levanté y acerqué el oído a la superficie. Durante un momento pensé que podía venir de algún punto concreto, pero la vibración parecía extenderse por toda la habitación. Cerré los ojos para escuchar mejor y entonces apareció una sensación difícil de explicar, algo familiar que me llevó de inmediato a la sala de 2056: las luces verticales encendiéndose una después de otra, la oscuridad entre las estructuras y aquel silencio extraño que había quedado antes de que todo terminara. No pude asegurar que el ritmo fuera el mismo, solo sabía que algo en aquella cadencia me había devuelto allí. Cuando abrí los ojos, el sonido había desaparecido.
 
-Intenté recuperarlo.
+Regresé a la mesa y abrí el cuaderno de nuevo, esta vez casi sin pensarlo. Busqué la advertencia de las siete y volví a encontrarla en la misma página. La frase seguía siendo tan sencilla como antes, pero ahora me inquietaba por una razón distinta: no recordaba haber escrito una advertencia sobre un lugar al que, según mi propia memoria, nunca había ido. Podía haberlo olvidado. Podía haberlo vivido de otra manera. Podía haber escrito aquello mucho antes de que yo comprendiera siquiera qué significaban las siete estructuras. No tenía forma de saberlo y, por primera vez, acepté que quizá el cuaderno iba a seguir haciéndome preguntas en lugar de responderlas.
 
-No apareció.
+Durante el resto del tiempo intenté ocuparme de cosas normales. Ordené unas fotografías, revisé el teléfono y volví a guardar la moneda en el cajón, porque no había ninguna razón para dejarla sobre la mesa. Preparé otra taza de café y me senté a escuchar el silencio mientras pensaba en todo lo que había quedado atrás. Daniel apareció primero en mi cabeza, seguido por mi madre y por aquella ciudad que todavía no sabía cómo entender; después recordé a los tres soldados y el momento en que uno de ellos había intentado acercarse cuando yo empezaba a desaparecer. También pensé en el compañero al que había ayudado durante la incursión y comprendí que ni siquiera sabía qué había ocurrido con él después de que yo me fui. La idea me dejó una incomodidad que no podía resolver desde allí, porque una vez más el tiempo había seguido avanzando mientras yo regresaba a la única parte de mi vida en la que nada parecía moverse.
 
-Lo dejé estar.
+Más tarde me detuve frente al espejo del baño y observé otra vez mi rostro. Recordé la grabación de las siete estructuras y durante unos segundos intenté imaginar las dos imágenes superpuestas: yo mirando la pantalla y mi otra versión recorriendo aquella sala con una seguridad que no podía explicar. Teníamos la misma cara, los mismos movimientos y, sin embargo, entre uno y otro parecía existir una distancia que no sabía medir. Aparté la mirada y regresé a la cama porque seguir comparándolos no iba a acercarme a una respuesta.
 
-Abrí la nevera y saqué una botella de agua. Bebí despacio y fui hasta la silla junto a la puerta. Desde allí podía ver prácticamente toda la habitación. La mesa, la cama, el armario, el baño, la puerta de salida. Todo estaba donde debía estar. Después de tantos regresos, conocía ese pequeño espacio con una precisión que a veces me parecía absurda. Sabía qué tablilla del suelo crujía un poco más al caminar sobre ella, qué rincón quedaba apenas más oscuro cuando la lámpara estaba encendida y qué sonido hacía el pomo cuando apoyaba la mano sin llegar a abrirlo.
+Cuando volví a acostarme, pensé otra vez en los soldados y en el nombre que uno de ellos había pronunciado. Esta vez pude recordar exactamente el momento en que lo escuché, la voz, la distancia y la expresión de su rostro, pero el nombre seguía sin aparecer cuando intentaba repetirlo. Esa ausencia me resultó más inquietante que cualquier recuerdo extraño que hubiera tenido hasta entonces. Sabía que había significado algo para él. También sabía que alguna vez había significado algo para mí. Aun así, no conseguía hacerlo volver.
 
-Había cosas que nunca había compartido con nadie porque no tenía con quién compartirlas.
+Miré la puerta de salida y comprendí que todavía faltaban horas antes de poder cruzarla de nuevo. Hasta entonces había pensado en aquel lugar como una pausa inevitable entre una experiencia y otra, un sitio donde podía comer, dormir, escribir y esperar hasta que volviera a abrirse el camino. Después de lo ocurrido en 2056, esa idea ya no me resultaba suficiente. No sabía qué era aquel espacio ni quién lo había construido, pero empezaba a sospechar que quizá la espera no consistía únicamente en permanecer allí mientras pasaban las horas. Tal vez también era el lugar donde quedaban las cosas que yo no podía llevar conmigo.
 
-Por primera vez pensé en lo extraño que debía de ser regresar siempre al mismo lugar después de haber vivido cosas completamente distintas. Una ciudad vacía. Un sótano que nadie podía explicar. Un hospital. Un avión del que el mundo entero hablaba. Un edificio custodiado por máquinas que intentaban detenernos. Y después, otra vez, aquella misma mesa y aquella misma silla.
-
-La Habitación no parecía cambiar para adaptarse a mí.
-
-Era yo quien volvía diferente.
-
-Me levanté y caminé hasta la puerta. Apoyé la mano sobre el picaporte, pero no intenté girarlo. Durante mucho tiempo había imaginado que quizá existía una forma de engañar al sistema, salir antes de tiempo o provocar un nuevo salto. Había probado cosas ridículas en los primeros meses. Había esperado frente a la puerta, había intentado abrirla antes de que fuera posible, había golpeado las paredes y una vez incluso pasé varias horas sentado en el suelo con la mano sobre el picaporte, convencido de que, si lo hacía durante suficiente tiempo, algo tendría que cambiar.
-
-Nunca cambió nada.
-
-Aquello me hizo pensar en otra cosa.
-
-Por más que la Habitación pareciera aislada del resto del mundo, yo siempre regresaba con las cosas que llevaba conmigo. El teléfono, el cuaderno, las llaves, fotografías, objetos pequeños que había recogido en distintos lugares. Podía perderlos durante un salto y volver a encontrarlos después. A veces me preguntaba qué ocurriría si dejaba algo aquí a propósito, si escondía una moneda detrás de un mueble o dibujaba una marca en una pared para comprobar si seguía allí la siguiente vez.
-
-Nunca había tenido una razón suficientemente buena para hacerlo.
-
-Esa noche la idea dejó de parecerme inútil.
-
-Abrí el armario y encontré la misma ropa que había dejado allí. Revisé los bolsillos de una chaqueta y saqué una moneda que había olvidado por completo. Era vieja y tenía una marca en uno de los lados. La sostuve entre los dedos y durante unos segundos intenté recordar de dónde la había sacado. No pude.
-
-La dejé sobre la mesa.
-
-No era una pista. No tenía por qué serlo.
-
-Solo era una moneda.
-
-Tomé un bolígrafo y escribí la fecha en una hoja aparte. Debajo anoté que había regresado de 2056. Escribí también unas pocas palabras sobre la grabación y sobre el momento en que los tres soldados me vieron desaparecer. Me detuve antes de escribir qué significaba todo aquello.
-
-No lo sabía.
-
-No quería inventarlo.
-
-Miré la página y me pareció extraño que una experiencia tan brutal pudiera reducirse a unas cuantas líneas. Había pasado horas corriendo entre vehículos destruidos, había visto hombres caer, había peleado dentro de un edificio que parecía no necesitarme allí y, al final, había visto mi propio rostro en una grabación que no recordaba. Ahora todo aquello cabía en una hoja de papel.
-
-Guardé el bolígrafo.
-
-Durante un rato no hice nada.
-
-La sensación de cansancio comenzó a aparecer después. No era exactamente sueño. Era una especie de agotamiento profundo que siempre me dejaba cada vez que regresaba, como si el cuerpo necesitara varias horas para aceptar que ya no estaba en el lugar donde había estado. Me acosté sin quitarme la ropa y cerré los ojos.
-
-No tardé en dormirme.
-
-Soñé con el edificio.
-
-No vi la batalla.
-
-No vi a los drones.
-
-No vi a los androides.
-
-Soñé con la sala interior y las siete estructuras iluminadas, pero algo era diferente. En el sueño no estaba acompañado por los soldados. Estaba solo. Caminaba por el mismo espacio que había visto en la grabación y, aunque sabía que no había estado allí de esa manera, no necesitaba buscar el camino.
-
-Llegaba hasta el centro.
-
-Me detenía.
-
-Miraba hacia arriba.
-
-Y entonces alguien decía algo que no conseguía escuchar.
-
-Me desperté antes de saber qué era.
-
-La habitación estaba igual.
-
-Miré el reloj. Apenas habían pasado unas horas.
-
-Me quedé boca arriba, observando el techo, hasta que el sueño se deshizo por completo. No intenté interpretarlo. Después de todo, había aprendido que buscar demasiado pronto una explicación podía ser peor que no tener ninguna.
-
-Me levanté y preparé algo de comer.
-
-Mientras lo hacía descubrí que había empezado a desarrollar pequeños hábitos que no recordaba haber elegido. Sabía exactamente cuánta agua necesitaba para preparar café, dónde guardar la comida que sobraba y cuánto tiempo debía dejar encendida la lámpara antes de empezar a sentirme incómodo. Eran detalles insignificantes, pero me hicieron pensar en algo que hasta entonces no había considerado: quizá llevaba tanto tiempo allí que ya no podía separar las cosas que había decidido de las que simplemente habían terminado convirtiéndose en costumbre.
-
-Después de comer volví al cuaderno.
-
-Esta vez no busqué la advertencia.
-
-Empecé por las primeras páginas y avancé lentamente. Había anotaciones sobre casi todo lo imaginable: nombres, lugares, horas de salida, objetos, recorridos y pequeñas observaciones que solo debían tener sentido para mí. Algunas estaban escritas con tanta prisa que apenas podía leerlas. Otras tenían una letra limpia y ordenada, como si quien las hubiera escrito hubiera tenido todo el tiempo del mundo.
-
-En una de las páginas encontré una lista de cosas para llevar en la siguiente salida. Teléfono. Documento. Linterna. Agua. Libreta.
-
-Debajo, casi al final, había una palabra que había sido tachada.
-
-No conseguía distinguirla.
-
-La observé un rato y seguí leyendo.
-
-Más adelante encontré una dirección que no reconocí. La había escrito dos veces en páginas distintas, separadas por varias hojas y por fechas diferentes. Eso me llamó la atención, aunque tampoco significaba necesariamente que fuera importante. Podía haber sido una dirección repetida. Podía tratarse de un lugar al que hubiera ido más de una vez.
-
-La segunda vez estaba acompañada por una hora.
-
-Nada más.
-
-Seguí pasando páginas.
-
-No quería convertir cada detalle en una señal.
-
-Eso también lo había aprendido.
-
-Llegué a una hoja casi en blanco que tenía una pequeña marca en la esquina inferior. Parecía una línea hecha con el bolígrafo al apoyarlo sin querer. Debajo había dos números separados por un guion. Los leí varias veces antes de comprender que probablemente eran una hora.
-
-05-40.
-
-No recordaba qué significaba.
-
-Pasé la página.
-
-Encontré una anotación sobre una comida.
-
-Otra sobre una llamada.
-
-Otra sobre un trayecto.
-
-La normalidad de aquellas páginas me tranquilizó. Me recordó que, antes de que todo se volviera extraño, yo también debía haber tenido días aburridos. Debía haber pasado horas escribiendo cosas que en ese momento me parecían importantes y que ahora eran tan insignificantes que ni siquiera recordaba por qué las había registrado.
-
-Seguí leyendo hasta que algo me hizo volver atrás.
-
-Una de las páginas contenía una frase sencilla, escrita junto a un dibujo de la puerta de salida.
-
-**No tocarla hasta que se apague la luz.**
-
-No decía cuándo.
-
-No explicaba por qué.
-
-Podía referirse a algo que ya conocía y simplemente había olvidado. Podía ser una regla que hubiera inventado yo mismo. No había ninguna forma de saberlo.
-
-Cerré la libreta.
-
-Por primera vez comprendí que quizá llevaba demasiado tiempo buscando respuestas dentro de aquellas páginas. El cuaderno no tenía la obligación de explicarme nada. Solo recogía lo que yo había decidido dejar allí.
-
-Me levanté y fui hasta la mesa para abrir el ordenador.
-
-Quería volver a ver la grabación.
-
-Busqué entre los archivos hasta encontrar las imágenes de 2056. La reproducción empezó con la llegada al perímetro, siguió con el ataque y terminó en el interior del edificio. Cuando apareció la escena de las siete estructuras, detuve el video justo antes de que mi versión anterior levantara la cabeza.
-
-Avancé unos segundos.
-
-Retrocedí.
-
-Volví a avanzar.
-
-Había algo que no había visto la primera vez.
-
-En el fondo de la sala, detrás de una de las estructuras, había otra superficie iluminada. No podía saber si era una pantalla o simplemente un reflejo. Aumenté la imagen, pero la grabación perdió definición y no conseguí distinguir nada útil. Probé desde otro ángulo y obtuve el mismo resultado.
-
-Podía dejarlo allí.
-
-O podía seguir buscando hasta encontrar algo que probablemente no existía.
-
-Apagué el ordenador.
-
-No quería volver a cometer el mismo error.
-
-Me quedé sentado durante unos minutos y entonces escuché el sonido.
-
-No venía del ordenador.
-
-Era un ruido muy leve, profundo, parecido a la vibración que había oído detrás de la pared.
-
-Levanté la cabeza.
-
-Esperé.
-
-Volvió a aparecer.
-
-Esta vez estaba seguro de haberlo escuchado.
-
-Me levanté y caminé hacia la pared donde había encontrado la pequeña anotación de "escucho". Apoyé el oído y permanecí inmóvil. La vibración estaba allí, pero era tan baja que parecía venir de toda la habitación al mismo tiempo.
-
-Me aparté.
-
-Volví a acercarme.
-
-Entonces entendí algo que me produjo un escalofrío.
-
-El sonido no era constante.
-
-Aparecía.
-
-Desaparecía.
-
-Y volvía a aparecer siguiendo un ritmo.
-
-No sabía qué significaba, pero había escuchado ese ritmo antes.
-
-No en la Habitación.
-
-En otro lugar.
-
-Cerré los ojos intentando encontrar dónde y, durante un instante, vi una imagen que desapareció casi antes de formarse: una superficie oscura, luces verticales encendiéndose una después de otra y el silencio de aquella sala en 2056.
-
-Abrí los ojos.
-
-El sonido había desaparecido.
-
-Regresé a la mesa y me quedé mirando el cuaderno cerrado.
-
-No lo abrí inmediatamente.
-
-Esperé varios segundos antes de hacerlo.
-
-Pasé las páginas hasta llegar a una anotación fechada años atrás. Solo decía que una determinada cosa no debía hacerse dos veces seguidas. Nada más. La frase no tenía sentido fuera de su contexto y yo no recordaba cuál era ese contexto.
-
-Seguí leyendo.
-
-Unos párrafos después encontré una descripción de un edificio que no reconocí. Era muy breve. Hablaba de una entrada grande, una sala central y algo acerca de una persona que debía esperar sola.
-
-Me detuve.
-
-Volví atrás.
-
-Leí la frase nuevamente.
-
-No decía dónde estaba ese edificio.
-
-No decía quién debía esperar.
-
-Tampoco había un nombre.
-
-Podía ser cualquiera de los lugares que había visitado.
-
-Cerré el cuaderno otra vez.
-
-Esa vez decidí no buscar más.
-
-Me levanté y ordené la mesa, guardé la moneda en un cajón y revisé el teléfono. No había mensajes nuevos. No esperaba ninguno. En aquella habitación, el teléfono rara vez servía para comunicarse con alguien. Era más bien un archivo de cosas que habían quedado atrás.
-
-Miré la hora.
-
-Todavía faltaban muchas horas.
-
-Me senté en la cama y recordé a los tres soldados.
-
-Pensé en la cara del joven que me había seguido hacia el corredor.
-
-Pensé en el instante en que había escuchado mi nombre.
-
-Y entonces me di cuenta de algo que no había considerado al desaparecer.
-
-Ellos habían visto la grabación.
-
-Habían visto mi imagen allí dentro.
-
-Habían visto que yo ya había estado en ese lugar.
-
-Y, después, me habían visto desaparecer delante de sus ojos.
-
-No sabía qué explicación podían encontrar para eso.
-
-Tampoco sabía qué iban a hacer con lo que habían visto.
-
-Por primera vez desde que comenzaron los saltos, una parte de mí quiso regresar a una realidad concreta no para investigar un misterio, sino para averiguar qué había ocurrido con alguien después de que yo me fui.
-
-No podía elegir.
-
-Nunca había podido.
-
-Miré la puerta y me pregunté cuál de las diez estaría esperando al otro lado cuando volviera a abrirse.
-
-No tenía una respuesta.
-
-Lo único que podía hacer era esperar.
-
-Y, por primera vez, la espera no me pareció una pérdida de tiempo.
-
-Me pareció que alguien, en algún lugar, también podía estar esperando que yo regresara.
+Me quedé sentado en la cama mientras el reloj continuaba avanzando y dejé que la idea se asentara sin buscar una explicación. Ahora sabía que podía encontrarme conmigo mismo, no solo en un recuerdo o en una fotografía, sino delante de mis propios ojos, en un lugar donde yo mismo parecía conocer cosas que todavía ignoraba. Y, por primera vez desde que habían empezado los saltos, la próxima ventana no me daba tanto miedo por aquello que pudiera encontrar allí, sino por la posibilidad de descubrir qué había hecho yo antes de llegar.
