@@ -3269,3 +3269,236 @@ Bloque 11: **La competencia debe sentirse ganada.**
 La cadena queda:
 
 > **MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → EXPERIENCIA → PERCEPCIÓN → COMPETENCIA → DESAFÍOS → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → REINTERPRETACIÓN → NUEVO ESTADO**
+
+
+---
+
+# BLOQUE 12 — APERTURAS DE ESCENA Y CAPÍTULO: ENTRAR EN MOVIMIENTO
+
+El estudio de *Ready Player One* muestra una herramienta complementaria a la propulsión del Bloque 7: una escena no solo debe terminar con movimiento; también debe **comenzar con una situación que ya tenga vida**.
+
+## 151. Una apertura no necesita explicar dónde estamos antes de empezar
+
+Una escena puede comenzar con el protagonista haciendo algo, enfrentando una situación o recibiendo información.
+
+El contexto puede aparecer mientras la escena avanza.
+
+Esto suele ser más dinámico que detener la historia para explicar primero:
+
+- dónde está;
+- qué ocurrió antes;
+- qué significa el lugar;
+- cuáles son las reglas.
+
+En primera persona, el lector puede descubrir esas cosas junto al protagonista.
+
+## 152. El lector necesita una orientación mínima, no una explicación completa
+
+Entrar directamente en una escena no significa volverla confusa.
+
+El lector debería poder entender rápidamente:
+
+- quién está presente;
+- qué está haciendo el protagonista;
+- qué problema inmediato existe;
+- qué está percibiendo.
+
+Después puede descubrir el resto.
+
+Esto conecta con el Bloque 8:
+
+> **El misterio puede ser grande. La escena no debería ser incomprensible.**
+
+## 153. Las aperturas pueden comenzar desde distintos motores
+
+No todos los capítulos tienen que empezar igual.
+
+Una apertura puede comenzar con:
+
+- acción;
+- diálogo;
+- una decisión;
+- una consecuencia;
+- una observación extraña;
+- una tarea cotidiana;
+- una relación;
+- un problema práctico;
+- una llegada;
+- una partida;
+- una búsqueda ya iniciada.
+
+La variedad evita que el lector perciba una fórmula.
+
+## 154. El capítulo no necesita comenzar en el instante cronológico exacto
+
+Una narración puede empezar cuando la situación ya está desarrollándose y permitir que el lector reconstruya lo ocurrido mediante la propia experiencia del protagonista.
+
+Esto es especialmente útil para WNL porque algunas ventanas pueden comenzar con el protagonista ya integrado en una situación.
+
+El lector no necesita recibir inmediatamente toda la explicación de cómo llegó allí.
+
+Pero debe poder seguir lo que está ocurriendo ahora.
+
+## 155. La primera pregunta del lector debe ser concreta
+
+Una buena apertura puede generar una pregunta sencilla antes de generar la gran pregunta de la novela.
+
+Por ejemplo:
+
+> ¿Por qué está haciendo esto?
+
+> ¿Quién es esa persona?
+
+> ¿Qué acaba de ocurrir?
+
+> ¿Por qué tiene ese objeto?
+
+> ¿Por qué todos están huyendo?
+
+La respuesta puede llegar pronto o mucho después.
+
+Lo importante es que la escena ya tenga una dirección.
+
+## 156. Evitar el “prólogo invisible” al comienzo de cada ventana
+
+Un riesgo de WNL sería repetir:
+
+> llego a un lugar → describo el lugar → explico qué siento → aparece la anomalía.
+
+Eso funciona para algunas ventanas, pero no para todas.
+
+Una ventana puede comenzar cuando:
+
+- el protagonista ya está conversando con alguien;
+- ya está buscando algo;
+- ya está huyendo;
+- ya ha cometido un error;
+- está intentando cumplir una promesa;
+- está en medio de una actividad cotidiana;
+- acaba de descubrir una consecuencia de su visita anterior.
+
+Así la realidad se siente existente antes de que el lector la observe.
+
+## 157. La apertura puede contener una promesa narrativa
+
+Una apertura no tiene que revelar el misterio principal.
+
+Puede prometer:
+
+- una persecución;
+- una relación;
+- una investigación;
+- un viaje;
+- un descubrimiento;
+- una amenaza;
+- una decisión;
+- una experiencia extraordinaria.
+
+Después esa promesa puede transformarse.
+
+## 158. La primera escena debe enseñar cómo leer esa ventana
+
+Cada ventana puede tener su propia lógica narrativa.
+
+Si una comienza como aventura, el lector entra esperando movimiento.
+
+Si comienza como drama familiar, el lector entra buscando relación y conflicto.
+
+Si comienza como terror, la percepción y la incertidumbre pueden dominar.
+
+No significa encasillar cada ventana en un género.
+
+Significa que la apertura puede establecer su **promesa emocional**.
+
+## 159. El inicio también puede introducir una consecuencia de otra ventana
+
+Esto es particularmente importante para la estructura de diez realidades.
+
+En lugar de que cada ventana parezca empezar desde cero, una apertura puede contener una consecuencia que el lector reconoce de antes.
+
+El protagonista quizá no entienda inmediatamente la conexión.
+
+Pero el lector puede recordar:
+
+> “Esto empezó antes.”
+
+Eso crea continuidad sin necesidad de explicar la conexión.
+
+## 160. El capítulo 8 confirma una técnica útil: continuidad directa
+
+El comienzo de Chapter 8 —continuando exactamente desde el final del capítulo 7— demuestra que WNL no necesita saltar siempre a una nueva situación para mantener el misterio.
+
+La continuidad directa puede utilizarse cuando una escena necesita espacio para mostrar:
+
+- una consecuencia;
+- una reacción;
+- una decisión;
+- una transición;
+- una pérdida;
+- una desaparición.
+
+La clave es que la continuidad tenga función narrativa.
+
+## 161. No confundir “comenzar tarde” con “ocultar información artificialmente”
+
+Comenzar una escena en movimiento es distinto de esconder deliberadamente información que el protagonista ya debería conocer.
+
+Si él sabe dónde está y por qué está allí, la narración no debe fingir ignorancia para crear misterio.
+
+Podemos revelar el contexto gradualmente, pero siempre respetando su percepción real.
+
+## 162. Regla editorial para revisar una apertura
+
+Preguntar:
+
+1. ¿Qué está ocurriendo exactamente cuando comienza?
+2. ¿Qué está haciendo el protagonista?
+3. ¿Qué quiere conseguir en ese momento?
+4. ¿Qué problema inmediato existe?
+5. ¿El lector tiene suficiente orientación para seguir la escena?
+6. ¿La apertura depende de una explicación previa que podríamos integrar después?
+7. ¿Esta apertura se parece demasiado a la de otras ventanas?
+8. ¿Promete una experiencia concreta?
+9. ¿Introduce alguna consecuencia, relación, objetivo o situación que haga avanzar la historia?
+
+## 163. Regla maestra del bloque 12
+
+> **No empezar una escena porque “ahora toca describir este lugar”. Empezarla cuando algo ya está ocurriendo.**
+
+Para WNL:
+
+**situación → percepción → objetivo → obstáculo → acción → descubrimiento**
+
+Y cuando corresponda:
+
+**consecuencia anterior → nueva situación → nueva decisión**
+
+## 164. Relación con los bloques anteriores
+
+Bloque 1: **El misterio ocurre dentro de una historia.**
+
+Bloque 2: **Los descubrimientos producen consecuencias.**
+
+Bloque 3: **Las semillas crean futuro.**
+
+Bloque 4: **Los personajes necesitan objetivos y vínculos.**
+
+Bloque 5: **La escalada cambia lo que está en juego.**
+
+Bloque 6: **El mundo debe sentirse vivido.**
+
+Bloque 7: **Las escenas deben producir movimiento.**
+
+Bloque 8: **La información debe respetar la primera persona.**
+
+Bloque 9: **Los desafíos deben variar.**
+
+Bloque 10: **El tono debe respirar y cambiar.**
+
+Bloque 11: **La competencia debe sentirse ganada.**
+
+Bloque 12: **Las aperturas deben entrar en movimiento.**
+
+La cadena queda:
+
+> **APERTURA → MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → EXPERIENCIA → PERCEPCIÓN → COMPETENCIA → DESAFÍOS → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → REINTERPRETACIÓN → NUEVO ESTADO**
