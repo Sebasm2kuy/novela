@@ -15,6 +15,7 @@ El manuscrito está separado en archivos independientes:
 - `CAPITULOS/04_CAPITULO_4.md`
 - `CAPITULOS/05_CAPITULO_5.md`
 - `CAPITULOS/06_CAPITULO_6.md`
+- `07_CAPITULO_7.md` — Capítulo 7 / Ventana 5 / Las Siete Arquitecturas
 
 Estos archivos constituyen la versión de trabajo vigente del prólogo y los capítulos 1–6.
 
