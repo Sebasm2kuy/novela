@@ -2447,3 +2447,293 @@ Bloque 8: **La información debe respetar el conocimiento real del protagonista.
 La cadena queda:
 
 > **MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → PERCEPCIÓN → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → REINTERPRETACIÓN → NUEVO ESTADO**
+
+
+---
+
+# BLOQUE 9 — VARIEDAD DE DESAFÍOS: NO TODO PROBLEMA DEBE RESOLVERSE DE LA MISMA MANERA
+
+El estudio de *Ready Player One* muestra otra herramienta útil para WNL: el interés no depende únicamente de aumentar la dificultad. También depende de **cambiar la naturaleza del problema**.
+
+En la novela, Wade puede enfrentarse a conocimiento, investigación, habilidad práctica, competición, relaciones, peligro físico, presión externa o decisiones personales. El lector no siente que está resolviendo diez veces el mismo tipo de obstáculo.
+
+## 104. La variedad evita la fatiga narrativa
+
+Si WNL convierte cada ventana en:
+
+**llegada → anomalía → investigación → descubrimiento → salto**, 
+
+el mecanismo terminará siendo previsible aunque las anomalías sean diferentes.
+
+Las ventanas necesitan problemas de distinta naturaleza.
+
+Una puede exigir:
+
+- investigar;
+- convencer a alguien;
+- sobrevivir;
+- proteger a alguien;
+- encontrar algo;
+- tomar una decisión moral;
+- resolver un problema práctico;
+- comprender una situación histórica;
+- reparar una relación;
+- escapar de un peligro;
+- elegir entre dos objetivos incompatibles.
+
+El misterio continúa siendo la columna vertebral, pero **no tiene que ser el único tipo de desafío**.
+
+## 105. Un desafío puede ser pequeño y aun así importante
+
+No todos los problemas necesitan salvar una ciudad o descubrir una conspiración.
+
+Un protagonista que intenta llegar a tiempo a un hospital, encontrar a una persona, convencer a alguien de que lo conoce o evitar que una decisión empeore una situación ya está participando en una historia.
+
+Esto es especialmente importante para las ventanas más íntimas.
+
+Una escena pequeña puede tener consecuencias enormes si el lector entiende lo que está en juego.
+
+## 106. Las habilidades del protagonista deben tener oportunidades de demostrar su valor
+
+Cuando el protagonista aprende algo, experimenta algo o demuestra una capacidad, conviene que esa capacidad pueda afectar una situación posterior.
+
+No necesariamente como una “habilidad especial”.
+
+Puede ser:
+
+- reconocer un lugar;
+- recordar una conversación;
+- saber cómo moverse en un entorno;
+- manejar una herramienta;
+- interpretar una señal;
+- detectar una anomalía;
+- reaccionar físicamente antes de comprender por qué.
+
+Esto conecta directamente con uno de los elementos más fuertes de WNL:
+
+> **el cuerpo puede saber algo que la mente no recuerda.**
+
+Pero no debemos convertirlo en una solución automática para todos los problemas.
+
+Si el cuerpo siempre sabe qué hacer, desaparece el riesgo.
+
+## 107. La competencia no tiene que ser una pelea
+
+Un desafío puede ser:
+
+**protagonista contra otra persona**,
+
+pero también:
+
+**protagonista contra tiempo**;
+
+**protagonista contra información incompleta**;
+
+**protagonista contra una institución**;
+
+**protagonista contra una situación física**;
+
+**protagonista contra una decisión**;
+
+**protagonista contra una versión anterior de sí mismo.**
+
+Esto último tiene especial potencial para WNL.
+
+Una grabación, una nota o una acción realizada anteriormente por él puede convertirse en una especie de confrontación narrativa sin necesidad de que aparezca otro protagonista.
+
+## 108. El conocimiento puede convertirse en acción
+
+Uno de los elementos eficaces de *Ready Player One* es que el conocimiento del protagonista no permanece como información decorativa. En determinadas situaciones, recordar un dato le permite actuar.
+
+En WNL podemos hacer lo mismo.
+
+Si el protagonista aprende algo en una ventana, ese conocimiento puede influir después en:
+
+- una decisión;
+- una conversación;
+- una investigación;
+- una interpretación;
+- una estrategia de supervivencia.
+
+La clave es que el conocimiento tenga **consecuencia práctica**.
+
+## 109. Una solución demasiado fácil puede ser peor que una solución incompleta
+
+Si el protagonista descubre inmediatamente la respuesta correcta y la utiliza sin coste, el desafío desaparece.
+
+Una solución más interesante puede:
+
+- funcionar parcialmente;
+- resolver un problema y crear otro;
+- exigir un sacrificio;
+- llegar demasiado tarde;
+- revelar que la hipótesis era correcta pero incompleta;
+- obligarlo a elegir qué problema resolver primero.
+
+Así, la solución también genera historia.
+
+## 110. Los desafíos deben revelar carácter
+
+Una buena prueba no solamente demuestra si el protagonista puede ganar.
+
+También muestra **quién es cuando tiene que elegir**.
+
+Por ejemplo:
+
+- ¿ayuda a alguien aunque eso le haga perder tiempo?
+- ¿dice la verdad aunque nadie le crea?
+- ¿abandona una investigación para proteger a otra persona?
+- ¿confía en una intuición que no puede explicar?
+- ¿elige seguridad o conocimiento?
+
+Estas decisiones hacen que una ventana tenga identidad propia.
+
+## 111. La dificultad puede aumentar cambiando las reglas, no solamente aumentando el peligro
+
+La progresión puede ser:
+
+**problema desconocido → problema comprendido → problema con consecuencias → problema con responsabilidad.**
+
+El protagonista puede comenzar preguntándose:
+
+> “¿Qué está pasando?”
+
+Y terminar preguntándose:
+
+> “¿Qué debo hacer con lo que ahora sé?”
+
+Ese cambio es una forma poderosa de evolución.
+
+## 112. Las diez ventanas deberían ofrecer diez experiencias diferentes
+
+No es necesario asignar formalmente un “tipo de desafío” a cada ventana, pero durante la expansión conviene revisar que no todas produzcan la misma experiencia emocional.
+
+Podemos tener, por ejemplo:
+
+- una ventana dominada por descubrimiento histórico;
+- otra por terror psicológico;
+- otra por investigación;
+- otra por relaciones humanas;
+- otra por acción y supervivencia;
+- otra por maravilla;
+- otra por dilema moral;
+- otra por identidad;
+- otra por pérdida;
+- otra por una consecuencia decisiva.
+
+Estas categorías son orientativas, no canon. No deben convertirse en una tabla rígida.
+
+## 113. El protagonista no necesita comprender el desafío para estar dentro de él
+
+En algunas ventanas puede no saber qué prueba está enfrentando.
+
+Eso está bien.
+
+El desafío puede ser visible por sus consecuencias antes de ser comprensible como concepto.
+
+Por ejemplo:
+
+> algo está sucediendo → necesita reaccionar → toma una decisión → descubre después qué estaba en juego.
+
+Esto mantiene la primera persona y evita introducir explicaciones artificiales.
+
+## 114. La presión temporal puede cambiar completamente una escena
+
+La regla de las 24 horas ofrece una herramienta narrativa que no deberíamos desperdiciar.
+
+No significa que cada ventana tenga que convertirse en una carrera contra el reloj.
+
+Pero ocasionalmente puede importar que:
+
+- alguien esté esperando;
+- una operación esté a punto de comenzar;
+- una persona vaya a tomar una decisión;
+- un acontecimiento histórico esté acercándose;
+- el protagonista sepa que desaparecerá antes de poder resolver algo.
+
+La limitación temporal puede convertir una investigación tranquila en una decisión urgente.
+
+## 115. Un fracaso también debe producir información o consecuencias
+
+Si el protagonista intenta algo y fracasa, la escena no debería quedar en:
+
+> “No funcionó.”
+
+El fracaso puede revelar:
+
+- una limitación;
+- una nueva regla;
+- una persona que ya no confía en él;
+- una consecuencia inesperada;
+- una alternativa;
+- una información que contradice su hipótesis.
+
+Así el fracaso sigue haciendo avanzar la historia.
+
+## 116. No convertir las ventanas en “niveles” de videojuego
+
+La estructura de desafíos puede recordar superficialmente a una aventura por niveles, pero WNL no debe convertirse en una sucesión de pruebas independientes.
+
+Las ventanas tienen que acumular consecuencias.
+
+Lo aprendido en una puede modificar la siguiente.
+
+Lo ocurrido en una puede cambiar la forma en que el protagonista interpreta otra.
+
+Y una persona conocida en una ventana puede seguir teniendo peso emocional aunque el protagonista ya no esté allí.
+
+La unidad de la novela no procede de que todas las ventanas tengan el mismo tipo de prueba.
+
+Procede de que **todas pertenecen a la vida del mismo protagonista**.
+
+## 117. Regla editorial para revisar una ventana
+
+Antes de dar por terminada una ventana, preguntar:
+
+1. ¿Cuál es el problema concreto que existe aquí?
+2. ¿Es diferente de los problemas de las ventanas anteriores?
+3. ¿Qué quiere conseguir el protagonista dentro de esta situación?
+4. ¿Qué puede perder?
+5. ¿Qué habilidad, conocimiento o relación puede poner en juego?
+6. ¿Qué decisión debe tomar?
+7. ¿Qué ocurre si fracasa?
+8. ¿Qué cambia cuando termina la visita?
+9. ¿Qué puede continuar ocurriendo después de que desaparezca?
+
+Si las respuestas se reducen a “descubre otra anomalía”, la ventana probablemente necesita más historia.
+
+## 118. Regla maestra del bloque 9
+
+> **No aumentar siempre la dificultad del mismo problema. Cambiar la naturaleza de lo que el protagonista tiene que resolver.**
+
+Para WNL:
+
+**desafío → decisión → acción → resultado → consecuencia → experiencia acumulada**
+
+Y una regla complementaria:
+
+> **Cada ventana debe ofrecer una experiencia que el lector no podría obtener simplemente sustituyendo su escenario por otro.**
+
+## 119. Relación con los bloques anteriores
+
+Bloque 1: **El misterio debe ocurrir dentro de una historia.**
+
+Bloque 2: **Cada descubrimiento debe producir consecuencias.**
+
+Bloque 3: **Las semillas deben crear futuro.**
+
+Bloque 4: **El lector necesita algo que le importe.**
+
+Bloque 5: **La escalada aumenta lo que está en juego.**
+
+Bloque 6: **El mundo debe sentirse vivido.**
+
+Bloque 7: **Cada escena debe dejar la historia en otro lugar.**
+
+Bloque 8: **La información debe respetar el conocimiento real del protagonista.**
+
+Bloque 9: **La naturaleza del desafío debe variar.**
+
+La cadena queda:
+
+> **MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → PERCEPCIÓN → DESAFÍOS → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → REINTERPRETACIÓN → NUEVO ESTADO**
