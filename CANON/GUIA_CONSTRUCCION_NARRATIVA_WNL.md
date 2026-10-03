@@ -3027,3 +3027,245 @@ Bloque 10: **El tono también debe variar.**
 La cadena queda:
 
 > **MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → PERCEPCIÓN → DESAFÍOS → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → TONO → REINTERPRETACIÓN → NUEVO ESTADO**
+
+
+---
+
+# BLOQUE 11 — COMPETENCIA GANADA: EL LECTOR DEBE PODER CREER EN LO QUE EL PROTAGONISTA HACE
+
+Otro elemento importante de *Ready Player One* es que la capacidad del protagonista no aparece únicamente cuando la trama la necesita. Wade acumula conocimiento, practica, investiga y desarrolla hábitos. Cuando una habilidad resulta útil, el lector puede reconocer de dónde salió.
+
+Para WNL esto es especialmente relevante porque el protagonista posee una característica muy particular: a veces su cuerpo parece saber cosas que su memoria consciente no conserva.
+
+## 137. Una capacidad necesita contexto
+
+Si el protagonista realiza algo extraordinario, conviene que el lector pueda pensar después:
+
+> “Ahora entiendo por qué pudo hacerlo.”
+
+No necesariamente porque la narración lo explique en ese momento, sino porque anteriormente vimos alguna experiencia que lo preparó.
+
+La preparación puede ser:
+
+- una experiencia previa;
+- una conversación;
+- una práctica;
+- una observación;
+- un error anterior;
+- una relación;
+- una habilidad adquirida;
+- una consecuencia de otra ventana.
+
+## 138. Preparación no significa explicación
+
+Esta distinción es fundamental.
+
+No necesitamos escribir:
+
+> “Durante semanas aprendí a hacer esto, por lo que ahora sabía hacerlo.”
+
+Podemos mostrar la preparación en una escena y permitir que su utilidad aparezca mucho después.
+
+La experiencia se vuelve parte de la historia antes de convertirse en herramienta.
+
+Esto conecta directamente con el Bloque 3:
+
+> **Preparación no equivale a explicación.**
+
+## 139. La competencia puede ser visible antes de ser comprendida
+
+En WNL, el cuerpo puede reaccionar correctamente antes de que el protagonista comprenda de dónde procede esa capacidad.
+
+Por ejemplo, puede:
+
+- reconocer una ruta;
+- manipular un mecanismo;
+- adoptar una postura;
+- recordar físicamente un procedimiento;
+- saber dónde colocarse;
+- utilizar una herramienta con naturalidad.
+
+El protagonista puede preguntarse después por qué lo sabía.
+
+Eso mantiene el misterio sin hacer que la habilidad parezca arbitraria.
+
+## 140. Pero la competencia debe tener límites
+
+Una capacidad interesante necesita posibilidad de fallo.
+
+Si el protagonista siempre sabe qué hacer, el lector deja de preocuparse.
+
+Por eso puede ocurrir que:
+
+- reconozca el procedimiento pero no recuerde el objetivo;
+- sepa manejar algo pero ignore sus consecuencias;
+- tenga una reacción correcta en una situación incorrecta;
+- recuerde una habilidad que ya no funciona igual;
+- su cuerpo actúe por costumbre mientras su mente interpreta mal la situación.
+
+La competencia y la incertidumbre pueden coexistir.
+
+## 141. El entrenamiento puede convertirse en carácter
+
+La preparación no solo sirve para justificar una habilidad.
+
+También revela cómo es el protagonista.
+
+¿Es obsesivo?
+
+¿Paciente?
+
+¿Curioso?
+
+¿Temerario?
+
+¿Metódico?
+
+¿Aprende de sus errores?
+
+La manera en que adquiere una capacidad puede decir tanto de él como el uso posterior de esa capacidad.
+
+## 142. Las habilidades deben tener coste o contexto cuando sea necesario
+
+Una habilidad demasiado poderosa y gratuita puede romper la tensión.
+
+Pero una capacidad que exige concentración, tiempo, herramientas, memoria o confianza puede generar decisiones.
+
+No todo tiene que tener un “precio” artificial.
+
+Simplemente debemos recordar que **poder hacer algo no significa poder hacerlo siempre, inmediatamente y sin consecuencias**.
+
+## 143. Las habilidades pueden viajar entre ventanas
+
+Esta es una de las herramientas más potentes que ofrece la estructura de WNL.
+
+El protagonista puede aprender algo en una realidad y, mucho después, utilizarlo en otra sin comprender completamente por qué lo recuerda.
+
+Así las ventanas dejan de ser compartimentos aislados.
+
+Una experiencia puede sobrevivir al salto aunque el recuerdo consciente no lo haga.
+
+Esto puede funcionar con:
+
+- habilidades físicas;
+- formas de hablar;
+- conocimientos prácticos;
+- hábitos;
+- reacciones emocionales;
+- reconocimiento espacial;
+- decisiones aprendidas a la fuerza.
+
+No significa que todo aprendizaje deba viajar entre ventanas. Solo aquello que tenga sentido narrativo.
+
+## 144. El error también forma competencia
+
+El protagonista no necesita acertar a la primera.
+
+Una equivocación anterior puede convertirse en preparación para una situación posterior.
+
+Esto produce una sensación muy satisfactoria porque el lector ve que la historia recuerda.
+
+Un fracaso puede convertirse en experiencia.
+
+Una experiencia puede convertirse en criterio.
+
+Y ese criterio puede cambiar una decisión futura.
+
+## 145. La competencia también puede tener una dimensión emocional
+
+No todo aprendizaje es técnico.
+
+El protagonista puede aprender:
+
+- a confiar;
+- a desconfiar;
+- a pedir ayuda;
+- a no hacerlo;
+- a reconocer cuándo alguien miente;
+- a aceptar una pérdida;
+- a dejar algo sin resolver.
+
+Estas competencias pueden ser tan importantes como saber abrir una puerta o moverse en un entorno peligroso.
+
+## 146. Evitar el “protagonista elegido” por conveniencia
+
+Si el protagonista puede hacer algo que nadie más puede hacer, la historia debe tener cuidado de no convertirlo automáticamente en “el elegido”.
+
+Puede ser simplemente alguien con una acumulación de experiencias que otros no poseen.
+
+La diferencia es enorme.
+
+**Elegido por el guion:** puede porque tiene que poder.
+
+**Competente por experiencia:** puede porque la historia mostró cómo llegó hasta ahí.
+
+WNL debería favorecer siempre la segunda sensación mientras el canon no establezca otra cosa.
+
+## 147. La grabación del capítulo 7 es una oportunidad enorme
+
+La escena donde el protagonista descubre una grabación de sí mismo puede adquirir todavía más fuerza si posteriormente descubrimos que aquella versión anterior utilizó conocimientos o habilidades que el protagonista actual no sabe que posee.
+
+Pero no debemos explicar todavía por qué.
+
+La pregunta correcta no es:
+
+> “¿Cómo hago que esto demuestre que existe una explicación?”
+
+Sino:
+
+> “¿Qué experiencia futura puede hacer que el lector recuerde esta escena de otra manera?”
+
+## 148. Regla editorial para la competencia
+
+Antes de introducir una capacidad importante, preguntar:
+
+1. ¿De dónde podría haberla aprendido?
+2. ¿El lector ha visto suficiente preparación?
+3. ¿La capacidad tiene límites?
+4. ¿Puede fallar?
+5. ¿Revela algo del protagonista?
+6. ¿Puede producir una decisión?
+7. ¿Puede reaparecer más adelante con otro significado?
+8. ¿Estamos mostrando una habilidad porque pertenece al personaje o porque la trama necesita resolver un obstáculo?
+
+Si la respuesta a la última pregunta es solamente la segunda, hay que revisar.
+
+## 149. Regla maestra del bloque 11
+
+> **El lector debe sentir que la competencia del protagonista viene de su historia, aunque todavía no conozca toda esa historia.**
+
+En WNL:
+
+**experiencia → aprendizaje → hábito → capacidad → decisión → consecuencia → nueva experiencia**
+
+Y en el caso particular de la memoria:
+
+**experiencia pasada → capacidad presente → pregunta sobre el pasado**
+
+## 150. Relación con los bloques anteriores
+
+Bloque 1: **El misterio ocurre dentro de una historia.**
+
+Bloque 2: **Los descubrimientos producen consecuencias.**
+
+Bloque 3: **Las semillas crean futuro.**
+
+Bloque 4: **Los personajes necesitan objetivos y vínculos.**
+
+Bloque 5: **La escalada cambia lo que está en juego.**
+
+Bloque 6: **El mundo debe sentirse vivido.**
+
+Bloque 7: **Las escenas deben producir movimiento.**
+
+Bloque 8: **La información debe respetar la primera persona.**
+
+Bloque 9: **Los desafíos deben variar.**
+
+Bloque 10: **El tono debe respirar y cambiar.**
+
+Bloque 11: **La competencia debe sentirse ganada.**
+
+La cadena queda:
+
+> **MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → EXPERIENCIA → PERCEPCIÓN → COMPETENCIA → DESAFÍOS → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → REINTERPRETACIÓN → NUEVO ESTADO**
