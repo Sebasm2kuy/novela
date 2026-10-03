@@ -35,13 +35,19 @@ Los elementos heredados no deben imponerse sobre las reglas de la Biblia Maestra
 
 Realidad de 2056 vinculada a las siete arquitecturas autónomas que gestionan áreas críticas del mundo.
 
-Material heredado incluye el conflicto entre humanos que intentan intervenir/reprogramar sistemas y respuestas de seguridad de las arquitecturas.
+**Capítulo 7 — dirección canónica de entrada:**
+El protagonista aparece ya en mitad de una operación armada. Es uno de los soldados humanos que llevan exoesqueletos y participan en el intento de entrar por la fuerza al establecimiento de las siete arquitecturas para reprogramarlas.
 
-Las arquitecturas no deben tratarse como "malvadas" por defecto: su conducta se relaciona con protocolos establecidos.
+La narración comienza con la orden ya dada y la unidad preparándose para entrar:
+**"La orden estaba dada. Ahora era nuestro turno: entrar, o al menos intentarlo."**
+
+El protagonista no llega como observador externo: forma parte físicamente de la operación desde el primer momento.
+
+Las arquitecturas no deben tratarse como "malvadas" por defecto: su conducta durante el enfrentamiento se relaciona con protocolos establecidos.
 
 El dato "99%" representa el progreso/desarrollo global de la solución en ese material heredado, no eficacia de una cura.
 
-Estado: PENDIENTE DE USO / adaptación al canon actual.
+Estado: ASIGNADA — Capítulo 7 / desarrollo en curso.
 
 ## Ventana 6
 **Bajo la Ciudad / La Puerta Inexplicable**
