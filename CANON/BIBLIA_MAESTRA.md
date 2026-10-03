@@ -59,7 +59,17 @@ No revelar prematuramente:
 - cuál es la verdadera naturaleza de las diez ventanas;
 - la arquitectura completa de la simulación/universo.
 
-## 9. Regla de canon
+## 9. Ventana 5 / 2056 — Las Siete Arquitecturas
+
+Las siete arquitecturas autónomas no son malvadas. Su respuesta ante la incursión humana deriva de protocolos de seguridad: deben resistir cualquier intento de ingreso no autorizado mientras no exista una orden previa de ingreso aceptada por las propias siete arquitecturas.
+
+Antes de emplear fuerza deben emitir advertencias y ultimátums progresivos. La escalada defensiva responde al nivel de amenaza generado por la incursión y las acciones de los humanos. No debe interpretarse automáticamente como intención de hacer daño.
+
+El protagonista puede sentir que está siendo atacado o incluso preguntarse si existe una trampa, pero esa interpretación pertenece a su percepción y no constituye una explicación canónica.
+
+En este capítulo, el combate debe integrarse con la conciencia del protagonista y obligarlo a tomar decisiones dentro de la acción. La memoria corporal —especialmente su familiaridad inexplicable con el equipo y el combate— permanece como misterio.
+
+## 10. Regla de canon
 Cuando exista conflicto entre:
 1. esta Biblia Maestra,
 2. otros archivos del repositorio,
