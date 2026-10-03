@@ -4324,3 +4324,327 @@ La cadena completa queda:
 
 > **APERTURA → MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → EXPERIENCIA → PERCEPCIÓN → VOZ → COMPETENCIA → DESAFÍOS → ACCIÓN → OPOSICIÓN → DECISIÓN → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → REINTERPRETACIÓN → NUEVO ESTADO**
 
+
+
+---
+
+# BLOQUE 16 — FRACASO, REVERSAL Y COSTE DE LAS DECISIONES
+
+El estudio de *Ready Player One* muestra que el progreso narrativo no depende de que el protagonista acierte continuamente. Wade puede descubrir información, interpretar mal situaciones, perder oportunidades, quedar en desventaja, equivocarse y sufrir consecuencias. Lo importante es que los retrocesos **no borran el progreso**: lo transforman.
+
+La lección para WNL es especialmente útil porque el protagonista posee una limitación estructural muy fuerte: solo dispone de 24 horas en cada ventana y después desaparece. Eso significa que no siempre podrá terminar lo que empieza.
+
+## 215. Un fracaso debe cambiar la situación
+
+Un fracaso narrativo útil no es simplemente:
+
+> “Intentó algo y no funcionó.”
+
+Debe producir algo nuevo.
+
+Por ejemplo:
+
+- pierde una oportunidad;
+- descubre una limitación;
+- deteriora una relación;
+- provoca una consecuencia;
+- obtiene información;
+- cambia su objetivo;
+- obliga a tomar otra decisión;
+- deja algo pendiente para una visita futura.
+
+La cadena puede ser:
+
+> **objetivo → intento → fracaso → consecuencia → adaptación**
+
+## 216. El fracaso también puede entregar información
+
+Un intento fallido puede enseñarle al protagonista algo que ningún diálogo habría explicado tan bien.
+
+Puede descubrir:
+
+- que una puerta no funciona como suponía;
+- que una persona no reacciona como esperaba;
+- que dispone de menos tiempo del que creía;
+- que una habilidad tiene límites;
+- que una decisión anterior ya produjo consecuencias.
+
+Por eso:
+
+> **Fracasar no significa retroceder a cero.**
+
+El protagonista puede perder la batalla y ganar conocimiento.
+
+## 217. No resolver demasiado pronto una dificultad
+
+Si cada problema se resuelve en el primer intento, las capacidades del protagonista pueden parecer mágicas.
+
+Un obstáculo puede exigir:
+
+- varios intentos;
+- una nueva estrategia;
+- ayuda de otra persona;
+- abandonar una idea;
+- utilizar una capacidad inesperada;
+- aceptar un coste.
+
+Esto hace que las victorias tengan más valor.
+
+## 218. La derrota debe tener un precio
+
+Una derrota sin coste puede sentirse decorativa.
+
+El precio no tiene que ser físico.
+
+Puede ser:
+
+- tiempo;
+- confianza;
+- información;
+- una oportunidad;
+- una relación;
+- un objeto;
+- una promesa;
+- una posibilidad futura;
+- una decisión que ya no puede deshacer.
+
+En WNL, incluso **la ausencia del protagonista** puede convertirse en el precio de no haber terminado algo.
+
+## 219. Un error puede acompañar al protagonista entre ventanas
+
+Esta posibilidad es particularmente poderosa en WNL.
+
+Una decisión tomada en una ventana no tiene por qué desaparecer cuando cambia de realidad.
+
+Puede volver como:
+
+- una consecuencia;
+- un recuerdo incompleto;
+- una relación afectada;
+- un objeto que conserva;
+- una deuda;
+- una promesa;
+- una persona que lo espera;
+- una situación que empeoró mientras estuvo ausente.
+
+Así las ventanas empiezan a funcionar como una sola historia fragmentada, no como diez relatos independientes.
+
+## 220. El protagonista no siempre debe comprender su propio fracaso
+
+Con primera persona estricta, puede ocurrir algo más interesante.
+
+Él sabe que algo salió mal, pero no necesariamente sabe por qué.
+
+Puede pensar:
+
+> “Había hecho exactamente lo que creía correcto y, aun así, había empeorado las cosas.”
+
+Eso permite que el lector comparta la incertidumbre sin convertirla en explicación artificial.
+
+Más adelante puede descubrir qué parte de su interpretación era incorrecta.
+
+## 221. Una victoria puede contener una pérdida
+
+No dividir las escenas solamente en:
+
+**ganó / perdió.**
+
+Una resolución más rica puede ser:
+
+> **consigue el objetivo, pero pierde otra cosa.**
+
+Por ejemplo:
+
+- descubre una verdad y rompe una relación;
+- salva a alguien y deja otra situación sin resolver;
+- consigue entrar a un lugar y pierde la posibilidad de regresar;
+- obtiene información y se convierte en responsable de ella;
+- sobrevive, pero alguien más paga el precio.
+
+Esto permite que una escena avance en más de una dirección.
+
+## 222. El protagonista puede tomar decisiones razonables y aun así equivocarse
+
+No hace falta convertirlo en alguien torpe para producir errores.
+
+Una decisión puede ser perfectamente razonable con la información disponible y resultar equivocada porque faltaba información.
+
+Esto es especialmente compatible con el misterio de WNL:
+
+> **una decisión puede ser correcta desde su perspectiva y tener consecuencias inesperadas.**
+
+Así el lector no siente que el protagonista actuó mal solamente porque la trama necesitaba un problema.
+
+## 223. Las consecuencias deben respetar la causalidad
+
+Cuando algo sale mal, conviene poder responder:
+
+> **¿Qué lo provocó?**
+
+La causa puede estar:
+
+- en la decisión inmediata;
+- en una visita anterior;
+- en una ausencia;
+- en una relación;
+- en una información incompleta;
+- en una limitación de la ventana;
+- en una decisión de otro personaje.
+
+No todo tiene que ser causado por el protagonista, pero el acontecimiento debe pertenecer a la lógica de la historia.
+
+## 224. La memoria puede convertir un fracaso en una incógnita
+
+En WNL existe una herramienta que otras historias no poseen de la misma manera:
+
+el protagonista puede encontrar las consecuencias de una decisión que **no recuerda haber tomado**.
+
+Eso permite una estructura especial:
+
+> **consecuencia → desconcierto → investigación → reconstrucción parcial**
+
+Pero debe utilizarse con moderación.
+
+Si cada problema se explica por una memoria perdida, el lector dejará de sentir que el protagonista está tomando decisiones en el presente.
+
+## 225. El fracaso debe permitir adaptación
+
+Después de equivocarse, el protagonista debería poder cambiar algo.
+
+Puede modificar:
+
+- su estrategia;
+- su relación con alguien;
+- lo que decide registrar;
+- aquello en lo que confía;
+- la forma de entrar en una ventana;
+- lo que pregunta;
+- lo que evita;
+- lo que considera posible.
+
+La adaptación demuestra que la historia está produciendo aprendizaje.
+
+## 226. No proteger al protagonista de las consecuencias
+
+Si una decisión importante nunca tiene coste, las decisiones pierden peso.
+
+WNL no necesita matar personajes continuamente ni aumentar el espectáculo para demostrar consecuencias.
+
+Basta con permitir que algunas decisiones sean irreversibles.
+
+Una persona puede dejar de confiar en él.
+
+Una oportunidad puede desaparecer.
+
+Una ventana puede avanzar sin él.
+
+Un objeto puede quedar atrás.
+
+Una promesa puede quedar incumplida.
+
+Una versión anterior de sí mismo puede haber dejado una situación que ahora debe enfrentar.
+
+## 227. El fracaso puede crear una nueva línea narrativa
+
+Un intento fallido puede abrir algo que no estaba previsto.
+
+El protagonista quería:
+
+> **A**
+
+Fracasa.
+
+Como consecuencia, ahora debe ocuparse de:
+
+> **B**
+
+La historia continúa, pero en una dirección distinta.
+
+Esto evita la estructura rígida:
+
+**problema → solución → siguiente problema.**
+
+Podemos tener:
+
+**problema → intento → fracaso → consecuencia inesperada → nuevo objetivo.**
+
+## 228. Aplicación a las diez ventanas
+
+Cada ventana puede tener una forma distinta de fracaso.
+
+No es necesario que todas terminen con peligro.
+
+Una puede terminar con:
+
+- una persona decepcionada;
+- una investigación incompleta;
+- una decisión moral;
+- una oportunidad perdida;
+- una respuesta parcial;
+- una promesa imposible de cumplir;
+- una acción que tendrá consecuencias durante su ausencia;
+- una victoria que exige un sacrificio;
+- un objetivo conseguido demasiado tarde;
+- una nueva responsabilidad.
+
+Esto ayudará a que las ventanas tengan identidad propia.
+
+## 229. Aplicación a la Habitación
+
+La Habitación puede convertirse en un lugar donde los fracasos **se acumulen** sin necesidad de convertirla en un escenario de terror permanente.
+
+El protagonista puede registrar:
+
+- lo que intentó;
+- lo que funcionó;
+- lo que no funcionó;
+- lo que quedó pendiente;
+- lo que deberá comprobar cuando vuelva.
+
+El cuaderno puede convertirse así en una herramienta narrativa, no simplemente en un depósito de pistas.
+
+Y eso permite una evolución importante:
+
+> al principio escribe para recordar;
+
+> después puede empezar a escribir para **preparar al siguiente yo que despierte sin saber todo lo que él sabe ahora**.
+
+Esto no establece ninguna explicación sobre la naturaleza del protagonista. Solo convierte el cuaderno en una consecuencia práctica de su situación.
+
+## 230. Preguntas editoriales para revisar un fracaso
+
+1. ¿Qué quería conseguir?
+2. ¿Qué intentó?
+3. ¿Por qué falló?
+4. ¿El fracaso tiene una causa comprensible?
+5. ¿Qué pierde?
+6. ¿Qué aprende?
+7. ¿Qué cambia?
+8. ¿Debe adaptar su estrategia?
+9. ¿La consecuencia continuará después?
+10. ¿El fracaso crea una nueva situación o simplemente retrasa la historia?
+
+## 231. Regla maestra del bloque 16
+
+> **Un fracaso no debe devolver la historia al punto de partida. Debe dejarla en un lugar nuevo.**
+
+La cadena queda:
+
+> **OBJETIVO → INTENTO → FRACASO O COSTE → INFORMACIÓN → ADAPTACIÓN → NUEVO OBJETIVO**
+
+Y para WNL:
+
+> **VISITA → DECISIÓN → RESULTADO → AUSENCIA → CONSECUENCIA → REGRESO**
+
+## 232. Relación con los bloques anteriores
+
+Bloque 15 enseñó que **el mundo responde**.
+
+El Bloque 16 añade:
+
+> **La respuesta puede perjudicar al protagonista y obligarlo a cambiar.**
+
+La cadena general continúa:
+
+> **OBJETIVO → ACCIÓN → OPOSICIÓN → DECISIÓN → RESULTADO → COSTE → ADAPTACIÓN → CONSECUENCIA → NUEVO ESTADO**
+
