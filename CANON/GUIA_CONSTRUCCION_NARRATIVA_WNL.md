@@ -3502,3 +3502,248 @@ Bloque 12: **Las aperturas deben entrar en movimiento.**
 La cadena queda:
 
 > **APERTURA → MUNDO → HISTORIA → PERSONAJES → OBJETIVOS → EXPERIENCIA → PERCEPCIÓN → COMPETENCIA → DESAFÍOS → DECISIONES → MISTERIO → DESCUBRIMIENTO → CONSECUENCIA → REINTERPRETACIÓN → NUEVO ESTADO**
+
+
+---
+
+# BLOQUE 13 — EXPOSICIÓN QUE SE SIENTE COMO HISTORIA
+
+El estudio del PDF de *Ready Player One* muestra algo especialmente útil para WNL: el libro sí explica una enorme cantidad de información, pero buena parte de esa información aparece mezclada con **vida, actividad, personalidad y necesidad narrativa**.
+
+## 165. La exposición no es el enemigo
+
+WNL no debe intentar eliminar toda explicación.
+
+El problema aparece cuando la explicación detiene la historia.
+
+Una explicación funciona mejor cuando responde a una necesidad inmediata del protagonista:
+
+- necesita saber cómo funciona algo;
+- necesita llegar a algún sitio;
+- necesita comprender una regla para actuar;
+- recuerda algo que afecta su decisión;
+- alguien le cuenta algo porque existe una relación o un conflicto.
+
+La información entonces tiene una función narrativa además de informativa.
+
+## 166. El mundo puede explicarse mientras el protagonista lo utiliza
+
+En RPO, reglas, economía, transporte, educación, objetos y peligros aparecen muchas veces mientras Wade vive dentro de ese mundo.
+
+La información no queda separada de la experiencia.
+
+Para WNL:
+
+> **Si el protagonista necesita una regla para hacer algo, es mejor mostrar la regla funcionando que detenerse a enumerarla.**
+
+## 167. Una explicación puede revelar al mismo tiempo quién es el protagonista
+
+No toda información tiene que servir solamente para que el lector entienda el mundo.
+
+Puede mostrar:
+
+- qué sabe el protagonista;
+- qué ignora;
+- qué teme;
+- qué considera normal;
+- qué le resulta extraño;
+- qué experiencia previa posee;
+- qué relación tiene con otra persona.
+
+Así una explicación sobre el mundo también construye personaje.
+
+## 168. El diálogo no debe convertirse en manual
+
+Dos personajes no deberían explicarse cosas que ambos conocen únicamente porque el lector necesita conocerlas.
+
+La conversación tiene que tener una razón propia.
+
+Puede haber:
+
+- desacuerdo;
+- urgencia;
+- humor;
+- sospecha;
+- negociación;
+- afecto;
+- miedo;
+- diferencia de conocimiento.
+
+La información entra porque los personajes están intentando conseguir algo.
+
+## 169. El protagonista puede entender una parte y equivocarse en otra
+
+Esto es especialmente útil para WNL.
+
+Una explicación recibida por el protagonista no tiene que ser la verdad completa.
+
+Puede distinguirse entre:
+
+**dato → interpretación → hipótesis → verdad futura**
+
+El lector debe saber qué nivel está recibiendo.
+
+Esto evita convertir cualquier explicación en canon.
+
+## 170. El detalle concreto puede hacer creíble una regla abstracta
+
+Decir que una realidad tiene una determinada regla es menos potente que mostrar una consecuencia cotidiana de esa regla.
+
+Por ejemplo, en vez de explicar repetidamente que el tiempo sigue avanzando mientras el protagonista está fuera, una ventana puede mostrar:
+
+- una persona que esperaba verlo y ya se cansó;
+- una cita que perdió;
+- una conversación que continuó sin él;
+- un proyecto que avanzó;
+- una relación que cambió.
+
+La regla deja de ser información y se convierte en vida.
+
+## 171. Las explicaciones importantes pueden distribuirse
+
+No todo tiene que explicarse en una sola escena.
+
+Una regla puede aparecer primero como experiencia, después como hipótesis y mucho más adelante como comprensión parcial.
+
+Esto encaja especialmente bien con las diez ventanas.
+
+Una ventana puede mostrar una consecuencia.
+
+Otra puede aportar una pieza.
+
+El protagonista puede conectar ambas mucho después.
+
+## 172. La exposición también puede crear anticipación
+
+Una explicación sobre algo que todavía no ha ocurrido puede preparar al lector para verlo en acción.
+
+Pero debe existir una razón para que esa información aparezca.
+
+No conviene explicar una capacidad únicamente porque será útil veinte capítulos después.
+
+La preparación debe sentirse orgánica.
+
+## 173. La vida cotidiana es una herramienta de exposición
+
+Uno de los recursos más fuertes observados en RPO es que las rutinas revelan cómo funciona el mundo.
+
+Comida, escuela, transporte, dinero, trabajo, objetos, amistades y ocio pueden comunicar reglas del mundo sin convertirse en una clase sobre el mundo.
+
+Aplicado a WNL:
+
+La Habitación puede mostrar cómo funciona la vida del protagonista sin volver a explicar sus reglas.
+
+Una ventana puede mostrar qué consecuencias tienen las 24 horas sin decir:
+
+> “Recuerda que han pasado 24 horas.”
+
+La realidad simplemente habrá cambiado.
+
+## 174. La información debe competir con algo
+
+Una explicación resulta más natural cuando el protagonista tiene otra cosa que hacer al mismo tiempo.
+
+Puede estar:
+
+- caminando;
+- conduciendo;
+- buscando algo;
+- preparando comida;
+- reparando un objeto;
+- esperando;
+- discutiendo;
+- tratando de no ser descubierto.
+
+La acción no tiene que ser espectacular.
+
+Su función es impedir que la escena se convierta en una conferencia.
+
+## 175. No explicar una maravilla antes de dejar que sea maravillosa
+
+Cuando aparece algo extraordinario, conviene permitir primero la reacción del protagonista.
+
+Después puede venir la explicación parcial.
+
+Secuencia útil:
+
+**experiencia → reacción → intento de comprender → información → nueva acción**
+
+No:
+
+**explicación → experiencia → reacción**
+
+Esto es especialmente importante para las ventanas más espectaculares de WNL.
+
+## 176. La explicación puede cambiar de significado posteriormente
+
+Una información que parecía sencilla puede adquirir otro sentido cuando el protagonista descubre algo nuevo.
+
+Eso produce una recompensa más fuerte que simplemente recibir un dato nuevo.
+
+El lector piensa:
+
+> “Ahora entiendo por qué aquello importaba.”
+
+Esto conecta directamente con el Bloque 3 sobre semillas y payoff.
+
+## 177. Regla editorial para expandir capítulos
+
+Cuando encontremos un capítulo corto, no debemos preguntarnos:
+
+> “¿Qué explicación puedo añadir?”
+
+Debemos preguntar:
+
+> “¿Qué experiencia puede vivir el protagonista aquí que además nos permita conocer mejor este mundo?”
+
+Esa pregunta evita el relleno.
+
+## 178. Aplicación directa a WNL
+
+Las diez ventanas no deberían ser diez paquetes de información.
+
+Cada una debe permitir que el lector **viva** una realidad.
+
+Por ejemplo, una ventana puede enseñar una sociedad mediante una conversación.
+
+Otra mediante una rutina familiar.
+
+Otra mediante una emergencia.
+
+Otra mediante un viaje.
+
+Otra mediante una relación.
+
+Otra mediante una investigación.
+
+Otra mediante un conflicto.
+
+Otra mediante una experiencia de maravilla.
+
+La información aparecerá como consecuencia de vivir esas situaciones.
+
+## 179. Regla maestra del bloque 13
+
+> **No explicar el mundo cuando podemos hacer que el protagonista lo necesite, lo use, lo sufra o lo disfrute.**
+
+La fórmula queda:
+
+**necesidad → experiencia → información → acción → consecuencia**
+
+Y para una explicación más compleja:
+
+**experiencia → reacción → hipótesis → información parcial → acción → descubrimiento posterior**
+
+## 180. Relación con los bloques anteriores
+
+El Bloque 12 enseña a **entrar en movimiento**.
+
+El Bloque 13 enseña a **mantener el movimiento mientras se entrega información**.
+
+Por tanto:
+
+> **APERTURA → EXPERIENCIA → INFORMACIÓN → ACCIÓN → CONSECUENCIA → NUEVO ESTADO**
+
+No buscamos que WNL tenga menos información.
+
+Buscamos que el lector nunca sienta que dejó de leer una novela para empezar a leer un manual.
