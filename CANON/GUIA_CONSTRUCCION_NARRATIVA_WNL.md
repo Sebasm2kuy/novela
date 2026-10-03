@@ -5251,3 +5251,235 @@ Debe sentir que está entrando en diez realidades que **ya existían antes de qu
 
 Eso es lo que hará que el universo de WNL deje de sentirse como una colección de conceptos y empiece a sentirse como un mundo.
 
+
+
+---
+
+# BLOQUE 19 — COSTE, RESPONSABILIDAD Y DECISIONES IRREVERSIBLES
+
+El estudio de *Ready Player One* muestra que el conflicto se vuelve más fuerte cuando una decisión no solo resuelve un problema inmediato, sino que cambia lo que será posible después.
+
+Wade no enfrenta únicamente acertijos. Sus decisiones afectan su seguridad, sus relaciones, su identidad y el mundo que lo rodea.
+
+La lección para WNL:
+
+> **Una decisión importante debe cerrar alguna posibilidad y abrir otra.**
+
+## 265. Una elección necesita alternativas reales
+
+Si el protagonista solo tiene una opción evidente, no existe verdadera decisión.
+
+Una escena gana fuerza cuando puede elegir entre dos o más caminos que tengan consecuencias diferentes.
+
+No tienen que ser moralmente equivalentes.
+
+Pero deben ser opciones que él considere.
+
+## 266. El coste no tiene que ser físico
+
+Una decisión puede costar:
+
+- tiempo;
+- confianza;
+- información;
+- una oportunidad;
+- una relación;
+- seguridad;
+- una promesa;
+- acceso a una ventana;
+- una posibilidad futura;
+- una parte de su propia certeza.
+
+En WNL esto es especialmente útil porque el protagonista no puede permanecer indefinidamente en una realidad.
+
+Su propia mecánica de desplazamiento ya genera costes.
+
+## 267. La victoria también puede tener un precio
+
+Una resolución completamente positiva puede sentirse plana si no cambia nada.
+
+Una victoria puede:
+
+- revelar algo que duele;
+- cerrar una posibilidad;
+- provocar una reacción;
+- hacer que alguien desconfíe;
+- obligar al protagonista a abandonar a alguien;
+- crear una nueva responsabilidad.
+
+No significa que toda victoria deba ser amarga.
+
+Significa que debe **mover la historia**.
+
+## 268. El protagonista no siempre debe elegir correctamente
+
+Especialmente en primera persona, una decisión equivocada puede ser muy poderosa.
+
+Él puede actuar convencido de que está haciendo lo correcto y descubrir después que:
+
+- no tenía toda la información;
+- interpretó mal una situación;
+- perjudicó a alguien;
+- perdió una oportunidad;
+- hizo imposible otra opción.
+
+Esto es mejor que volverlo artificialmente torpe solo para crear problemas.
+
+## 269. La información incompleta justifica decisiones imperfectas
+
+El protagonista de WNL no conoce la arquitectura completa de las diez ventanas.
+
+Por eso puede tomar decisiones razonables que posteriormente tengan consecuencias inesperadas.
+
+La cadena puede ser:
+
+**información parcial → decisión razonable → resultado inesperado → nueva información**
+
+Esto respeta la primera persona y evita que el personaje parezca estúpido porque la trama necesita que se equivoque.
+
+## 270. Las decisiones pueden viajar entre ventanas
+
+Esta es una de las herramientas más fuertes de WNL.
+
+Una decisión tomada en una ventana puede afectar otra aunque el protagonista no esté allí.
+
+Puede viajar como:
+
+- una promesa;
+- una ausencia;
+- una persona esperando;
+- un objeto;
+- una relación deteriorada;
+- información;
+- una deuda;
+- una consecuencia;
+- una pregunta que quedó abierta.
+
+Así las diez ventanas dejan de ser episodios aislados.
+
+## 271. La ausencia es una decisión narrativa
+
+Aunque el desplazamiento no sea voluntario, las consecuencias de estar ausente pueden serlo.
+
+El protagonista puede haber prometido regresar.
+
+Puede haber dejado algo pendiente.
+
+Puede haber iniciado una relación.
+
+Puede haber descubierto que alguien necesita ayuda.
+
+Y entonces desaparece.
+
+La regla de 24 horas deja de ser solamente una mecánica y se convierte en un problema humano.
+
+## 272. Las decisiones del protagonista anterior pueden perseguir al actual
+
+Esto encaja especialmente bien con la grabación del capítulo 7.
+
+El protagonista actual puede descubrir que una versión anterior de sí mismo tomó una decisión.
+
+Todavía no sabe por qué.
+
+Pero ahora tiene que vivir sus consecuencias.
+
+Esto crea una forma particular de conflicto:
+
+> **“No sé por qué lo hice, pero ahora tengo que enfrentar lo que hice.”**
+
+No necesitamos explicar quién es esa versión ni cómo funciona todavía.
+
+## 273. Una decisión debe cambiar el estado de la historia
+
+Si al final de una escena el protagonista decide algo y la historia continúa exactamente igual, probablemente la decisión no tenía suficiente peso.
+
+Después de una decisión debería existir:
+
+- una nueva dirección;
+- una nueva obligación;
+- una nueva persona involucrada;
+- una pérdida;
+- una posibilidad;
+- un riesgo;
+- una consecuencia.
+
+## 274. El coste puede aparecer después
+
+No es necesario cobrar inmediatamente el precio de una decisión.
+
+Una elección puede parecer correcta en el momento y revelar su coste mucho después.
+
+Esto permite que una ventana afecte a otra.
+
+Pero debe existir causalidad.
+
+No debemos castigar al protagonista arbitrariamente.
+
+## 275. Las decisiones también revelan carácter
+
+Dos personajes enfrentados al mismo problema pueden elegir cosas diferentes.
+
+La elección revela:
+
+- qué teme el personaje;
+- qué valora;
+- qué está dispuesto a perder;
+- en quién confía;
+- qué considera correcto.
+
+Por eso no conviene escribir primero “qué sería más emocionante”.
+
+Primero:
+
+> **¿Qué elegiría este personaje?**
+
+Después:
+
+> **¿Qué consecuencias produce esa elección?**
+
+## 276. Aplicación a WNL
+
+En cada ventana importante conviene identificar al menos una decisión que no pueda ser borrada simplemente porque el protagonista desaparece.
+
+No significa que tenga que cambiar la historia histórica de esa realidad.
+
+Puede cambiar:
+
+- una relación;
+- una conversación;
+- una promesa;
+- una investigación;
+- la forma en que alguien lo recuerda;
+- lo que él decide hacer al regresar.
+
+Esto mantiene la regla de que el protagonista no puede alterar la historia mientras permite que **su experiencia tenga consecuencias reales dentro de su vida**.
+
+## 277. Preguntas editoriales
+
+1. ¿Qué quiere conseguir el protagonista?
+2. ¿Qué alternativas tiene?
+3. ¿Por qué elige esta?
+4. ¿Qué información le falta?
+5. ¿Qué arriesga?
+6. ¿Qué pierde si falla?
+7. ¿Qué cambia si tiene éxito?
+8. ¿La decisión afecta a otra persona?
+9. ¿La consecuencia puede viajar a otra ventana?
+10. ¿La historia queda en un estado diferente?
+
+## 278. Regla maestra del bloque 19
+
+> **Una decisión importante no solo resuelve el presente. Cambia el futuro disponible.**
+
+Cadena:
+
+> **INFORMACIÓN → OPCIONES → DECISIÓN → COSTE → CONSECUENCIA → NUEVAS OPCIONES**
+
+En WNL:
+
+> **VISITA → EXPERIENCIA → DECISIÓN → AUSENCIA → CONSECUENCIA → REGRESO → NUEVA DECISIÓN**
+
+Y conectada con el modelo general:
+
+> **MUNDO → PERSONAJES → VÍNCULOS → OBJETIVOS → EXPERIENCIA → DECISIONES → COSTES → CONSECUENCIAS → REINTERPRETACIÓN → NUEVO ESTADO**
+
