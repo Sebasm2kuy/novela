@@ -1,18 +1,25 @@
 # CAPÍTULOS
 
-Aquí se conservarán los textos narrativos vigentes.
+Aquí se conservan los textos narrativos vigentes.
 
 Regla: un capítulo archivado o reemplazado no debe sobreescribir silenciosamente el historial. Los cambios importantes quedarán registrados en Git mediante commits.
 
 ## Manuscrito vigente
 
-El archivo:
+El manuscrito está separado en archivos independientes:
 
-`CAPITULOS/W A T H N E V E R L E F T prologo + caps 1-6`
+- `CAPITULOS/00_PROLOGO.md`
+- `CAPITULOS/01_CAPITULO_1.md`
+- `CAPITULOS/02_CAPITULO_2.md`
+- `CAPITULOS/03_CAPITULO_3.md`
+- `CAPITULOS/04_CAPITULO_4.md`
+- `CAPITULOS/05_CAPITULO_5.md`
+- `CAPITULOS/06_CAPITULO_6.md`
 
-contiene actualmente el manuscrito definitivo confirmado por el autor hasta el Capítulo 6.
+Estos archivos constituyen la versión de trabajo vigente del prólogo y los capítulos 1–6.
 
-Referencia de commit original del manuscrito confirmado:
-`6351e5fb513440b6c9832ce3bce037d0a0acffcd`
+## Archivo consolidado
 
-Una versión posterior explícitamente confirmada por el autor prevalece sobre esa referencia.
+`CAPITULOS/W A T H N E V E R L E F T prologo + caps 1-6` conserva una copia consolidada del manuscrito y funciona como respaldo/histórico.
+
+A partir de esta estructura, las modificaciones narrativas deben hacerse en los archivos independientes y, cuando corresponda, actualizar también la copia consolidada.
