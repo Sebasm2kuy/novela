@@ -78,3 +78,76 @@ Cuando exista conflicto entre:
 
 prevalece esta Biblia Maestra, salvo modificación expresa del autor.
 
+
+## 11. Etapa actual de construcción narrativa
+
+La novela se está construyendo paso a paso. Las diez ventanas están definidas a nivel arquitectónico, pero todavía no están definidos todos sus objetivos, conflictos, recorridos emocionales ni desenlaces.
+
+Por esta razón, **no evaluar como defecto la falta de un arco completo de una ventana cuando todavía está en construcción**.
+
+Una ventana puede aparecer en varios capítulos y en distintas etapas de la novela.
+
+Una aparición de una ventana no tiene obligación de:
+- presentar todo su conflicto;
+- resolver su historia;
+- explicar su función dentro de la arquitectura;
+- cerrar definitivamente a sus personajes;
+- revelar su relación con las demás ventanas.
+
+La pregunta de construcción adecuada en esta etapa es:
+
+> **¿Esta aparición deja una situación suficientemente viva e interesante como para que queramos volver a ella?**
+
+El protagonista puede regresar posteriormente a una misma ventana. El tiempo continúa avanzando mientras él está ausente, por lo que el regreso puede encontrar consecuencias nuevas.
+
+El orden de aparición de las ventanas no representa su orden cronológico ni su orden interno de importancia.
+
+## 12. Terminología del protagonista
+
+El autor puede utilizar internamente el término **ventanas** para organizar la arquitectura de la novela.
+
+Eso no significa que el protagonista deba adoptar inmediatamente esa palabra como categoría conceptual.
+
+Mientras la novela avanza, el protagonista puede pensar simplemente en lugares, mundos, realidades, sitios o experiencias distintas, o no disponer todavía de una categoría clara.
+
+No hacer que el protagonista explique prematuramente la arquitectura con el vocabulario del autor.
+
+## 13. Construcción progresiva de la relación entre ventanas
+
+La relación entre ventanas no debe forzarse desde los primeros capítulos.
+
+Ya existen indicios de familiaridad, memoria, objetos, registros y experiencias que pueden adquirir significado posteriormente, pero **la contaminación explícita entre ventanas todavía no es un requisito canónico**.
+
+Las conexiones pueden crecer gradualmente mediante recuerdos difíciles de ubicar, familiaridades físicas, objetos recurrentes, frases o imágenes que reaparecen y consecuencias que el protagonista todavía no relaciona.
+
+No convertir estas posibilidades en explicaciones definitivas sin confirmación del autor.
+
+## 14. Regla de evaluación durante la etapa de construcción
+
+Los análisis estructurales deben distinguir entre:
+
+**PROBLEMA REAL:** contradicción, agujero lógico, regla rota o escena que no funciona con lo ya establecido.
+
+**DESARROLLO PENDIENTE:** elemento que todavía no está diseñado porque la novela aún está en construcción.
+
+**OPORTUNIDAD FUTURA:** posibilidad de mejorar un elemento cuando exista suficiente material para hacerlo.
+
+No presentar automáticamente un desarrollo pendiente como un fallo de la novela.
+
+## 15. Capítulos que regresan a una misma ventana
+
+Una misma ventana puede ocupar varios capítulos separados.
+
+Ejemplo estructural válido:
+
+**Capítulo A → Ventana X → se abre un conflicto.**
+
+**Capítulo B → otra ventana.**
+
+**Capítulo C → Habitación.**
+
+**Capítulo D → Ventana X nuevamente → el conflicto continúa o ha cambiado.**
+
+La continuidad debe conservar el paso del tiempo y las consecuencias de la ausencia del protagonista.
+
+El hecho de que el lector sepa que el protagonista puede volver no significa que sepa cuándo volverá.
