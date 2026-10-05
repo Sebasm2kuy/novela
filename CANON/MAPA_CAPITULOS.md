@@ -134,9 +134,17 @@ El capítulo conserva el misterio: no establece una conexión automática entre 
 
 El mapa de capítulos indica dónde aparece una ventana, pero no define necesariamente el comienzo, desarrollo y final de toda su historia.
 
-Una misma ventana puede regresar en capítulos posteriores. Entre una visita y otra pueden ocurrir acontecimientos relevantes porque el tiempo continúa avanzando en ella.
+Una misma ventana puede regresar en capítulos posteriores.
 
-Por tanto, los capítulos actuales deben evaluarse por lo que consiguen dentro de su aparición concreta, no por si resuelven toda la ventana.
+### Nueva regla temporal
+
+Cuando el protagonista abandona una ventana, **esa realidad queda congelada exactamente en el instante de salida**. Cuando regresa, vuelve al mismo instante exacto de día/hora/minuto/segundo.
+
+Por tanto, entre una visita y otra no avanzan los acontecimientos de esa ventana. Lo que sí avanza es el tiempo subjetivo del protagonista, porque durante la ausencia puede vivir otras ventanas y períodos en la Habitación.
+
+### Objetivos
+
+Cada ventana puede tener un objetivo o conflicto propio para la estancia concreta de 24 horas. Ese objetivo local no reemplaza el objetivo global del protagonista: descubrir el patrón y encontrar una forma de romperlo.
 
 ## Estado de diseño de objetivos
 
