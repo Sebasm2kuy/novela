@@ -49,3 +49,9 @@ Si el protagonista muere en una realidad, la muerte se experimenta como real y l
 
 Si posteriormente regresa a esa realidad, vuelve exactamente al instante de la muerte y está vivo. Esta contradicción es un misterio canónico, no una explicación. No convertirla automáticamente en resurrección, viaje temporal, copia o línea alternativa.
 
+
+## Ideas recientes — no canon
+
+Se han discutido nuevas posibilidades sobre tiempo, memoria, función de la Habitación y muerte. Deben tratarse como **ideas en exploración** hasta confirmación expresa del autor.
+
+No usar estas ideas para declarar contradicciones, corregir el manuscrito ni modificar reglas existentes.
