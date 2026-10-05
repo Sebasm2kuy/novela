@@ -198,3 +198,16 @@ Ejemplo estructural válido:
 La continuidad debe conservar el paso del tiempo y las consecuencias de la ausencia del protagonista.
 
 El hecho de que el lector sepa que el protagonista puede volver no significa que sepa cuándo volverá.
+
+## 17. Ideas recientes en exploración — NO CANON
+
+Las siguientes ideas fueron discutidas por el autor y quedan registradas únicamente como posibilidades de diseño. **No modifican las reglas canónicas anteriores hasta confirmación expresa del autor.**
+
+- Explorar que cada realidad conserve exactamente el instante en que el protagonista la abandona, de modo que al regresar vuelva al mismo momento.
+- Explorar que el protagonista conserve los recuerdos de todas las realidades y pueda llegar a dudar de cuál está viviendo.
+- Explorar que la Habitación sea también una realidad para él y funcione como centro de investigación, donde reúne recuerdos, pistas e hipótesis para comprender y romper el patrón.
+- Explorar que cada realidad tenga un objetivo/conflicto propio además del objetivo global de descubrir cómo romper el patrón.
+- Explorar una regla en la que, si muere en una realidad, experimente realmente la muerte, regrese a la Habitación y posteriormente pueda volver al instante exacto de su muerte encontrándose vivo. El motivo de esta aparente contradicción queda deliberadamente sin resolver.
+- Explorar la posibilidad de que todas las realidades sean igualmente reales desde su experiencia, sin una realidad privilegiada identificable.
+
+Estas ideas no deben tratarse como hechos canónicos, no deben alterar manuscritos ni reglas de continuidad y no deben usarse para corregir escenas existentes hasta que el autor las confirme.
