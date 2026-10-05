@@ -86,3 +86,27 @@ Realidad/simulación idéntica al mundo externo.
 
 Estado: PENDIENTE DE USO.
 
+
+
+## Regla de uso narrativo de las ventanas
+
+El registro de las diez ventanas es una herramienta de arquitectura del autor. No implica que cada ventana tenga que resolverse en un solo capítulo.
+
+Una ventana puede:
+- aparecer;
+- dejar un conflicto abierto;
+- desaparecer del relato durante varios capítulos;
+- continuar viviendo fuera de escena;
+- reaparecer posteriormente con nuevas consecuencias.
+
+El protagonista no controla cuándo regresará a una ventana.
+
+Los objetivos completos de cada ventana todavía están en construcción y no deben inventarse para completar este registro.
+
+## Regla de terminología
+
+"Ventanas" es el término de organización utilizado por el autor. No es obligatorio que el protagonista piense en ellas con ese nombre todavía.
+
+## Relación entre ventanas
+
+Las conexiones profundas entre las ventanas todavía están en desarrollo. Los ecos existentes no deben convertirse automáticamente en una explicación. La contaminación explícita entre ventanas es una posibilidad narrativa futura, no una obligación inmediata.
