@@ -126,3 +126,28 @@ El capítulo conserva el misterio: no establece una conexión automática entre 
 - Ventana 4 — 2026 / Cortexia
 - Ventana 9 — El Mundo Perfecto
 - Ventana 10 — Copia Exacta
+
+
+## Principio de continuidad de ventanas
+
+**Una ventana no equivale a un capítulo.**
+
+El mapa de capítulos indica dónde aparece una ventana, pero no define necesariamente el comienzo, desarrollo y final de toda su historia.
+
+Una misma ventana puede regresar en capítulos posteriores. Entre una visita y otra pueden ocurrir acontecimientos relevantes porque el tiempo continúa avanzando en ella.
+
+Por tanto, los capítulos actuales deben evaluarse por lo que consiguen dentro de su aparición concreta, no por si resuelven toda la ventana.
+
+## Estado de diseño de objetivos
+
+Los objetivos completos de cada ventana todavía NO están definidos.
+
+No inventarlos ni asignarlos retrospectivamente solo para completar una tabla.
+
+Cuando una ventana vuelva a aparecer, definir el objetivo de esa aparición concreta según la historia que el autor haya decidido desarrollar en ese momento.
+
+El lector debe poder sentir que una visita tiene un propósito narrativo aunque la historia global de esa ventana continúe abierta.
+
+## Terminología
+
+"Ventanas" es actualmente un término de arquitectura/autores. No exigir que el protagonista utilice esa palabra ni que comprenda las realidades con ese concepto.
