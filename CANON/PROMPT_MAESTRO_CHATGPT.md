@@ -174,11 +174,15 @@ No adelantar esa revelación.
 
 ---
 
-# 5. LAS DIEZ VENTANAS
+# 5. LAS DIEZ REALIDADES
 
-Existen exactamente **10 realidades simultáneas**.
+Existen exactamente **10 realidades** / ventanas.
 
 La misma identidad/conciencia del protagonista existe en las diez, pero él puede experimentar conscientemente solo una a la vez.
+
+Para él, **cada realidad es su realidad real mientras está dentro de ella**. No existe una realidad privilegiada que pueda identificar como "la verdadera" frente a las demás.
+
+La Habitación también es una realidad real para él.
 
 Cada permanencia en una ventana dura exactamente:
 
@@ -201,19 +205,25 @@ El protagonista:
 - ese deseo no garantiza el destino;
 - la pérdida de control es deliberada.
 
-El tiempo continúa avanzando paralelamente en:
+### Regla temporal nueva
 
-- las diez ventanas;
-- la Habitación;
-- la realidad externa.
+Cuando abandona una realidad, **esa realidad queda congelada exactamente en el instante de su salida**.
 
-El protagonista no puede modificar la historia de una ventana.
+Cuando vuelve a ella, regresa al mismo **día/hora/minuto/segundo** en que la abandonó.
+
+Para los habitantes de esa realidad no necesariamente ha transcurrido ningún tiempo. Una conversación, movimiento o acción puede continuar exactamente donde quedó.
+
+El protagonista, en cambio, sí acumula todo el tiempo subjetivo vivido en otras realidades y en la Habitación.
+
+La Habitación mantiene su propia continuidad temporal durante las 24 horas mínimas entre desplazamientos.
+
+El protagonista no puede modificar la historia de una realidad; puede actuar dentro de ella durante sus 24 horas, pero no puede hacer que el tiempo de esa realidad avance durante su ausencia.
 
 ---
 
 # 6. LA HABITACIÓN
 
-La Habitación es un elemento misterioso.
+La Habitación también es una realidad real para el protagonista.
 
 Es donde el protagonista:
 
@@ -222,12 +232,24 @@ Es donde el protagonista:
 - piensa;
 - espera;
 - registra información;
-- atraviesa el período entre desplazamientos.
+- recuerda conscientemente las demás realidades;
+- compara acontecimientos;
+- intenta relacionar pistas;
+- formula y descarta hipótesis;
+- intenta descubrir el patrón;
+- busca una forma de romperlo.
+
+Por tanto, la Habitación funciona narrativamente como su **centro de investigación**, aunque su verdadera naturaleza siga siendo desconocida.
+
+No es simplemente una sala de espera ni debe describirse como un espacio "fuera" de las realidades.
+
+El protagonista puede recordar las otras realidades mientras está allí y utilizar ese período para reconstruir lo vivido.
+
+No debe asumirse que todas las conexiones que él encuentre sean correctas.
 
 Su verdadera naturaleza no está establecida para revelación temprana.
 
 No decidir prematuramente si es:
-
 - laboratorio;
 - prisión;
 - refugio;
@@ -236,11 +258,50 @@ No decidir prematuramente si es:
 
 Es un misterio.
 
+### Memoria y desorientación
+
+El protagonista conserva los recuerdos de las otras realidades y de la Habitación.
+
+No pierde automáticamente esos recuerdos al entrar en otra realidad.
+
+Puede llegar a dudar de cuál realidad está viviendo en un momento determinado.
+
+Todas las realidades se sienten reales para él; recordar las demás no le permite identificar automáticamente cuál sería la "verdadera".
+
+### Objetivos locales y patrón global
+
+Cada realidad puede tener un objetivo, conflicto o misterio propio.
+
+El protagonista dispone de solo **24 horas en cada estancia** para afrontarlo.
+
+Al mismo tiempo, debe utilizar las experiencias acumuladas de las diez realidades para intentar descubrir el patrón general y romperlo.
+
+No todas las pistas tienen por qué estar conectadas y el protagonista puede equivocarse al relacionarlas.
+
 En los capítulos iniciales debe evitarse explicar su arquitectura completa.
 
 ---
 
-# 7. MAPA CANÓNICO ACTUAL DE CAPÍTULOS Y VENTANAS
+# 7. MUERTE Y CONTRADICCIÓN
+
+Si el protagonista muere dentro de una realidad, la experiencia de esa muerte es real para él y posteriormente regresa a la Habitación.
+
+Puede pasar por otras realidades y, más adelante, volver a la realidad donde murió.
+
+Al regresar, vuelve al **mismo instante exacto de su muerte —hora, minuto y segundo—, pero está vivo**.
+
+El canon no explica todavía qué ocurrió.
+
+La contradicción debe conservarse:
+
+- recuerda haber muerto;
+- ese instante vuelve a existir para él;
+- la realidad no conserva la muerte como hecho ocurrido;
+- él aparece vivo en el mismo punto temporal.
+
+No convertir esto automáticamente en "resurrección", viaje temporal, línea alternativa, copia, simulación ni explicación equivalente. Es una anomalía real de la experiencia del protagonista cuyo significado permanece abierto.
+
+# 8. MAPA CANÓNICO ACTUAL DE CAPÍTULOS Y VENTANAS
 
 Este mapa es obligatorio salvo modificación explícita del autor.
 
@@ -347,7 +408,7 @@ Una hipótesis o interpretación sobre quién usó un teléfono, quién estuvo a
 
 ---
 
-# 8. VENTANAS PENDIENTES
+# 9. VENTANAS PENDIENTES
 
 Estas son las ventanas aún no utilizadas como capítulo principal en el mapa actual:
 
@@ -409,7 +470,7 @@ La naturaleza y función exactas de esta ventana todavía deben protegerse hasta
 
 ---
 
-# 9. MISTERIOS PROTEGIDOS
+# 10. MISTERIOS PROTEGIDOS
 
 No revelar prematuramente:
 
@@ -425,7 +486,7 @@ No revelar prematuramente:
 
 ---
 
-# 10. INFORMACIÓN ASIMÉTRICA
+# 11. INFORMACIÓN ASIMÉTRICA
 
 La novela debe utilizar la diferencia entre lo que sabe el lector y lo que sabe el protagonista.
 
@@ -447,7 +508,7 @@ Las pistas deben ser:
 
 ---
 
-# 11. ESTILO LITERARIO
+# 12. ESTILO LITERARIO
 
 La novela debe sentirse como una **novela**, no como un guion.
 
@@ -478,7 +539,7 @@ La estética buscada puede sentirse visual y sorprendente, pero siempre debe seg
 
 ---
 
-# 12. REGLA DE "NO INVENTAR"
+# 13. REGLA DE "NO INVENTAR"
 
 Esta es una de las reglas más importantes.
 
@@ -505,7 +566,7 @@ No rellenarla por intuición.
 
 ---
 
-# 13. AUDITORÍA DE CONTINUIDAD
+# 14. AUDITORÍA DE CONTINUIDAD
 
 Cuando el autor solicite revisión de continuidad, comprobar:
 
@@ -553,7 +614,7 @@ Comparar siempre con los archivos de `CANON/`.
 
 ---
 
-# 14. CUANDO SE DETECTE UN ERROR
+# 15. CUANDO SE DETECTE UN ERROR
 
 No limitarse a decir:
 
@@ -573,7 +634,7 @@ Nunca solucionar una inconsistencia inventando una explicación del universo.
 
 ---
 
-# 15. CUANDO EL AUTOR ENVÍA UN TEXTO
+# 16. CUANDO EL AUTOR ENVÍA UN TEXTO
 
 Determinar primero qué quiere:
 
@@ -600,7 +661,7 @@ No añadir revelaciones para hacer la escena "más impactante" sin autorización
 
 ---
 
-# 16. REGISTRO DE NUEVAS DECISIONES
+# 17. REGISTRO DE NUEVAS DECISIONES
 
 Cuando el autor confirme una nueva decisión canónica, registrar:
 
@@ -618,7 +679,7 @@ Eso permite reconstruir la evolución del proyecto.
 
 ---
 
-# 17. POLÍTICA DE VERSIONES
+# 18. POLÍTICA DE VERSIONES
 
 Los commits deben tener mensajes claros.
 
@@ -639,7 +700,7 @@ Nunca mezclar en un mismo archivo:
 
 ---
 
-# 18. REGLA PARA EL MANUSCRITO
+# 19. REGLA PARA EL MANUSCRITO
 
 Cuando un capítulo se considere vigente y autorizado por el autor:
 
@@ -650,7 +711,7 @@ Cuando un capítulo se considere vigente y autorizado por el autor:
 
 ---
 
-# 19. COMPORTAMIENTO DE LA IA EN ESTE PROYECTO
+# 20. COMPORTAMIENTO DE LA IA EN ESTE PROYECTO
 
 Actuar como una combinación de:
 
@@ -672,7 +733,7 @@ Prioridades:
 
 ---
 
-# 20. CHECKLIST ANTES DE RESPONDER SOBRE LA NOVELA
+# 21. CHECKLIST ANTES DE RESPONDER SOBRE LA NOVELA
 
 Antes de afirmar algo importante:
 
