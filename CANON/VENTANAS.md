@@ -110,3 +110,15 @@ Los objetivos completos de cada ventana todavía están en construcción y no de
 ## Relación entre ventanas
 
 Las conexiones profundas entre las ventanas todavía están en desarrollo. Los ecos existentes no deben convertirse automáticamente en una explicación. La contaminación explícita entre ventanas es una posibilidad narrativa futura, no una obligación inmediata.
+
+## Reglas canónicas de funcionamiento de las ventanas
+
+- Para el protagonista, cada ventana es una **realidad real** mientras la experimenta.
+- Al abandonar una ventana, su estado queda congelado exactamente en el instante de salida.
+- Al regresar, el protagonista vuelve al mismo instante exacto en que se fue.
+- El protagonista conserva los recuerdos de las demás ventanas y de la Habitación.
+- Puede llegar a dudar de cuál realidad está viviendo, porque ninguna se siente menos real que otra.
+- Cada estancia dura exactamente 24 horas.
+- Cada realidad puede tener un objetivo/conflicto propio, mientras el protagonista intenta simultáneamente descubrir y romper el patrón global.
+- La Habitación también es una realidad y funciona como centro de investigación entre estancias.
+- Si el protagonista muere en una ventana, experimenta esa muerte como real, regresa a la Habitación y puede posteriormente volver al mismo instante de la muerte encontrándose vivo. El significado de esta contradicción permanece sin explicar.
