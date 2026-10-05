@@ -89,6 +89,8 @@ Determinar:
 
 - capítulo actual;
 - ventana correspondiente;
+- si esta aparición continúa una visita anterior a la misma ventana;
+- qué parte de la historia de esa ventana está realmente desarrollada hasta ahora;
 - hechos ya establecidos;
 - misterios todavía abiertos;
 - información que el protagonista conoce;
@@ -539,6 +541,10 @@ Cuando el autor solicite revisión de continuidad, comprobar:
 
 ### Continuidad entre ventanas
 - las ventanas avanzan simultáneamente;
+- una misma ventana puede aparecer en varios capítulos;
+- no exigir que una ventana quede resuelta en su primera aparición;
+- no asumir que el protagonista utiliza el término "ventanas";
+- distinguir desarrollo pendiente de contradicción real;
 - una ausencia del protagonista afecta el paso del tiempo local;
 - no crear consecuencias imposibles sin una razón ya establecida.
 
