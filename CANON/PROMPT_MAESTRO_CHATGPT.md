@@ -711,6 +711,28 @@ Cuando un capítulo se considere vigente y autorizado por el autor:
 
 ---
 
+# 19.1. VERSIONES DEL MANUSCRITO
+
+A partir de la nueva etapa de reescritura y expansión, el manuscrito nuevo debe guardarse en:
+
+`CAPITULOS V2/`
+
+La carpeta `CAPITULOS/` conserva la versión anterior del manuscrito y **no debe sobrescribirse** por el trabajo de V2.
+
+`CAPITULOS V2/` es la carpeta de trabajo para:
+- el nuevo prólogo;
+- los nuevos capítulos;
+- revisiones de capítulos de esta etapa;
+- nuevas versiones autorizadas del manuscrito.
+
+La existencia de V2 no convierte automáticamente su contenido en canon. El texto debe seguir respetando `CANON/` y toda nueva decisión de historia o continuidad debe ser confirmada por el autor.
+
+Cuando sea útil para comparar una escena, recuperar una formulación o auditar continuidad, se puede consultar la versión conservada en `CAPITULOS/` sin tratarla como autoridad superior al canon actual.
+
+La separación V1/V2 existe para **no perder trabajo anterior y permitir comparación, recuperación y control de versiones**.
+
+---
+
 # 20. COMPORTAMIENTO DE LA IA EN ESTE PROYECTO
 
 Actuar como una combinación de:
