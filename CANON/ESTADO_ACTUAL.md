@@ -76,65 +76,10 @@ Este archivo debe tratarse como histórico salvo que exista una versión posteri
 ## Inicio de chat nuevo
 El autor no necesita copiar instrucciones ni volver a explicar el proyecto. Basta con indicar que se revise el repositorio. El asistente debe leer `CANON/PROMPT_MAESTRO_CHATGPT.md` y los archivos canónicos necesarios, y continuar desde allí.
 
+## Ideas recientes — pendientes de confirmación
 
-## Nueva decisión canónica — mecánica global de las realidades
+Durante la exploración reciente se plantearon cambios importantes en la mecánica de las diez realidades: congelación temporal, memoria completa entre realidades, función investigativa de la Habitación, objetivos locales/globales y una posible regla de muerte seguida de retorno al mismo instante estando vivo.
 
-Se confirma una nueva arquitectura que reemplaza la regla anterior de avance temporal paralelo.
+**Estado: PROPUESTAS / NO CANON.**
 
-### Realidades
-- Existen exactamente 10 realidades/ventanas.
-- Para el protagonista, todas son realidades reales mientras las vive.
-- La Habitación también es una realidad real para él.
-- La misma identidad/conciencia del protagonista puede experimentar una sola realidad a la vez.
-
-### Tiempo
-- Cada estancia en una ventana dura exactamente 24 horas.
-- Al abandonar una ventana, esta queda congelada en el instante exacto de salida.
-- Al regresar, el protagonista vuelve al mismo día, hora, minuto y segundo.
-- El protagonista sí acumula tiempo subjetivo al pasar por otras ventanas y por la Habitación.
-- La Habitación mantiene su propio paso del tiempo durante sus períodos de 24 horas.
-
-### Memoria
-- El protagonista conserva los recuerdos de las demás realidades y de la Habitación.
-- Puede dudar temporalmente de cuál realidad está viviendo.
-- Recordar todas las realidades no implica comprender qué son ni cuál sería una realidad "verdadera".
-
-### Habitación
-La Habitación funciona como su centro de investigación: allí reúne recuerdos, registra pistas, compara hechos, formula hipótesis, intenta descubrir patrones y busca una forma de romper el ciclo.
-
-### Objetivo doble
-Cada realidad puede presentar un objetivo/conflicto propio durante las 24 horas disponibles. Simultáneamente, el protagonista debe intentar comprender y romper el patrón global de las diez realidades.
-
-### Muerte
-Si muere en una realidad, la experiencia de la muerte es real para él y posteriormente regresa a la Habitación. Si después vuelve a esa misma realidad, regresa al instante exacto de la muerte, pero está vivo. El significado de esta contradicción permanece deliberadamente sin explicación.
-
-### Importante
-Estas reglas reemplazan explícitamente la antigua idea de que el tiempo avanzaba paralelamente en las diez ventanas mientras el protagonista estaba ausente.
-
-## Nueva decisión de construcción — etapa actual
-
-El análisis de los primeros ocho capítulos no debe tratar como fallos estructurales aquellas cuestiones que todavía dependen del desarrollo futuro de la novela.
-
-### Capítulo 5
-Es la prioridad de revisión más inmediata porque funciona principalmente como transición, reflexión y explicación del ciclo. El objetivo futuro es hacerlo más experiencial y narrativo sin eliminar la información que ya quedó implantada.
-
-La existencia de las ventanas y los saltos ya está implantada. No es necesario volver a introducir ese concepto desde cero.
-
-La revisión de Capítulo 5 debe evitar convertirlo en un manual sobre la arquitectura. El lector debe comprender lo necesario a través de la experiencia del protagonista.
-
-### Relación entre ventanas
-Todavía no es necesario establecer una contaminación explícita entre ventanas. Existen indicios y ecos, pero su relación profunda puede construirse gradualmente.
-
-### Ventana ≠ capítulo
-Una ventana no tiene por qué tener un objetivo completo ni resolver toda su acción dentro de un único capítulo. El protagonista puede abandonar una ventana con conflictos abiertos y regresar mucho más adelante.
-
-### Terminología
-El autor puede llamar internamente a estas realidades "ventanas". El protagonista no tiene obligación de utilizar todavía esa palabra ni de comprender la arquitectura con el mismo vocabulario que el autor.
-
-### Criterio de evaluación vigente
-Distinguir siempre entre:
-- problema real de continuidad o lógica;
-- desarrollo todavía pendiente;
-- oportunidad futura de mejora.
-
-No intentar cerrar prematuramente los arcos de las ventanas que aún están siendo construidos.
+El canon vigente no debe modificarse con estas ideas hasta confirmación expresa del autor.
