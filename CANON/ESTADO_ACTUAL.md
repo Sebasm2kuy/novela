@@ -50,6 +50,21 @@ El próximo capítulo a desarrollar es el Capítulo 9, pero su ventana y objetiv
 
 No usar archivos antiguos para alterar esta dirección canónica.
 
+
+## Nueva etapa de manuscrito — V2
+
+A partir del 5 de octubre de 2026, la nueva etapa de reescritura y expansión del manuscrito se guarda en:
+
+`CAPITULOS V2/`
+
+El prólogo revisado está guardado como:
+
+`CAPITULOS V2/00_PROLOGO.md`
+
+La carpeta `CAPITULOS/` queda preservada como V1/histórico y no debe sobrescribirse con el trabajo de V2. Esta separación existe para permitir comparación, recuperación y auditoría sin perder versiones anteriores.
+
+V2 sigue subordinada al canon de `CANON/`; crear una nueva versión del manuscrito no equivale por sí mismo a crear nuevo canon.
+
 ## Protección de continuidad
 Los archivos antiguos pueden contener ideas o versiones previas incompatibles con el canon actual. Deben conservarse como histórico, no como autoridad.
 
