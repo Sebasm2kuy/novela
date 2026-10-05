@@ -77,6 +77,40 @@ Este archivo debe tratarse como histórico salvo que exista una versión posteri
 El autor no necesita copiar instrucciones ni volver a explicar el proyecto. Basta con indicar que se revise el repositorio. El asistente debe leer `CANON/PROMPT_MAESTRO_CHATGPT.md` y los archivos canónicos necesarios, y continuar desde allí.
 
 
+## Nueva decisión canónica — mecánica global de las realidades
+
+Se confirma una nueva arquitectura que reemplaza la regla anterior de avance temporal paralelo.
+
+### Realidades
+- Existen exactamente 10 realidades/ventanas.
+- Para el protagonista, todas son realidades reales mientras las vive.
+- La Habitación también es una realidad real para él.
+- La misma identidad/conciencia del protagonista puede experimentar una sola realidad a la vez.
+
+### Tiempo
+- Cada estancia en una ventana dura exactamente 24 horas.
+- Al abandonar una ventana, esta queda congelada en el instante exacto de salida.
+- Al regresar, el protagonista vuelve al mismo día, hora, minuto y segundo.
+- El protagonista sí acumula tiempo subjetivo al pasar por otras ventanas y por la Habitación.
+- La Habitación mantiene su propio paso del tiempo durante sus períodos de 24 horas.
+
+### Memoria
+- El protagonista conserva los recuerdos de las demás realidades y de la Habitación.
+- Puede dudar temporalmente de cuál realidad está viviendo.
+- Recordar todas las realidades no implica comprender qué son ni cuál sería una realidad "verdadera".
+
+### Habitación
+La Habitación funciona como su centro de investigación: allí reúne recuerdos, registra pistas, compara hechos, formula hipótesis, intenta descubrir patrones y busca una forma de romper el ciclo.
+
+### Objetivo doble
+Cada realidad puede presentar un objetivo/conflicto propio durante las 24 horas disponibles. Simultáneamente, el protagonista debe intentar comprender y romper el patrón global de las diez realidades.
+
+### Muerte
+Si muere en una realidad, la experiencia de la muerte es real para él y posteriormente regresa a la Habitación. Si después vuelve a esa misma realidad, regresa al instante exacto de la muerte, pero está vivo. El significado de esta contradicción permanece deliberadamente sin explicación.
+
+### Importante
+Estas reglas reemplazan explícitamente la antigua idea de que el tiempo avanzaba paralelamente en las diez ventanas mientras el protagonista estaba ausente.
+
 ## Nueva decisión de construcción — etapa actual
 
 El análisis de los primeros ocho capítulos no debe tratar como fallos estructurales aquellas cuestiones que todavía dependen del desarrollo futuro de la novela.
