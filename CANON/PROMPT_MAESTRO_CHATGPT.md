@@ -784,3 +784,16 @@ Y ante una duda no resuelta:
 El objetivo no es hacer que la IA "recuerde" la novela.
 
 El objetivo es que la novela tenga una **fuente de verdad persistente, versionada y recuperable**.
+
+# 22. IDEAS RECIENTES EN EXPLORACIÓN — NO CANON
+
+Las ideas siguientes fueron discutidas recientemente y deben conservarse como **propuestas**, no como reglas.
+
+1. Que una realidad quede congelada exactamente en el instante de salida y se retome en ese mismo instante.
+2. Que el protagonista conserve conscientemente los recuerdos de las demás realidades y pueda incluso dudar de cuál está viviendo.
+3. Que la Habitación sea también una realidad real para él y funcione como centro de investigación para reunir pistas y tratar de romper el patrón.
+4. Que cada realidad tenga un objetivo local de 24 horas mientras existe simultáneamente un objetivo global: comprender y romper el patrón.
+5. Que una muerte dentro de una realidad pueda ser experimentada como real y, tras otros saltos, el protagonista regrese al instante exacto de esa muerte pero esté vivo, sin explicación inmediata.
+6. Que las diez realidades sean igualmente reales desde su experiencia.
+
+**IMPORTANTE:** ninguna de estas ideas cambia el canon actual hasta que el autor diga expresamente que desea confirmarla.
