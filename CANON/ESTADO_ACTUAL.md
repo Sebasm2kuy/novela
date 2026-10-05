@@ -41,7 +41,7 @@ El capítulo termina con el descubrimiento de una grabación que demuestra que u
 El significado de esa grabación y la relación entre lo que su cuerpo recuerda y lo que su memoria consciente recuerda siguen sin explicación canónica.
 
 ## Próxima zona de desarrollo
-El próximo capítulo a desarrollar es el Capítulo 9. Las ventanas todavía no utilizadas son:
+El próximo capítulo a desarrollar es el Capítulo 9, pero su ventana y objetivo concreto todavía pueden definirse durante la construcción. Las ventanas todavía no utilizadas son:
 
 1. Ventana 1 — Y2K
 2. Ventana 4 — Cortexia 2026
@@ -75,3 +75,32 @@ Este archivo debe tratarse como histórico salvo que exista una versión posteri
 
 ## Inicio de chat nuevo
 El autor no necesita copiar instrucciones ni volver a explicar el proyecto. Basta con indicar que se revise el repositorio. El asistente debe leer `CANON/PROMPT_MAESTRO_CHATGPT.md` y los archivos canónicos necesarios, y continuar desde allí.
+
+
+## Nueva decisión de construcción — etapa actual
+
+El análisis de los primeros ocho capítulos no debe tratar como fallos estructurales aquellas cuestiones que todavía dependen del desarrollo futuro de la novela.
+
+### Capítulo 5
+Es la prioridad de revisión más inmediata porque funciona principalmente como transición, reflexión y explicación del ciclo. El objetivo futuro es hacerlo más experiencial y narrativo sin eliminar la información que ya quedó implantada.
+
+La existencia de las ventanas y los saltos ya está implantada. No es necesario volver a introducir ese concepto desde cero.
+
+La revisión de Capítulo 5 debe evitar convertirlo en un manual sobre la arquitectura. El lector debe comprender lo necesario a través de la experiencia del protagonista.
+
+### Relación entre ventanas
+Todavía no es necesario establecer una contaminación explícita entre ventanas. Existen indicios y ecos, pero su relación profunda puede construirse gradualmente.
+
+### Ventana ≠ capítulo
+Una ventana no tiene por qué tener un objetivo completo ni resolver toda su acción dentro de un único capítulo. El protagonista puede abandonar una ventana con conflictos abiertos y regresar mucho más adelante.
+
+### Terminología
+El autor puede llamar internamente a estas realidades "ventanas". El protagonista no tiene obligación de utilizar todavía esa palabra ni de comprender la arquitectura con el mismo vocabulario que el autor.
+
+### Criterio de evaluación vigente
+Distinguir siempre entre:
+- problema real de continuidad o lógica;
+- desarrollo todavía pendiente;
+- oportunidad futura de mejora.
+
+No intentar cerrar prematuramente los arcos de las ventanas que aún están siendo construidos.
