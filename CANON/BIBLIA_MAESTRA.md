@@ -18,15 +18,17 @@ La ausencia de la segunda H en "WATH" es intencional y forma parte de las anomal
 - Línea conceptual vigente: "Él sabe que existe, piensa, siente y recuerda. Pero nunca se ha preguntado qué es."
 
 ## 4. Estructura de las realidades
-Existen exactamente **10 ventanas** / realidades simultáneas.
+Existen exactamente **10 realidades** / ventanas.
 
-La misma identidad/conciencia existe en las diez, pero el protagonista solo puede experimentar conscientemente una a la vez.
+La misma identidad/conciencia del protagonista existe en las diez, pero él solo puede experimentar conscientemente una a la vez.
+
+Para el protagonista, **cada una de las diez realidades es su realidad real mientras está dentro de ella**. No existe, desde su experiencia, una realidad que pueda identificar de antemano como "la verdadera" frente a otras que sean visitas, copias o simulaciones.
+
+La **Habitación también es una realidad real para él**. No está fuera de la existencia ni debe tratarse como un espacio meramente abstracto.
 
 Cada estancia en una ventana dura exactamente **24 horas**.
 
-Después del desplazamiento, el protagonista regresa automáticamente a la **Habitación**, donde debe permanecer al menos 24 horas antes de otro desplazamiento.
-
-La naturaleza de la Habitación no debe explicarse prematuramente.
+Después del desplazamiento, el protagonista regresa automáticamente a la Habitación, donde debe permanecer al menos **24 horas** antes de otro desplazamiento.
 
 ## 5. Desplazamiento
 - Existe una señal física/sensorial relacionada con una pared.
@@ -37,14 +39,59 @@ La naturaleza de la Habitación no debe explicarse prematuramente.
 - Puede desear una ventana concreta, pero el deseo no controla el resultado.
 - La pérdida de control es intencional.
 
-## 6. Tiempo
-El tiempo avanza paralelamente en las diez ventanas, la Habitación y la realidad externa.
+## 6. Tiempo y congelación de las realidades
+La regla anterior de avance temporal paralelo queda **reemplazada** por esta decisión canónica.
 
-Mientras el protagonista está ausente, los acontecimientos continúan en las demás ventanas.
+Cuando el protagonista abandona una ventana, **esa realidad queda detenida exactamente en el instante de su salida**.
 
-Los lapsos temporales son deliberados y pueden producir ausencias, culpa, cambios en relaciones y consecuencias.
+Cuando regresa posteriormente a esa misma realidad, vuelve al **mismo instante exacto —hora, minuto y segundo— en que la abandonó**.
 
-## 7. Historia
+Para los habitantes de esa realidad puede no haber transcurrido ningún tiempo entre ambas visitas. Una persona puede continuar una acción, una frase o un movimiento exactamente donde quedó.
+
+El tiempo subjetivo del protagonista, en cambio, sí continúa: entre una visita y otra puede haber vivido múltiples estancias de 24 horas en otras realidades y períodos de al menos 24 horas en la Habitación.
+
+Por tanto, existe una diferencia fundamental entre:
+- el tiempo que él ha vivido;
+- el tiempo transcurrido dentro de una ventana concreta.
+
+Las diez realidades no avanzan mientras él está ausente de ellas. Cada una conserva su propio estado hasta que vuelve a experimentarla.
+
+La Habitación sí posee continuidad temporal propia: allí transcurre el período que el protagonista utiliza para descansar, recordar, registrar e investigar.
+
+Los lapsos subjetivos acumulados son deliberados y pueden producir cansancio, culpa, desorientación y problemas de identidad.
+
+## 7. Memoria, identidad y percepción de la realidad
+El protagonista conserva conscientemente los recuerdos de las demás realidades y de la Habitación.
+
+No pierde automáticamente esos recuerdos al entrar en una nueva realidad.
+
+Por eso puede llegar a dudar de cuál de todas está viviendo en un momento determinado. Puede recordar personas, lugares y acontecimientos de otras realidades mientras se encuentra físicamente en una de ellas.
+
+Esto no significa que comprenda qué son las realidades ni que conozca una explicación del sistema. **Recordar todas las realidades no equivale a comprenderlas.**
+
+Para él, la Habitación es el lugar donde puede reunir con mayor claridad esos recuerdos y compararlos.
+
+La Habitación funciona como su **centro de investigación**: allí escribe, reconstruye acontecimientos, relaciona pistas, formula hipótesis, descarta conexiones y trata de descubrir qué patrón existe entre las diez realidades y cómo podría romperlo.
+
+Cada realidad puede tener un **objetivo o conflicto propio** que el protagonista debe afrontar durante sus 24 horas. Resolver ese objetivo local y comprender el patrón global son dos problemas simultáneos. Una pista encontrada en una realidad puede ser relevante para otra, puede no tener relación alguna o puede ser interpretada erróneamente por el protagonista.
+
+## 8. Muerte y contradicción de estados
+Si el protagonista muere dentro de una realidad, la experiencia de esa muerte es real para él y posteriormente regresa a la Habitación.
+
+Después puede recorrer otras realidades y, en algún momento, regresar a la realidad donde murió.
+
+Al volver, regresa al **mismo instante exacto de la muerte** —hora, minuto y segundo—, pero se encuentra vivo.
+
+No debe explicarse todavía qué ocurrió ni convertir este fenómeno en una respuesta sobre la naturaleza del protagonista.
+
+El canon establece únicamente la contradicción:
+- el protagonista recuerda haber muerto;
+- la realidad conserva el instante anterior como si esa muerte no hubiera ocurrido;
+- cuando vuelve, él está vivo.
+
+La novela puede explorar esta contradicción como una anomalía de memoria, existencia, posibilidad o realidad, pero ninguna interpretación constituye por sí sola una explicación canónica.
+
+## 9. Historia
 El protagonista no puede cambiar la historia de una ventana.
 
 No conoce necesariamente la historia real del mundo como la conoce el lector.
@@ -59,7 +106,7 @@ No revelar prematuramente:
 - cuál es la verdadera naturaleza de las diez ventanas;
 - la arquitectura completa de la simulación/universo.
 
-## 9. Ventana 5 / 2056 — Las Siete Arquitecturas
+## 10. Ventana 5 / 2056 — Las Siete Arquitecturas
 
 Las siete arquitecturas autónomas no son malvadas. Su respuesta ante la incursión humana deriva de protocolos de seguridad: deben resistir cualquier intento de ingreso no autorizado mientras no exista una orden previa de ingreso aceptada por las propias siete arquitecturas.
 
@@ -69,7 +116,7 @@ El protagonista puede sentir que está siendo atacado o incluso preguntarse si e
 
 En este capítulo, el combate debe integrarse con la conciencia del protagonista y obligarlo a tomar decisiones dentro de la acción. La memoria corporal —especialmente su familiaridad inexplicable con el equipo y el combate— permanece como misterio.
 
-## 10. Regla de canon
+## 11. Regla de canon
 Cuando exista conflicto entre:
 1. esta Biblia Maestra,
 2. otros archivos del repositorio,
@@ -79,7 +126,7 @@ Cuando exista conflicto entre:
 prevalece esta Biblia Maestra, salvo modificación expresa del autor.
 
 
-## 11. Etapa actual de construcción narrativa
+## 12. Etapa actual de construcción narrativa
 
 La novela se está construyendo paso a paso. Las diez ventanas están definidas a nivel arquitectónico, pero todavía no están definidos todos sus objetivos, conflictos, recorridos emocionales ni desenlaces.
 
@@ -102,7 +149,7 @@ El protagonista puede regresar posteriormente a una misma ventana. El tiempo con
 
 El orden de aparición de las ventanas no representa su orden cronológico ni su orden interno de importancia.
 
-## 12. Terminología del protagonista
+## 13. Terminología del protagonista
 
 El autor puede utilizar internamente el término **ventanas** para organizar la arquitectura de la novela.
 
@@ -112,7 +159,7 @@ Mientras la novela avanza, el protagonista puede pensar simplemente en lugares, 
 
 No hacer que el protagonista explique prematuramente la arquitectura con el vocabulario del autor.
 
-## 13. Construcción progresiva de la relación entre ventanas
+## 14. Construcción progresiva de la relación entre ventanas
 
 La relación entre ventanas no debe forzarse desde los primeros capítulos.
 
@@ -122,7 +169,7 @@ Las conexiones pueden crecer gradualmente mediante recuerdos difíciles de ubica
 
 No convertir estas posibilidades en explicaciones definitivas sin confirmación del autor.
 
-## 14. Regla de evaluación durante la etapa de construcción
+## 15. Regla de evaluación durante la etapa de construcción
 
 Los análisis estructurales deben distinguir entre:
 
@@ -134,7 +181,7 @@ Los análisis estructurales deben distinguir entre:
 
 No presentar automáticamente un desarrollo pendiente como un fallo de la novela.
 
-## 15. Capítulos que regresan a una misma ventana
+## 16. Capítulos que regresan a una misma ventana
 
 Una misma ventana puede ocupar varios capítulos separados.
 
