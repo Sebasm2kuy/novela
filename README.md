@@ -38,7 +38,9 @@ El historial no es canon. Su función es permitir que un chat nuevo reconstruya 
 
 Usar:
 
-> Revisa https://github.com/Sebasm2kuy/novela y carga el contexto persistente antes de responder. Consulta el espacio de trabajo vigente, CANON/ cuando corresponda, y el HISTORIAL_CHAT/ reciente. Distingue siempre CANON, IDEAS, ARCHIVO e HISTORIAL. Guarda las respuestas de trabajo, decisiones e ideas nuevas en HISTORIAL_CHAT con fecha y hora.
+> Revisa https://github.com/Sebasm2kuy/novela y carga el contexto persistente antes de responder. **Analiza el repositorio completo y, además, lee obligatoriamente el HISTORIAL_CHAT más reciente para quedar actualizado con lo último de lo último.** Consulta el archivo del día actual y los días anteriores necesarios. Distingue siempre CANON, IDEAS, ARCHIVO, HISTORIAL y NUEVA_NOVELA. No conviertas automáticamente una conversación en canon.
+
+El archivo del día actual debe considerarse prioritario para conocer el estado más reciente de la conversación, sin sustituir las reglas canónicas.
 
 Para WATH NEVER LEFT, el archivo `CANON/PROMPT_MAESTRO_CHATGPT.md` contiene además el procedimiento específico del canon y manuscrito de WATH.
 
