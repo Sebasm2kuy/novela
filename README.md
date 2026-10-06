@@ -28,7 +28,7 @@ No se debe convertir una propuesta de IA, un borrador antiguo o una interpretaci
 
 ## Historial de conversaciones
 
-**Toda respuesta del asistente que trate, analice, decida, modifique o avance el proyecto debe registrarse en `HISTORIAL_CHAT/` con fecha, hora y zona horaria America/Montevideo (UTC-03:00).**
+**Toda interacción de trabajo relevante —tanto del usuario como del asistente— debe registrarse en `HISTORIAL_CHAT/` con fecha, hora y zona horaria America/Montevideo (UTC-03:00).**
 
 Cuando se recupere material antiguo sin una hora verificable, no se debe inventar la hora; debe señalarse como hora no recuperada.
 
@@ -43,3 +43,8 @@ Usar:
 Para WATH NEVER LEFT, el archivo `CANON/PROMPT_MAESTRO_CHATGPT.md` contiene además el procedimiento específico del canon y manuscrito de WATH.
 
 Cada cambio importante debe quedar registrado mediante un commit con un mensaje claro.
+
+
+## Nueva novela
+
+El directorio `NUEVA_NOVELA/` contiene la búsqueda independiente de una nueva novela. WATH NEVER LEFT V1/V2 y su CANON no se modifican por este trabajo. `NUEVA_NOVELA/` comienza sin canon y prioriza una premisa sencilla, clara y fértil antes de definir estructura o mitología.
