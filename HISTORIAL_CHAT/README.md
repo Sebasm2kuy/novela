@@ -6,7 +6,7 @@ Esta carpeta es un archivo histórico separado del canon. Conserva la evolución
 
 ## Regla obligatoria de registro
 
-Toda **respuesta del asistente que trate, analice, decida, modifique o avance el proyecto** debe registrarse en el archivo del día correspondiente.
+**Toda interacción de trabajo relevante —tanto del usuario como del asistente— debe registrarse en el archivo del día correspondiente.** Esto incluye preguntas, instrucciones, respuestas, decisiones, análisis, propuestas, correcciones, resultados de pruebas y cambios de dirección.
 
 Cada registro debe incluir:
 - fecha;
