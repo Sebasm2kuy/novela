@@ -52,11 +52,27 @@ Cuando el autor diga algo como:
 
 hacer lo siguiente, en este orden:
 
-### Paso 1 — Revisar el repositorio
+### Paso 1 — Revisar el repositorio completo y el historial más reciente
 
 La frase mínima del autor **"Revisa https://github.com/Sebasm2kuy/novela"** es suficiente para iniciar el procedimiento. No pedir al autor que copie o vuelva a explicar estas instrucciones.
 
-Consultar la estructura actual del repositorio y localizar:
+**Este paso es obligatorio y tiene dos partes:**
+
+### 1A — Revisar el repositorio completo
+
+Consultar la estructura actual del repositorio y localizar los archivos relevantes del proyecto activo, además de CANON, CAPITULOS, IDEAS, ARCHIVO, METODOS_ESCRITURA y cualquier otro espacio de trabajo existente.
+
+### 1B — Leer el HISTORIAL_CHAT más reciente
+
+Después de revisar los archivos del repositorio, consultar obligatoriamente `HISTORIAL_CHAT/` y leer los registros más recientes correspondientes a los últimos días disponibles, empezando por el archivo de la fecha actual y retrocediendo lo necesario.
+
+El objetivo es quedar actualizado con **"lo último de lo último"**, incluyendo conversaciones, preguntas del autor, respuestas del asistente, ideas todavía no canonizadas, decisiones recientes, descartes, pruebas y cambios de dirección que todavía no hayan sido reflejados en otros archivos.
+
+**El historial debe considerarse la fuente de continuidad conversacional más reciente, pero no sustituye al CANON.**
+
+Cuando exista una decisión o hecho confirmado en el historial que todavía no se haya reflejado en CANON, identificarlo explícitamente antes de continuar. No convertir automáticamente una conversación en canon.
+
+Una vez leído el historial reciente, continuar con la localización de:
 
 1. `CANON/BIBLIA_MAESTRA.md`
 2. `CANON/MAPA_CAPITULOS.md`
