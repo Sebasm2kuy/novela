@@ -1,6 +1,6 @@
 # WATH NEVER LEFT
 
-Repositorio maestro del proyecto **WATH NEVER LEFT**.
+Repositorio maestro del proyecto **WATH NEVER LEFT**, junto con su archivo histórico y materiales de estudio para las etapas posteriores.
 
 ## Principio
 
@@ -12,27 +12,34 @@ La regla es simple:
 - IDEAS contiene propuestas que todavía no son canon.
 - ARCHIVO contiene versiones antiguas o material descartado.
 - CAPITULOS contiene los textos narrativos vigentes cuando hayan sido incorporados.
+- HISTORIAL_CHAT conserva la evolución real de las conversaciones y respuestas de trabajo.
 
 No se debe convertir una propuesta de IA, un borrador antiguo o una interpretación en canon sin decisión expresa del autor.
 
 ## Estructura
 
-- `CANON/BIBLIA_MAESTRA.md` — reglas y hechos canónicos.
-- `CANON/MAPA_CAPITULOS.md` — correspondencia capítulo/ventana.
-- `CANON/REGLAS_NARRATIVAS.md` — reglas de narración y estilo.
-- `CANON/VENTANAS.md` — estado de las 10 ventanas.
-- `CANON/ESTADO_ACTUAL.md` — situación actual del proyecto.
-- `CANON/PROMPT_MAESTRO_CHATGPT.md` — instrucciones completas para recuperar y trabajar el proyecto en un chat nuevo.
-- `CAPITULOS/` — manuscrito vigente.
+- `CANON/` — reglas y hechos canónicos de WATH NEVER LEFT.
+- `CAPITULOS/` — manuscrito histórico/vigente según la versión.
+- `CAPITULOS V2/` — nueva etapa del manuscrito de WATH.
 - `IDEAS/` — ideas no canonizadas.
 - `ARCHIVO/` — material histórico/descartado.
+- `METODOS_ESCRITURA/` — métodos, estructuras y estudios narrativos.
+- `HISTORIAL_CHAT/` — historial cronológico de conversaciones y respuestas de trabajo.
+
+## Historial de conversaciones
+
+**Toda respuesta del asistente que trate, analice, decida, modifique o avance el proyecto debe registrarse en `HISTORIAL_CHAT/` con fecha, hora y zona horaria America/Montevideo (UTC-03:00).**
+
+Cuando se recupere material antiguo sin una hora verificable, no se debe inventar la hora; debe señalarse como hora no recuperada.
+
+El historial no es canon. Su función es permitir que un chat nuevo reconstruya la evolución de las ideas, decisiones, descartes y análisis sin depender de la memoria del modelo.
 
 ## Cómo iniciar un chat nuevo
 
 Usar:
 
-> Revisa https://github.com/Sebasm2kuy/novela y carga el contexto de WATH NEVER LEFT antes de responder. Usa CANON como fuente principal, distingue CANON de IDEAS y ARCHIVO, revisa el mapa de capítulos y ventanas, y guarda en GitHub toda decisión nueva que quede confirmada.
+> Revisa https://github.com/Sebasm2kuy/novela y carga el contexto persistente antes de responder. Consulta el espacio de trabajo vigente, CANON/ cuando corresponda, y el HISTORIAL_CHAT/ reciente. Distingue siempre CANON, IDEAS, ARCHIVO e HISTORIAL. Guarda las respuestas de trabajo, decisiones e ideas nuevas en HISTORIAL_CHAT con fecha y hora.
 
-El archivo `CANON/PROMPT_MAESTRO_CHATGPT.md` contiene el procedimiento detallado.
+Para WATH NEVER LEFT, el archivo `CANON/PROMPT_MAESTRO_CHATGPT.md` contiene además el procedimiento específico del canon y manuscrito de WATH.
 
 Cada cambio importante debe quedar registrado mediante un commit con un mensaje claro.
