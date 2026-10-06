@@ -1,46 +1,57 @@
-# HISTORIAL DEL CHAT — PROTOCOLO DE PERSISTENCIA
+# HISTORIAL DEL CHAT
 
-Esta carpeta es un archivo histórico separado del canon. Conserva la evolución de las conversaciones, razonamientos, decisiones y respuestas de trabajo relacionadas con el proyecto.
+Esta carpeta es un archivo histórico separado del canon. Conserva la evolución real de las conversaciones de trabajo.
 
-**No es canon.** Lo que aparezca aquí describe lo hablado o decidido en los chats; no convierte automáticamente una idea histórica en una regla vigente.
+## Regla obligatoria
 
-## Regla obligatoria de registro
+**Cada interacción de trabajo relevante debe registrarse individualmente.**
 
-**Toda interacción de trabajo relevante —tanto del usuario como del asistente— debe registrarse en el archivo del día correspondiente.** Esto incluye preguntas, instrucciones, respuestas, decisiones, análisis, propuestas, correcciones, resultados de pruebas y cambios de dirección.
+Eso significa registrar:
+- el mensaje del **USUARIO**;
+- la respuesta del **ASISTENTE**;
+- la fecha;
+- la hora;
+- la zona horaria **America/Montevideo (UTC-03:00)**.
 
-Cada registro debe incluir:
-- fecha;
-- hora;
-- zona horaria;
-- contexto o asunto;
-- respuesta completa del asistente cuando sea relevante para recuperar el razonamiento, las decisiones o las ideas.
+No se debe registrar solamente una conclusión o decisión si hubo una conversación previa que llevó a ella.
 
-Cuando el texto completo sea demasiado extenso, se puede conservar un resumen fiel, pero debe indicarse explícitamente que es un **resumen** y no una transcripción literal.
+Cuando sea posible, conservar el texto completo de cada turno. Si una conversación antigua solo está disponible como resumen o reconstrucción, indicarlo explícitamente.
 
-Las respuestas breves sin contenido de proyecto (por ejemplo, saludos) no necesitan registro.
+Los mensajes casuales sin relación con el proyecto no necesitan registro.
 
-## Orden
-- Un archivo por día.
-- Dentro de cada día, los acontecimientos aparecen en orden cronológico.
-- Usar hora local del proyecto: **America/Montevideo (UTC-03:00)**.
-- Si se recupera una conversación antigua sin hora disponible, **no inventar la hora**. Registrar la fecha conocida y señalar que la hora no fue recuperada.
-- No inventar contenido para llenar huecos.
+## Objetivo
+
+El historial debe permitir que un chat nuevo reconstruya:
+- qué preguntó o pidió el usuario;
+- qué respondió el asistente;
+- qué ideas aparecieron;
+- qué alternativas fueron descartadas;
+- qué decisiones se tomaron;
+- cómo evolucionó una línea de trabajo.
 
 ## Separación
-CANON/ = lo que actualmente rige la novela.
-IDEAS/ = propuestas no confirmadas.
-HISTORIAL_CHAT/ = lo que ocurrió en las conversaciones, incluso si después fue descartado.
 
-El historial conserva decisiones antiguas porque su objetivo es preservar la evolución del proyecto y permitir que un chat nuevo reconstruya qué se habló realmente.
+**CANON/** = lo que actualmente rige una novela concreta.
 
-## Regla de continuidad entre chats
-El historial no sustituye al canon. Sirve para reconstruir:
-- cómo nació una idea;
-- qué alternativas se discutieron;
-- qué descartamos;
-- por qué se tomó una decisión;
-- qué respuestas produjo el asistente;
-- qué asuntos quedaron pendientes.
+**IDEAS/** = propuestas todavía no confirmadas.
 
-Al abrir un chat nuevo, el asistente debe consultar el historial reciente además de CANON/ o del espacio de trabajo correspondiente.
+**ARCHIVO/** = material histórico o descartado.
+
+**HISTORIAL_CHAT/** = lo que realmente se conversó, incluso cuando después fue descartado.
+
+**NUEVA_NOVELA/** = espacio de trabajo independiente para la novela nueva; su desarrollo también debe quedar registrado aquí.
+
+## Fechas y horas
+
+Usar siempre la hora local del proyecto:
+
+**America/Montevideo (UTC-03:00)**
+
+Cuando la hora de una conversación antigua no pueda recuperarse de forma verificable, no inventarla. Marcarla como **hora no recuperada**.
+
+## Regla de continuidad
+
+Al comenzar un chat nuevo, consultar el historial reciente junto con el espacio de trabajo correspondiente y el canon que aplique.
+
+El historial **no convierte automáticamente una idea en canon**. Su función es conservar el camino recorrido.
 
