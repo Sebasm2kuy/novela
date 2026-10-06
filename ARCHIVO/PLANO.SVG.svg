@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <marker id="arrowBlack" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1A2B4A"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#D64545"/>
+    </marker>
+    <marker id="arrowTeal" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2A9D8F"/>
+    </marker>
+    <marker id="arrowGray" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#6C757D"/>
+    </marker>
+  </defs>
+
+  <!-- Fondo general -->
+  <rect width="1600" height="1000" fill="#F7F9FC"/>
+
+  <!-- Título y subtítulo -->
+  <text x="800" y="60" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="bold" fill="#1A2B4A">¿Y SI EL ESPACIO NO CERRARA COMO DEBERÍA?</text>
+  <text x="800" y="95" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#4A5568">Localmente todo parece normal. Globalmente, algo no encaja.</text>
+
+  <!-- ================= PANEL IZQUIERDO ================= -->
+  <rect x="40" y="140" width="740" height="800" rx="16" fill="#FFFFFF" stroke="#D0D7E2" stroke-width="2"/>
+  <text x="60" y="180" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">EJEMPLO SIMPLE</text>
+  <text x="60" y="205" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4A5568">Superficie plana con una cuña retirada y bordes unidos</text>
+
+  <!-- Superficie cónica (vista superior) -->
+  <path d="M 400,480 L 599.238,462.568 A 200 200 0 1 1 599.238,497.432 Z" fill="#E8F1F8" stroke="#2A9D8F" stroke-width="2"/>
+  <!-- Cuña retirada (exagerada) -->
+  <line x1="400" y1="480" x2="599.238" y2="462.568" stroke="#D64545" stroke-width="2" stroke-dasharray="5,3"/>
+  <line x1="400" y1="480" x2="599.238" y2="497.432" stroke="#D64545" stroke-width="2" stroke-dasharray="5,3"/>
+  <text x="620" y="465" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#D64545">cuña retirada (1°)</text>
+  <text x="620" y="480" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#6C757D">(exagerada para visualizar)</text>
+  <!-- Bordes unidos -->
+  <path d="M 599.238,462.568 Q 650,480 599.238,497.432" fill="none" stroke="#2A9D8F" stroke-width="2" marker-end="url(#arrowTeal)"/>
+  <text x="660" y="485" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A9D8F">bordes unidos</text>
+  <!-- Centro -->
+  <circle cx="400" cy="480" r="4" fill="#1A2B4A"/>
+
+  <!-- Recorrido circular -->
+  <circle cx="400" cy="480" r="120" fill="none" stroke="#2A9D8F" stroke-width="2" stroke-dasharray="6,4"/>
+  <polygon points="400,360 410,355 410,365" fill="#2A9D8F"/>
+  <text x="400" y="330" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#2A9D8F">recorrido cerrado</text>
+
+  <!-- Flecha inicial NORTE -->
+  <line x1="400" y1="360" x2="400" y2="320" stroke="#1A2B4A" stroke-width="3" marker-end="url(#arrowBlack)"/>
+  <text x="400" y="310" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#1A2B4A">NORTE</text>
+
+  <!-- Flecha final desviada 1° -->
+  <line x1="400" y1="360" x2="406.94" y2="320.61" stroke="#D64545" stroke-width="3" marker-end="url(#arrowRed)"/>
+  <text x="425" y="330" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#D64545">1°</text>
+  <path d="M 400,330 Q 410,325 406.94,320.61" fill="none" stroke="#D64545" stroke-width="1.5"/>
+
+  <!-- Ampliación -->
+  <circle cx="600" cy="650" r="70" fill="#F7F9FC" stroke="#D0D7E2" stroke-width="2"/>
+  <text x="600" y="590" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6C757D">AMPLIACIÓN</text>
+  <!-- Flecha original en ampliación -->
+  <line x1="600" y1="680" x2="600" y2="630" stroke="#1A2B4A" stroke-width="2" stroke-dasharray="4,2" marker-end="url(#arrowBlack)"/>
+  <!-- Flecha final en ampliación -->
+  <line x1="600" y1="680" x2="612" y2="632" stroke="#D64545" stroke-width="2" marker-end="url(#arrowRed)"/>
+  <path d="M 600,640 Q 606,636 612,632" fill="none" stroke="#D64545" stroke-width="1.5"/>
+  <text x="618" y="645" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#D64545">1°</text>
+
+  <!-- Textos explicativos izquierda -->
+  <text x="60" y="880" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#2A9D8F">Localmente: todo parece normal</text>
+  <text x="60" y="905" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#D64545">Al rodear el centro: la orientación cambia 1°</text>
+
+  <!-- ================= PANEL DERECHO ================= -->
+  <rect x="820" y="140" width="740" height="800" rx="16" fill="#FFFFFF" stroke="#D0D7E2" stroke-width="2"/>
+  <text x="840" y="180" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="bold" fill="#1A2B4A">EL EDIFICIO</text>
+  <text x="840" y="205" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#4A5568">Plano arquitectónico visto desde arriba</text>
+
+  <!-- Edificio: contorno exterior -->
+  <rect x="880" y="260" width="620" height="560" fill="#FFFFFF" stroke="#1A2B4A" stroke-width="3"/>
+
+  <!-- Muros interiores (líneas) -->
+  <!-- Planta izquierda -->
+  <line x1="880" y1="400" x2="1050" y2="400" stroke="#1A2B4A" stroke-width="4"/>
+  <line x1="880" y1="680" x2="1050" y2="680" stroke="#1A2B4A" stroke-width="4"/>
+  <line x1="1050" y1="260" x2="1050" y2="400" stroke="#1A2B4A" stroke-width="4"/>
+  <line x1="1050" y1="680" x2="1050" y2="820" stroke="#1A2B4A" stroke-width="4"/>
+  <!-- Planta derecha -->
+  <line x1="1330" y1="260" x2="1330" y2="400" stroke="#1A2B4A" stroke-width="4"/>
+  <line x1="1330" y1="680" x2="1330" y2="820" stroke="#1A2B4A" stroke-width="4"/>
+  <line x1="1330" y1="400" x2="1500" y2="400" stroke="#1A2B4A" stroke-width="4"/>
+  <line x1="1330" y1="680" x2="1500" y2="680" stroke="#1A2B4A" stroke-width="4"/>
+
+  <!-- Etiquetas de habitaciones -->
+  <text x="960" y="330" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4A5568">Oficina 1</text>
+  <text x="960" y="540" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4A5568">Oficina 2</text>
+  <text x="960" y="750" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4A5568">Oficina 3</text>
+  <text x="1415" y="330" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4A5568">Baño</text>
+  <text x="1415" y="540" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4A5568">Sala técnica</text>
+  <text x="1415" y="750" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4A5568">Pasillo</text>
+
+  <!-- Zona central aparentemente normal -->
+  <circle cx="1190" cy="540" r="120" fill="none" stroke="#F4A261" stroke-width="3" stroke-dasharray="8,6"/>
+  <text x="1190" y="540" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#F4A261">Zona central</text>
+  <text x="1190" y="558" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#F4A261">aparentemente normal</text>
+
+  <!-- Recorrido A-B-C-D-E-A alrededor de la zona central -->
+  <path d="M 1010,540 L 1134.4,368.8 L 1335.6,434.2 L 1335.6,645.8 L 1134.4,711.2 Z" fill="none" stroke="#2A9D8F" stroke-width="3" stroke-dasharray="8,6"/>
+  <!-- Puntos y etiquetas -->
+  <circle cx="1010" cy="540" r="6" fill="#1A2B4A"/>
+  <text x="1010" y="525" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#1A2B4A">A</text>
+  <circle cx="1134.4" cy="368.8" r="6" fill="#1A2B4A"/>
+  <text x="1134.4" y="355" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#1A2B4A">B</text>
+  <circle cx="1335.6" cy="434.2" r="6" fill="#1A2B4A"/>
+  <text x="1350" y="430" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#1A2B4A">C</text>
+  <circle cx="1335.6" cy="645.8" r="6" fill="#1A2B4A"/>
+  <text x="1350" y="655" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#1A2B4A">D</text>
+  <circle cx="1134.4" cy="711.2" r="6" fill="#1A2B4A"/>
+  <text x="1134.4" y="730" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#1A2B4A">E</text>
+
+  <!-- Flecha inicial en A -->
+  <line x1="1010" y1="540" x2="1010" y2="500" stroke="#1A2B4A" stroke-width="3" marker-end="url(#arrowBlack)"/>
+  <text x="1010" y="490" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#1A2B4A">NORTE</text>
+
+  <!-- Flecha final en A desviada 1° -->
+  <line x1="1010" y1="540" x2="1016.94" y2="500.61" stroke="#D64545" stroke-width="3" marker-end="url(#arrowRed)"/>
+  <text x="1035" y="510" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#D64545">1°</text>
+  <path d="M 1010,510 Q 1016,505 1016.94,500.61" fill="none" stroke="#D64545" stroke-width="1.5"/>
+
+  <!-- Recorrido que NO rodea la zona central -->
+  <path d="M 1400,700 L 1480,700 L 1480,780 L 1400,780 Z" fill="none" stroke="#6C757D" stroke-width="2" stroke-dasharray="5,4"/>
+  <circle cx="1400" cy="700" r="4" fill="#6C757D"/>
+  <circle cx="1480" cy="700" r="4" fill="#6C757D"/>
+  <circle cx="1480" cy="780" r="4" fill="#6C757D"/>
+  <circle cx="1400" cy="780" r="4" fill="#6C757D"/>
+  <!-- Flecha en P (1400,700) -->
+  <line x1="1400" y1="700" x2="1400" y2="670" stroke="#6C757D" stroke-width="2" marker-end="url(#arrowGray)"/>
+  <line x1="1400" y1="700" x2="1400" y2="670" stroke="#6C757D" stroke-width="2" marker-end="url(#arrowGray)" transform="rotate(0,1400,700)"/>
+  <text x="1440" y="690" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6C757D">0° de desviación</text>
+
+  <!-- Leyenda -->
+  <rect x="840" y="840" width="700" height="80" rx="8" fill="#F7F9FC" stroke="#D0D7E2" stroke-width="1"/>
+  <line x1="860" y1="860" x2="900" y2="860" stroke="#2A9D8F" stroke-width="3" stroke-dasharray="6,4"/>
+  <text x="910" y="865" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4A5568">Recorrido que rodea la zona central</text>
+  <line x1="860" y1="880" x2="900" y2="880" stroke="#6C757D" stroke-width="2" stroke-dasharray="5,4"/>
+  <text x="910" y="885" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4A5568">Recorrido que NO la rodea</text>
+  <line x1="860" y1="900" x2="900" y2="900" stroke="#1A2B4A" stroke-width="3" marker-end="url(#arrowBlack)"/>
+  <text x="910" y="905" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4A5568">Orientación inicial</text>
+  <line x1="1200" y1="900" x2="1240" y2="900" stroke="#D64545" stroke-width="3" marker-end="url(#arrowRed)"/>
+  <text x="1250" y="905" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4A5568">Orientación final (desviada 1°)</text>
+
+  <!-- Textos explicativos derecha -->
+  <text x="840" y="940" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#2A9D8F">Localmente: todo normal</text>
+  <text x="840" y="965" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#D64545">Al rodear la zona central: 1° de desviación</text>
+
+  <!-- Banner inferior -->
+  <rect x="40" y="960" width="1520" height="30" rx="8" fill="#1A2B4A"/>
+  <text x="800" y="980" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF">Dentro de cada pequeña zona, el edificio parece perfectamente normal. El problema aparece solamente cuando se recorre una trayectoria cerrada alrededor de determinada región.</text>
+</svg>
