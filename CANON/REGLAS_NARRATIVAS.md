@@ -96,9 +96,21 @@ Cuando se revise un capítulo:
 - ante una inconsistencia, señalarla y conservar el misterio si el canon no aporta una respuesta.
 
 ## Continuidad
-Los lapsos de tiempo y las visitas repetidas deben respetar las reglas de las 24 horas.
+Los lapsos de tiempo y las visitas repetidas deben respetar las reglas del ciclo de sueño y las 24 horas mínimas.
 
-La regla temporal vigente es que **cada realidad queda congelada en el instante exacto en que el protagonista la abandona**. Al regresar, vuelve al mismo día/hora/minuto/segundo.
+El protagonista debe permanecer **como mínimo 24 horas en cada ventana** antes de que dormirse pueda producir su salida.
+
+Al regresar a la Habitación debe permanecer **como mínimo 24 horas despierto** antes de que dormirse pueda producir un nuevo desplazamiento.
+
+Durante la Habitación puede comer, descansar, escribir, investigar, pensar y realizar otras actividades. Una vez cumplidas las 24 horas mínimas, puede permanecer allí indefinidamente mientras siga despierto. Aunque permanezca tres días despierto, seguirá en la Habitación hasta que se duerma.
+
+Dormirse en la Habitación después de cumplir el mínimo produce automáticamente el paso a una nueva ventana.
+
+Dormirse en una ventana después de cumplir el mínimo de 24 horas produce automáticamente el regreso a la Habitación.
+
+El sueño es el **mecanismo canónico de entrada y salida**. El contacto con una pared ya no es el mecanismo de desplazamiento.
+
+Cada realidad queda congelada en el instante exacto en que el protagonista la abandona. Al regresar, vuelve al mismo día/hora/minuto/segundo.
 
 La Habitación sí continúa temporalmente durante los períodos de permanencia allí.
 
