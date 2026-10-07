@@ -269,6 +269,94 @@ No era una memoria completa. No podía recordar dónde estábamos ni qué estáb
 
 Era una explicación sencilla y suficiente.
 
+A mediodía salí unos minutos antes que el resto.
+
+No tenía hambre todavía.
+
+Caminé hasta una plaza cercana y me senté en un banco, con el teléfono en la mano. Había mensajes del trabajo, una promoción de una tienda donde había comprado alguna vez y una llamada perdida de un número desconocido.
+
+No devolví la llamada.
+
+El número no me decía nada.
+
+Guardé el teléfono y me quedé mirando a la gente.
+
+Una pareja discutía en voz baja. Un hombre dormía con un periódico sobre las piernas. Un niño perseguía palomas y su madre fingía no poder alcanzarlo. En una esquina, un vendedor acomodaba botellas en una heladera portátil.
+
+Pensé que había algo tranquilizador en observar vidas que no tenían nada que ver con la propia.
+
+Durante unos minutos no pensé en nada.
+
+Después miré la hora.
+
+12:18.
+
+Me pareció tarde.
+
+Había estado sentado menos de diez minutos.
+
+Volví a mirar.
+
+12:18.
+
+No había ninguna razón para que eso me llamara la atención.
+
+Tal vez esperaba otra hora.
+
+Tal vez simplemente estaba más cansado de lo que creía.
+
+Regresé a la oficina.
+
+La tarde pasó lentamente.
+
+A las tres, uno de los sistemas dejó de responder y durante casi veinte minutos nadie pudo guardar un documento. Después volvió a funcionar por sí solo.
+
+A las cuatro y veinte, mi compañero dijo la frase que me produjo aquella incomodidad absurda.
+
+—Esto lo dejamos para mañana.
+
+No había nada raro en la frase. De hecho, la decía con frecuencia.
+
+Lo extraño fue que tuve la sensación de haber escuchado exactamente esas palabras, con la misma voz y en el mismo orden, antes de que las pronunciara.
+
+No era una memoria completa. No podía recordar dónde estábamos ni qué estábamos haciendo. Solo tenía la certeza de que la frase ya había ocurrido.
+
+—¿Qué? —me preguntó.
+
+—Nada.
+
+—Pareces distraído.
+
+—Estoy cansado.
+
+Era una explicación sencilla y suficiente.
+
+A las cinco y diez recibí otro mensaje del número desconocido.
+
+“Disculpe lo de ayer.”
+
+Lo leí varias veces.
+
+No había enviado ese mensaje anterior. Lo había recibido.
+
+Me quedé mirando la pantalla.
+
+Recordaba perfectamente que el primer mensaje había dicho “¿Ya saliste?”. También recordaba haber respondido preguntando quién era. Después había recibido la disculpa.
+
+Nada de eso era especialmente extraño.
+
+Lo extraño era que, al leer “Disculpe lo de ayer”, no pudiera recordar haber recibido un segundo mensaje.
+
+Revisé la conversación.
+
+Solo estaban los dos mensajes.
+
+No había nada más.
+
+Guardé el teléfono.
+
+No le conté a nadie.
+
 A las seis salí del trabajo.
 
 En lugar de volver directamente a casa, pasé por un supermercado. Necesitaba pocas cosas: leche, café, pasta, detergente.
