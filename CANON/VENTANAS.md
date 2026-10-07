@@ -15,11 +15,15 @@ Experimentos del LHC vinculados a una percepción mundial de posible catástrofe
 Estado: USADA — Capítulo 2.
 
 ## Ventana 3
-**2014 / MH370**
+**2014 / Vida cotidiana**
 
-El protagonista está dentro del avión durante la estancia de 24 horas y es desplazado antes del desenlace público completo.
+El prólogo se desarrolla en una única realidad y presenta al protagonista dentro de una vida cotidiana y ordinaria. El foco está en su experiencia inmediata y en pequeñas anomalías que todavía puede interpretar como cansancio, coincidencia o fallos de memoria.
 
-Estado: USADA — Prólogo.
+El prólogo no utiliza la desaparición pública del MH370 ni una tormenta mediática como eje narrativo.
+
+El cierre del prólogo ocurre cuando el protagonista se queda dormido, sin explicar aún el resultado de ese sueño.
+
+Estado: USADA — Prólogo V2.
 
 ## Ventana 4
 **2026 / Cortexia**
