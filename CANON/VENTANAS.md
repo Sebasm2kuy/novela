@@ -88,6 +88,18 @@ Estado: PENDIENTE DE USO.
 
 
 
+## Mecánica canónica de tránsito
+
+La entrada y salida de las ventanas y de la Habitación se producen mediante el **sueño**.
+
+- Cada estancia en una ventana requiere un mínimo de **24 horas** antes de que el sueño pueda producir la salida.
+- Cada estancia en la Habitación requiere un mínimo de **24 horas despierto** antes de que el sueño pueda producir un nuevo desplazamiento.
+- Cumplidas esas 24 horas despierto, el protagonista puede permanecer en la Habitación todo el tiempo que quiera mientras continúe despierto, incluso varios días.
+- Dormirse después del mínimo en la Habitación lo lleva automáticamente a una nueva ventana.
+- Dormirse después del mínimo en una ventana lo devuelve automáticamente a la Habitación.
+- El destino concreto no es elegido conscientemente por el protagonista.
+- El contacto con una pared ya no constituye el mecanismo canónico de desplazamiento.
+
 ## Regla de uso narrativo de las ventanas
 
 El registro de las diez ventanas es una herramienta de arquitectura del autor. No implica que cada ventana tenga que resolverse en un solo capítulo.
@@ -111,16 +123,17 @@ Los objetivos completos de cada ventana todavía están en construcción y no de
 
 Las conexiones profundas entre las ventanas todavía están en desarrollo. Los ecos existentes no deben convertirse automáticamente en una explicación. La contaminación explícita entre ventanas es una posibilidad narrativa futura, no una obligación inmediata.
 
-## Ideas recientes en exploración — NO CANON
+## Notas históricas sobre decisiones recientes
 
-Se registran aquí únicamente como ideas discutidas:
+Las siguientes reglas forman parte del canon operativo actual:
+- congelación de cada realidad en el instante de salida;
+- retorno al mismo instante exacto;
+- memoria consciente de las demás realidades;
+- Habitación como centro de investigación;
+- objetivos locales junto al patrón global;
+- contradicción entre muerte recordada y retorno vivo al instante exacto;
+- sueño como mecanismo de tránsito;
+- mínimo de 24 horas en cada ventana;
+- mínimo de 24 horas despierto en la Habitación antes de un nuevo tránsito.
 
-- Congelación de cada realidad en el instante de salida.
-- Retorno al mismo instante exacto.
-- Memoria consciente de las demás realidades.
-- Duda sobre cuál realidad está viviendo.
-- Habitación como centro de investigación.
-- Objetivos locales de cada realidad junto al patrón global.
-- Posible contradicción entre muerte recordada y regreso vivo al instante exacto.
-
-**Estas ideas no forman parte del canon todavía.**
+Las conexiones profundas entre las ventanas y la explicación definitiva de estas reglas siguen protegidas como misterio.
