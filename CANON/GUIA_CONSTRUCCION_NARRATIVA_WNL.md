@@ -4204,7 +4204,7 @@ La transición entre la Habitación y las ventanas depende del sueño.
 
 El protagonista necesita un mínimo de **24 horas dentro de cada ventana** antes de que dormir produzca su salida.
 
-En la Habitación necesita un mínimo de **24 horas despierto** antes de que dormir pueda enviarlo a una nueva ventana. Cumplido ese mínimo, puede seguir despierto allí indefinidamente, incluso varios días.
+En la Habitación necesita un mínimo de **24 horas** antes de que dormir pueda enviarlo a una nueva ventana. Cumplido ese mínimo, puede seguir despierto allí indefinidamente, incluso varios días.
 
 La vigilia prolongada en la Habitación puede convertirse en una herramienta narrativa: el protagonista puede decidir cuánto tiempo permanece despierto, pero no puede decidir conscientemente qué ventana recibirá cuando finalmente se duerma.
 
@@ -4344,7 +4344,7 @@ La cadena completa queda:
 
 El estudio de *Ready Player One* muestra que el progreso narrativo no depende de que el protagonista acierte continuamente. Wade puede descubrir información, interpretar mal situaciones, perder oportunidades, quedar en desventaja, equivocarse y sufrir consecuencias. Lo importante es que los retrocesos **no borran el progreso**: lo transforman.
 
-La lección para WNL es especialmente útil porque el protagonista posee una limitación estructural muy fuerte: solo dispone de 24 horas en cada ventana y después desaparece. Eso significa que no siempre podrá terminar lo que empieza.
+La lección para WNL es especialmente útil porque el protagonista posee una limitación estructural muy fuerte: solo dispone de un mínimo de 24 horas en cada ventana antes de que el siguiente sueño pueda producir su salida. Eso significa que no siempre podrá terminar lo que empieza.
 
 ## 215. Un fracaso debe cambiar la situación
 
