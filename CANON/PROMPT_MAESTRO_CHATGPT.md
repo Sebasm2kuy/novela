@@ -205,20 +205,25 @@ La Habitación también es una realidad real para él.
 La entrada y salida de las ventanas y de la Habitación se producen mediante el **sueño**.
 
 En una ventana:
-- debe permanecer como mínimo **24 horas**;
-- una vez cumplido ese mínimo, cuando se duerme, sale automáticamente de esa ventana y regresa a la Habitación.
+- deben transcurrir como mínimo **24 horas**;
+- puede dormir o permanecer despierto durante ese período;
+- dormir antes de cumplir las 24 horas no produce desplazamiento;
+- una vez cumplidas las 24 horas, el siguiente sueño lo saca de la ventana y lo devuelve automáticamente a la Habitación.
 
 En la Habitación:
-- debe permanecer como mínimo **24 horas despierto** antes de que el sueño pueda producir un nuevo desplazamiento;
-- durante ese período puede comer, descansar, escribir, investigar, pensar y realizar otras actividades;
-- después de cumplir el mínimo puede permanecer allí indefinidamente mientras siga despierto, incluso varios días;
-- cuando finalmente se duerme, pasa automáticamente a una nueva ventana.
+- deben transcurrir como mínimo **24 horas** antes de que dormir pueda producir un nuevo desplazamiento;
+- puede dormir, comer, descansar, escribir, investigar, pensar y realizar otras actividades durante ese período;
+- dormir antes de cumplir las 24 horas no produce desplazamiento;
+- una vez cumplidas las 24 horas, el siguiente sueño lo lleva automáticamente a una nueva ventana;
+- puede permanecer en la Habitación más allá de las 24 horas mientras no se produzca el sueño que activa el tránsito.
 
 El protagonista:
 - no puede elegir libremente la ventana de destino;
 - puede desear una ventana concreta;
 - ese deseo no garantiza el destino;
-- el sueño produce el desplazamiento automáticamente una vez cumplido el mínimo.
+- el sueño produce el desplazamiento automáticamente una vez cumplido el mínimo temporal.
+
+Las **24 horas son una condición de tiempo transcurrido, no una condición de vigilia**.
 
 El mecanismo anterior basado en una señal física/sensorial y contacto voluntario con una pared queda **reemplazado**.
 
