@@ -1,648 +1,152 @@
 W A T H N E V E R L E F T
 PRÓLOGO
 
-Era 2014 y yo tenía una vida que, hasta entonces, me parecía completamente normal.
+Me desperté unos minutos antes de que sonara la alarma, como casi todas las mañanas, y durante unos segundos permanecí acostado mirando el techo mientras intentaba recordar por qué me había despertado. Desde la calle llegaba el ruido de un ómnibus frenando en la esquina y, desde el apartamento de arriba, el agua de una ducha golpeando alguna superficie con ese sonido apagado que uno deja de escuchar después de vivir suficiente tiempo en un edificio. Miré la mesa de luz. El teléfono seguía encendido y faltaban cuatro minutos para la alarma. Pensé en apagarla y volver a dormir, pero recordé que tenía que llegar temprano al trabajo y me levanté. No había nada especial en aquella mañana. Si alguien me hubiera preguntado qué iba a hacer ese día, habría respondido sin pensarlo demasiado: trabajar, volver a casa, comprar algo para cenar y dormir. Mi vida no tenía demasiadas sorpresas. Trabajaba en una oficina que podía describir sin mirar, vivía solo en un departamento que había aprendido a recorrer casi a oscuras y llevaba tanto tiempo siguiendo las mismas rutinas que muchas veces hacía cosas sin recordar haber decidido hacerlas.
 
-El día que recuerdo como el comienzo no tuvo nada de especial.
+En la cocina había una taza junto a la cafetera. No recordaba haberla dejado allí. La tomé, la enjuagué y la dejé sobre la mesada mientras preparaba el café. Revisé el teléfono mientras esperaba que terminara de salir. Tenía un mensaje de un compañero preguntándome si podía llevar unos documentos que, según él, había dejado sobre mi escritorio el día anterior. También había un mensaje de mi madre y una llamada perdida de un número que no reconocí. No devolví la llamada. Le respondí a mi compañero que sí y dejé el resto para más tarde. Antes de salir tuve que volver a la cocina porque había olvidado las llaves. Estaban donde las había dejado la noche anterior, junto al plato. Las tomé y, al meterlas en el bolsillo, noté una pequeña marca en el metal de una de ellas. Era una línea apenas visible, como un arañazo que no recordaba haber visto. La giré entre los dedos, comprobé que seguía siendo la llave del apartamento y la guardé sin pensar demasiado. En aquel momento no podía saber que terminaría recordando cosas tan pequeñas con una precisión que me habría parecido ridícula de haberlo sabido.
 
-Eso es lo primero que recuerdo cuando intento pensar en el comienzo.
+Bajé por las escaleras porque el ascensor estaba detenido en algún piso. En la entrada me crucé con el hombre del apartamento de al lado, un vecino con el que solía intercambiar apenas unas palabras cuando coincidíamos. Esa mañana me miró antes de salir y me preguntó si iba a volver tarde. Le dije que no creía. Entonces me pidió que le dejara un paquete si pasaba por su puerta. Le pregunté qué paquete y se quedó callado unos segundos, como si hubiera perdido la frase que estaba buscando. Después se rió y dijo que nada, que me había confundido con otro. No tenía motivos para discutirle. Salimos juntos y nos separamos en la esquina. Mientras esperaba el cambio del semáforo pensé que quizá yo también estaba confundido. No podía asegurar que el hombre se equivocara, aunque tampoco recordaba haber hablado con él el día anterior. La sensación no llegó a convertirse en una preocupación. A esa hora de la mañana uno puede olvidar una conversación, una cara, incluso haber pasado por un lugar, y no darle importancia hasta mucho después.
 
-No hubo una tormenta, ni una llamada urgente, ni una noticia capaz de detener la ciudad. No recibí una advertencia. Nadie vino a buscarme. Nadie pronunció mi nombre como si estuviera a punto de ocurrir algo importante.
+El trayecto hasta la oficina fue el de siempre. Subieron las mismas personas en las mismas paradas y el conductor frenó de la misma forma brusca antes de llegar a la última esquina. Reconocía a algunos pasajeros sin saber sus nombres. Una mujer que leía durante casi todo el viaje, un hombre que se quedaba dormido después de tres paradas y dos estudiantes que discutían sobre fútbol con una seriedad que no había encontrado en muchas reuniones de trabajo. Me senté junto a la ventana y dejé que la ciudad pasara delante de mí. Cuando llegué, mi compañero ya estaba junto a mi escritorio esperando los documentos. Le dije que todavía no había tenido tiempo de buscarlos y me respondió que ya me los había dado el día anterior. Lo miré pensando que estaba bromeando, pero señaló una carpeta que descansaba sobre otra mesa. Dentro estaban los documentos, marcados con varias correcciones hechas a mano. Reconocí mi letra. Incluso reconocí la forma en que acostumbraba hacer una pequeña raya debajo de ciertas palabras cuando quería volver a ellas después. Una de las páginas tenía una nota de mi compañero que decía: “Esto ya lo habíamos visto”. Le pregunté qué habíamos visto y se quedó mirándome unos segundos.
 
-Me levanté porque sonó el despertador.
+—Ayer. Esto mismo.
 
-A las seis y diecisiete.
+—No me acuerdo.
 
-Lo sé porque miré la hora antes de apagarlo y porque, unos minutos después, volví a mirar el reloj de la cocina para comprobar si había dormido más de lo que creía. A veces lo hacía. Apagaba la alarma medio dormido, cerraba los ojos otra vez y después tenía que reconstruir cuánto tiempo había pasado.
+—¿Estás seguro de que estás bien?
 
-Aquella mañana no.
+Le dije que sí. Él no insistió. Yo tampoco. Abrí la carpeta y seguí trabajando, aunque durante un rato tuve la sensación incómoda de estar leyendo algo que yo mismo había escrito para alguien que no era yo.
 
-Me quedé sentado en la cama durante un momento, con los pies descalzos sobre el piso frío, escuchando los ruidos del edificio. Una ducha al otro lado de la pared. El ascensor deteniéndose en algún piso. Una puerta que se cerró con demasiada fuerza.
+A media mañana me avisaron desde recepción que había llegado un paquete a mi nombre. Bajé y me entregaron una caja pequeña. No estaba esperando nada, pero cuando la abrí encontré un libro que había comprado unos días antes. Recordaba haberlo pedido, pero al sostenerlo tuve una sensación extraña, como si ya hubiera pasado las manos por esa tapa y conocido el peso del libro antes de recibirlo. Pensé que podía haberlo visto en una librería y haberlo olvidado. Lo abrí por una página cualquiera y encontré una marca de lápiz en una esquina. No era una anotación, solo una línea pequeña junto al número de página. La borré con el pulgar y seguí trabajando. Al poco rato descubrí que la página marcada era una que todavía no había leído y que, por alguna razón, sabía que no me gustaría. No había nada en la escena que permitiera justificar esa impresión. Era apenas una sensación y, como tantas otras, decidí dejarla pasar.
 
-Nada fuera de lo común.
+Durante el almuerzo salí solo y fui a un restaurante pequeño donde había comido varias veces. El lugar estaba casi lleno y terminé compartiendo una mesa con un hombre mayor que trabajaba cerca. Hablamos poco hasta que me preguntó si era la primera vez que iba allí. Le dije que no. Sonrió y me dijo que me había visto el día anterior, sentado exactamente en el mismo lugar. Pensé que me estaba confundiendo con alguien y se lo dije. Negó con la cabeza.
 
-Vivía solo. El departamento no era grande, pero tenía suficiente luz durante la mañana y un balcón estrecho al que casi nunca salía. Desde allí podía ver una parte de la avenida y, si el cielo estaba despejado, una franja del edificio de enfrente entre dos árboles.
+—Eras vos.
 
-La cocina tenía una ventana sobre la mesada.
+—Entonces debo haber venido y no me acuerdo.
 
-Preparé café, tosté dos rebanadas de pan y dejé una sobre el plato mientras buscaba algo en el teléfono. Tenía seis mensajes. Cinco eran cosas que podían esperar. El sexto era de mi jefe preguntando si podía llegar un poco antes.
+—Eso sí sería raro.
 
-Le respondí que sí.
+Se rió y cambió de tema. Yo también intenté hacerlo, pero la conversación se me quedó dando vueltas. Mientras esperaba la comida, abrí el teléfono y busqué fotografías tomadas ese día. Encontré una imagen del interior del restaurante. No recordaba haberla hecho y, sin embargo, allí estaba. La mesa era la misma, la lámpara sobre nuestras cabezas también y en una esquina del encuadre aparecía parte de un plato que parecía el que tenía delante. Revisé la información de la fotografía. La había tomado yo. El teléfono no dejaba demasiado espacio para la duda. Lo extraño era que no pudiera recordar el momento en que había levantado el aparato para tomarla. Cerré la imagen y guardé el teléfono. Podía haberla tomado sin pensar. Podía haberlo olvidado. Las explicaciones sencillas seguían siendo suficientes.
 
-Después miré el café.
+Al volver a la oficina, la tarde transcurrió sin nada que justificara recordar el día. Trabajé hasta tarde, discutí con un compañero por una corrección que después resultó no importar y bajé a comprar un café. En la fila me encontré con la misma mujer que solía leer durante el trayecto en ómnibus. Me reconoció antes de que yo pudiera decidir si había visto su cara ese día.
 
-Había preparado dos tazas.
+—Hoy no venías temprano —dijo.
 
-No era extraño. A veces lo hacía por costumbre y terminaba guardando una. Vivía solo desde hacía suficiente tiempo como para haber desarrollado pequeños hábitos que ya no sabía de dónde venían. Dos tazas. Dos cucharas. Dos veces revisar si había cerrado con llave.
+Pensé que se refería al ómnibus y le dije que había cambiado de horario.
 
-Supuse que aquel también era uno de ellos.
+Me miró con una expresión de duda.
 
-Guardé una taza sin usar en el armario, me vestí y salí.
+—Ah. Pensé que era ayer.
 
-La calle tenía el aspecto de todas las mañanas. Coches buscando espacio para estacionar. Personas caminando deprisa. Un hombre fumando frente a un kiosco. Dos adolescentes compartiendo auriculares mientras esperaban el ómnibus. El mismo semáforo tardando demasiado en cambiar.
+Sonrió, pidió su café y salió del local. Me quedé un momento allí, mirando hacia la calle, intentando decidir si también aquella conversación podía explicarse como una confusión. Probablemente sí. Todo podía explicarse de forma aislada. El vecino podía haberse confundido. Mi compañero podía recordar otra conversación. El hombre del restaurante podía estar confundiendo a dos personas. La mujer del café podía haberme visto otro día. Incluso yo podía haber tomado una fotografía y olvidarla. Lo que empezaba a incomodarme no era ninguna de esas cosas por separado, sino la cantidad de veces que estaban apareciendo.
 
-Me crucé con la mujer del apartamento del quinto piso justo cuando estaba cerrando la puerta.
+Al salir del trabajo pasé por un supermercado. Compré leche, pan, pasta y detergente. En la caja, la empleada preguntó si necesitaba una bolsa y le dije que no. Entonces me miró con una curiosidad que no supe interpretar.
 
-—Buen día.
+—Ayer llevaste dos.
 
-—Buen día.
+Le pregunté si estaba segura.
 
-Eso fue todo.
+—Creo que sí.
 
-Bajé por las escaleras porque el ascensor estaba ocupado. En el segundo piso escuché que alguien lo llamaba desde abajo. En el primero vi un sobre en el suelo, junto a los buzones. Lo recogí y lo dejé encima de las casillas correspondientes.
+Después sonrió y dijo que seguramente me había confundido con otro cliente. Pagué y salí sin insistir. En el camino de vuelta volví a pensar en la fotografía del restaurante y en los documentos de mi escritorio. No conseguía decidir qué me molestaba más: no recordar las cosas o recordar haberlas olvidado.
 
-No me detuve a leer el nombre.
+Cuando llegué a casa dejé la mochila sobre la mesa y fui directo a la cocina. La luz de la tarde entraba por la ventana y hacía que el departamento pareciera más pequeño de lo habitual. Abrí la heladera para guardar la leche y encontré una botella de agua que no recordaba haber comprado. La saqué, la miré y volví a guardarla. Sobre la puerta había una lista de compras escrita con mi letra. Reconocí las cuatro cosas que acababa de comprar. Debajo aparecía una quinta palabra tachada con tanta fuerza que el papel estaba marcado. Busqué el teléfono y revisé la lista que había escrito antes de salir del trabajo. Solo había cuatro cosas.
 
-Todavía recuerdo esa mañana por cosas que no significaban nada.
+Abrí la libreta que utilizaba para anotar asuntos que no quería olvidar y escribí “café” debajo de la lista. No sabía por qué había escrito eso. Me quedé mirándolo un momento y tuve la sensación absurda de haber copiado una palabra que ya estaba allí. Pasé la hoja. No había nada. Preparé café.
 
-El olor a café.
+Mientras esperaba que hirviera el agua escuché dos golpes en la puerta. Fui hasta la entrada y abrí. El pasillo estaba vacío. Esperé unos segundos, miré hacia las escaleras y después hacia el ascensor. No había nadie. Cerré y regresé a la cocina. Pensé en tocar la puerta del vecino, pero no tenía sentido. Podía haber sido una puerta cerrándose en otro piso, una tubería, cualquier cosa. Me serví el café y me senté frente a la ventana.
 
-El frío del piso.
+Durante unos minutos no hice nada. Vi pasar a la gente por la calle, escuché coches, una radio encendida en algún apartamento y el ruido del ascensor subiendo lentamente. Entonces me di cuenta de que había una fotografía sobre la mesa que no recordaba haber dejado allí. La tomé. Era una imagen del restaurante. La misma que había encontrado en el teléfono. No entendí cómo había llegado hasta allí. Revisé el reverso y descubrí una pequeña anotación en lápiz. No era una fecha. Eran dos palabras.
 
-El ruido del ascensor.
+“Volver mañana.”
 
-La sensación de haber olvidado algo antes de salir.
+No reconocí la frase como mía, pero la letra sí era la mía.
 
-Durante mucho tiempo pensé que esa sensación era el primer aviso.
+No supe qué hacer con aquello.
 
-Hoy no estoy tan seguro.
+Guardé la fotografía en la libreta, cerré el cuaderno y me prometí no pensar más en el asunto hasta haber dormido. Estaba cansado y la mente empieza a fabricar explicaciones extrañas cuando uno lleva demasiado tiempo intentando encontrar una donde quizá no la hay.
 
-Tomé el ómnibus de siempre. Encontré un asiento junto a la ventana y pasé los primeros minutos mirando la ciudad sin prestarle demasiada atención. Había un cartel nuevo sobre una farmacia. Un edificio estaba siendo pintado. Un perro tiraba de la correa de una mujer que hablaba por teléfono y gesticulaba con la mano libre.
+Cené frente al televisor y después lavé los platos. Antes de acostarme revisé el teléfono. Había un mensaje de un número desconocido.
 
-En una esquina subió un hombre con una caja grande entre los brazos. Se sentó frente a mí y apoyó la caja sobre las piernas.
+“¿Ya llegaste?”
 
-Lo miré un segundo.
+No respondí.
 
-Pensé que lo conocía.
+Lo borré.
 
-No era una sensación fuerte. Ni siquiera podría decir que era reconocimiento. Era algo más torpe, parecido a cuando uno ve una cara en la calle y durante medio segundo cree que pertenece a alguien que no ha visto en años.
+Unos segundos después revisé la conversación otra vez. El mensaje ya no estaba. Me quedé mirando la pantalla vacía y pensé que quizá había sido una notificación atrasada, un error del teléfono, cualquier cosa. Dejé el aparato sobre la mesa de luz y me acosté.
 
-El hombre no me miró.
+A la mañana siguiente volví a despertarme antes de que sonara la alarma. Durante unos segundos tuve la misma sensación del día anterior: no sabía qué hora era ni cuánto había dormido. Después recordé la fotografía, la lista de compras y el mensaje que había desaparecido.
 
-Cuando bajé, ya me había olvidado de él.
+La mesa de luz estaba vacía. El teléfono seguía allí. La libreta estaba sobre el escritorio. Nada parecía diferente.
 
-En el trabajo hice lo de siempre.
+Me levanté y fui a la cocina. La taza estaba junto a la cafetera otra vez. Esta vez la dejé allí. No quería tocarla.
 
-Revisé correos. Corregí dos documentos. Pasé una hora intentando resolver un problema que al final consistía en una casilla marcada de forma incorrecta. Fui a buscar un café cerca del mediodía y discutí durante cinco minutos con una máquina que se negaba a aceptar una moneda.
+Abrí la ventana y miré la calle. Un ómnibus pasó por la esquina. La mujer con el perro caminó detrás de un hombre que hablaba por teléfono. Un comercio levantó la persiana metálica. La ciudad empezaba su día como cualquier otro. Por primera vez pensé que quizá el problema no era que estuviera olvidando cosas. Quizá estaba recordando algunas cosas demasiado pronto.
 
-Nada de eso merece ser contado.
+La idea me pareció ridícula en cuanto apareció. Me reí solo y cerré la ventana. Había dormido mal. No necesitaba inventar otra explicación.
 
-Por eso lo cuento.
+Me vestí y fui a trabajar. Ese segundo día intenté prestar más atención. Guardé los documentos siempre en el mismo lugar. Anoté lo que comí. Escribí la hora en que llegué y la hora en que salí. Evité los mismos caminos que había tomado el día anterior y, cuando alguien me decía algo que me resultaba familiar, no intentaba adivinar de dónde venía la sensación. Quería saber si las cosas ocurrían realmente o si mi memoria estaba llenando vacíos.
 
-Porque durante mucho tiempo pensé que los acontecimientos importantes tenían que distinguirse de los demás. Imaginaba que, si alguna vez algo realmente extraordinario ocurría, habría una señal clara. Un antes y un después. Una escena que pudiera señalar con el dedo y decir: ahí empezó.
+A media tarde encontré la libreta dentro del cajón de mi escritorio. No recordaba haberla llevado. La abrí. Había varias anotaciones nuevas.
 
-No fue así.
+“Cocina.”
 
-Las cosas importantes no siempre llegan haciendo ruido.
+“Ómnibus.”
 
-A veces se parecen exactamente a un martes.
+“Paquete.”
 
-En la oficina había un reloj sobre la puerta que siempre atrasaba tres minutos.
+“Café.”
 
-Nadie entendía por qué seguía allí.
+Debajo, en una línea separada, aparecía una sola palabra.
 
-El encargado de mantenimiento había intentado arreglarlo dos veces. Después de eso, todos nos acostumbramos. Para reuniones importantes mirábamos el teléfono. Para bajar a almorzar, mirábamos el reloj de la pared.
+“Dormir.”
 
-A las diez y media lo observé mientras esperaba que terminara de abrirse un archivo.
+Me quedé con el dedo apoyado sobre la tinta. No recordaba haber escrito ninguna de aquellas palabras. Le pregunté a mi compañero si había tocado mis cosas. Me dijo que no. Revisé el cajón, los documentos, el resto de las páginas. No encontré nada más. Cerré la libreta y la guardé conmigo.
 
-Marcaba las diez y veintisiete.
+Al salir del trabajo regresé caminando. Había una sensación de cansancio que no se parecía al agotamiento normal después de una jornada larga. No era sueño exactamente. Era la impresión de haber pasado demasiadas horas intentando prestar atención a cada cosa.
 
-Sonreí.
+En una esquina escuché que alguien me llamaba. Me volví. Un hombre me miraba desde el balcón de un edificio.
 
-Pensé que, al menos, esa mañana todo seguía funcionando como siempre.
+—Perdón —dijo—. Pensé que eras otro.
 
-Un compañero pasó detrás de mí y se detuvo.
+Asentí y seguí caminando.
 
-—¿Te acordás del informe del mes pasado?
+Unos metros después escuché mi nombre otra vez.
 
-—Más o menos.
+Esta vez no me di vuelta.
 
-—Te lo mandé ayer.
+Seguí hasta la esquina, crucé la calle y llegué al edificio.
 
-Abrí el correo.
+El ascensor estaba abierto. Entré y antes de que se cerraran las puertas una mujer detuvo el mecanismo con la mano y subió conmigo. Era la mujer del café. La reconocí inmediatamente. Ella también me miró. Durante el trayecto no dijo nada. Yo tampoco. En el cuarto piso salió. Antes de que se cerraran las puertas, se volvió.
 
-No estaba.
+—Nos vemos mañana.
 
-—¿Seguro que ayer?
+Las puertas se cerraron.
 
-—Sí.
+Subí hasta mi piso y entré en casa.
 
-Me mostró su teléfono.
+Dejé la libreta sobre el escritorio y fui a preparar la cena. Mientras cortaba pan, pensé en lo que había dicho la mujer. No sabía si era una despedida común, una coincidencia o algo más. Lo que me molestaba era no poder decidir qué parte de aquel día pertenecía a mi memoria y qué parte simplemente no estaba consiguiendo recordar.
 
-Había un mensaje enviado a mi dirección a las nueve y doce de la mañana.
+Esa noche no revisé el teléfono. Tampoco abrí la fotografía. Cené, lavé los platos y me acosté temprano.
 
-Lo raro era que no recordaba haberlo recibido.
+Antes de apagar la luz miré el reloj por última vez. Había pasado más de un día desde aquella primera mañana, aunque el tiempo parecía haber corrido de una manera extraña. Había trabajado, dormido, vuelto a trabajar, caminado por las mismas calles y repetido buena parte de mis rutinas. Nada de aquello debería haber resultado memorable.
 
-Revisé la bandeja.
+Guardé la libreta en el cajón de la mesa de luz. Apagué la lámpara.
 
-Nada.
+Desde la calle llegaba el mismo ruido del tráfico. En algún apartamento sonaba una televisión. El ascensor se detuvo en un piso cercano y alguien cerró una puerta.
 
-—Capaz te lo mandé desde otra cuenta —dijo.
+Me acosté de lado.
 
-—Puede ser.
+Pensé en la taza junto a la cafetera. Pensé en la fotografía. Pensé en la palabra escrita en la libreta.
 
-No insistí.
+Dormir.
 
-Media hora después apareció el mensaje.
-
-No había hecho nada para recuperarlo.
-
-Solo estaba allí.
-
-Lo abrí.
-
-El archivo adjunto era exactamente el que necesitaba.
-
-No le di importancia.
-
-Hoy me parece extraño haberlo aceptado con tanta facilidad.
-
-Pero la verdad es que, cuando algo pequeño no encaja, uno suele preferir corregir el mundo dentro de su cabeza antes que admitir que el mundo está haciendo algo raro.
-
-A la hora del almuerzo salí solo.
-
-Había un restaurante pequeño a tres cuadras de la oficina donde servían platos del día. Llegué tarde y tuve que compartir una mesa con un hombre que trabajaba en una construcción cercana. Comía rápido, con una gorra apoyada en la silla de al lado.
-
-—¿Está ocupado? —pregunté.
-
-—No.
-
-Me senté.
-
-Durante unos minutos ninguno habló.
-
-Entonces el hombre me miró.
-
-—Disculpe.
-
-—Sí.
-
-—¿Usted no trabaja por acá?
-
-—Sí.
-
-—Me parece que ya lo vi.
-
-—Puede ser.
-
-Se quedó pensando.
-
-—No. En realidad creo que fue ayer.
-
-Me reí.
-
-—Yo ayer también estaba por acá.
-
-Era cierto.
-
-—Entonces debe ser eso.
-
-Seguimos comiendo.
-
-A los pocos minutos volvió a hablarme.
-
-—¿Usted vive por la zona de la terminal?
-
-Le dije que no.
-
-—Ah.
-
-Pareció decepcionado.
-
-—Perdón. Lo confundí con otro.
-
-No tenía nada de particular.
-
-La ciudad está llena de personas parecidas.
-
-Sin embargo, esa conversación se me quedó dando vueltas toda la tarde.
-
-No por el hombre.
-
-Por mí.
-
-Porque cuando dijo dónde creía que vivía, mi primera reacción no fue pensar que se equivocaba.
-
-Fue intentar recordar si alguna vez había vivido allí.
-
-No recordé nada.
-
-Solo una imagen muy breve: una ventana alta, una pared amarilla y un edificio de ladrillos enfrente.
-
-Nada más.
-
-La imagen desapareció antes de que pudiera retenerla.
-
-Cuando volví a la oficina, busqué en internet la dirección.
-
-No porque creyera que significara algo.
-
-Solo por curiosidad.
-
-Era un edificio viejo que yo conocía de vista.
-
-Nunca había vivido allí.
-
-Eso era todo.
-
-Cerré la página.
-
-Seguí trabajando.
-
-A las cuatro y veinte, uno de mis compañeros dijo una frase que me produjo una incomodidad absurda.
-
-—Esto lo dejamos para mañana.
-
-No había nada raro en la frase. De hecho, la decía con frecuencia.
-
-Lo extraño fue que tuve la sensación de haber escuchado exactamente esas palabras, con la misma voz y en el mismo orden, antes de que las pronunciara.
-
-No era una memoria completa. No podía recordar dónde estábamos ni qué estábamos haciendo. Solo tenía la certeza de que la frase ya había ocurrido.
-
-—¿Qué? —me preguntó.
-
-—Nada.
-
-—Pareces distraído.
-
-—Estoy cansado.
-
-Era una explicación sencilla y suficiente.
-
-A mediodía salí unos minutos antes que el resto.
-
-No tenía hambre todavía.
-
-Caminé hasta una plaza cercana y me senté en un banco, con el teléfono en la mano. Había mensajes del trabajo, una promoción de una tienda donde había comprado alguna vez y una llamada perdida de un número desconocido.
-
-No devolví la llamada.
-
-El número no me decía nada.
-
-Guardé el teléfono y me quedé mirando a la gente.
-
-Una pareja discutía en voz baja. Un hombre dormía con un periódico sobre las piernas. Un niño perseguía palomas y su madre fingía no poder alcanzarlo. En una esquina, un vendedor acomodaba botellas en una heladera portátil.
-
-Pensé que había algo tranquilizador en observar vidas que no tenían nada que ver con la propia.
-
-Durante unos minutos no pensé en nada.
-
-Después miré la hora.
-
-12:18.
-
-Me pareció tarde.
-
-Había estado sentado menos de diez minutos.
-
-Volví a mirar.
-
-12:18.
-
-No había ninguna razón para que eso me llamara la atención.
-
-Tal vez esperaba otra hora.
-
-Tal vez simplemente estaba más cansado de lo que creía.
-
-Regresé a la oficina.
-
-La tarde pasó lentamente.
-
-A las tres, uno de los sistemas dejó de responder y durante casi veinte minutos nadie pudo guardar un documento. Después volvió a funcionar por sí solo.
-
-A las cuatro y veinte, mi compañero dijo la frase que me produjo aquella incomodidad absurda.
-
-—Esto lo dejamos para mañana.
-
-No había nada raro en la frase. De hecho, la decía con frecuencia.
-
-Lo extraño fue que tuve la sensación de haber escuchado exactamente esas palabras, con la misma voz y en el mismo orden, antes de que las pronunciara.
-
-No era una memoria completa. No podía recordar dónde estábamos ni qué estábamos haciendo. Solo tenía la certeza de que la frase ya había ocurrido.
-
-—¿Qué? —me preguntó.
-
-—Nada.
-
-—Pareces distraído.
-
-—Estoy cansado.
-
-Era una explicación sencilla y suficiente.
-
-A las cinco y diez recibí otro mensaje del número desconocido.
-
-“Disculpe lo de ayer.”
-
-Lo leí varias veces.
-
-No había enviado ese mensaje anterior. Lo había recibido.
-
-Me quedé mirando la pantalla.
-
-Recordaba perfectamente que el primer mensaje había dicho “¿Ya saliste?”. También recordaba haber respondido preguntando quién era. Después había recibido la disculpa.
-
-Nada de eso era especialmente extraño.
-
-Lo extraño era que, al leer “Disculpe lo de ayer”, no pudiera recordar haber recibido un segundo mensaje.
-
-Revisé la conversación.
-
-Solo estaban los dos mensajes.
-
-No había nada más.
-
-Guardé el teléfono.
-
-No le conté a nadie.
-
-A las seis salí del trabajo.
-
-En lugar de volver directamente a casa, pasé por un supermercado. Necesitaba pocas cosas: leche, café, pasta, detergente.
-
-Recorrí los pasillos sin pensar demasiado.
-
-En la sección de limpieza me detuve frente a una marca que siempre compraba.
-
-Durante unos segundos no pude recordar si me gustaba o no.
-
-Tomé otra.
-
-Ese tipo de decisiones pequeñas ocupan más espacio mental del que deberían cuando uno está cansado.
-
-En la caja, la cajera pasó los productos y me preguntó si quería la factura.
-
-—Sí.
-
-Me la entregó.
-
-La guardé en el bolsillo.
-
-Al salir, me di cuenta de que había comprado dos paquetes de pasta.
-
-Volví a mirar la lista en el teléfono.
-
-Solo había uno.
-
-No regresé.
-
-Pensé que podía usar el otro más adelante.
-
-Cuando llegué al edificio, el ascensor tardó demasiado. Subí por las escaleras.
-
-En el cuarto piso encontré al mismo hombre del sobre que había visto la mañana anterior.
-
-Esta vez estaba buscando algo en su buzón.
-
-—Buenas —dijo.
-
-—Buenas.
-
-Me miró.
-
-—¿Usted es del sexto?
-
-—Sí.
-
-—Pensé que era del quinto.
-
-—No.
-
-—Claro.
-
-Se rió.
-
-Yo también.
-
-Entré a mi departamento y cerré la puerta.
-
-La vida tiene muchas maneras de demostrarnos que nadie presta demasiada atención a nadie.
-
-A veces eso resulta tranquilizador.
-
-Esa noche llegué a casa más tarde de lo previsto.
-
-No me volví a dormir enseguida.
-
-Me obligué a levantarme y tomar una ducha. El agua caliente ayudó un poco, aunque al salir seguía teniendo la misma sensación de agotamiento. Me vestí sin apuro y preparé algo para comer.
-
-Revisé el teléfono.
-
-No había mensajes nuevos.
-
-El del número desconocido seguía borrado.
-
-Pensé en la libreta.
-
-La busqué en el escritorio y la abrí por la página de la noche anterior.
-
-“19:14 — no significa nada.”
-
-La frase seguía allí.
-
-Pasé las páginas anteriores.
-
-Había listas de compras, números, fechas, pequeñas notas de trabajo. Nada extraño.
-
-Volví a cerrar la libreta.
-
-Me dije que probablemente la había escrito en un momento que ya no recordaba.
-
-Era completamente posible.
-
-Salí a caminar.
-
-No necesitaba comprar nada. Solo quería estar afuera.
-
-La mañana había despejado un poco y la ciudad tenía ese ritmo intermedio en el que algunas personas todavía caminaban con prisa y otras ya habían empezado a reducir la velocidad. Entré en un café, pedí otro café y me senté junto a la ventana.
-
-La mesa de al lado quedó vacía durante unos minutos.
-
-Después una mujer dejó un bolso sobre la silla y fue al mostrador.
-
-Cuando regresó, me miró.
-
-—Perdón.
-
-—¿Sí?
-
-—¿Nos conocemos?
-
-Negué con la cabeza.
-
-—No creo.
-
-—Ah.
-
-Sonrió incómoda.
-
-—Me pareció.
-
-—A mí me pasa seguido.
-
-Lo dije sin pensar.
-
-Ella volvió a sentarse.
-
-La frase me quedó sonando.
-
-“A mí me pasa seguido.”
-
-No sabía si era verdad.
-
-Tal vez lo había dicho solo para hacerla sentir menos incómoda.
-
-Me terminé el café y regresé a casa.
-
-El camino de vuelta fue corto.
-
-Al llegar, volví a mirar el reloj de la cocina.
-
-8:03.
-
-Había pasado más tiempo del que imaginaba.
-
-El cansancio no tenía explicación.
-
-No había trabajado toda la noche. No estaba enfermo. No había hecho ejercicio. Había dormido varias horas.
-
-Y, sin embargo, sentía que podía acostarme y dormir durante un día entero.
-
-Me senté en el sofá.
-
-Encendí la televisión.
-
-No recuerdo qué programa estaba pasando.
-
-Escuché voces durante unos minutos.
-
-Después cambié de canal.
-
-Había un documental.
-
-Lo dejé.
-
-Aparecía una carretera vista desde arriba.
-
-La imagen me produjo una incomodidad instantánea.
-
-No sabía por qué.
-
-Apagué el televisor.
-
-Miré el reloj.
-
-8:26.
-
-Pensé que todavía era temprano.
-
-Podía dormir un rato y después seguir con el día.
-
-No tenía nada urgente.
-
-Subí al dormitorio.
-
-No pensaba dormir.
-
-Solo quería acostarme unos minutos.
-
-Me senté en la cama.
-
-Después me recosté.
+No sabía por qué esa palabra me había estado esperando en la página. Tampoco sabía quién la había escrito.
 
 Cerré los ojos.
 
-Intenté pensar en el mensaje del número desconocido, en el hombre del ómnibus, en la frase de la tarde anterior, en el libro de la página 143.
-
-Todo empezó a mezclarse.
-
-Me incorporé.
-
-Abrí los ojos.
-
-Había pasado menos de un minuto.
-
-Eso creí.
-
-Me levanté y fui hasta el baño.
-
-Me lavé la cara.
-
-Cuando levanté la cabeza, tuve una sensación extraña.
-
-El espejo devolvía exactamente lo que esperaba encontrar.
-
-Mi cara.
-
-Mi pelo desordenado.
-
-Una pequeña marca debajo del ojo izquierdo.
-
-Todo normal.
-
-Y, sin embargo, por un instante me pareció que mi reflejo había tardado una fracción de segundo en acompañar el movimiento.
-
-Parpadeé.
-
-Volví a mirar.
-
-Nada.
-
-Apoyé las manos sobre la pileta.
-
-Respiré hondo.
-
-Pensé en lo fácil que era fabricar una rareza a partir de un instante de cansancio.
-
-Después me reí solo.
-
-Tenía que dejar de buscar cosas donde no las había.
-
-Eso fue lo que me dije.
-
-Volví al dormitorio.
-
-Esta vez no intenté luchar contra el sueño.
-
-Apagué la luz.
-
-Me acomodé.
-
-Escuché un coche pasar por la avenida.
-
-Después otro.
-
-Escuché una puerta cerrarse en el edificio.
-
-Alguien arrastró algo por el pasillo.
-
-Un perro ladró dos pisos más abajo.
-
-Pensé que podía dormir diez minutos.
-
-Tal vez quince.
-
-No había nada pendiente.
-
-No había nadie esperando una llamada.
-
-No tenía miedo.
-
-No sabía que estaba a punto de recordar aquella mañana durante el resto de mi vida.
-
-Lo último que pensé antes de dormirme fue algo tan insignificante que durante mucho tiempo dudé de haberlo pensado siquiera:
-
-Que, por alguna razón, tenía la sensación de que ya había estado allí.
-
-No en el departamento.
-
-No en la cama.
-
-En ese instante.
-
-Como si lo hubiera vivido antes y todavía no hubiese encontrado la forma de recordarlo.
-
-Cerré los ojos.
+Por primera vez en todo el día dejé de intentar recordar.
 
 Y me quedé dormido.
