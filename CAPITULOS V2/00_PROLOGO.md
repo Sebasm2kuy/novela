@@ -1,114 +1,560 @@
 W A T H N E V E R L E F T
 PRÓLOGO
 
-Durante mucho tiempo pensé que desaparecer era algo que solo podía ocurrirle a los demás. Lo pensé aquella mañana, mientras desayunaba frente a una ventana que daba a una avenida todavía tranquila, sin imaginar que antes de que terminara el día mi nombre aparecería en millones de pantallas y que personas que jamás habían oído hablar de mí discutirían durante semanas sobre si estaba muerto, secuestrado, escondido o simplemente había decidido desaparecer por voluntad propia. No tenía ninguna razón para pensar que aquella mañana sería distinta de cualquier otra. El café estaba demasiado caliente, el pan se había quemado un poco en una esquina y afuera los autos avanzaban con esa paciencia casi mecánica de las primeras horas del día. Había personas esperando el ómnibus, un hombre limpiando la vereda frente a un comercio y una mujer caminando con un perro que parecía tener más prisa que ella. Todo estaba exactamente donde debía estar. Mi vida también.
+Era 2014 y yo tenía una vida que, hasta entonces, me parecía completamente normal.
 
-Por eso, cuando pienso en el día en que desaparecí, lo primero que recuerdo no es el avión, ni las noticias, ni el miedo de quienes estaban buscándome. Recuerdo aquella ventana y la sensación de que nada podía salir mal. Es extraño cómo funciona la memoria. Hay cosas que uno cree que conservará para siempre y que desaparecen sin dejar rastro, mientras que los detalles más insignificantes sobreviven intactos durante años. Puedo recordar el sonido de la cucharita golpeando el borde de la taza, la pequeña mancha de humedad que había aparecido en una esquina del vidrio y hasta la forma en que una luz de semáforo se reflejaba sobre el techo de un automóvil estacionado frente al edificio. En cambio, hay partes de ese día que siguen siendo un agujero. Durante mucho tiempo pensé que se trataba simplemente de una falla de memoria. Hoy sé que no era eso.
+El día que recuerdo como el comienzo no tuvo nada de especial.
 
-Cuando desaparecí, el mundo hizo lo que hace siempre que algo no tiene una explicación inmediata: fabricó muchas explicaciones. Los periódicos publicaron fotografías mías tomadas años antes, algunas tan antiguas que hasta yo tuve dificultades para reconocerme. Los canales de noticias reconstruyeron mis últimos movimientos y colocaron cronologías en pantalla como si mi vida pudiera dividirse en horas perfectamente ordenadas. Las redes sociales se llenaron de fotografías, capturas de mensajes, supuestos testimonios y teorías cada vez más extravagantes. Hubo gente que aseguró que me habían secuestrado. Otros dijeron que había preparado mi desaparición con meses de anticipación y que estaba escondido en algún lugar desde el que observaba todo aquello con satisfacción. Algunos llegaron a afirmar que formaba parte de una organización clandestina, que había descubierto algo que no debía descubrir o que estaba huyendo de personas demasiado poderosas para ser nombradas en público. También hubo quienes inventaron mi muerte y comenzaron a contar detalles sobre mis últimos minutos como si hubieran estado allí.
+Eso es lo primero que recuerdo cuando intento pensar en el comienzo.
 
-Aquellas historias se propagaron con una velocidad que me resultaba casi imposible de comprender cuando las leí por primera vez. Algunas desaparecían en horas y otras permanecían durante meses, repetidas con pequeñas variaciones hasta transformarse en algo que parecía un hecho. Una fotografía borrosa se convertía en una prueba. Una llamada incompleta se convertía en una conversación. Un desconocido que decía haberme visto en una estación podía terminar convertido en un testigo principal en una historia compartida por miles de personas. Cuanto más tiempo pasaba, más difícil resultaba separar lo ocurrido de lo que la gente necesitaba creer que había ocurrido.
+No hubo una tormenta, ni una llamada urgente, ni una noticia capaz de detener la ciudad. No recibí una advertencia. Nadie vino a buscarme. Nadie pronunció mi nombre como si estuviera a punto de ocurrir algo importante.
 
-Los investigadores tampoco ayudaron demasiado. No porque fueran incompetentes, sino porque tenían que trabajar con lo que quedaba después de mi desaparición, y lo que quedaba era contradictorio. Una cámara de seguridad parecía demostrar que había salido de un edificio pocos minutos antes de aparecer en otro situado a cientos de kilómetros. Otra grabación mostraba a alguien con mi rostro entrando en un lugar en el que yo, según otros registros, todavía no había llegado. Un sistema de acceso registró mi identificación después de que, oficialmente, ya había desaparecido. En otro punto apareció una fotografía que parecía haber sido tomada horas más tarde de la última imagen confirmada de mí, aunque nadie pudo establecer con certeza quién la había hecho ni con qué dispositivo.
+Me levanté porque sonó el despertador.
 
-Los expertos encontraron explicaciones para algunas cosas. Hablaron de errores de sincronización, diferencias entre relojes, fallos de servidores, duplicación de archivos y problemas en las redes de vigilancia. Dijeron que los sistemas de reconocimiento facial podían equivocarse y que una persona con un parecido razonable podía ser confundida conmigo. Explicaron que las bases de datos podían presentar registros atrasados o adelantados por errores de transmisión. Todo aquello era razonable, incluso tranquilizador. El problema era que, cuando se reunían todas las piezas, las explicaciones individuales dejaban de ser suficientes.
+A las seis y diecisiete.
 
-Yo leí algunas de esas conclusiones mucho después. Para entonces ya sabía algo que ninguno de ellos podía saber: que ninguna explicaba lo que había ocurrido.
+Lo sé porque miré la hora antes de apagarlo y porque, unos minutos después, volví a mirar el reloj de la cocina para comprobar si había dormido más de lo que creía. A veces lo hacía. Apagaba la alarma medio dormido, cerraba los ojos otra vez y después tenía que reconstruir cuánto tiempo había pasado.
 
-Lo curioso es que durante aquellas primeras horas, mientras el resto del mundo intentaba descubrir dónde estaba, yo no tenía ninguna duda sobre dónde me encontraba. No estaba perdido, no estaba escondido, no estaba herido y no estaba huyendo de nadie. Estaba exactamente donde había decidido estar y, en ese momento, no veía ninguna razón para pensar que aquello pudiera convertirse en una desaparición. Esa es la parte que más me cuesta explicar.
+Aquella mañana no.
 
-Desde afuera, mi desaparición parece el acontecimiento que puso todo en marcha. Para mí no fue así. Yo no sentí que algo comenzara; sentí que algo continuaba, como si aquello que después todos llamarían mi desaparición fuera solamente un acontecimiento más dentro de una historia que llevaba tiempo ocurriendo sin que yo hubiera comprendido su verdadero significado.
+Me quedé sentado en la cama durante un momento, con los pies descalzos sobre el piso frío, escuchando los ruidos del edificio. Una ducha al otro lado de la pared. El ascensor deteniéndose en algún piso. Una puerta que se cerró con demasiada fuerza.
 
-Durante años intenté reconstruir aquel día a partir de lo que recordaba y de lo que otras personas aseguraban haber encontrado. Comparé horarios, revisé fotografías, leí informes que nunca habían sido escritos para que yo los viera y volví una y otra vez sobre las imágenes disponibles. Descubrí que algunas cosas de mi propia vida me resultaban extrañas cuando las observaba desde afuera. Personas que yo recordaba de una manera parecían haber conocido una versión diferente de mí. Lugares que yo creía haber visitado una sola vez aparecían en documentos que sugerían otra historia. Objetos que para mí eran familiares aparecían asociados a acontecimientos que no podía recordar.
+Nada fuera de lo común.
 
-Al principio pensé que estaba reconstruyendo un rompecabezas. Después entendí que quizá estaba intentando reconstruir algo que no obedecía las reglas de un rompecabezas.
+Vivía solo. El departamento no era grande, pero tenía suficiente luz durante la mañana y un balcón estrecho al que casi nunca salía. Desde allí podía ver una parte de la avenida y, si el cielo estaba despejado, una franja del edificio de enfrente entre dos árboles.
 
-Los periodistas hicieron documentales. Algunos fueron serios y otros no tanto. Hubo especialistas que dedicaron meses a estudiar el material disponible. Se publicaron libros. Se hicieron programas de televisión. Aparecieron investigadores aficionados que trazaban líneas entre fotografías y mapas intentando encontrar rutas secretas. Un hombre pasó casi tres años convencido de haber descubierto una secuencia matemática en los horarios de mis movimientos. Otro sostuvo que yo había estado en dos ciudades simultáneamente. Otro afirmaba que las grabaciones habían sido manipuladas antes de que se hicieran públicas. Cada teoría encontraba durante un tiempo personas dispuestas a defenderla con absoluta convicción.
+La cocina tenía una ventana sobre la mesada.
 
-Ninguna llegó a explicar el conjunto.
+Preparé café, tosté dos rebanadas de pan y dejé una sobre el plato mientras buscaba algo en el teléfono. Tenía seis mensajes. Cinco eran cosas que podían esperar. El sexto era de mi jefe preguntando si podía llegar un poco antes.
 
-Lo más inquietante no eran las teorías absurdas. Eran las que estaban casi bien.
+Le respondí que sí.
 
-Porque algunas personas encontraron cosas que yo mismo había olvidado.
+Después miré el café.
 
-Una de esas personas fue un periodista que revisó imágenes tomadas en un lugar donde yo había estado unas horas antes de desaparecer. En una de ellas aparecía una figura al fondo del encuadre. A primera vista no había nada particular. Podía ser cualquiera. Pero ampliaron la imagen y descubrieron que la persona estaba mirándome. No hacia la cámara. A mí. Lo extraño no era que alguien me hubiera reconocido. Lo extraño era que la fotografía mostraba una expresión en mi rostro que yo no recordaba haber tenido nunca.
+Había preparado dos tazas.
 
-Parecía que sabía lo que iba a ocurrir.
+No era extraño. A veces lo hacía por costumbre y terminaba guardando una. Vivía solo desde hacía suficiente tiempo como para haber desarrollado pequeños hábitos que ya no sabía de dónde venían. Dos tazas. Dos cucharas. Dos veces revisar si había cerrado con llave.
 
-La imagen se convirtió en una sensación recurrente para mí. No por la fotografía en sí, sino porque cada vez que la veía tenía la impresión de recordar algo que no conseguía recuperar por completo. Era una especie de memoria sin contenido, una certeza sin la escena que debía sostenerla.
+Supuse que aquel también era uno de ellos.
 
-Ese fue uno de los primeros momentos en que comprendí que mis recuerdos podían no ser suficientes.
+Guardé una taza sin usar en el armario, me vestí y salí.
 
-Hasta entonces había confiado en ellos porque no tenía motivos para hacer otra cosa. Eran mi vida. Mis recuerdos eran el hilo que unía mi infancia con el hombre que era. Recordaba a personas, lugares, conversaciones, cumpleaños, pérdidas y decisiones. Había momentos que podía reconstruir con precisión y otros que apenas conservaban el contorno de una emoción. Pensaba que eso era normal. Todos olvidamos cosas. Todos mezclamos fechas. Todos rellenamos vacíos con suposiciones.
+La calle tenía el aspecto de todas las mañanas. Coches buscando espacio para estacionar. Personas caminando deprisa. Un hombre fumando frente a un kiosco. Dos adolescentes compartiendo auriculares mientras esperaban el ómnibus. El mismo semáforo tardando demasiado en cambiar.
 
-Lo que no sabía era que también podía recordar cosas que no sabía que había vivido.
+Me crucé con la mujer del apartamento del quinto piso justo cuando estaba cerrando la puerta.
 
-Esa posibilidad apareció por primera vez después de mi desaparición, cuando volví a encontrarme con alguien que aseguraba haber hablado conmigo ese mismo día. Me describió una conversación que yo no recordaba. No solo eso: mencionó una frase que, según él, yo había pronunciado de una manera muy específica. Cuando la escuché, algo dentro de mí reaccionó inmediatamente. No porque recordara haberla dicho, sino porque sentí que ya la había escuchado antes. La reconocí sin poder ubicarla.
+—Buen día.
 
-Durante mucho tiempo pensé que aquello podía ser consecuencia del cansancio, del miedo o de la confusión posterior a mi desaparición. Incluso llegué a preguntarme si el hombre estaba mintiendo. Tal vez había inventado la conversación para llamar la atención. Tal vez había hablado con alguien que se parecía a mí. Tal vez simplemente había olvidado una conversación rutinaria. Todas esas explicaciones eran más fáciles de aceptar que la alternativa.
+—Buen día.
 
-Por eso elegí las fáciles y me aferré a ellas durante bastante tiempo.
+Eso fue todo.
 
-Cuando alguien me preguntaba qué había ocurrido realmente, no sabía qué responder. La respuesta pública era simple: había desaparecido. La respuesta privada era mucho más incómoda: no estaba seguro de que el acontecimiento que todo el mundo consideraba mi desaparición hubiera sido realmente el acontecimiento más importante de mi vida.
+Bajé por las escaleras porque el ascensor estaba ocupado. En el segundo piso escuché que alguien lo llamaba desde abajo. En el primero vi un sobre en el suelo, junto a los buzones. Lo recogí y lo dejé encima de las casillas correspondientes.
 
-Lo peor era que yo todavía creía conocerme.
+No me detuve a leer el nombre.
 
-Sabía cómo pensaba. Sabía qué cosas me daban miedo. Sabía qué personas me importaban. Sabía qué recuerdos eran dolorosos y cuáles prefería no visitar demasiado a menudo. Nunca me había preguntado qué era yo en un sentido más profundo. Nunca me había detenido a pensar de dónde venía esa certeza que llamaba identidad. ¿Qué parte de mí era memoria? ¿Qué parte era costumbre? ¿Qué parte era simplemente la suma de todas las decisiones que había tomado? Esas preguntas me parecían demasiado grandes y demasiado abstractas para una vida normal.
+Todavía recuerdo esa mañana por cosas que no significaban nada.
 
-No tenía motivos para pensar que mi vida no fuera normal.
+El olor a café.
 
-Hasta aquel día.
+El frío del piso.
 
-Y, sin embargo, incluso entonces había cosas que no entendía. Había lugares que me producían una sensación de familiaridad sin que pudiera explicar por qué. Había objetos que me incomodaban sin tener un motivo concreto. Había conversaciones en las que sabía lo que alguien iba a decir un segundo antes de que lo dijera, como si aquella escena ya hubiese ocurrido en alguna parte de mi memoria. A veces despertaba con una sensación de pérdida que desaparecía antes de que pudiera identificar qué había perdido. Otras veces reconocía un lugar al que juraba no haber ido jamás.
+El ruido del ascensor.
 
-Todo eso podía haber sido una colección de coincidencias. Durante un tiempo quise creer que lo era. Pero después empezaron a aparecer demasiadas.
+La sensación de haber olvidado algo antes de salir.
 
-La gente que siguió mi caso durante años terminó dividiéndose en grupos. Estaban quienes querían encontrar una explicación concreta, quienes querían demostrar que todo era un fraude y quienes simplemente disfrutaban de la posibilidad de que el mundo escondiera algo que nadie comprendía. Yo observaba todo aquello desde una distancia extraña. Había momentos en que me parecía estar leyendo la historia de otra persona. En otros, encontraba una frase o una fotografía que me hacía sentir que estaban hablando de mí de una forma más precisa de lo que yo mismo podría haberlo hecho.
+Durante mucho tiempo pensé que esa sensación era el primer aviso.
 
-Y poco a poco apareció una pregunta que nunca antes me había hecho: ¿qué ocurrió realmente conmigo?
+Hoy no estoy tan seguro.
 
-No qué dijo la prensa. No qué registraron las cámaras. No qué imaginaron los investigadores. No qué versión consiguió más seguidores. Quería saber qué había ocurrido realmente conmigo.
+Tomé el ómnibus de siempre. Encontré un asiento junto a la ventana y pasé los primeros minutos mirando la ciudad sin prestarle demasiada atención. Había un cartel nuevo sobre una farmacia. Un edificio estaba siendo pintado. Un perro tiraba de la correa de una mujer que hablaba por teléfono y gesticulaba con la mano libre.
 
-La pregunta parecía sencilla. No lo era.
+En una esquina subió un hombre con una caja grande entre los brazos. Se sentó frente a mí y apoyó la caja sobre las piernas.
 
-Porque para responderla tuve que aceptar primero que mi memoria podía no contar toda la historia. Tuve que aceptar que algunos acontecimientos de mi vida no encajaban entre sí. Tuve que admitir que existían cosas que había vivido y que no recordaba haber vivido, y otras que recordaba con una certeza absoluta aunque ninguna prueba externa pudiera demostrar que habían sucedido.
+Lo miré un segundo.
 
-También tuve que aceptar algo mucho más difícil: que quizás el problema no estaba en las pruebas.
+Pensé que lo conocía.
 
-Quizás el problema estaba en mí.
+No era una sensación fuerte. Ni siquiera podría decir que era reconocimiento. Era algo más torpe, parecido a cuando uno ve una cara en la calle y durante medio segundo cree que pertenece a alguien que no ha visto en años.
 
-Durante mucho tiempo pensé que mi desaparición había sido un evento aislado. Algo extraño, sí, pero aislado. Un punto anormal dentro de una vida perfectamente normal. Hoy sé que estaba equivocado.
+El hombre no me miró.
 
-Aquella desaparición no fue el comienzo.
+Cuando bajé, ya me había olvidado de él.
 
-Fue solamente la primera vez que el mundo pudo verla.
+En el trabajo hice lo de siempre.
 
-Yo todavía no lo sabía, pero ya llevaba tiempo viviendo algo que no tenía nombre. Había lugares que todavía no conocía y que, sin embargo, terminarían resultándome familiares. Había personas que todavía no había conocido y cuya ausencia acabaría pesándome. Había momentos que el mundo jamás registraría y que para mí terminarían siendo más importantes que todo lo que apareció en los periódicos.
+Revisé correos. Corregí dos documentos. Pasé una hora intentando resolver un problema que al final consistía en una casilla marcada de forma incorrecta. Fui a buscar un café cerca del mediodía y discutí durante cinco minutos con una máquina que se negaba a aceptar una moneda.
 
-Y había una habitación.
+Nada de eso merece ser contado.
 
-No apareció en ninguna noticia. Ninguna cámara registró su puerta. Ningún investigador la encontró en un mapa. Nunca formó parte de la versión oficial de mi desaparición. Sin embargo, con el tiempo se convirtió en el único lugar donde podía juntar las piezas de una historia que parecía empeñada en romperse cada vez que intentaba entenderla.
+Por eso lo cuento.
 
-Cuando pienso en ella ahora, me resulta difícil explicar por qué al principio no me sorprendió. Tal vez porque cuando uno entra en un lugar que no debería existir, la mente busca desesperadamente una explicación conocida. Una casa. Un hospital. Un hotel. Un refugio. Cualquier cosa que permita convertir lo imposible en algo temporalmente aceptable.
+Porque durante mucho tiempo pensé que los acontecimientos importantes tenían que distinguirse de los demás. Imaginaba que, si alguna vez algo realmente extraordinario ocurría, habría una señal clara. Un antes y un después. Una escena que pudiera señalar con el dedo y decir: ahí empezó.
 
-Yo también lo hice. Me dije que debía haber una explicación, que estaba cansado, que había perdido la noción del tiempo. Me dije muchas cosas y, durante un tiempo, funcionó.
+No fue así.
 
-Hasta que descubrí que podía marcharme de un lugar y volver a otro que seguía siendo exactamente como lo había dejado. Hasta que descubrí que había cosas que recordaba y que nadie más recordaba. Hasta que comprendí que una vida podía existir para mí durante un día entero y, para todos los demás, no haber ocurrido todavía. Hasta que empecé a entender que aquello no tenía nada que ver con estar perdido.
+Las cosas importantes no siempre llegan haciendo ruido.
 
-No estaba perdido. Estaba en algún lugar. En más de uno.
+A veces se parecen exactamente a un martes.
 
-Y todavía no sabía qué significaba eso.
+En la oficina había un reloj sobre la puerta que siempre atrasaba tres minutos.
 
-He leído muchos relatos sobre aquel día. Algunos fueron escritos por periodistas que intentaban reconstruir la verdad. Otros por personas que nunca estuvieron cerca de los acontecimientos. También he leído versiones escritas años después por hombres y mujeres que aseguraban haber entendido lo ocurrido mejor que yo. Casi todos comienzan en el mismo punto: el momento en que desaparecí.
+Nadie entendía por qué seguía allí.
 
-Yo prefiero empezar un poco antes.
+El encargado de mantenimiento había intentado arreglarlo dos veces. Después de eso, todos nos acostumbramos. Para reuniones importantes mirábamos el teléfono. Para bajar a almorzar, mirábamos el reloj de la pared.
 
-Porque si quieren entender qué ocurrió conmigo, tendrán que conocer primero al hombre que desapareció, al hombre que creía conocer perfectamente su propia vida y que, aquella mañana, todavía no tenía razones para sospechar que la palabra realidad podía significar algo diferente de lo que siempre había significado.
+A las diez y media lo observé mientras esperaba que terminara de abrirse un archivo.
 
-Tendrán que acompañarme a los lugares que yo consideraba reales. Tendrán que conocer a las personas que formaban parte de cada una de esas vidas. Tendrán que ver las cosas que vi, recordar lo que yo recuerdo y aceptar, igual que tuve que hacerlo yo, que algunas preguntas no se vuelven más fáciles cuando encuentran una respuesta.
+Marcaba las diez y veintisiete.
 
-Porque esta no es la historia de un hombre que desapareció.
+Sonreí.
 
-Es la historia de un hombre que descubrió que nunca había estado exactamente donde creía.
+Pensé que, al menos, esa mañana todo seguía funcionando como siempre.
 
-Y ahora que conozco una parte de lo que ocurrió, aunque todavía haya cosas que no puedo explicar, voy a contártelo desde el principio, esta vez sin las teorías de los demás, solo con lo que recuerdo, con lo que vi y con lo que nunca pude olvidar.
+Un compañero pasó detrás de mí y se detuvo.
+
+—¿Te acordás del informe del mes pasado?
+
+—Más o menos.
+
+—Te lo mandé ayer.
+
+Abrí el correo.
+
+No estaba.
+
+—¿Seguro que ayer?
+
+—Sí.
+
+Me mostró su teléfono.
+
+Había un mensaje enviado a mi dirección a las nueve y doce de la mañana.
+
+Lo raro era que no recordaba haberlo recibido.
+
+Revisé la bandeja.
+
+Nada.
+
+—Capaz te lo mandé desde otra cuenta —dijo.
+
+—Puede ser.
+
+No insistí.
+
+Media hora después apareció el mensaje.
+
+No había hecho nada para recuperarlo.
+
+Solo estaba allí.
+
+Lo abrí.
+
+El archivo adjunto era exactamente el que necesitaba.
+
+No le di importancia.
+
+Hoy me parece extraño haberlo aceptado con tanta facilidad.
+
+Pero la verdad es que, cuando algo pequeño no encaja, uno suele preferir corregir el mundo dentro de su cabeza antes que admitir que el mundo está haciendo algo raro.
+
+A la hora del almuerzo salí solo.
+
+Había un restaurante pequeño a tres cuadras de la oficina donde servían platos del día. Llegué tarde y tuve que compartir una mesa con un hombre que trabajaba en una construcción cercana. Comía rápido, con una gorra apoyada en la silla de al lado.
+
+—¿Está ocupado? —pregunté.
+
+—No.
+
+Me senté.
+
+Durante unos minutos ninguno habló.
+
+Entonces el hombre me miró.
+
+—Disculpe.
+
+—Sí.
+
+—¿Usted no trabaja por acá?
+
+—Sí.
+
+—Me parece que ya lo vi.
+
+—Puede ser.
+
+Se quedó pensando.
+
+—No. En realidad creo que fue ayer.
+
+Me reí.
+
+—Yo ayer también estaba por acá.
+
+Era cierto.
+
+—Entonces debe ser eso.
+
+Seguimos comiendo.
+
+A los pocos minutos volvió a hablarme.
+
+—¿Usted vive por la zona de la terminal?
+
+Le dije que no.
+
+—Ah.
+
+Pareció decepcionado.
+
+—Perdón. Lo confundí con otro.
+
+No tenía nada de particular.
+
+La ciudad está llena de personas parecidas.
+
+Sin embargo, esa conversación se me quedó dando vueltas toda la tarde.
+
+No por el hombre.
+
+Por mí.
+
+Porque cuando dijo dónde creía que vivía, mi primera reacción no fue pensar que se equivocaba.
+
+Fue intentar recordar si alguna vez había vivido allí.
+
+No recordé nada.
+
+Solo una imagen muy breve: una ventana alta, una pared amarilla y un edificio de ladrillos enfrente.
+
+Nada más.
+
+La imagen desapareció antes de que pudiera retenerla.
+
+Cuando volví a la oficina, busqué en internet la dirección.
+
+No porque creyera que significara algo.
+
+Solo por curiosidad.
+
+Era un edificio viejo que yo conocía de vista.
+
+Nunca había vivido allí.
+
+Eso era todo.
+
+Cerré la página.
+
+Seguí trabajando.
+
+A las cuatro y veinte, uno de mis compañeros dijo una frase que me produjo una incomodidad absurda.
+
+—Esto lo dejamos para mañana.
+
+No había nada raro en la frase. De hecho, la decía con frecuencia.
+
+Lo extraño fue que tuve la sensación de haber escuchado exactamente esas palabras, con la misma voz y en el mismo orden, antes de que las pronunciara.
+
+No era una memoria completa. No podía recordar dónde estábamos ni qué estábamos haciendo. Solo tenía la certeza de que la frase ya había ocurrido.
+
+—¿Qué? —me preguntó.
+
+—Nada.
+
+—Pareces distraído.
+
+—Estoy cansado.
+
+Era una explicación sencilla y suficiente.
+
+A las seis salí del trabajo.
+
+En lugar de volver directamente a casa, pasé por un supermercado. Necesitaba pocas cosas: leche, café, pasta, detergente.
+
+Recorrí los pasillos sin pensar demasiado.
+
+En la sección de limpieza me detuve frente a una marca que siempre compraba.
+
+Durante unos segundos no pude recordar si me gustaba o no.
+
+Tomé otra.
+
+Ese tipo de decisiones pequeñas ocupan más espacio mental del que deberían cuando uno está cansado.
+
+En la caja, la cajera pasó los productos y me preguntó si quería la factura.
+
+—Sí.
+
+Me la entregó.
+
+La guardé en el bolsillo.
+
+Al salir, me di cuenta de que había comprado dos paquetes de pasta.
+
+Volví a mirar la lista en el teléfono.
+
+Solo había uno.
+
+No regresé.
+
+Pensé que podía usar el otro más adelante.
+
+Cuando llegué al edificio, el ascensor tardó demasiado. Subí por las escaleras.
+
+En el cuarto piso encontré al mismo hombre del sobre que había visto la mañana anterior.
+
+Esta vez estaba buscando algo en su buzón.
+
+—Buenas —dijo.
+
+—Buenas.
+
+Me miró.
+
+—¿Usted es del sexto?
+
+—Sí.
+
+—Pensé que era del quinto.
+
+—No.
+
+—Claro.
+
+Se rió.
+
+Yo también.
+
+Entré a mi departamento y cerré la puerta.
+
+La vida tiene muchas maneras de demostrarnos que nadie presta demasiada atención a nadie.
+
+A veces eso resulta tranquilizador.
+
+Esa noche llegué a casa más tarde de lo previsto.
+
+No me volví a dormir enseguida.
+
+Me obligué a levantarme y tomar una ducha. El agua caliente ayudó un poco, aunque al salir seguía teniendo la misma sensación de agotamiento. Me vestí sin apuro y preparé algo para comer.
+
+Revisé el teléfono.
+
+No había mensajes nuevos.
+
+El del número desconocido seguía borrado.
+
+Pensé en la libreta.
+
+La busqué en el escritorio y la abrí por la página de la noche anterior.
+
+“19:14 — no significa nada.”
+
+La frase seguía allí.
+
+Pasé las páginas anteriores.
+
+Había listas de compras, números, fechas, pequeñas notas de trabajo. Nada extraño.
+
+Volví a cerrar la libreta.
+
+Me dije que probablemente la había escrito en un momento que ya no recordaba.
+
+Era completamente posible.
+
+Salí a caminar.
+
+No necesitaba comprar nada. Solo quería estar afuera.
+
+La mañana había despejado un poco y la ciudad tenía ese ritmo intermedio en el que algunas personas todavía caminaban con prisa y otras ya habían empezado a reducir la velocidad. Entré en un café, pedí otro café y me senté junto a la ventana.
+
+La mesa de al lado quedó vacía durante unos minutos.
+
+Después una mujer dejó un bolso sobre la silla y fue al mostrador.
+
+Cuando regresó, me miró.
+
+—Perdón.
+
+—¿Sí?
+
+—¿Nos conocemos?
+
+Negué con la cabeza.
+
+—No creo.
+
+—Ah.
+
+Sonrió incómoda.
+
+—Me pareció.
+
+—A mí me pasa seguido.
+
+Lo dije sin pensar.
+
+Ella volvió a sentarse.
+
+La frase me quedó sonando.
+
+“A mí me pasa seguido.”
+
+No sabía si era verdad.
+
+Tal vez lo había dicho solo para hacerla sentir menos incómoda.
+
+Me terminé el café y regresé a casa.
+
+El camino de vuelta fue corto.
+
+Al llegar, volví a mirar el reloj de la cocina.
+
+8:03.
+
+Había pasado más tiempo del que imaginaba.
+
+El cansancio no tenía explicación.
+
+No había trabajado toda la noche. No estaba enfermo. No había hecho ejercicio. Había dormido varias horas.
+
+Y, sin embargo, sentía que podía acostarme y dormir durante un día entero.
+
+Me senté en el sofá.
+
+Encendí la televisión.
+
+No recuerdo qué programa estaba pasando.
+
+Escuché voces durante unos minutos.
+
+Después cambié de canal.
+
+Había un documental.
+
+Lo dejé.
+
+Aparecía una carretera vista desde arriba.
+
+La imagen me produjo una incomodidad instantánea.
+
+No sabía por qué.
+
+Apagué el televisor.
+
+Miré el reloj.
+
+8:26.
+
+Pensé que todavía era temprano.
+
+Podía dormir un rato y después seguir con el día.
+
+No tenía nada urgente.
+
+Subí al dormitorio.
+
+No pensaba dormir.
+
+Solo quería acostarme unos minutos.
+
+Me senté en la cama.
+
+Después me recosté.
+
+Cerré los ojos.
+
+Intenté pensar en el mensaje del número desconocido, en el hombre del ómnibus, en la frase de la tarde anterior, en el libro de la página 143.
+
+Todo empezó a mezclarse.
+
+Me incorporé.
+
+Abrí los ojos.
+
+Había pasado menos de un minuto.
+
+Eso creí.
+
+Me levanté y fui hasta el baño.
+
+Me lavé la cara.
+
+Cuando levanté la cabeza, tuve una sensación extraña.
+
+El espejo devolvía exactamente lo que esperaba encontrar.
+
+Mi cara.
+
+Mi pelo desordenado.
+
+Una pequeña marca debajo del ojo izquierdo.
+
+Todo normal.
+
+Y, sin embargo, por un instante me pareció que mi reflejo había tardado una fracción de segundo en acompañar el movimiento.
+
+Parpadeé.
+
+Volví a mirar.
+
+Nada.
+
+Apoyé las manos sobre la pileta.
+
+Respiré hondo.
+
+Pensé en lo fácil que era fabricar una rareza a partir de un instante de cansancio.
+
+Después me reí solo.
+
+Tenía que dejar de buscar cosas donde no las había.
+
+Eso fue lo que me dije.
+
+Volví al dormitorio.
+
+Esta vez no intenté luchar contra el sueño.
+
+Apagué la luz.
+
+Me acomodé.
+
+Escuché un coche pasar por la avenida.
+
+Después otro.
+
+Escuché una puerta cerrarse en el edificio.
+
+Alguien arrastró algo por el pasillo.
+
+Un perro ladró dos pisos más abajo.
+
+Pensé que podía dormir diez minutos.
+
+Tal vez quince.
+
+No había nada pendiente.
+
+No había nadie esperando una llamada.
+
+No tenía miedo.
+
+No sabía que estaba a punto de recordar aquella mañana durante el resto de mi vida.
+
+Lo último que pensé antes de dormirme fue algo tan insignificante que durante mucho tiempo dudé de haberlo pensado siquiera:
+
+Que, por alguna razón, tenía la sensación de que ya había estado allí.
+
+No en el departamento.
+
+No en la cama.
+
+En ese instante.
+
+Como si lo hubiera vivido antes y todavía no hubiese encontrado la forma de recordarlo.
+
+Cerré los ojos.
+
+Y me quedé dormido.
