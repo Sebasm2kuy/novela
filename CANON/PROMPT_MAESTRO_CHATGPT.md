@@ -322,13 +322,15 @@ No convertir esto automáticamente en "resurrección", viaje temporal, línea al
 Este mapa es obligatorio salvo modificación explícita del autor.
 
 ### PRÓLOGO
-**Ventana 3 — 2014 / MH370 / Desaparición Pública**
+**Ventana 3 — 2014 / Vida cotidiana**
 
-El protagonista está dentro del avión durante parte del período relevante y es desplazado antes del desenlace completo del vuelo.
+El prólogo se desarrolla dentro de una única realidad y sigue al protagonista como una persona común y corriente, inmerso en una vida cotidiana sin relevancia pública.
 
-El acontecimiento conecta con la desaparición pública del MH370.
+No usar la desaparición pública del MH370 ni una tormenta mediática como eje del prólogo.
 
-La historia debe mantener la incertidumbre sin explicar prematuramente por qué el protagonista estuvo allí.
+El prólogo debe mantenerse dentro de la experiencia de esa única realidad: rutinas, entorno, recuerdos, percepciones y pequeñas anomalías que todavía admiten explicaciones ordinarias.
+
+El cierre puede ocurrir cuando el protagonista se queda dormido después del tiempo vivido en esa realidad, pero no debe explicar prematuramente qué sucede durante o después del sueño.
 
 ### CAPÍTULO 1
 **Ventana 6 — Bajo la Ciudad / La Puerta Inexplicable**
