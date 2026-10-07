@@ -1,11 +1,13 @@
 # MAPA CANÓNICO — CAPÍTULO / VENTANA
 
 ## Prólogo
-**Ventana 3 — 2014 / MH370 / Desaparición Pública**
+**Ventana 3 — 2014 / La vida que parecía normal**
 
-El protagonista está dentro del avión durante su estancia de 24 horas y es desplazado antes del desenlace completo del vuelo.
+El prólogo se desarrolla dentro de una única realidad y sigue la vida cotidiana del protagonista, una persona común y corriente que no ocupa ningún lugar especial ante el mundo.
 
-El acontecimiento público es la desaparición del avión, con contradicciones y una tormenta mediática alrededor del caso.
+La historia no utiliza una desaparición pública ni el caso MH370 como motor del prólogo.
+
+El prólogo termina durante un episodio de sueño, sin explicar todavía qué ocurre después.
 
 ## Capítulo 1
 **Ventana 6 — Bajo la Ciudad / La Puerta Inexplicable**
