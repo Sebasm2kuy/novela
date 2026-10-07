@@ -30,22 +30,25 @@ El mecanismo de entrada y salida de la Habitación y las ventanas está ligado a
 
 ### Regla de permanencia y tránsito
 
-- En una ventana debe permanecer **como mínimo 24 horas** antes de que el sueño pueda producir la salida.
-- Al regresar a la Habitación debe permanecer **como mínimo 24 horas despierto** antes de que el sueño pueda producir un nuevo desplazamiento.
-- Durante la permanencia en la Habitación puede comer, descansar, escribir, pensar, investigar y realizar otras actividades.
-- El protagonista puede permanecer en la Habitación más allá de las 24 horas mínimas mientras continúe despierto. Puede pasar incluso varios días allí sin desplazarse.
-- Una vez cumplidas las 24 horas mínimas de vigilia en la Habitación, cuando finalmente se duerme, el desplazamiento ocurre **automáticamente** hacia una nueva ventana.
-- Una vez cumplidas las 24 horas mínimas dentro de una ventana, cuando el protagonista se duerme, el desplazamiento ocurre **automáticamente** y regresa a la Habitación.
+- En una ventana debe transcurrir **como mínimo 24 horas** antes de que dormir pueda producir la salida.
+- Durante esas 24 horas puede estar despierto o dormido normalmente.
+- Dormirse antes de cumplir las 24 horas **no produce un desplazamiento**; permanece en esa misma realidad hasta completar el tiempo mínimo.
+- Una vez cumplidas las 24 horas en una ventana, el siguiente sueño produce **automáticamente** el regreso a la Habitación.
+- Al regresar a la Habitación debe transcurrir **como mínimo 24 horas** antes de que dormir pueda producir un nuevo desplazamiento.
+- Durante esas 24 horas puede comer, descansar, dormir, escribir, pensar, investigar y realizar otras actividades.
+- Dormirse en la Habitación antes de cumplir las 24 horas **no produce un nuevo desplazamiento**; permanece en la Habitación hasta completar el tiempo mínimo.
+- Una vez cumplidas las 24 horas en la Habitación, el siguiente sueño produce **automáticamente** el paso a una nueva ventana.
+- El protagonista puede permanecer en la Habitación indefinidamente mientras no se produzca el sueño posterior al cumplimiento del mínimo.
 - El protagonista no elige conscientemente la ventana de destino.
 - Puede desear una ventana concreta, pero ese deseo no garantiza el destino.
 
-El sueño es, por tanto, el **disparador del tránsito**, no una decisión consciente sobre a qué realidad viajar.
+El sueño es, por tanto, el **disparador del tránsito**, pero las 24 horas transcurridas son la condición mínima que permite que ese tránsito ocurra.
 
 No existe ya un mecanismo canónico basado en señal o contacto voluntario con una pared.
 
 # 5. Tiempo, tránsito y congelación de las realidades
 
-Cuando el protagonista abandona una ventana al quedarse dormido, **esa realidad queda detenida exactamente en el instante de su salida**.
+Cuando el protagonista abandona una ventana al quedarse dormido después de haber cumplido el mínimo de 24 horas, **esa realidad queda detenida exactamente en el instante de su salida**.
 
 Cuando vuelve posteriormente a esa misma realidad, regresa al **mismo instante exacto —hora, minuto y segundo— en que la abandonó**.
 
@@ -60,9 +63,9 @@ Por tanto, existe una diferencia fundamental entre:
 
 Las diez realidades no avanzan mientras él está ausente de ellas. Cada una conserva su propio estado hasta que vuelve a experimentarla.
 
-La Habitación sí posee continuidad temporal propia. Allí transcurre el período posterior a cada ventana y el mínimo obligatorio de **24 horas despierto** antes de que pueda producirse un nuevo tránsito mediante el sueño.
+La Habitación sí posee continuidad temporal propia. Allí transcurre el período entre una ventana y la siguiente.
 
-Dormirse en la Habitación antes de cumplir las 24 horas mínimas de vigilia **no produce un nuevo tránsito**; el ciclo de desplazamiento queda bloqueado hasta que se cumple el mínimo.
+El sueño no desplaza al protagonista por sí mismo durante los primeros 24 horas de una estancia: **primero debe cumplirse el mínimo temporal y luego producirse el sueño**.
 
 Los lapsos subjetivos acumulados pueden producir cansancio, culpa, desorientación y problemas de identidad.
 
