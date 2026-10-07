@@ -69,15 +69,13 @@ V2 sigue subordinada al canon de `CANON/`; crear una nueva versión del manuscri
 
 La entrada y salida de las ventanas y de la Habitación se realizan mediante el **sueño**.
 
-El protagonista debe permanecer como mínimo **24 horas en cada ventana** antes de que dormirse pueda producir la salida.
+En cada ventana deben transcurrir como mínimo **24 horas** antes de que dormir pueda producir la salida. Puede dormir o permanecer despierto durante esas 24 horas; dormir antes del mínimo no produce desplazamiento.
 
-Al regresar a la Habitación debe permanecer como mínimo **24 horas despierto**. Después de ese mínimo puede seguir allí indefinidamente mientras permanezca despierto, incluso durante varios días.
+Al regresar a la Habitación deben transcurrir como mínimo **24 horas** antes de que dormir pueda producir un nuevo desplazamiento. Durante ese período puede dormir, comer, descansar, escribir, pensar, investigar y realizar otras actividades. Dormir antes del mínimo no produce desplazamiento.
 
-Mientras permanece despierto puede comer, descansar, escribir, pensar, investigar y realizar otras actividades.
+Una vez cumplidas las 24 horas en la Habitación, el siguiente sueño produce automáticamente el paso a una nueva ventana.
 
-Cuando se duerme en la Habitación después de cumplir el mínimo de 24 horas despierto, pasa automáticamente a una nueva ventana.
-
-Cuando se duerme en una ventana después de cumplir el mínimo de 24 horas de permanencia, regresa automáticamente a la Habitación.
+Una vez cumplidas las 24 horas en una ventana, el siguiente sueño produce automáticamente el regreso a la Habitación.
 
 El destino de la nueva ventana no es elegido conscientemente por él.
 
