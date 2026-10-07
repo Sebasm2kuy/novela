@@ -7,6 +7,8 @@
 | 2026-10-01 | 10:30:33 UTC | 11:44:02 UTC | Parcial |
 | 2026-10-03 | 12:40:58 UTC | 22:18:04 UTC | Parcial |
 | 2026-10-05 | 11:46:23 UTC | 12:13:25 UTC + registros posteriores | Parcial |
+| 2026-10-06 | registros recuperados durante el día | registros posteriores | Parcial |
+| 2026-10-07 | 07:37 UTC aprox. | recuperación de continuidad | Parcial + archivo maestro de recuperación |
 
 ## Criterio
 Las horas se conservan en UTC porque son las marcas temporales recuperadas. No se convierten a hora local cuando eso pueda producir falsa precisión.
