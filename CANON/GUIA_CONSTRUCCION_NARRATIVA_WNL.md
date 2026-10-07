@@ -107,7 +107,7 @@ Una respuesta puede resolver una pregunta y abrir otra más profunda.
 
 Esta regla es especialmente importante para las diez ventanas.
 
-El protagonista solo permanece 24 horas en cada visita, pero el mundo no se detiene cuando él desaparece.
+El protagonista debe permanecer como mínimo 24 horas en cada ventana. Cuando se duerme después de cumplir ese mínimo, regresa a la Habitación, y la realidad queda congelada exactamente en el instante de su salida.
 
 Debemos preguntar:
 
@@ -117,7 +117,7 @@ Y después:
 
 > **¿Qué ocurrió allí mientras él estaba ausente?**
 
-Esto permite que las ventanas acumulen historia.
+Esto significa que las consecuencias relevantes deben provenir de lo ocurrido durante su presencia y de lo que ocurra cuando regrese al mismo instante.
 
 Cuando el protagonista regrese, puede encontrar:
 
@@ -1382,7 +1382,7 @@ Puede haber:
 - una decisión tomada en su ausencia;
 - información que ahora puede interpretar de otra manera.
 
-Esto convierte el paso del tiempo paralelo en una herramienta narrativa.
+Esto convierte la diferencia entre el tiempo subjetivo del protagonista y el tiempo congelado de cada ventana en una herramienta narrativa.
 
 ---
 
@@ -4192,11 +4192,23 @@ Puede ganar una discusión y perder una relación.
 
 Puede escapar de un peligro y quedar atrapado en otro.
 
-Puede regresar a una ventana y descubrir que el tiempo siguió avanzando.
+Puede regresar a una ventana y descubrir que todo continúa exactamente en el instante en que la dejó.
 
 Por eso:
 
 > **Una victoria puede cambiar el problema en lugar de eliminarlo.**
+
+## Mecánica canónica de sueño y vigilia
+
+La transición entre la Habitación y las ventanas depende del sueño.
+
+El protagonista necesita un mínimo de **24 horas dentro de cada ventana** antes de que dormir produzca su salida.
+
+En la Habitación necesita un mínimo de **24 horas despierto** antes de que dormir pueda enviarlo a una nueva ventana. Cumplido ese mínimo, puede seguir despierto allí indefinidamente, incluso varios días.
+
+La vigilia prolongada en la Habitación puede convertirse en una herramienta narrativa: el protagonista puede decidir cuánto tiempo permanece despierto, pero no puede decidir conscientemente qué ventana recibirá cuando finalmente se duerma.
+
+El contacto con paredes no debe describirse como mecanismo de tránsito. Una pared puede seguir siendo una fuente de anomalías, sensaciones o pistas independientes.
 
 ## 209. No convertir cada anomalía en antagonista
 
