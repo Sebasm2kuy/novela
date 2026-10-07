@@ -65,6 +65,26 @@ La carpeta `CAPITULOS/` queda preservada como V1/histórico y no debe sobrescrib
 
 V2 sigue subordinada al canon de `CANON/`; crear una nueva versión del manuscrito no equivale por sí mismo a crear nuevo canon.
 
+## Mecánica canónica vigente — sueño y 24 horas
+
+La entrada y salida de las ventanas y de la Habitación se realizan mediante el **sueño**.
+
+El protagonista debe permanecer como mínimo **24 horas en cada ventana** antes de que dormirse pueda producir la salida.
+
+Al regresar a la Habitación debe permanecer como mínimo **24 horas despierto**. Después de ese mínimo puede seguir allí indefinidamente mientras permanezca despierto, incluso durante varios días.
+
+Mientras permanece despierto puede comer, descansar, escribir, pensar, investigar y realizar otras actividades.
+
+Cuando se duerme en la Habitación después de cumplir el mínimo de 24 horas despierto, pasa automáticamente a una nueva ventana.
+
+Cuando se duerme en una ventana después de cumplir el mínimo de 24 horas de permanencia, regresa automáticamente a la Habitación.
+
+El destino de la nueva ventana no es elegido conscientemente por él.
+
+El mecanismo anterior basado en señal/contacto voluntario con una pared queda reemplazado por esta regla.
+
+La vibración o cualquier anomalía asociada a una pared puede seguir existiendo como elemento narrativo independiente, pero su relación con el tránsito no está confirmada.
+
 ## Protección de continuidad
 Los archivos antiguos pueden contener ideas o versiones previas incompatibles con el canon actual. Deben conservarse como histórico, no como autoridad.
 
