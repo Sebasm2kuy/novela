@@ -54,3 +54,17 @@ El destino no es elegido conscientemente.
 La mecánica anterior de señal/contacto voluntario con una pared queda reemplazada.
 
 La nueva regla pasa a formar parte del canon operativo de WATH NEVER LEFT.
+
+
+## Corrección canónica — 2026-10-07 — Las 24 horas no requieren vigilia
+
+Se aclara la decisión anterior sobre el mecanismo de tránsito:
+
+- El protagonista **puede dormir tanto en las ventanas como en la Habitación**.
+- Las 24 horas son un **mínimo de tiempo transcurrido**, no un mínimo de horas despierto.
+- Si duerme antes de cumplir las 24 horas de una estancia, **no se desplaza** y permanece en la misma realidad o en la Habitación.
+- Una vez cumplidas las 24 horas correspondientes, el **siguiente sueño** produce el desplazamiento automático.
+- En una ventana, ese sueño produce el regreso a la Habitación.
+- En la Habitación, ese sueño produce el paso a una nueva ventana.
+
+La redacción anterior que hablaba de "24 horas despierto" queda corregida y no debe utilizarse.
