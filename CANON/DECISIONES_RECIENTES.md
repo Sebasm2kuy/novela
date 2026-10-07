@@ -68,3 +68,20 @@ Se aclara la decisión anterior sobre el mecanismo de tránsito:
 - En la Habitación, ese sueño produce el paso a una nueva ventana.
 
 La redacción anterior que hablaba de "24 horas despierto" queda corregida y no debe utilizarse.
+
+
+## Nueva decisión canónica — 2026-10-07 — Reimaginación del prólogo
+
+Se confirma una nueva dirección para el prólogo de WATH NEVER LEFT:
+
+- El prólogo debe desarrollarse dentro de una única realidad y seguir una única vida desde la experiencia del protagonista.
+- El protagonista debe presentarse inicialmente como una persona común y corriente, sin relevancia pública especial.
+- Se elimina del prólogo el eje de la desaparición pública y la idea de que el mundo lo busca o debate masivamente sobre su paradero.
+- Se elimina del prólogo el uso del MH370 como motor narrativo.
+- Se elimina del prólogo cualquier mención explícita de la Habitación.
+- Se elimina del prólogo cualquier explicación o referencia explícita a otras vidas, ventanas o realidades.
+- El prólogo debe evitar explicar la arquitectura general de la novela.
+- La nueva mecánica de tránsito por sueño puede estar implícita en la construcción narrativa, pero el prólogo no debe explicarla como sistema.
+- El cierre puede producirse cuando el protagonista se queda dormido, dejando abierto lo que ocurre después.
+
+Esta decisión reemplaza la dirección anterior del prólogo relacionada con la desaparición pública del avión.
