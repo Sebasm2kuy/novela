@@ -61,6 +61,8 @@ El prólogo revisado está guardado como:
 
 `CAPITULOS V2/00_PROLOGO.md`
 
+La versión V2 vigente del prólogo fue reimaginada el 7 de octubre de 2026: transcurre en una sola realidad, sigue una vida cotidiana y ordinaria, elimina el eje MH370/desaparición pública y no menciona explícitamente la Habitación ni otras ventanas/realidades.
+
 La carpeta `CAPITULOS/` queda preservada como V1/histórico y no debe sobrescribirse con el trabajo de V2. Esta separación existe para permitir comparación, recuperación y auditoría sin perder versiones anteriores.
 
 V2 sigue subordinada al canon de `CANON/`; crear una nueva versión del manuscrito no equivale por sí mismo a crear nuevo canon.
