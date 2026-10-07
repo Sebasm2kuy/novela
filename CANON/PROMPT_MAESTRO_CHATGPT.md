@@ -200,42 +200,37 @@ Para él, **cada realidad es su realidad real mientras está dentro de ella**. N
 
 La Habitación también es una realidad real para él.
 
-Cada permanencia en una ventana dura exactamente:
+### Mecanismo de tránsito por sueño
 
-**24 horas.**
+La entrada y salida de las ventanas y de la Habitación se producen mediante el **sueño**.
 
-Después se produce un retorno automático a la Habitación.
+En una ventana:
+- debe permanecer como mínimo **24 horas**;
+- una vez cumplido ese mínimo, cuando se duerme, sale automáticamente de esa ventana y regresa a la Habitación.
 
-Debe permanecer allí al menos:
-
-**24 horas**
-
-antes de otro desplazamiento.
-
-El desplazamiento ocurre después de una señal física/sensorial en una pared y del contacto voluntario del protagonista con ella. A partir de ese momento, el desplazamiento es involuntario.
+En la Habitación:
+- debe permanecer como mínimo **24 horas despierto** antes de que el sueño pueda producir un nuevo desplazamiento;
+- durante ese período puede comer, descansar, escribir, investigar, pensar y realizar otras actividades;
+- después de cumplir el mínimo puede permanecer allí indefinidamente mientras siga despierto, incluso varios días;
+- cuando finalmente se duerme, pasa automáticamente a una nueva ventana.
 
 El protagonista:
-
-- no puede elegir libremente la ventana;
+- no puede elegir libremente la ventana de destino;
 - puede desear una ventana concreta;
 - ese deseo no garantiza el destino;
-- la pérdida de control es deliberada.
+- el sueño produce el desplazamiento automáticamente una vez cumplido el mínimo.
 
-### Regla temporal nueva
+El mecanismo anterior basado en una señal física/sensorial y contacto voluntario con una pared queda **reemplazado**.
+
+### Regla temporal vigente
 
 Cuando abandona una realidad, **esa realidad queda congelada exactamente en el instante de su salida**.
 
 Cuando vuelve a ella, regresa al mismo **día/hora/minuto/segundo** en que la abandonó.
 
-Para los habitantes de esa realidad no necesariamente ha transcurrido ningún tiempo. Una conversación, movimiento o acción puede continuar exactamente donde quedó.
+Para los habitantes de esa realidad no necesariamente ha transcurrido ningún tiempo.
 
-El protagonista, en cambio, sí acumula todo el tiempo subjetivo vivido en otras realidades y en la Habitación.
-
-La Habitación mantiene su propia continuidad temporal durante las 24 horas mínimas entre desplazamientos.
-
-El protagonista no puede modificar la historia de una realidad; puede actuar dentro de ella durante sus 24 horas, pero no puede hacer que el tiempo de esa realidad avance durante su ausencia.
-
----
+La Habitación sí mantiene continuidad temporal durante la permanencia del protagonista allí.
 
 # 6. LA HABITACIÓN
 
