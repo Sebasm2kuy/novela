@@ -138,6 +138,6 @@ Las siguientes reglas forman parte del canon operativo actual:
 - contradicción entre muerte recordada y retorno vivo al instante exacto;
 - sueño como mecanismo de tránsito;
 - mínimo de 24 horas en cada ventana;
-- mínimo de 24 horas despierto en la Habitación antes de un nuevo tránsito.
+- mínimo de 24 horas en la Habitación antes de un nuevo tránsito.
 
 Las conexiones profundas entre las ventanas y la explicación definitiva de estas reglas siguen protegidas como misterio.
