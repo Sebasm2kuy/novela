@@ -33,3 +33,24 @@ A partir de esta etapa, las auditorías deben distinguir entre:
 3. oportunidad futura.
 
 La falta de un arco completo de una ventana no es, por sí sola, un agujero de guion.
+
+
+## Nueva decisión canónica — 2026-10-07 — Mecánica de sueño
+
+Se confirma que el **sueño es el mecanismo de entrada y salida entre la Habitación y las ventanas**.
+
+En una ventana:
+- debe permanecer como mínimo 24 horas;
+- después de cumplir ese mínimo, al dormirse sale automáticamente hacia la Habitación.
+
+En la Habitación:
+- debe permanecer como mínimo 24 horas despierto;
+- durante ese período puede comer, descansar, escribir, pensar, investigar y realizar otras actividades;
+- una vez cumplidas las 24 horas, puede permanecer indefinidamente mientras siga despierto, incluso durante varios días;
+- al dormirse después del mínimo pasa automáticamente a una nueva ventana.
+
+El destino no es elegido conscientemente.
+
+La mecánica anterior de señal/contacto voluntario con una pared queda reemplazada.
+
+La nueva regla pasa a formar parte del canon operativo de WATH NEVER LEFT.
