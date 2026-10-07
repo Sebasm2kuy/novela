@@ -44,7 +44,7 @@ En una ventana:
 - después de cumplir ese mínimo, al dormirse sale automáticamente hacia la Habitación.
 
 En la Habitación:
-- debe permanecer como mínimo 24 horas despierto;
+- debe permanecer como mínimo 24 horas;
 - durante ese período puede comer, descansar, escribir, pensar, investigar y realizar otras actividades;
 - una vez cumplidas las 24 horas, puede permanecer indefinidamente mientras siga despierto, incluso durante varios días;
 - al dormirse después del mínimo pasa automáticamente a una nueva ventana.
