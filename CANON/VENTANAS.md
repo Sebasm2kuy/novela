@@ -92,13 +92,17 @@ Estado: PENDIENTE DE USO.
 
 La entrada y salida de las ventanas y de la Habitación se producen mediante el **sueño**.
 
-- Cada estancia en una ventana requiere un mínimo de **24 horas** antes de que el sueño pueda producir la salida.
-- Cada estancia en la Habitación requiere un mínimo de **24 horas despierto** antes de que el sueño pueda producir un nuevo desplazamiento.
-- Cumplidas esas 24 horas despierto, el protagonista puede permanecer en la Habitación todo el tiempo que quiera mientras continúe despierto, incluso varios días.
-- Dormirse después del mínimo en la Habitación lo lleva automáticamente a una nueva ventana.
-- Dormirse después del mínimo en una ventana lo devuelve automáticamente a la Habitación.
-- El destino concreto no es elegido conscientemente por el protagonista.
+- En cada ventana deben transcurrir como mínimo **24 horas** antes de que dormir pueda producir la salida.
+- El protagonista puede dormir o permanecer despierto durante ese período; dormir antes de las 24 horas no produce desplazamiento.
+- Después de cumplir las 24 horas en una ventana, el siguiente sueño lo devuelve automáticamente a la Habitación.
+- En la Habitación deben transcurrir como mínimo **24 horas** antes de que dormir pueda producir un nuevo desplazamiento.
+- Durante ese período puede dormir, comer, descansar, escribir, pensar, investigar y realizar otras actividades.
+- Dormir antes de cumplir las 24 horas en la Habitación no produce desplazamiento.
+- Después de cumplir las 24 horas en la Habitación, el siguiente sueño lo lleva automáticamente a una nueva ventana.
+- El protagonista no elige conscientemente la ventana de destino.
 - El contacto con una pared ya no constituye el mecanismo canónico de desplazamiento.
+
+Las 24 horas son un **mínimo de tiempo transcurrido**, no una exigencia de estar despierto.
 
 ## Regla de uso narrativo de las ventanas
 
