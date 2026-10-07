@@ -24,58 +24,49 @@ La misma identidad/conciencia del protagonista existe en las diez, pero él solo
 
 Para el protagonista, **cada una de las diez realidades es su realidad real mientras está dentro de ella**. No existe, desde su experiencia, una realidad que pueda identificar de antemano como "la verdadera" frente a otras que sean visitas, copias o simulaciones.
 
-La **Habitación también es una realidad real para él**. No está fuera de la existencia ni debe tratarse como un espacio meramente abstracto.
+La **Habitación también es una realidad real** para él. No está fuera de la existencia ni debe tratarse como un espacio meramente abstracto.
 
-Cada estancia en una ventana dura exactamente **24 horas**.
+El mecanismo de entrada y salida de la Habitación y las ventanas está ligado al **sueño**.
 
-Después del desplazamiento, el protagonista regresa automáticamente a la Habitación, donde debe permanecer al menos **24 horas** antes de otro desplazamiento.
+### Regla de permanencia y tránsito
 
-## 5. Desplazamiento
-- Existe una señal física/sensorial relacionada con una pared.
-- El protagonista realiza contacto físico voluntario.
-- El desplazamiento posterior es involuntario.
-- El mecanismo selecciona el destino.
-- El protagonista no puede elegir libremente la ventana.
-- Puede desear una ventana concreta, pero el deseo no controla el resultado.
-- La pérdida de control es intencional.
+- En una ventana debe permanecer **como mínimo 24 horas** antes de que el sueño pueda producir la salida.
+- Al regresar a la Habitación debe permanecer **como mínimo 24 horas despierto** antes de que el sueño pueda producir un nuevo desplazamiento.
+- Durante la permanencia en la Habitación puede comer, descansar, escribir, pensar, investigar y realizar otras actividades.
+- El protagonista puede permanecer en la Habitación más allá de las 24 horas mínimas mientras continúe despierto. Puede pasar incluso varios días allí sin desplazarse.
+- Una vez cumplidas las 24 horas mínimas de vigilia en la Habitación, cuando finalmente se duerme, el desplazamiento ocurre **automáticamente** hacia una nueva ventana.
+- Una vez cumplidas las 24 horas mínimas dentro de una ventana, cuando el protagonista se duerme, el desplazamiento ocurre **automáticamente** y regresa a la Habitación.
+- El protagonista no elige conscientemente la ventana de destino.
+- Puede desear una ventana concreta, pero ese deseo no garantiza el destino.
 
-## 6. Tiempo y congelación de las realidades
-La regla anterior de avance temporal paralelo queda **reemplazada** por esta decisión canónica.
+El sueño es, por tanto, el **disparador del tránsito**, no una decisión consciente sobre a qué realidad viajar.
 
-Cuando el protagonista abandona una ventana, **esa realidad queda detenida exactamente en el instante de su salida**.
+No existe ya un mecanismo canónico basado en señal o contacto voluntario con una pared.
 
-Cuando regresa posteriormente a esa misma realidad, vuelve al **mismo instante exacto —hora, minuto y segundo— en que la abandonó**.
+# 5. Tiempo, tránsito y congelación de las realidades
 
-Para los habitantes de esa realidad puede no haber transcurrido ningún tiempo entre ambas visitas. Una persona puede continuar una acción, una frase o un movimiento exactamente donde quedó.
+Cuando el protagonista abandona una ventana al quedarse dormido, **esa realidad queda detenida exactamente en el instante de su salida**.
 
-El tiempo subjetivo del protagonista, en cambio, sí continúa: entre una visita y otra puede haber vivido múltiples estancias de 24 horas en otras realidades y períodos de al menos 24 horas en la Habitación.
+Cuando vuelve posteriormente a esa misma realidad, regresa al **mismo instante exacto —hora, minuto y segundo— en que la abandonó**.
+
+Para los habitantes de esa realidad puede no haber transcurrido ningún tiempo durante su ausencia. Una conversación, movimiento o acción puede continuar exactamente donde quedó.
+
+El tiempo subjetivo del protagonista, en cambio, sí continúa: entre una visita y otra puede haber vivido otras ventanas y períodos de permanencia en la Habitación.
 
 Por tanto, existe una diferencia fundamental entre:
 - el tiempo que él ha vivido;
-- el tiempo transcurrido dentro de una ventana concreta.
+- el tiempo transcurrido dentro de una ventana concreta;
+- el tiempo continuo de la Habitación.
 
 Las diez realidades no avanzan mientras él está ausente de ellas. Cada una conserva su propio estado hasta que vuelve a experimentarla.
 
-La Habitación sí posee continuidad temporal propia: allí transcurre el período que el protagonista utiliza para descansar, recordar, registrar e investigar.
+La Habitación sí posee continuidad temporal propia. Allí transcurre el período posterior a cada ventana y el mínimo obligatorio de **24 horas despierto** antes de que pueda producirse un nuevo tránsito mediante el sueño.
 
-Los lapsos subjetivos acumulados son deliberados y pueden producir cansancio, culpa, desorientación y problemas de identidad.
+Dormirse en la Habitación antes de cumplir las 24 horas mínimas de vigilia **no produce un nuevo tránsito**; el ciclo de desplazamiento queda bloqueado hasta que se cumple el mínimo.
 
-## 7. Memoria, identidad y percepción de la realidad
-El protagonista conserva conscientemente los recuerdos de las demás realidades y de la Habitación.
+Los lapsos subjetivos acumulados pueden producir cansancio, culpa, desorientación y problemas de identidad.
 
-No pierde automáticamente esos recuerdos al entrar en una nueva realidad.
-
-Por eso puede llegar a dudar de cuál de todas está viviendo en un momento determinado. Puede recordar personas, lugares y acontecimientos de otras realidades mientras se encuentra físicamente en una de ellas.
-
-Esto no significa que comprenda qué son las realidades ni que conozca una explicación del sistema. **Recordar todas las realidades no equivale a comprenderlas.**
-
-Para él, la Habitación es el lugar donde puede reunir con mayor claridad esos recuerdos y compararlos.
-
-La Habitación funciona como su **centro de investigación**: allí escribe, reconstruye acontecimientos, relaciona pistas, formula hipótesis, descarta conexiones y trata de descubrir qué patrón existe entre las diez realidades y cómo podría romperlo.
-
-Cada realidad puede tener un **objetivo o conflicto propio** que el protagonista debe afrontar durante sus 24 horas. Resolver ese objetivo local y comprender el patrón global son dos problemas simultáneos. Una pista encontrada en una realidad puede ser relevante para otra, puede no tener relación alguna o puede ser interpretada erróneamente por el protagonista.
-
-## 8. Muerte y contradicción de estados
+# 8. Muerte y contradicción de estados
 Si el protagonista muere dentro de una realidad, la experiencia de esa muerte es real para él y posteriormente regresa a la Habitación.
 
 Después puede recorrer otras realidades y, en algún momento, regresar a la realidad donde murió.
