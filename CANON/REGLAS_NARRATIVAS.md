@@ -100,13 +100,17 @@ Los lapsos de tiempo y las visitas repetidas deben respetar las reglas del ciclo
 
 El protagonista debe permanecer **como mínimo 24 horas en cada ventana** antes de que dormirse pueda producir su salida.
 
-Al regresar a la Habitación debe permanecer **como mínimo 24 horas despierto** antes de que dormirse pueda producir un nuevo desplazamiento.
+Durante esas 24 horas puede dormir o permanecer despierto normalmente. Dormirse antes de cumplir el mínimo **no produce desplazamiento**.
 
-Durante la Habitación puede comer, descansar, escribir, investigar, pensar y realizar otras actividades. Una vez cumplidas las 24 horas mínimas, puede permanecer allí indefinidamente mientras siga despierto. Aunque permanezca tres días despierto, seguirá en la Habitación hasta que se duerma.
+Una vez cumplidas las 24 horas, el siguiente sueño produce automáticamente el regreso a la Habitación.
 
-Dormirse en la Habitación después de cumplir el mínimo produce automáticamente el paso a una nueva ventana.
+Al regresar a la Habitación debe transcurrir **como mínimo 24 horas** antes de que dormirse pueda producir un nuevo desplazamiento.
 
-Dormirse en una ventana después de cumplir el mínimo de 24 horas produce automáticamente el regreso a la Habitación.
+Durante esas 24 horas puede dormir, comer, descansar, escribir, investigar, pensar y realizar otras actividades. Dormirse antes de cumplir el mínimo **no produce un nuevo desplazamiento**.
+
+Una vez cumplidas las 24 horas en la Habitación, el siguiente sueño produce automáticamente el paso a una nueva ventana.
+
+Por tanto, las 24 horas son una **condición temporal mínima**, no un período de vigilia obligatoria.
 
 El sueño es el **mecanismo canónico de entrada y salida**. El contacto con una pared ya no es el mecanismo de desplazamiento.
 
