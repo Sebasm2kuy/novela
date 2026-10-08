@@ -1,152 +1,604 @@
 W A T H N E V E R L E F T
 PRÓLOGO
 
-Me desperté unos minutos antes de que sonara la alarma, como casi todas las mañanas, y durante unos segundos permanecí acostado mirando el techo mientras intentaba recordar por qué me había despertado. Desde la calle llegaba el ruido de un ómnibus frenando en la esquina y, desde el apartamento de arriba, el agua de una ducha golpeando alguna superficie con ese sonido apagado que uno deja de escuchar después de vivir suficiente tiempo en un edificio. Miré la mesa de luz. El teléfono seguía encendido y faltaban cuatro minutos para la alarma. Pensé en apagarla y volver a dormir, pero recordé que tenía que llegar temprano al trabajo y me levanté. No había nada especial en aquella mañana. Si alguien me hubiera preguntado qué iba a hacer ese día, habría respondido sin pensarlo demasiado: trabajar, volver a casa, comprar algo para cenar y dormir. Mi vida no tenía demasiadas sorpresas. Trabajaba en una oficina que podía describir sin mirar, vivía solo en un departamento que había aprendido a recorrer casi a oscuras y llevaba tanto tiempo siguiendo las mismas rutinas que muchas veces hacía cosas sin recordar haber decidido hacerlas.
+El primer ruido fue pequeño.
 
-En la cocina había una taza junto a la cafetera. No recordaba haberla dejado allí. La tomé, la enjuagué y la dejé sobre la mesada mientras preparaba el café. Revisé el teléfono mientras esperaba que terminara de salir. Tenía un mensaje de un compañero preguntándome si podía llevar unos documentos que, según él, había dejado sobre mi escritorio el día anterior. También había un mensaje de mi madre y una llamada perdida de un número que no reconocí. No devolví la llamada. Le respondí a mi compañero que sí y dejé el resto para más tarde. Antes de salir tuve que volver a la cocina porque había olvidado las llaves. Estaban donde las había dejado la noche anterior, junto al plato. Las tomé y, al meterlas en el bolsillo, noté una pequeña marca en el metal de una de ellas. Era una línea apenas visible, como un arañazo que no recordaba haber visto. La giré entre los dedos, comprobé que seguía siendo la llave del apartamento y la guardé sin pensar demasiado. En aquel momento no podía saber que terminaría recordando cosas tan pequeñas con una precisión que me habría parecido ridícula de haberlo sabido.
+No parecía capaz de derrumbar nada. Apenas un chasquido seco, perdido entre los ruidos habituales del edificio, y después otro más abajo, como si algo hubiera respondido. Levanté la cabeza. Por un segundo no vi nada extraño. El pasillo seguía ahí, las ventanas abiertas dejaban entrar el mismo aire tibio del patio y desde alguno de los apartamentos llegaba una radio demasiado fuerte.
 
-Bajé por las escaleras porque el ascensor estaba detenido en algún piso. En la entrada me crucé con el hombre del apartamento de al lado, un vecino con el que solía intercambiar apenas unas palabras cuando coincidíamos. Esa mañana me miró antes de salir y me preguntó si iba a volver tarde. Le dije que no creía. Entonces me pidió que le dejara un paquete si pasaba por su puerta. Le pregunté qué paquete y se quedó callado unos segundos, como si hubiera perdido la frase que estaba buscando. Después se rió y dijo que nada, que me había confundido con otro. No tenía motivos para discutirle. Salimos juntos y nos separamos en la esquina. Mientras esperaba el cambio del semáforo pensé que quizá yo también estaba confundido. No podía asegurar que el hombre se equivocara, aunque tampoco recordaba haber hablado con él el día anterior. La sensación no llegó a convertirse en una preocupación. A esa hora de la mañana uno puede olvidar una conversación, una cara, incluso haber pasado por un lugar, y no darle importancia hasta mucho después.
+Entonces cedió el primer escalón.
 
-El trayecto hasta la oficina fue el de siempre. Subieron las mismas personas en las mismas paradas y el conductor frenó de la misma forma brusca antes de llegar a la última esquina. Reconocía a algunos pasajeros sin saber sus nombres. Una mujer que leía durante casi todo el viaje, un hombre que se quedaba dormido después de tres paradas y dos estudiantes que discutían sobre fútbol con una seriedad que no había encontrado en muchas reuniones de trabajo. Me senté junto a la ventana y dejé que la ciudad pasara delante de mí. Cuando llegué, mi compañero ya estaba junto a mi escritorio esperando los documentos. Le dije que todavía no había tenido tiempo de buscarlos y me respondió que ya me los había dado el día anterior. Lo miré pensando que estaba bromeando, pero señaló una carpeta que descansaba sobre otra mesa. Dentro estaban los documentos, marcados con varias correcciones hechas a mano. Reconocí mi letra. Incluso reconocí la forma en que acostumbraba hacer una pequeña raya debajo de ciertas palabras cuando quería volver a ellas después. Una de las páginas tenía una nota de mi compañero que decía: “Esto ya lo habíamos visto”. Le pregunté qué habíamos visto y se quedó mirándome unos segundos.
+No sé qué lo provocó. Un tornillo, una grieta, el peso de alguien, quizá una cosa diminuta que en otro momento no habría significado nada. Lo vi inclinarse y arrastrar al siguiente. Después al siguiente. El ruido fue creciendo mientras la estructura se soltaba de sí misma y las escaleras de los tres pisos comenzaron a caer hacia el hueco central en una sucesión imposible, una pieza empujando a la otra hasta que el cemento y el hierro quedaron amontonados abajo, donde unos segundos antes había un camino que todos usábamos sin pensarlo.
 
-—Ayer. Esto mismo.
+Me quedé mirándolo con una mano apoyada en la pared.
 
-—No me acuerdo.
+Arriba estaban mis hijas.
 
-—¿Estás seguro de que estás bien?
+—¡No bajen! —grité—. ¡Quédense donde están!
 
-Le dije que sí. Él no insistió. Yo tampoco. Abrí la carpeta y seguí trabajando, aunque durante un rato tuve la sensación incómoda de estar leyendo algo que yo mismo había escrito para alguien que no era yo.
+No sabía cómo iba a hacerlas bajar. Tampoco sabía cómo había ocurrido aquello. Lo único que sabía era que había pasado delante de mí y que, de alguna manera, el desastre ya me pertenecía. No porque hubiera querido provocarlo. No porque hubiera hecho nada que pudiera señalar con un dedo. Simplemente había ocurrido y la idea de que alguien tenía que arreglarlo apareció con una claridad desagradable.
 
-A media mañana me avisaron desde recepción que había llegado un paquete a mi nombre. Bajé y me entregaron una caja pequeña. No estaba esperando nada, pero cuando la abrí encontré un libro que había comprado unos días antes. Recordaba haberlo pedido, pero al sostenerlo tuve una sensación extraña, como si ya hubiera pasado las manos por esa tapa y conocido el peso del libro antes de recibirlo. Pensé que podía haberlo visto en una librería y haberlo olvidado. Lo abrí por una página cualquiera y encontré una marca de lápiz en una esquina. No era una anotación, solo una línea pequeña junto al número de página. La borré con el pulgar y seguí trabajando. Al poco rato descubrí que la página marcada era una que todavía no había leído y que, por alguna razón, sabía que no me gustaría. No había nada en la escena que permitiera justificar esa impresión. Era apenas una sensación y, como tantas otras, decidí dejarla pasar.
+Iba a ser yo.
 
-Durante el almuerzo salí solo y fui a un restaurante pequeño donde había comido varias veces. El lugar estaba casi lleno y terminé compartiendo una mesa con un hombre mayor que trabajaba cerca. Hablamos poco hasta que me preguntó si era la primera vez que iba allí. Le dije que no. Sonrió y me dijo que me había visto el día anterior, sentado exactamente en el mismo lugar. Pensé que me estaba confundiendo con alguien y se lo dije. Negó con la cabeza.
+Encontré una soga, después un tramo de cable, después un rollo de hilo grueso que alguien había dejado en un cajón. Junté alambres oxidados, tablas, cordones, una pata de silla. No había suficiente para construir una escalera, así que intenté construir algo que se pareciera a una. Cada nudo era un intento distinto de engañar al vacío. Las manos se me abrieron con la fricción y el polvo se pegó a la sangre.
 
-—Eras vos.
+—Esperen —les decía a mis hijas—. Ya lo arreglo.
 
-—Entonces debo haber venido y no me acuerdo.
+No sabía cuánto tiempo llevaba diciéndolo.
 
-—Eso sí sería raro.
+Alrededor de mí empezó a aparecer gente.
 
-Se rió y cambió de tema. Yo también intenté hacerlo, pero la conversación se me quedó dando vueltas. Mientras esperaba la comida, abrí el teléfono y busqué fotografías tomadas ese día. Encontré una imagen del interior del restaurante. No recordaba haberla hecho y, sin embargo, allí estaba. La mesa era la misma, la lámpara sobre nuestras cabezas también y en una esquina del encuadre aparecía parte de un plato que parecía el que tenía delante. Revisé la información de la fotografía. La había tomado yo. El teléfono no dejaba demasiado espacio para la duda. Lo extraño era que no pudiera recordar el momento en que había levantado el aparato para tomarla. Cerré la imagen y guardé el teléfono. Podía haberla tomado sin pensar. Podía haberlo olvidado. Las explicaciones sencillas seguían siendo suficientes.
+Primero fueron los vecinos que se asomaban desde los pisos que todavía tenían pasillo. Después llegaron otros. Alguien trajo una parrilla. Otro apareció con cajas de bebidas. Una mujer arrastró una mesa hasta el patio y poco después había vasos, comida, música, risas. El edificio se había convertido en una reunión mientras yo seguía de rodillas frente al hueco, tirando de un cable que se soltaba cada vez que creía haber encontrado la tensión correcta.
 
-Al volver a la oficina, la tarde transcurrió sin nada que justificara recordar el día. Trabajé hasta tarde, discutí con un compañero por una corrección que después resultó no importar y bajé a comprar un café. En la fila me encontré con la misma mujer que solía leer durante el trayecto en ómnibus. Me reconoció antes de que yo pudiera decidir si había visto su cara ese día.
+El hombre del tercero estaba en la puerta de su apartamento, con un vaso en la mano.
 
-—Hoy no venías temprano —dijo.
+—Tranquilo —me dijo—. Ya lo van a arreglar.
 
-Pensé que se refería al ómnibus y le dije que había cambiado de horario.
+Lo miré.
 
-Me miró con una expresión de duda.
+—¿Quién?
 
-—Ah. Pensé que era ayer.
+Levantó un hombro.
 
-Sonrió, pidió su café y salió del local. Me quedé un momento allí, mirando hacia la calle, intentando decidir si también aquella conversación podía explicarse como una confusión. Probablemente sí. Todo podía explicarse de forma aislada. El vecino podía haberse confundido. Mi compañero podía recordar otra conversación. El hombre del restaurante podía estar confundiendo a dos personas. La mujer del café podía haberme visto otro día. Incluso yo podía haber tomado una fotografía y olvidarla. Lo que empezaba a incomodarme no era ninguna de esas cosas por separado, sino la cantidad de veces que estaban apareciendo.
+—Los que arreglan estas cosas.
 
-Al salir del trabajo pasé por un supermercado. Compré leche, pan, pasta y detergente. En la caja, la empleada preguntó si necesitaba una bolsa y le dije que no. Entonces me miró con una curiosidad que no supe interpretar.
+Esperé a que llegaran.
 
-—Ayer llevaste dos.
+No llegó nadie.
 
-Le pregunté si estaba segura.
+La fiesta creció.
 
-—Creo que sí.
+No entendía cómo podían estar comiendo al lado de aquel agujero. Algunas personas incluso discutían sobre quién había traído la carne. Alguien puso música más fuerte. Un chico tocaba un tambor y dos mujeres se reían mientras llenaban vasos. Los veía pasar por delante de mí con esa tranquilidad que solo puede tener alguien que cree que el problema está lejos.
 
-Después sonrió y dijo que seguramente me había confundido con otro cliente. Pagué y salí sin insistir. En el camino de vuelta volví a pensar en la fotografía del restaurante y en los documentos de mi escritorio. No conseguía decidir qué me molestaba más: no recordar las cosas o recordar haberlas olvidado.
+Yo seguía atando cosas.
 
-Cuando llegué a casa dejé la mochila sobre la mesa y fui directo a la cocina. La luz de la tarde entraba por la ventana y hacía que el departamento pareciera más pequeño de lo habitual. Abrí la heladera para guardar la leche y encontré una botella de agua que no recordaba haber comprado. La saqué, la miré y volví a guardarla. Sobre la puerta había una lista de compras escrita con mi letra. Reconocí las cuatro cosas que acababa de comprar. Debajo aparecía una quinta palabra tachada con tanta fuerza que el papel estaba marcado. Busqué el teléfono y revisé la lista que había escrito antes de salir del trabajo. Solo había cuatro cosas.
+Cuando terminé la baranda, sabía que era mala. Se movía. Las tablas estaban sostenidas por nudos que yo mismo no habría confiado en otro día. Aun así, era lo único que había.
 
-Abrí la libreta que utilizaba para anotar asuntos que no quería olvidar y escribí “café” debajo de la lista. No sabía por qué había escrito eso. Me quedé mirándolo un momento y tuve la sensación absurda de haber copiado una palabra que ya estaba allí. Pasé la hoja. No había nada. Preparé café.
+—No se apoyen —grité—. ¡Por favor, no se apoyen!
 
-Mientras esperaba que hirviera el agua escuché dos golpes en la puerta. Fui hasta la entrada y abrí. El pasillo estaba vacío. Esperé unos segundos, miré hacia las escaleras y después hacia el ascensor. No había nadie. Cerré y regresé a la cocina. Pensé en tocar la puerta del vecino, pero no tenía sentido. Podía haber sido una puerta cerrándose en otro piso, una tubería, cualquier cosa. Me serví el café y me senté frente a la ventana.
+Me escucharon.
 
-Durante unos minutos no hice nada. Vi pasar a la gente por la calle, escuché coches, una radio encendida en algún apartamento y el ruido del ascensor subiendo lentamente. Entonces me di cuenta de que había una fotografía sobre la mesa que no recordaba haber dejado allí. La tomé. Era una imagen del restaurante. La misma que había encontrado en el teléfono. No entendí cómo había llegado hasta allí. Revisé el reverso y descubrí una pequeña anotación en lápiz. No era una fecha. Eran dos palabras.
+Nadie hizo caso.
 
-“Volver mañana.”
+El niño apareció corriendo desde el primero.
 
-No reconocí la frase como mía, pero la letra sí era la mía.
+Lo había visto muchas veces. Una pelota desinflada, las rodillas peladas, la costumbre de correr por todas partes como si el edificio entero fuera suyo. Nunca había preguntado cómo se llamaba.
 
-No supe qué hacer con aquello.
+Se acercó al borde.
 
-Guardé la fotografía en la libreta, cerré el cuaderno y me prometí no pensar más en el asunto hasta haber dormido. Estaba cansado y la mente empieza a fabricar explicaciones extrañas cuando uno lleva demasiado tiempo intentando encontrar una donde quizá no la hay.
+Yo levanté una mano.
 
-Cené frente al televisor y después lavé los platos. Antes de acostarme revisé el teléfono. Había un mensaje de un número desconocido.
+No llegué.
 
-“¿Ya llegaste?”
+Puso las dos manos sobre la baranda.
 
-No respondí.
+La madera cedió con una lentitud que hizo que todo lo demás desapareciera. No hubo un grito largo. No hubo un instante heroico en el que pudiera agarrarlo. Hubo apenas el movimiento de su cuerpo perdiendo el equilibrio y el vacío ocupando el lugar que había dejado.
 
-Lo borré.
+No escuché el golpe.
 
-Unos segundos después revisé la conversación otra vez. El mensaje ya no estaba. Me quedé mirando la pantalla vacía y pensé que quizá había sido una notificación atrasada, un error del teléfono, cualquier cosa. Dejé el aparato sobre la mesa de luz y me acosté.
+La música siguió durante un momento.
 
-A la mañana siguiente volví a despertarme antes de que sonara la alarma. Durante unos segundos tuve la misma sensación del día anterior: no sabía qué hora era ni cuánto había dormido. Después recordé la fotografía, la lista de compras y el mensaje que había desaparecido.
+Y dentro de mí algo cayó con él.
 
-La mesa de luz estaba vacía. El teléfono seguía allí. La libreta estaba sobre el escritorio. Nada parecía diferente.
+Sentí la certeza antes que el pensamiento. No fue una idea. Fue una presión que me cerró la garganta, una cosa caliente detrás del esternón, como si alguien hubiese puesto una mano dentro de mi pecho y apretado.
 
-Me levanté y fui a la cocina. La taza estaba junto a la cafetera otra vez. Esta vez la dejé allí. No quería tocarla.
+Había muerto.
 
-Abrí la ventana y miré la calle. Un ómnibus pasó por la esquina. La mujer con el perro caminó detrás de un hombre que hablaba por teléfono. Un comercio levantó la persiana metálica. La ciudad empezaba su día como cualquier otro. Por primera vez pensé que quizá el problema no era que estuviera olvidando cosas. Quizá estaba recordando algunas cosas demasiado pronto.
+Y yo era responsable.
 
-La idea me pareció ridícula en cuanto apareció. Me reí solo y cerré la ventana. Había dormido mal. No necesitaba inventar otra explicación.
+Podía decirme que había sido un accidente. Podía recordar que nadie me había ayudado. Podía repetir que había usado lo mejor que tenía, que había intentado reparar algo que no había querido romper. Nada cambiaba la sensación. El niño estaba muerto. Yo había construido la baranda. Mis manos habían hecho los nudos.
 
-Me vestí y fui a trabajar. Ese segundo día intenté prestar más atención. Guardé los documentos siempre en el mismo lugar. Anoté lo que comí. Escribí la hora en que llegué y la hora en que salí. Evité los mismos caminos que había tomado el día anterior y, cuando alguien me decía algo que me resultaba familiar, no intentaba adivinar de dónde venía la sensación. Quería saber si las cosas ocurrían realmente o si mi memoria estaba llenando vacíos.
+La culpa no discutía conmigo. Escuchaba las explicaciones y se quedaba.
 
-A media tarde encontré la libreta dentro del cajón de mi escritorio. No recordaba haberla llevado. La abrí. Había varias anotaciones nuevas.
+Les grité a todos.
 
-“Cocina.”
+No recuerdo qué dije primero. Recuerdo que empujé a uno, que otro me devolvió el golpe y que de repente había vasos rotos en el piso, brasas pisoteadas y gente retrocediendo. Grité hasta quedarme sin aire. El dolor se convirtió en rabia porque no encontraba otro lugar donde meterse.
 
-“Ómnibus.”
+Después el edificio quedó vacío.
 
-“Paquete.”
+O eso pensé.
 
-“Café.”
+Cuando levanté la cabeza, las escaleras seguían rotas y el silencio había ocupado el lugar de la música. Mis hijas ya no estaban donde las había dejado.
 
-Debajo, en una línea separada, aparecía una sola palabra.
+Entonces oí una puerta cerrarse en alguna parte del edificio y me di cuenta de que estaba caminando.
 
-“Dormir.”
+No sabía cuánto tiempo había pasado.
 
-Me quedé con el dedo apoyado sobre la tinta. No recordaba haber escrito ninguna de aquellas palabras. Le pregunté a mi compañero si había tocado mis cosas. Me dijo que no. Revisé el cajón, los documentos, el resto de las páginas. No encontré nada más. Cerré la libreta y la guardé conmigo.
+Volví a encontrar el hall de entrada, pero estaba cambiado.
 
-Al salir del trabajo regresé caminando. Había una sensación de cansancio que no se parecía al agotamiento normal después de una jornada larga. No era sueño exactamente. Era la impresión de haber pasado demasiadas horas intentando prestar atención a cada cosa.
+Las escaleras habían sido reconstruidas. No como antes. Habían usado tablones, chapas, trozos de baranda, alambre, un cajón de verduras para sostener uno de los escalones. Cada peldaño respondía con un crujido diferente cuando lo pisaba.
 
-En una esquina escuché que alguien me llamaba. Me volví. Un hombre me miraba desde el balcón de un edificio.
+Subí despacio.
 
-—Perdón —dijo—. Pensé que eras otro.
+Un hombre que barría el descanso dejó de mover la escoba cuando me vio. Una mujer que cargaba bolsas se pegó a la pared para dejarme pasar. Detrás de las puertas había voces bajas.
 
-Asentí y seguí caminando.
+Reconocían mi cara.
 
-Unos metros después escuché mi nombre otra vez.
+No me preguntaron nada.
 
-Esta vez no me di vuelta.
+No hizo falta.
 
-Seguí hasta la esquina, crucé la calle y llegué al edificio.
+En el segundo piso alguien había dejado velas junto a una pelota desinflada.
 
-El ascensor estaba abierto. Entré y antes de que se cerraran las puertas una mujer detuvo el mecanismo con la mano y subió conmigo. Era la mujer del café. La reconocí inmediatamente. Ella también me miró. Durante el trayecto no dijo nada. Yo tampoco. En el cuarto piso salió. Antes de que se cerraran las puertas, se volvió.
+Seguí subiendo.
 
-—Nos vemos mañana.
+En el tercero había un banco contra la pared.
 
-Las puertas se cerraron.
+No recordaba que hubiera estado allí.
 
-Subí hasta mi piso y entré en casa.
+Me senté.
 
-Dejé la libreta sobre el escritorio y fui a preparar la cena. Mientras cortaba pan, pensé en lo que había dicho la mujer. No sabía si era una despedida común, una coincidencia o algo más. Lo que me molestaba era no poder decidir qué parte de aquel día pertenecía a mi memoria y qué parte simplemente no estaba consiguiendo recordar.
+Y entonces ella apareció.
 
-Esa noche no revisé el teléfono. Tampoco abrí la fotografía. Cené, lavé los platos y me acosté temprano.
+No sé de dónde vino. Estaba a mi lado como si llevara todo el tiempo esperando. Hacía ocho años que no sentía sus manos sobre las mías. Ocho años sin reconocer de esa manera el peso de otro cuerpo cerca del mío.
 
-Antes de apagar la luz miré el reloj por última vez. Había pasado más de un día desde aquella primera mañana, aunque el tiempo parecía haber corrido de una manera extraña. Había trabajado, dormido, vuelto a trabajar, caminado por las mismas calles y repetido buena parte de mis rutinas. Nada de aquello debería haber resultado memorable.
+No hablamos.
 
-Guardé la libreta en el cajón de la mesa de luz. Apagué la lámpara.
+La miré y algo dentro de mí dejó de defenderse.
 
-Desde la calle llegaba el mismo ruido del tráfico. En algún apartamento sonaba una televisión. El ascensor se detuvo en un piso cercano y alguien cerró una puerta.
+La abracé.
 
-Me acosté de lado.
+El olor de su piel me golpeó con una claridad que no sabía que todavía existía. La besé y sentí su amor de una forma que no parecía recuerdo. Era calor. Era alivio. Era la sensación de haber encontrado una casa que creía perdida.
 
-Pensé en la taza junto a la cafetera. Pensé en la fotografía. Pensé en la palabra escrita en la libreta.
+Durante unos segundos no hubo nada más.
 
-Dormir.
+Ni el niño.
 
-No sabía por qué esa palabra me había estado esperando en la página. Tampoco sabía quién la había escrito.
+Ni las escaleras.
 
-Cerré los ojos.
+Ni la gente.
 
-Por primera vez en todo el día dejé de intentar recordar.
+Ni el miedo.
 
-Y me quedé dormido.
+Solo ella y yo, sentados en aquel banco, respirando al mismo tiempo.
+
+Apoyé la espalda.
+
+La madera tenía cuatro marcas.
+
+Las sentí antes de verlas. Eran cuatro cortes profundos, uno junto al otro. Pasé los dedos por encima y la sensación me resultó inmediatamente familiar.
+
+No sabía de qué.
+
+Quise mirar mejor.
+
+No lo hice.
+
+Por primera vez desde que había empezado todo, tenía algo que no necesitaba entender.
+
+Preferí quedarme ahí.
+
+Entonces la oí respirar distinto.
+
+Levantó la cabeza.
+
+Abajo empezaron a sonar pasos.
+
+No eran muchos al principio.
+
+Después fueron demasiados.
+
+El ruido subió por el hueco de las escaleras y se convirtió en una vibración constante. Me levanté y miré hacia abajo.
+
+Cinco.
+
+Diez.
+
+Veinte.
+
+Después dejé de contarlos.
+
+Subían desde todos los pisos. Vecinos, desconocidos, caras que reconocía y otras que no. Llevaban palos, cuchillos, barras de hierro, herramientas arrancadas de las casas.
+
+Querían llegar hasta mí.
+
+No entendía por qué.
+
+Una mujer me gritó algo desde el segundo piso.
+
+Otra voz respondió.
+
+Después todos empezaron a correr.
+
+Tomé la mano de ella.
+
+La multitud llenó el hueco de la escalera.
+
+Corrí.
+
+Entré en un cuarto pequeño y cerré la puerta. Escuché los pasos al otro lado. Esperé. El silencio duró unos segundos.
+
+Después golpearon.
+
+Salí por una ventana.
+
+Caí sobre un techo que no conocía.
+
+Corrí por una terraza, salté un muro, entré en un apartamento vacío y me escondí detrás de una puerta.
+
+Me encontraron.
+
+Nunca supe cómo.
+
+Salí otra vez.
+
+En cada lugar ocurría lo mismo. Armarios, pasillos, baños, depósitos, techos. Podía cerrar diez puertas y aun así sabía que iban a encontrarme. No corrían desesperados detrás de mí. Avanzaban con paciencia. Como si supieran que, tarde o temprano, iba a quedarme sin lugares donde esconderme.
+
+El miedo se me metió en los músculos.
+
+No pensaba en lo que había ocurrido.
+
+No pensaba en lo que podía ocurrir.
+
+Solo pensaba en el siguiente segundo.
+
+Un hombre levantó un palo hacia mi cabeza.
+
+Me agaché.
+
+No sé por qué.
+
+Mi cuerpo giró antes de que yo entendiera qué estaba haciendo. El palo pasó sobre mí. Le agarré el brazo, tiré de él y lo derribé.
+
+Me quedé mirándolo.
+
+No sabía hacer eso.
+
+Otro vino detrás.
+
+Lo esquivé también.
+
+Después llegó otro.
+
+Y otro.
+
+No sabía pelear. Eso era lo que más miedo me daba. Mi cuerpo sí.
+
+Mis manos respondían antes que mis pensamientos. Un bloqueo. Un giro. Un golpe. Un paso hacia el lado correcto. Todo ocurría con una precisión que no reconocía como propia.
+
+Me golpearon en las costillas. Sentí algo ceder.
+
+Me caí.
+
+Volví a levantarme.
+
+Seguí corriendo.
+
+En el patio me rodearon.
+
+Uno lanzó un cuchillo.
+
+Lo esquivé.
+
+Otro lo lanzó.
+
+La hoja pasó tan cerca que sentí el aire sobre la piel.
+
+La tercera vez levanté la mano y la atrapó.
+
+Me quedé con el cuchillo entre los dedos.
+
+No tuve tiempo de preguntarme cómo.
+
+Lo lancé.
+
+Alguien cayó.
+
+La multitud avanzó.
+
+No había ganado nada.
+
+Solo había conseguido unos segundos.
+
+Y entonces escuché una voz conocida.
+
+Una mujer corría entre la gente.
+
+La vi girar hacia una calle y fui detrás de ella.
+
+No sabía exactamente por qué.
+
+Tal vez quería protegerla.
+
+Tal vez simplemente necesitaba que, por una vez, alguien corriera conmigo.
+
+La alcanzé.
+
+Seguimos juntos.
+
+La persecución se quedó atrás por unos segundos. La calle se convirtió en una avenida, la avenida en un camino, el camino en algo que no podía existir dentro del barrio.
+
+A nuestros pies aparecieron dos monopatines.
+
+No recuerdo de dónde salieron.
+
+Simplemente estaban ahí.
+
+Subimos.
+
+La calle empezó a bajar.
+
+El viento me golpeó la cara.
+
+Ella se reía.
+
+La miré y me reí también.
+
+No porque estuviéramos a salvo.
+
+Porque durante unos segundos no estábamos pensando en nada.
+
+Las ruedas golpeaban el asfalto. Atravesamos una curva demasiado cerrada, una calle que terminó en campo y un tramo de tierra que apareció donde debería haber habido casas.
+
+Seguíamos huyendo.
+
+Y, sin embargo, por un momento fue divertido.
+
+La velocidad era limpia. El aire entraba por la ropa. La risa de ella iba delante de mí.
+
+No pensé en morir.
+
+No pensé en nada.
+
+Solo seguí avanzando.
+
+Después el camino se abrió y ella tomó una dirección distinta.
+
+La perdí.
+
+Seguí solo.
+
+Los que me encontraron después no parecían pertenecer a ningún lugar conocido.
+
+Eran un grupo pequeño, escondido detrás de una puerta metálica.
+
+No preguntaron quién era.
+
+Me dieron agua.
+
+Había fuego bajo una olla enorme. El vapor olía a algo que no reconocí. Sus caras estaban borrosas, atravesadas por una especie de distorsión rojiza que hacía imposible mirarlas durante demasiado tiempo.
+
+Una mujer metió la mano debajo de una tela y sacó un arma.
+
+Parecía un revólver.
+
+No lo era.
+
+Tenía cuatro compartimentos independientes, cuatro pequeños cajones metálicos, cada uno con una bala.
+
+Lo sostuve.
+
+Era demasiado pesado.
+
+—Cuatro —dijo ella.
+
+No pregunté qué significaba.
+
+Salimos.
+
+Volvimos a pelear.
+
+No sé cuánto duró.
+
+Tal vez horas.
+
+Tal vez toda la noche.
+
+El arma funcionaba. Cada disparo me daba unos segundos más. Cada vez que abría uno de los compartimentos, mis dedos temblaban. No porque tuviera miedo de disparar.
+
+Porque sabía que algún día los cuatro quedarían vacíos.
+
+Entonces llegó el zumbido.
+
+Al principio pensé que era la sangre en mis oídos.
+
+Después miré hacia arriba.
+
+Los drones aparecieron sobre los edificios.
+
+Eran pequeños, negros, demasiado ordenados. Bajaron sin ruido, se repartieron sobre las calles y comenzaron a llevarse a la gente.
+
+A algunos los levantaban.
+
+A otros los dejaban inmóviles.
+
+No estaban de nuestro lado.
+
+No estaban del lado de nadie.
+
+Simplemente elegían.
+
+Los que me perseguían desaparecían junto a los que me habían ayudado.
+
+La diferencia dejó de importar.
+
+Llegaron los soldados.
+
+Traían un dispositivo que emitía una luz fina delante del pecho de cada persona. Uno por uno.
+
+Esperé mi turno.
+
+Cuando comprendí que iban a revisar lo que llevábamos encima, dejé caer el arma.
+
+Cayó al barro.
+
+Nadie la vio.
+
+El hombre delante de mí avanzó.
+
+Luego otro.
+
+Los soldados hablaban entre ellos en voz baja.
+
+Cuando llegó mi turno, la luz pasó frente a mi pecho.
+
+No ocurrió nada.
+
+El soldado miró el dispositivo.
+
+Volvió a pasar la luz.
+
+Otra vez nada.
+
+Me miró.
+
+Yo también lo miré.
+
+No parecía saber qué hacer conmigo.
+
+Entonces el mundo cambió de tamaño.
+
+No desapareció.
+
+Simplemente se volvió pequeño.
+
+Vi las calles desde arriba, a los soldados, los drones, la gente dispersándose, las luces rojas de aquel grupo que me había protegido, y en medio de todo yo, quieto, esperando.
+
+Algo se levantó en el horizonte.
+
+No tenía rostro.
+
+Parecía una montaña roja hecha de fuego y carne, pero cada vez que intentaba mirarla encontraba otra forma.
+
+No caminó hacia nosotros.
+
+Se puso de pie.
+
+Y eso fue peor.
+
+El aire cambió.
+
+Los drones desaparecieron primero.
+
+Después los soldados.
+
+Después la multitud.
+
+No hubo una batalla.
+
+No hubo oportunidad de pelear.
+
+Todo lo que había alrededor empezó a desaparecer como si alguien estuviera retirando capas de una imagen.
+
+Los sonidos se apagaron.
+
+La luz se fue.
+
+La calle desapareció.
+
+Busqué a la mujer que me había dado el arma.
+
+No estaba.
+
+Busqué a la otra mujer.
+
+No estaba.
+
+Pensé en ella.
+
+Por un momento pude sentir el olor de su piel otra vez.
+
+Después tampoco estuvo.
+
+El último peso que desapareció fue el de mis propios brazos.
+
+Y el silencio ocupó todo.
+
+Cuando volvió el sonido, era un tren.
+
+Estaba sentado en un banco junto a unas vías.
+
+No recordaba haber llegado.
+
+No me importó.
+
+Respiraba.
+
+El cuerpo me dolía en lugares que ya no podía señalar con exactitud. Tenía la sensación de haber corrido durante días, aunque el suelo debajo de mis zapatos estaba limpio.
+
+El tren pasó despacio.
+
+Llevaba poca gente.
+
+Una mujer sostenía un termo. Un hombre dormía con la frente contra la ventana. Dos personas miraban hacia adelante sin hablar. Una chica llevaba auriculares y movía apenas la cabeza.
+
+Nadie gritaba.
+
+Nadie corría.
+
+Nadie parecía saber nada.
+
+Los observé hasta que el último vagón desapareció detrás de una curva.
+
+Del otro lado de las vías, las casas estaban enteras.
+
+Una persiana se levantó.
+
+Un perro cruzó la calle.
+
+Alguien salió a regar una planta.
+
+Más allá, el edificio del Complejo América seguía de pie.
+
+Las escaleras también.
+
+Sentí una presión en la espalda y apoyé los hombros contra el banco.
+
+Las cuatro marcas seguían ahí.
+
+Esta vez giré la cabeza.
+
+Las miré.
+
+Eran cuatro trazos hundidos en la madera.
+
+No parecían letras.
+
+No parecían números.
+
+No tenían nada que yo pudiera reconocer.
+
+Y, aun así, supe que ya las había visto.
+
+No recordé dónde.
+
+No recordé cuándo.
+
+Solo supe que las conocía.
+
+Me quedé sentado mientras el mundo se llenaba otra vez.
+
+Primero una persona.
+
+Después otra.
+
+Un auto dobló la esquina. Un ómnibus pasó a lo lejos. Dos chicos cruzaron la vereda discutiendo por una pelota. Alguien abrió una ventana.
+
+La vida volvía a ocupar los espacios vacíos con una tranquilidad que me resultaba casi ofensiva.
+
+Miré mis manos.
+
+No tenían sangre.
+
+Las giré.
+
+Tampoco tenían cortes.
+
+Pero yo recordaba el peso de un niño en mis brazos, aunque no supiera cómo había llegado hasta allí. Recordaba el miedo. Recordaba la certeza de que iba a morir. Recordaba una mujer riéndose mientras escapábamos sobre dos ruedas. Recordaba cuatro compartimentos metálicos. Recordaba una luz frente a mi pecho que no había sabido qué hacer conmigo.
+
+Y recordaba el tren.
+
+Sobre todo el tren.
+
+Pasó otro, mucho más lejos, y durante unos segundos solo se escuchó el ruido de las vías.
+
+No sé cuánto tiempo permanecí sentado.
+
+No sé quién reconstruyó las cosas.
+
+No sé por qué nadie parecía recordar lo que acababa de ocurrir.
+
+Tampoco sé por qué yo sí.
+
+Pero aquella fue la primera vez que entendí que algunas cosas pueden terminar sin desaparecer.
+
+Y yo voy a contarles qué pasó.
