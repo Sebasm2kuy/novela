@@ -172,4 +172,4 @@ No esperé a que se repitieran. Eché a andar hacia el corredor oscuro, con la p
 
 Solo sabíamos que estábamos bajo tierra, que el camino de regreso ya no estaba disponible y que el agua no iba a durar para siempre.
 
-Miré el reloj. La certeza seguía allí: me quedaba aproximadamente una hora. No tenía ninguna explicación para ella. La guardé junto con el resto de las preguntas y seguí avanzando.
+Miré el reloj por pura costumbre. Los minutos seguían pasando, indiferentes a que no tuviéramos salida ni una respuesta del exterior. Guardé la muñeca bajo la manga, ajusté la lámpara y seguí avanzando detrás de Martín.
