@@ -23,4 +23,9 @@ Las métricas son las reportadas por el autor y pueden variar según la herramie
 
 ## Nota de vigencia
 
-Tras la reescritura integral del 2026-10-09, las cifras de la tabla deben considerarse **obsoletas para el borrador actual**. Un conteo simple del texto reescrito da aproximadamente 2.074 palabras; no equivale a una medición de QuillBot. No se inventan métricas nuevas de lectura, caracteres ni nivel académico sin volver a pasar la versión actual por la herramienta.
+Tras la reescritura integral del 2026-10-09, las cifras de la tabla deben considerarse **obsoletas para el borrador actual**. Tras la reescritura integral posterior del 2026-10-09, el archivo vigente contiene aproximadamente 2.043 palabras y 12.753 caracteres en un conteo simple; estas cifras no equivalen a una medición de QuillBot. No se inventan métricas nuevas de lectura, caracteres ni nivel académico sin volver a pasar la versión actual por la herramienta.
+
+
+### Revisión de vigencia tras el ajuste más reciente
+
+La versión guardada en `CAPITULOS V2/02_CAPITULO_2.md` tras el ajuste integral más reciente registra, por conteo del archivo, **2.043 palabras y 12.753 caracteres**. Las cifras originales de QuillBot siguen siendo históricas; no se deben presentar como medidas de esta versión.
