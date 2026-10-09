@@ -51,3 +51,8 @@ Todas esas ideas se registran como **interpretaciones de Gemini**, no como hecho
 4. **No incorporar como canon:** ninguna teoría causal sobre la puerta, el experimento, el prólogo, el reinicio o el destino al agotarse la hora.
 
 Este registro conserva la reacción y el diagnóstico. No se ha editado el manuscrito como consecuencia automática de la devolución externa.
+
+
+## Resolución tras la solicitud del autor de corregir todos los puntos
+
+**Actualizado el 2026-10-09:** el manuscrito se volvió a reescribir de forma integral en `CAPITULOS V2/02_CAPITULO_2.md`. Se redujo la escala inicial del recinto, se retrasó el artículo, se conservaron «partícula de Dios» y la hora restante sin nombrar la instalación, y se retiraron la vibración del suelo y la presión en los oídos como motivos sensoriales compartidos. La anomalía de esta realidad pasa a manifestarse mediante reflejos temporalmente desfasados y canales de medición que dejan de avanzar y convergen en los mismos valores. Las teorías causales de Gemini siguen sin formar parte del canon.
