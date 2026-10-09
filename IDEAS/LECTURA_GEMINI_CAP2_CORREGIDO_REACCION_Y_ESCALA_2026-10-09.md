@@ -28,16 +28,16 @@ No se concluye que la inferencia sea mala por sí misma. La cuestión de diseño
 
 ## Diagnóstico de revisión
 
-La revisión anterior resolvió dos ecos demasiado obvios, pero no resolvió por completo el problema de la transición de escala. Si se mantiene como objetivo que el lector crea inicialmente que la escena continúa en el entorno subterráneo conocido, el trabajo siguiente no consiste simplemente en borrar pistas: hay que rediseñar la entrada para que primero establezca un espacio ambiguo, físicamente reconocible y ya en plena actividad, y solo después revele de forma gradual la naturaleza científica del operativo.
+**Atendido en la reescritura integral del 2026-10-09.** La entrada se rediseñó para comenzar con una discusión en curso dentro de un recinto subterráneo de escala limitada; el operativo está funcionando desde antes de la primera línea y la naturaleza científica se revela progresivamente. El artículo aparece después de las primeras anomalías y no identifica ninguna instalación por su nombre.
 
-Esto requiere especial cuidado para no convertir la apertura en una presentación explicativa del experimento, ni nombrar el CERN/LHC en el capítulo. La referencia a la «partícula de Dios» debe evaluarse por el momento en que aparece, no asumirse automáticamente como obligatoria en las primeras páginas.
+La versión actual no menciona a Martín, al alcalde, la puerta ni la fotografía del capítulo 1. Conserva el reloj interno como componente propio de este capítulo, sin explicar su mecanismo ni relacionarlo verbalmente con otros sucesos. También mantiene la autoridad del protagonista y la evacuación como progresión del conflicto.
 
-## Pendientes derivados
+## Estado de los ajustes
 
-1. Revisar la apertura para reducir la impresión inmediata de un salto a una instalación gigantesca.
-2. Considerar retrasar la aparición del periódico y su referencia a la «partícula de Dios».
-3. Mantener la sesión ya en marcha y el protagonismo decisorio del investigador.
-4. Mantener la hora restante como elemento del capítulo 2, sin convertirla en una explicación del mecanismo general.
-5. No introducir en el texto ninguna de las teorías explicativas sugeridas por Gemini sin decisión explícita del autor.
+1. **Aplicado:** apertura con acción en marcha y ambiente subterráneo ambiguo.
+2. **Aplicado parcialmente:** el artículo aparece después de la primera anomalía, aunque mantiene el titular apocalíptico y la frase «partícula de Dios», solicitados como parte del planteamiento.
+3. **Aplicado:** el protagonista toma decisiones y tiene responsabilidad directa sobre la autorización.
+4. **Aplicado:** la hora restante se mantiene sin explicación causal.
+5. **Aplicado:** las teorías de Gemini continúan registradas como hipótesis de lector, no como canon.
 
-Este registro no modifica el capítulo ni el canon; recoge qué percibió el lector y qué problema de puesta en escena queda abierto.
+Este registro documenta la evolución editorial. La reescritura sigue siendo un borrador pendiente de lectura crítica del autor; no declara canon ninguna nueva interpretación.
