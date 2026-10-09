@@ -1,6 +1,6 @@
 # Capítulo 2
 
-La primera computadora llegó antes que el generador. La dejaron junto a la pared, sobre una mesa plegable que cojeaba de una pata, y durante casi una hora nadie consiguió encenderla porque el cable de alimentación no alcanzaba el enchufe más cercano. Para cuando encontraron una extensión, ya habían descargado otras seis cajas y dos hombres discutían sobre dónde debía colocarse una pantalla que ninguno de los dos parecía dispuesto a cargar. El cuarto se había llenado de voces, polvo y embalajes abiertos. La puerta seguía al fondo, oscura e intacta, y por primera vez desde que la conocía me alegré de que hubiera otras personas alrededor.
+La primera computadora llegó antes que el generador. La dejaron junto a la pared, sobre una mesa plegable que cojeaba de una pata, y durante casi una hora nadie consiguió encenderla porque el cable de alimentación no alcanzaba el enchufe más cercano. Para cuando encontraron una extensión, ya habían descargado otras seis cajas y dos hombres discutían sobre dónde debía colocarse una pantalla que ninguno de los dos parecía dispuesto a cargar. El cuarto se había llenado de voces, polvo y embalajes abiertos. Al fondo, una pared desnuda quedaba medio oculta detrás de las cajas recién descargadas, y por primera vez desde que había llegado me alegré de que hubiera otras personas alrededor.
 
 No era que el lugar se hubiera vuelto menos inquietante. Al contrario: con las luces portátiles, los equipos y las filas de monitores, las paredes parecían más bajas y el techo, más próximo. Los cables cruzaban el suelo como raíces negras; cada tanto alguien tropezaba con uno, soltaba una maldición y seguía trabajando. Habían instalado sensores junto a los muros, cámaras en las esquinas y unas cajas metálicas que zumbaban con un sonido tan bajo que solo se notaba cuando todos callaban a la vez. Nadie había conseguido explicar para qué servía cada aparato, y los que sí lo sabían discutían entre ellos en voz demasiado baja para que yo pudiera seguirles el hilo.
 
@@ -20,7 +20,7 @@ Doblé el periódico y lo dejé donde estaba. A mi alrededor, la gente seguía c
 
 A media tarde, las pantallas empezaron a mostrar una serie de pulsos que no coincidían con las lecturas anteriores. El técnico de la mesa contigua llamó a una mujer de pelo corto y le señaló una curva que se levantaba en el borde del gráfico. Ella pidió que repitieran la medición. Después pidió que comprobaran los sensores. Un hombre se acercó con una carpeta, hizo dos preguntas y se marchó sin esperar respuesta. Nadie levantó la voz, pero el ambiente cambió: las conversaciones se acortaron, los movimientos se hicieron más precisos y varios de los que hasta entonces habían trabajado sin prestar atención a la puerta comenzaron a mirarla de reojo.
 
-Yo también la miré. Seguía pareciendo una superficie oscura, sin borde ni cerradura, aunque desde donde estaba apenas podía distinguirla entre las personas que pasaban. Por un momento tuve la impresión de que el cuarto entero se había construido alrededor de ella: las mesas, las pantallas, los cables y las luces eran añadidos recientes, mientras que la pared y lo que contenía pertenecían a algo mucho más antiguo. La idea me pareció absurda. Volví a mirar mis lecturas y anoté la hora.
+Yo también miré hacia el fondo del cuarto. Entre las personas que pasaban y los equipos recién instalados, no había nada que llamara la atención: paredes de concreto, conducciones metálicas y una hilera de cajas apiladas junto a una zona acordonada. Por un momento tuve la impresión de que todo el lugar había sido reorganizado alrededor de algo que nadie quería mencionar. La idea me pareció absurda. Volví a mirar mis lecturas y anoté la hora.
 
 El siguiente pulso hizo vibrar la taza que tenía junto al teclado.
 
@@ -28,7 +28,7 @@ El siguiente pulso hizo vibrar la taza que tenía junto al teclado.
 
 Le mostré la pantalla. La curva había subido y descendido en menos de un segundo, dejando una marca estrecha que no se parecía a las oscilaciones anteriores. Ella no dijo nada. Acercó una silla, revisó la hora que yo había escrito y pidió que nadie tocara los sensores hasta nuevo aviso.
 
-—¿Es la puerta? —pregunté.
+—¿Está relacionado con lo que están investigando aquí? —pregunté.
 
 La mujer me miró como si la pregunta fuera razonable, pero no tuviera una respuesta útil.
 
