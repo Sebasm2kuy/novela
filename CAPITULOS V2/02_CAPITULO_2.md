@@ -1,89 +1,175 @@
 # Capítulo 2
 
-—No vuelvas a lanzar esa lectura hasta que sepamos de dónde sale —dije.
+—Cuando termine el corte, todos detrás de la línea amarilla —ordené.
 
-Los dos responsables dejaron de discutir, aunque ninguno pareció dispuesto a concederle la razón al otro. Uno tenía el informe abierto sobre la mesa; el otro mantenía los ojos fijos en los indicadores que avanzaban por las pantallas. Detrás de ellos, los técnicos continuaron trabajando, pasando de una consola a otra y anotando cifras que todavía no coincidían. El recinto era bajo, con paredes de hormigón viejo y conducciones sujetas mediante abrazaderas nuevas. La humedad había oscurecido una esquina del techo. Alguien había instalado paneles de control donde antes debió de haber estanterías, y los cables seguían las paredes hasta perderse por un pasillo estrecho. Nada de aquello estaba pensado para impresionar a nadie. Todo servía para que la operación siguiera en marcha.
+Martín levantó una mano para indicarme que había oído. Tenía la cara cubierta de polvo y una mancha de sudor le cruzaba la frente hasta la ceja. Se apartó de la puerta, dejó la herramienta en el suelo y caminó hacia nosotros con pasos cortos, cuidando de no pisar el cable que serpenteaba por el pasillo.
 
-—Las mediciones no superan el margen permitido —dijo el responsable de seguridad—. No tenemos una razón objetiva para detener la fase siguiente.
+El disco de corte siguió girando unos segundos después de que soltara el interruptor. El ruido rebotó contra las paredes de hormigón y se metió en los oídos como un zumbido. Cuando por fin se detuvo, solo quedó el sonido de la ventilación y el roce de las botas sobre la grava.
 
-—Tampoco tenemos una lectura consistente —contestó el otro—. Puede ser un error del sensor.
+La puerta ocupaba casi todo el fondo del corredor. Era una hoja metálica, vieja, sin manija por nuestro lado y con una junta de goma endurecida alrededor del marco. Habíamos retirado dos paneles de la pared para llegar a las bisagras, pero la estructura seguía firme. En el centro había una placa sin nombre, lisa salvo por cuatro agujeros donde alguna vez debió de ir una identificación.
 
-Levanté la mano antes de que empezaran de nuevo.
+Llevábamos buena parte del turno intentando abrirla. Primero probamos las llaves que nos habían entregado. Después, el mecanismo de emergencia. Luego desmontamos la carcasa y descubrimos que el cierre no era como el que figuraba en los planos. Cada intento nos había dejado una pieza menos y ninguna respuesta.
 
-—Puede ser un error. También puede no serlo. Hasta que lo comprobemos, la siguiente fase queda suspendida. Quiero los registros originales y que cada equipo deje por escrito qué revisó, no lo que supone que revisó.
+—El corte no llega al cerrojo —dijo Martín, limpiándose la frente con la manga—. Hay otra plancha detrás.
 
-Mi decisión no resolvió el desacuerdo, pero puso fin a la discusión. El responsable de seguridad recogió sus papeles y llamó a una operadora. El otro se apartó de la consola para permitir que una técnica conectara un instrumento auxiliar. Esperé a que cada uno volviera a su tarea y revisé el parte que me habían entregado. La autorización final llevaba mi firma. Si había algo que no encajaba, me correspondía decidir si podíamos seguir y responder por esa decisión.
+—¿Cuánto más?
 
-La sesión llevaba horas en marcha. Las primeras lecturas habían sido normales, y el cambio que ahora nos detenía no era lo bastante grande como para justificar una alarma automática. Lo inquietante era su forma: aparecía en un punto del registro, desaparecía, y luego volvía con una diferencia mínima que no seguía ningún patrón conocido. Pedí que comprobaran la calibración, la alimentación eléctrica y las condiciones ambientales. La responsable técnica, una mujer de cabello corto que llevaba casi todo el turno de pie, anotó mis instrucciones y comenzó a repartir tareas. Confiaba en ella porque no intentaba disimular lo que todavía no sabía.
+—No lo sé. Si sigo, voy a comerme el disco.
 
-Desde mi puesto veía solo una parte del recinto. Había una mesa de trabajo contra cada pared, un banco metálico atornillado al suelo y una mampara gruesa que separaba las consolas del corredor de servicio. Por allí pasaban empleados con cajas de herramientas, repuestos y equipos de protección. De vez en cuando alguien se asomaba para preguntar por un permiso o dejar un formulario. La actividad seguía alrededor de nosotros, pero la discusión había cambiado la manera en que todos miraban las pantallas. Nadie quería ser el primero en decir que no entendía lo que veía.
+Me agaché junto a la herramienta. El borde de la puerta tenía una ranura estrecha, suficiente para ver una línea negra entre el metal y el marco. Metí una espátula y empujé. No se movió. Hice fuerza con ambas manos hasta que el metal me vibró contra los nudillos.
 
-La anomalía volvió a aparecer antes de que terminaran las comprobaciones. Una de las curvas avanzó hasta un valor y regresó al punto anterior. La técnica amplió el registro y lo comparó con el del sensor contiguo. Las dos mediciones se parecían, pero no coincidían.
+—¿Y si la tiramos? —preguntó Salas desde atrás.
 
-—¿Error del instrumento? —pregunté.
+—¿Con qué?
 
-—No hay ninguno registrado.
+Señaló el pequeño cabrestante que habíamos instalado en una viga. El cable de acero llegaba desde allí hasta una abrazadera que el equipo había fijado a la puerta. La idea no me gustaba, pero era la única que quedaba antes de pedir maquinaria que no sabíamos si podría bajar hasta ese nivel.
 
-—¿Interferencia?
+—Revisen la viga y los anclajes —dije—. Nadie se coloca delante del cable. Si algo cede, no quiero a nadie en su trayectoria.
 
-—Todavía no puedo descartarla.
+Los demás se movieron de inmediato. Martín recogió las herramientas y se puso a revisar los pernos de la abrazadera. Salas subió a una escalera corta para inspeccionar el punto de anclaje. Yo recorrí la zona y comprobé que todos estuvieran fuera del recorrido del cable. El corredor era demasiado estrecho para trabajar con comodidad. Las cajas de herramientas ocupaban el suelo, las mangueras se enredaban junto a las botas y cada vez que alguien se daba vuelta golpeaba con el hombro la pared húmeda.
 
-—Entonces déjala entre las posibilidades. No la conviertas en una conclusión.
+—Listos —avisó Salas.
 
-Ella asintió y siguió trabajando. No tenía sentido paralizarlo todo ante cada variación, pero tampoco iba a autorizar la continuación solo porque una explicación corriente resultara más cómoda.
+Me situé junto al cabrestante. Martín me miró y levantó el pulgar. Activé el motor.
 
-Al otro lado de la mampara, un empleado dejó un periódico doblado sobre el banco y siguió de largo. Lo vi cuando fui a buscar una carpeta. La primera página llevaba un titular enorme: **¿EL EXPERIMENTO QUE PUEDE ACABAR CON EL MUNDO?** El artículo hablaba de una prueba que se realizaba bajo tierra y de las advertencias de comentaristas que afirmaban que sus consecuencias podían ser imprevisibles. No describía con claridad qué se estaba probando ni explicaba de dónde salían los temores. Mezclaba declaraciones incompletas, preguntas sin respuesta y opiniones que se contradecían entre sí. Cuanto menos aclaraba, más alarmante parecía.
+El cable se tensó con un chasquido. La abrazadera rechinó contra la puerta y el cabrestante empezó a tirar, despacio al principio, después con un esfuerzo continuo que hacía temblar el soporte. Una nube de polvo cayó del dintel. El metal se arqueó apenas hacia nosotros. Por un instante pensé que iba a ceder.
 
-Más abajo, una persona vinculada al proyecto calificaba la nota de alarmista y pedía que no se confundieran posibilidades con riesgos demostrados. En la columna contigua hablaban vecinos de la zona. Algunos se burlaban de la noticia; otros preguntaban por qué habían aumentado los controles en las carreteras. Una mujer decía que llevaba dos días comprando agua y alimentos por si las autoridades ordenaban evacuar. La nota no indicaba dónde había hablado con ella ni cuánto sabía realmente de lo que ocurría bajo tierra.
+Entonces se oyó un golpe seco al otro lado.
 
-Doblé el periódico y lo dejé donde estaba. El titular parecía escrito para que la gente imaginara el fin del mundo mientras desayunaba. Allí abajo teníamos un procedimiento detenido, resultados que no concordaban y una decisión pendiente. No necesitábamos que un diario nos explicara cómo tener miedo. Aun así, antes de apartarme, volví a mirar la primera página. Me molestó que alguien pudiera convertir nuestro trabajo en una amenaza de feria; me molestó todavía más no estar seguro de que todo lo que decían fuera una exageración.
+No fue el sonido de una pieza soltándose. Pareció venir de más lejos, de un espacio amplio detrás de la puerta. Todos lo escuchamos. Martín soltó el brazo del cabrestante y el motor se apagó con un tirón. El cable quedó vibrando entre nosotros.
 
-La responsable técnica regresó con los primeros resultados. La diferencia entre los sensores no seguía la frecuencia de la alimentación eléctrica y había aparecido en dos circuitos independientes. Eso descartaba una de las explicaciones más sencillas, pero no nos acercaba a una respuesta. Ordené que mantuvieran la fase suspendida y que nadie modificara las condiciones del procedimiento hasta reunir una secuencia completa.
+—¿Hay alguien ahí? —gritó Salas.
 
-Durante la siguiente hora, los cambios se presentaron a intervalos irregulares. Algunas lecturas se desviaban apenas; otras quedaban inmóviles por un instante y luego continuaban como si nada hubiera ocurrido. En dos ocasiones, varias pantallas se quedaron negras y regresaron sin perder el registro. El encargado de la alimentación eléctrica confirmó que la red no había sufrido ninguna caída. Una segunda revisión dio el mismo resultado. Los técnicos empezaron a copiar los datos en un soporte independiente, por si la anomalía afectaba también al sistema de almacenamiento.
+Su voz recorrió el corredor y volvió más débil. Nadie contestó.
 
-—Nadie reinicia nada —ordené—. Si una pantalla vuelve a apagarse, registren el momento y dejen el equipo como está.
+Le hice una seña para que se apartara. Me acerqué a la puerta y apoyé la palma en el metal. Estaba frío. Di dos golpes con los nudillos, esperé y repetí la señal que usábamos entre equipos cuando trabajábamos detrás de una pared: tres golpes rápidos, una pausa, dos más.
 
-La gente obedeció. Las preguntas seguían apareciendo, pero al menos ya no se superponían unas con otras. Yo revisaba cada informe antes de permitir que se incorporara al registro general. Había una diferencia entre no saber qué estaba ocurriendo y perder el control sobre nuestras propias decisiones. Todavía podíamos conservar lo segundo, aunque lo primero empezara a parecer menos probable.
+El silencio se prolongó tanto que empecé a sentirme ridículo.
 
-Entonces advertí algo en la mampara. La responsable técnica se había inclinado sobre una consola y, al levantar la cabeza, su reflejo tardó un instante en imitar el movimiento. Fue tan breve que pensé que el vidrio deformaba la imagen por el ángulo de la luz. Esperé a que volviera a moverse. Esta vez la reflejó al mismo tiempo. No se lo dije a nadie; no tenía manera de describirlo sin convertir una impresión en un dato. Volví a mirar los registros.
+Entonces sonaron dos golpes desde el otro lado.
 
-La primera orden de detener el procedimiento llegó por los altavoces. La voz pidió suspender todas las operaciones y esperar nuevas instrucciones. Se repitió dos veces, en un tono uniforme que contrastaba con la atención repentina de quienes la escuchaban. Una operadora quiso saber si debía cerrar los archivos; otro técnico preguntó si correspondía desconectar la alimentación. Les indiqué que conservaran las configuraciones y registraran cualquier cambio. La responsable técnica seguía comparando valores cuando una cuenta regresiva apareció en una esquina del panel principal.
+Martín se volvió hacia mí. No dijo nada, pero vi cómo se le endurecía la mandíbula.
 
-Nadie de nuestro equipo la había iniciado. Los números descendían a intervalos regulares, junto a unos indicadores que pasaron del amarillo al rojo. El técnico más cercano intentó abrir el panel de control y recibió un mensaje de acceso denegado. Probó de nuevo con credenciales de supervisor. La cuenta no se detuvo.
+—Puede ser una pieza suelta —dije.
 
-—¿Eso está en el protocolo? —pregunté.
+No estaba seguro de creerlo. Tampoco iba a convertir dos golpes en una conclusión delante de un equipo que llevaba horas sin conseguir abrir una puerta.
 
-La operadora de comunicaciones comprobó el sistema central y tardó demasiado en contestar.
+Pedí que revisaran la cámara de inspección. La pequeña pantalla portátil mostró una imagen granulada del borde inferior y parte del espacio que quedaba detrás de la hoja. El lente solo alcanzaba unos centímetros más allá del umbral. No se veía a nadie, solo una superficie gris cubierta de polvo y una línea que podía ser el borde de otra estructura. Martín movió la cámara hacia la derecha y la imagen se llenó de estática cuando el cable rozó el marco.
 
-—No. No reconoce la cuenta como una orden nuestra.
+—No sirve —murmuró.
 
-Me acerqué al panel. La cuenta seguía avanzando, precisa e indiferente a los comandos que intentábamos introducir. No tenía forma de detenerla ni sabía qué ocurriría cuando llegara a cero. Pedí que guardaran una copia de la pantalla y duplicaran los registros en el soporte independiente. Si aquello era una falla, necesitábamos pruebas; si no lo era, más todavía.
+—Retirala. No vamos a romperla también.
 
-A mi izquierda, uno de los técnicos se volvió hacia la mampara. En el vidrio se reflejaba la sala, pero la imagen ya no correspondía exactamente a lo que teníamos delante. Las personas seguían en sus puestos, aunque algunas parecían haberse quedado quietas en mitad de un movimiento que yo acababa de ver terminar. Parpadeé y la diferencia desapareció. No pude decidir si el reflejo había fallado o si mi atención, después de tantas horas, empezaba a traicionarme.
+La operadora, Elena, intentó comunicarse con el puesto de control. Se llevó la radio a la boca, dio nuestro código y pidió que confirmaran si había personal asignado al otro lado de la puerta. La respuesta llegó partida en fragmentos. Solo distinguimos nuestro identificador y una serie de interferencias. Elena cambió de canal, probó de nuevo y después revisó la batería.
 
-Todas las curvas dejaron de avanzar al mismo tiempo. No se borraron ni regresaron a cero: quedaron detenidas en puntos distintos de sus registros. La responsable técnica revisó una consola auxiliar y después otra. Los datos seguían almacenados, pero las lecturas no cambiaban. En el panel principal, los canales empezaron a mostrar las mismas cifras, incluidos los sensores que medían variables distintas. No era un cero ni un código de error. Cada valor parecía posible por separado; lo imposible era que todos coincidieran.
+—La radio funciona —dijo—. No consigo que nos contesten.
 
-—Guarden una copia de todo y envíenla al control —dije—. Confirmen cuando el archivo esté fuera de este sistema.
+—¿Desde cuándo?
 
-La orden apenas había terminado cuando los altavoces volvieron a activarse. Esta vez no pidieron esperar. Una voz exigió la evacuación inmediata del sector. Las luces de emergencia cambiaron a rojo y los empleados del corredor empezaron a dirigirse hacia las salidas señalizadas. Los responsables reunieron a sus equipos; los guardias despejaron el paso y una mujer gritó que nadie debía tocar las consolas.
+—Desde que empezamos con el cabrestante. Antes sí llegaban los mensajes.
 
-Me quedé junto a la mesa el tiempo justo para confirmar que el archivo se hubiera enviado. La responsable técnica me mostró la recepción en la pantalla. Solo entonces abandoné el puesto. No quería salir sin saber qué había sucedido, pero tampoco iba a poner en riesgo a todos por ganar unos segundos frente a instrumentos que ya no respondían.
+Miré hacia el corredor por el que habíamos venido. La luz de las lámparas seguía encendida, aunque una de ellas parpadeaba cada pocos segundos. Más allá, el pasillo doblaba hacia una escalera de servicio y luego hacia el ascensor de carga. Habíamos bajado por allí con herramientas, agua y provisiones para el turno. El ascensor ya no respondía a las llamadas; al principio pensamos que alguien lo había ocupado en otro nivel. Después dejamos de intentarlo para concentrarnos en la puerta.
 
-El corredor parecía más estrecho con tanta gente avanzando en la misma dirección. Se cruzaban órdenes, confirmaciones de los distintos grupos y mensajes de los altavoces que no siempre terminaban antes de que empezara el siguiente. A un supervisor que intentó detenerme para conseguir una autorización le dije que la evacuación tenía prioridad y que cualquier decisión pendiente quedaba suspendida hasta nuevo aviso. No sabía qué estaba ocurriendo. Sí sabía que nadie iba a resolverlo quedándose en el recinto.
+—Mandá un mensaje escrito —le dije—. Que necesitamos instrucciones y una ruta de salida confirmada. Repetilo cada cinco minutos.
 
-Al llegar al tramo que conducía a la salida, miré el reloj. La hora que marcaba no explicaba nada. Sin embargo, tuve la certeza de que me quedaba aproximadamente una hora. No era una conclusión que pudiera justificar con las mediciones ni con la cuenta regresiva del panel. No podría haber explicado de dónde salía. Estaba ahí, tan concreta como el reloj contra mi muñeca, y no conseguía tratarla como una simple impresión.
+Elena asintió y empezó a escribir.
 
-Seguí avanzando y me aseguré de que los últimos integrantes de mi equipo hubieran llegado al punto de reunión. Detrás de nosotros, los indicadores rojos se encendían a lo largo del corredor. Un operador gritó que los instrumentos de una de las zonas internas habían registrado un cambio repentino de temperatura. Después las luces de aquel tramo se apagaron, una por una, aunque en el panel de emergencia seguían apareciendo como activas.
+Martín estaba examinando el borde que habíamos cortado. Pasó una galga por la ranura y frunció el ceño.
 
-Al llegar al siguiente cruce encontramos cerrada la puerta de seguridad que daba al tramo de salida. No era una de las puertas que debían cerrarse durante una evacuación. El indicador mostraba que estaba desbloqueada, pero el mecanismo no respondió cuando el guardia probó el mando y después la apertura manual. Dos técnicos se acercaron para ayudarlo. La hoja apenas cedió unos milímetros y volvió a quedar inmóvil, como si algo al otro lado la sujetara. No había ninguna señal de que el corredor se hubiera derrumbado, pero tampoco teníamos forma de comprobar qué impedía abrirla.
+—Hay algo raro con el marco.
 
-—Control, aquí equipo de operaciones. ¿Reciben? —dijo la operadora por la radio.
+—¿Qué cosa?
 
-Solo escuchamos estática. Cambió de canal y repitió el llamado. Probó la línea fija del puesto de emergencia, luego el teléfono de servicio. Ninguno obtuvo respuesta. Los altavoces permanecieron en silencio. En las pantallas portátiles, la red interna aparecía activa, pero no llegaba ninguna confirmación desde el exterior. La responsable de comunicaciones me miró y negó con la cabeza antes de que yo pudiera preguntarle.
+—Mirá la marca del disco.
 
-Ordené que nadie se separara del grupo, que revisaran el agua disponible y las luces portátiles, y que anotaran quiénes habían llegado al cruce. No sabíamos si el bloqueo sería temporal ni cuánto tardarían en restablecer las comunicaciones. Teníamos que actuar como si no fueran a hacerlo pronto. La responsable técnica empezó a organizar a los suyos sin esperar más instrucciones; el guardia volvió a examinar la puerta y los demás buscaron una segunda ruta en los planos de emergencia. Yo los acompañé hasta el panel de señalización. Las rutas alternativas aparecían marcadas, pero dos de ellas habían desaparecido de la pantalla y la tercera terminaba en una zona que el sistema ya no identificaba.
+Me agaché. El corte había dejado una línea brillante en el metal, pero terminaba antes de llegar al extremo inferior. Martín me mostró el punto donde había empezado a cortar. La línea estaba allí, limpia y recta, aunque la superficie alrededor tenía una capa de óxido que no se había desprendido. Era como si el disco hubiera pasado por el metal sin tocar lo que tenía detrás.
 
-Volví a mirar el reloj. Seguía teniendo la certeza de que me quedaba aproximadamente una hora. No sabía si esa hora tenía que ver con la cuenta regresiva, con lo que estaba ocurriendo bajo tierra o con algo que todavía no había sucedido. No podía demostrarlo y no podía ignorarlo. Por el momento, lo único concreto era que estábamos bajo tierra, sin comunicación con el exterior y sin una salida que pudiéramos abrir.
+—Probá en otro punto —le dije.
 
-Me apreté la muñeca contra el cuerpo, sintiendo el reloj bajo la manga, y miré a mi equipo. Antes de que pudiéramos salir de allí, tendríamos que averiguar cómo seguir vivos.
+Martín me miró para comprobar que hablaba en serio. Cambió el disco, ajustó la protección y volvió a colocarse la máscara. Esta vez eligió el borde opuesto, cerca de la bisagra inferior. Cuando encendió la herramienta, una lluvia de chispas cayó al suelo. El sonido llenó el corredor. Salas sostuvo una lámpara sobre el corte mientras yo vigilaba el cable y la postura de Martín.
+
+La herramienta avanzó unos centímetros. De pronto, el disco se trabó. Martín soltó el interruptor y retrocedió. La máquina dio un golpe contra el suelo.
+
+—¡Atrás! —grité.
+
+Nadie estaba herido. Martín se quitó la máscara y miró la herramienta con rabia.
+
+—No fue el disco —dijo—. Algo lo frenó desde dentro.
+
+Revisé la pieza. Los dientes estaban dañados en un solo sector, como si hubieran chocado contra una superficie más dura que el metal de la puerta. No teníamos otro disco del mismo tamaño. El repuesto estaba en el depósito del nivel superior, y para buscarlo necesitábamos que el ascensor volviera a funcionar o que alguien subiera por la escalera y regresara cargando con la caja.
+
+—Dejamos de cortar —decidí—. No vamos a quedarnos sin herramientas por insistir a ciegas.
+
+Salas soltó una maldición y pateó una piedra suelta. La piedra golpeó el zócalo y rodó hasta mis botas.
+
+—Llevamos horas aquí. Si no abrimos esto, ¿qué hacemos?
+
+—Encontrar otra salida.
+
+—¿Y si no hay otra?
+
+Lo miré. Quería una respuesta que no tenía. En vez de dársela, le ordené que recogiera las herramientas dispersas y las dejara junto a las provisiones. Necesitábamos despejar el pasillo y mantener libre el camino a la escalera.
+
+Elena levantó la radio.
+
+—Me contestaron.
+
+Todos nos volvimos hacia ella. Escuchó unos segundos, acercó el aparato a la boca y respondió con rapidez.
+
+—Repita. No recibimos la última parte. ¿Qué puerta? ¿Qué sector?
+
+La voz se cortó. Elena intentó recuperar la comunicación, pero solo obtuvo estática. Bajó la radio lentamente.
+
+—Dijeron que cerráramos el acceso y esperáramos instrucciones. No sé si hablaban de nosotros.
+
+—¿Escuchaste nuestro código?
+
+—Al principio. Después se perdió.
+
+No me gustaba cerrar un acceso cuando no sabíamos quién podía estar al otro lado, pero tampoco tenía sentido dejar una puerta abierta a nuestras espaldas si había una emergencia en el complejo. Le pedí a Salas que comprobara el cierre del pasillo y que no bloqueara la salida. Él se fue con una lámpara y dos herramientas.
+
+Martín seguía junto a la puerta. Había dejado la máscara colgando del cuello y apoyaba una mano en la placa lisa del centro.
+
+—¿Qué hacés? —le pregunté.
+
+—Escuchá.
+
+Al principio solo oí la ventilación. Después distinguí un roce leve, como el arrastre de algo pesado sobre el suelo. Venía de detrás de la puerta y se desplazaba lentamente, de un lado al otro. Martín apartó la mano. El ruido se detuvo. Cuando volvió a apoyar la palma, el roce empezó otra vez, más cerca del centro.
+
+Retrocedí un paso y le pedí que se apartara. Ninguno de nosotros habló. El sonido se deslizó hasta el extremo inferior de la hoja y desapareció.
+
+La lámpara sobre nuestras cabezas se apagó.
+
+Alguien soltó una exclamación. La oscuridad duró apenas dos segundos antes de que se encendieran las luces de emergencia, rojas y débiles. El corredor quedó convertido en una sucesión de sombras largas. Desde la escalera llegó un golpe metálico, seguido de un grito de Salas.
+
+Corrimos hacia allí.
+
+Lo encontramos en el suelo, junto a la puerta cortafuegos que separaba el corredor de la escalera. Tenía una mano apretada contra el antebrazo y la lámpara caída a un lado. La puerta había cerrado de golpe y el mecanismo de apertura no respondía. Salas dijo que había intentado volver cuando se apagaron las luces; la hoja se había cerrado delante de él y le había atrapado el brazo antes de que pudiera retirarlo.
+
+Martín y yo lo ayudamos a levantarse. No parecía roto, pero tenía la piel abierta junto a la muñeca. Elena sacó el botiquín mientras yo probaba el mecanismo de la puerta. La barra cedía bajo mi peso y la cerradura parecía libre, pero la hoja no se movía ni un centímetro.
+
+—Primero esa —dijo Salas, señalando la puerta que habíamos estado intentando abrir—. Después esta. ¿Qué demonios está pasando?
+
+No contesté. Le hice sentarse sobre una caja y le vendé el brazo. Después revisé el corredor. La luz roja alcanzaba hasta el cruce, donde la oscuridad comenzaba de golpe. La escalera seguía detrás de la puerta cortafuegos, pero no teníamos forma de abrirla. El ascensor de carga estaba en el otro extremo y tampoco respondía. Nuestra única ruta conocida hacia el exterior acababa de desaparecer.
+
+Elena volvió a llamar al puesto de control. Esta vez no hubo ni siquiera una voz entrecortada. Probó los otros canales, la línea fija y el teléfono de servicio. Nada. Cuando terminó, miró el reloj y después las botellas de agua que quedaban en la caja.
+
+—Tenemos agua para el turno —dijo—. No para quedarnos aquí varios días.
+
+—No vamos a quedarnos varios días —respondió Salas.
+
+Lo dijo con tanta rapidez que ninguno quiso preguntarle de dónde sacaba esa seguridad.
+
+Abrí el plano de emergencia y lo extendí sobre una caja. La ruta principal pasaba por la escalera bloqueada. Había un conducto de mantenimiento al otro lado del recinto, pero no sabíamos si conectaba con un nivel superior o terminaba en una cámara cerrada. Para llegar teníamos que cruzar el corredor oscuro, pasar junto a la puerta que no podíamos abrir y atravesar una zona donde las lámparas acababan de apagarse.
+
+—Nos llevamos el agua, las luces, el botiquín y las herramientas manuales —dije—. Nada que nos haga perder tiempo. Martín, vas conmigo. Elena, quedate con Salas hasta que pueda mover el brazo; después vienen detrás. Si encontramos una salida, no nos separamos.
+
+Martín recogió una palanca, dos lámparas y la mochila de herramientas. Antes de seguirme, miró una última vez la puerta metálica. Desde detrás de ella llegó un golpe, tan claro como el primero.
+
+Esta vez fueron tres.
+
+No esperé a que se repitieran. Eché a andar hacia el corredor oscuro, con la palanca en una mano y la luz en la otra. A mis espaldas, Elena ayudaba a Salas a ponerse de pie. El aire olía a polvo caliente y metal. No sabíamos si alguien había quedado al otro lado de la puerta, si el complejo entero estaba en problemas o si todavía había alguien escuchando nuestras llamadas.
+
+Solo sabíamos que estábamos bajo tierra, que el camino de regreso ya no estaba disponible y que el agua no iba a durar para siempre.
+
+Miré el reloj. La certeza seguía allí: me quedaba aproximadamente una hora. No tenía ninguna explicación para ella. La guardé junto con el resto de las preguntas y seguí avanzando.
