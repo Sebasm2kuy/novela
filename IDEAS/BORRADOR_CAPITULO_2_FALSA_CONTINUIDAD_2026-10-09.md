@@ -23,3 +23,7 @@ Aplicar la directriz del autor: el lector debe creer inicialmente que la acción
 
 ## Límites
 No se modifica CANON ni el mapa. No se nombra la ubicación real en el manuscrito. No se explican los desplazamientos ni se confirma una relación objetiva entre la puerta, la marca y las lecturas.
+
+
+## Corrección tras revisión del autor
+La primera versión contenía referencias literales a «la puerta» en el espacio del Capítulo 2, lo que anulaba la intención de que la ubicación real fuera otra. Se corrigió el manuscrito para retirar la puerta física y su identificación directa. La continuidad aparente debe descansar en rasgos ambientales y de actividad, no en que el objeto del Capítulo 1 esté presente. La sustitución de «¿Es la puerta?» por una pregunta menos específica también evita que el narrador trate el fenómeno del nuevo entorno como si fuera necesariamente el mismo objeto. Esta corrección es una revisión de borrador, no una modificación del canon.
