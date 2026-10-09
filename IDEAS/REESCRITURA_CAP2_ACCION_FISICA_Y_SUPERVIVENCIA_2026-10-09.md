@@ -17,7 +17,7 @@ Se reemplazó la acumulación de mediciones, pantallas y explicaciones por acci�
 - Protagonista con autoridad y responsabilidad sobre el equipo.
 - Martín como integrante de este equipo; no se establece ninguna relación con Martín del capítulo 1 ni se implica que sea la misma persona.
 - La puerta como centro de la escena y misterio.
-- La certeza inexplicable de que queda aproximadamente una hora.
+- Se eliminó la certeza inexplicable de que queda aproximadamente una hora; el reloj queda como referencia cotidiana, sin anticipar una salida ni un límite sobrenatural.
 - Encierro bajo tierra, pérdida de comunicación, recursos limitados y comienzo de supervivencia.
 - No se nombra CERN ni se explica qué hay al otro lado de la puerta, qué bloquea los accesos o qué significa la hora.
 
