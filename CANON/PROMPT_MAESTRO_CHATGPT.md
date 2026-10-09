@@ -837,3 +837,19 @@ Las ideas siguientes fueron discutidas recientemente y deben conservarse como **
 6. Que las diez realidades sean igualmente reales desde su experiencia.
 
 **IMPORTANTE:** ninguna de estas ideas cambia el canon actual hasta que el autor diga expresamente que desea confirmarla.
+
+# 23. REGISTRO CONTINUO DE IDEAS E ITERACIONES
+
+A partir de la instrucción explícita del autor del 2026-10-09, **guardar en GitHub todas las nuevas ideas e iteraciones relevantes de WNL**, aunque todavía no sean canon, sin esperar a que el autor vuelva a pedir que se guarden.
+
+- Registrar las nuevas ideas, hipótesis, caminos explorados, comparaciones de referentes, decisiones de búsqueda, descartes y conclusiones de trabajo en `IDEAS/` o en el archivo de iteración correspondiente.
+- Si una conversación contiene varias iteraciones sobre el mismo asunto, añadirlas al registro pertinente o crear un nuevo archivo fechado cuando sea más claro. No sobrescribir un registro anterior si eso borra el recorrido creativo.
+- Cada registro debe incluir fecha, contexto, qué expresó el autor, ideas propuestas, alternativas descartadas o no convincentes, estado actual y preguntas pendientes.
+- Etiquetar explícitamente cada punto como **propuesta**, **pendiente**, **descartado**, **interpretación** o **canon confirmado**. Una idea conversada en voz alta no equivale a aprobación.
+- No guardar automáticamente todo en `CANON/`. Solo modificar CANON cuando el autor confirme explícitamente una decisión.
+- No modificar ni reemplazar el manuscrito por el solo hecho de registrar ideas.
+- Tras guardar, comunicar brevemente los archivos modificados y el commit de GitHub.
+- En este proyecto, preservar el proceso de pensamiento creativo importa: no registrar solo la conclusión final si las iteraciones intermedias y los motivos de descarte ayudan a no repetir caminos que el autor ya rechazó.
+
+Esta regla amplía la política de persistencia de ideas y versiones sin alterar las demás reglas de canon.
+
