@@ -12,18 +12,17 @@ La respuesta confirma que la atmósfera de peligro y el trabajo técnico generan
 
 ## Pistas que Gemini conectó
 
-1. **La secuencia de tres sonidos.** Gemini la conecta inmediatamente con los golpes de la superficie del capítulo 1. La conexión es demasiado directa para la instrucción del autor de que el capítulo 2 no haga referencia al capítulo 1, aunque sea una referencia indirecta y no una mención explícita.
-2. **La línea vertical en la pantalla.** Gemini la asocia con la marca fina visible en la fotografía de la superficie. La coincidencia visual también resulta demasiado reconocible y debe cambiarse por una anomalía distinta, sin una línea recta que repita la imagen del capítulo 1.
+1. **La secuencia de tres sonidos.** Gemini la conectó inmediatamente con los golpes de la superficie del capítulo 1. La conexión era demasiado directa para la instrucción del autor de que el capítulo 2 no hiciera referencia al capítulo 1. **Corregido en el borrador:** se reemplazaron los tres sonidos sucesivos por un cambio en la vibración y en los indicadores.
+2. **La línea vertical en la pantalla.** Gemini la asoció con la marca fina visible en la fotografía de la superficie. La coincidencia visual era demasiado reconocible. **Corregido en el borrador:** ahora todos los canales de medición devuelven el mismo conjunto de cifras, incluidos sensores que miden variables distintas.
 3. **La certeza sobre el tiempo restante.** Gemini la interpreta como un patrón compartido con el narrador del capítulo 1 y con el prólogo. La intuición temporal forma parte de las reglas generales del personaje, así que no se declara aquí incorrecta; evitar convertirla en una explicación o en una conexión explícita.
 4. **La «partícula de Dios» y la máquina subterránea.** Aunque el capítulo no nombra el lugar, Gemini infiere un colisionador de hadrones. Esa lectura revela cuánto pesan esos términos en la identificación del contexto. Debe ponderarse junto con la intención ya expresada por el autor de permitir una noticia sensacionalista sobre la «partícula de Dios», sin nombrar el laboratorio.
 5. **La identidad del protagonista.** Gemini pregunta si el investigador que aparece con Martín es el mismo narrador que dirige la operación en el capítulo 2. Es una duda útil como reacción de lector: no debe resolverse explicativamente dentro del capítulo 2. El protagonista mantiene continuidad de identidad entre realidades, pero la escena no debe explicar el mecanismo.
 
 ## Ajustes narrativos derivados
 
-- Sustituir los tres sonidos sucesivos por una anomalía distinta que no evoque de forma tan directa los golpes del capítulo 1.
-- Eliminar la línea vertical que aparece en el monitor y reemplazarla por una alteración instrumental visualmente diferente.
+- **Aplicados:** se quitaron los tres sonidos sucesivos y la línea vertical del monitor, sustituyéndolos por anomalías que no repiten de forma tan directa las señales del capítulo 1.
 - Mantener la autoridad del protagonista y la sesión ya en marcha.
-- Revisar la escala del escenario: dar prioridad a un espacio subterráneo de función ambigua y evitar una imaginería que lo convierta de inmediato en una instalación reconocible como el LHC.
+- Revisar la escala del escenario: dar prioridad a un espacio subterráneo de función ambigua y evitar una imaginería que lo convierta de inmediato en una instalación reconocible como el LHC. Este punto queda como cuestión de revisión, no como cambio aplicado en esta iteración.
 - Tratar las teorías de Gemini (bucle, choque de realidades, puerta como cicatriz, IA o física imponiendo un final) exclusivamente como interpretaciones del lector; ninguna queda establecida como canon.
 
 ## Nota
