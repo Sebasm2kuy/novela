@@ -1,5 +1,7 @@
 # ESTADO ACTUAL DEL PROYECTO
 
+> **Distinción de estado:** las secciones que describen los capítulos 7–8 y el desarrollo anterior corresponden al manuscrito/canon de una etapa previa. La línea de trabajo editorial activa es el prólogo V3 más los capítulos 1–4 V2, listados más abajo. No asumir que el manuscrito reescrito ya conserva las asignaciones de ventanas del material anterior; esa correspondencia sigue pendiente de revisión.
+
 ## Situación narrativa
 El manuscrito vigente llega hasta el Capítulo 8.
 
