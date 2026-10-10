@@ -68,15 +68,13 @@ La línea activa de reescritura está en la carpeta `CAPITULOS V3/`:
 
 Los capítulos V3 son textos en desarrollo; el capítulo 5 es un primer borrador. La carpeta `CAPITULOS/` y el manuscrito consolidado anterior se preservan como material histórico y no deben sobrescribirse por accidente.
 
-### Capítulo 5 V3 — Velero / la pasajera escondida
+### Capítulo 5 V3 — en reescritura
 
-El capítulo 5 fue reescrito desde cero después de detectar que el borrador anterior acumulaba recursos que evocaban una estructura demasiado reconocible de dobles y posible bucle temporal.
+El borrador centrado en Inés y la persecución marítima fue descartado por el autor: le resultó aburrido antes de terminar de leerlo. No es la versión activa ni debe tratarse como canon. El archivo `CAPITULOS V3/05_CAPITULO_5.md` ahora contiene una nota de estado, no el capítulo narrativo.
 
-En la versión activa, el protagonista sigue a bordo del velero Nereida, después de la advertencia recibida por radio al final del capítulo 4. Encuentra a una mujer llamada Inés escondida detrás de la cabina. Ambos intentan evitar que una segunda embarcación los localice y liberan una línea enganchada bajo la popa para recuperar el control del velero. Inés se niega a explicar por qué huye y la advertencia de radio continúa sin destinatario confirmado.
+La próxima versión debe escribirse desde cero, sin conservar la mujer escondida ni esa trama de supervivencia náutica. Se mantiene únicamente la continuidad del final del capítulo 4: el protagonista está herido a bordo del velero Nereida, oyó por radio «No dejes que te vea», vio una mano retirarse detrás de la cabina y la escotilla se cerró de golpe.
 
-Al final, una pequeña luz verde se enciende en el panel del timón. Inés reacciona con reconocimiento y le pide que no vuelva a tocarla; desde debajo de cubierta llega un golpe. El capítulo no explica la luz, el sonido, la identidad de quien habló por radio ni qué busca la embarcación que los sigue.
-
-**Estado:** borrador narrativo activo. No incluye versiones idénticas del protagonista, relojes imposibles, voces que reproducen o anticipan sus acciones ni una explicación basada en bucles temporales. La naturaleza de la luz verde y la presencia bajo cubierta siguen sin explicación y no están conectadas a otros fenómenos por decisión canónica.
+**Estado:** pendiente de nueva dirección narrativa. No se han confirmado conexiones entre el velero, el prólogo ni los capítulos 1–3.
 ## Mecánica canónica vigente — sueño y 24 horas
 
 La entrada y salida de las ventanas y de la Habitación se realizan mediante el **sueño**.
