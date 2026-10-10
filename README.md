@@ -20,8 +20,8 @@ No se debe convertir una propuesta de IA, un borrador antiguo o una interpretaci
 
 - `CANON/` — reglas y hechos canónicos de WATH NEVER LEFT.
 - `CAPITULOS/` — manuscrito consolidado/histórico de etapas anteriores.
-- `CAPITULOS V2/` — capítulos de la etapa de reescritura actual (por ahora, capítulos 1–4).
-- `CAPITULOS V3/` — prólogo vigente de la etapa actual.
+- `CAPITULOS V2/` — versiones anteriores de los capítulos, conservadas como histórico cuando corresponda.
+- `CAPITULOS V3/` — manuscrito vigente de la etapa de reescritura actual: prólogo y capítulos 1–4.
 - `IDEAS/` — ideas no canonizadas.
 - `ARCHIVO/` — material histórico/descartado.
 - `METODOS_ESCRITURA/` — métodos, estructuras y estudios narrativos.
@@ -32,9 +32,9 @@ No se debe convertir una propuesta de IA, un borrador antiguo o una interpretaci
 La versión de trabajo actual está distribuida intencionalmente entre dos carpetas:
 
 - **Prólogo:** `CAPITULOS V3/00_PROLOGO.md`
-- **Capítulos 1–4:** `CAPITULOS V2/01_CAPITULO_1.md` a `CAPITULOS V2/04_CAPITULO_4.md`
+- **Capítulos 1–4:** `CAPITULOS V3/01_CAPITULO_1.md` a `CAPITULOS V3/04_CAPITULO_4.md`
 
-No mover el prólogo a V2 ni los capítulos a V3. Los números de versión identifican la etapa de cada texto, no un canon nuevo ni una asignación automática a las ventanas. Los borradores actuales se revisan sin sobrescribir el manuscrito histórico de `CAPITULOS/`.
+El prólogo y los capítulos 1–4 pertenecen todos a V3. No guardar capítulos actuales en V2. Los números de versión identifican la etapa de cada texto, no un canon nuevo ni una asignación automática a las ventanas. Los borradores actuales se revisan sin sobrescribir el manuscrito histórico de `CAPITULOS/`.
 
 ## Historial de conversaciones
 
