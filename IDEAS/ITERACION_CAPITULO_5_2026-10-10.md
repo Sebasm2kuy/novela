@@ -163,3 +163,26 @@ La idea de Qwen de que Inés quizá estuvo en el agua no está confirmada por el
 El autor indicó que no terminó de leer el borrador porque le aburrió y pidió olvidar a la mujer. Por tanto, la versión centrada en Inés, el bolso y la persecución marítima queda descartada, no como canon ni como borrador activo. No intentar rescatarla con retoques menores.
 
 La siguiente reescritura del capítulo 5 debe partir de cero. Mantener solo la continuidad mínima del capítulo 4 y no inventar otra acumulación de pistas ni forzar conexiones con el prólogo o capítulos previos. Antes de escribir, hay que encontrar un motor dramático que interese al autor, no solo que genere preguntas en lectores externos.
+
+
+---
+
+## Decisión editorial del autor — reescribir el capítulo 4
+
+**Fecha:** 2026-10-10  
+**Estado:** DIRECCIÓN EDITORIAL CONFIRMADA; no agrega canon sobre la arquitectura de WNL.
+
+El autor pidió reescribir el capítulo 4 y fijó estas instrucciones:
+
+- La radio no recibe ninguna señal. No debe emitir mensajes enigmáticos ni frases de advertencia.
+- Evitar el misterio artificial alrededor de una mano y los ruidos del barco.
+- Si se conservan sonidos, aclarar progresivamente sus causas físicas: por ejemplo, una botella que rueda, algo que cae de una estantería o una ola fuerte que golpea el casco.
+- Evitar el efecto de misterio acumulativo tipo «Scooby-Doo»: no convertir cada ruido, sombra u objeto en una nueva pista.
+
+### Resultado de la nueva versión del capítulo 4
+
+El capítulo fue reescrito en `CAPITULOS V3/04_CAPITULO_4.md`. La radio solo produce estática; no se recibe señal alguna. Se eliminó la mano detrás de la cabina y cualquier advertencia transmitida. Los ruidos se explican a medida que el protagonista investiga: una botella suelta rueda por el suelo, una caja se desliza de un estante, una correa está floja y una vela parcialmente suelta golpea el mástil durante el mal tiempo. La escotilla se cierra por el impacto de una ola y el protagonista comprueba el pestillo.
+
+Se conserva la incertidumbre central y concreta: el protagonista está herido a bordo del velero Nereida, no recuerda cómo llegó ni cómo se lastimó, la radio no funciona como vía de contacto y el motor no arranca. No se ha añadido ninguna conexión con el prólogo ni con los capítulos 1–3.
+
+**Estado de la decisión:** capítulo 4 reescrito; queda pendiente la lectura y aprobación del autor. La nueva versión no se considera canon global ni confirma la ventana correspondiente.
