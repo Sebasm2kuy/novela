@@ -6,6 +6,6 @@ El borrador anterior, centrado en una mujer escondida llamada Inés, una persecu
 
 La siguiente versión debe replantearse desde cero. No conservar a Inés ni la trama de la mujer escondida, y no intentar salvar esa dirección mediante retoques de estilo.
 
-Se conserva únicamente la continuidad confirmada del final del capítulo 4: el protagonista está a bordo del velero Nereida, herido, ha oído por radio «No dejes que te vea», ha visto una mano retirarse detrás de la cabina y la escotilla se ha cerrado de golpe. El significado de esos hechos sigue sin resolverse.
+Se conserva únicamente la continuidad confirmada del nuevo capítulo 4: el protagonista despierta herido a bordo del velero Nereida, no recuerda cómo llegó ni cómo se lastimó, la radio solo produce estática y no recibe ninguna señal, el motor no arranca y el barco se mueve en un mar nocturno agitado. Los ruidos que encuentra en la cabina tienen causas físicas identificadas en el propio capítulo, como una botella suelta, una caja que cae y una vela golpeando el mástil. No hay una presencia oculta confirmada ni una advertencia por radio.
 
 No introducir conexiones con otros capítulos ni nuevas explicaciones de canon sin decisión expresa del autor.
