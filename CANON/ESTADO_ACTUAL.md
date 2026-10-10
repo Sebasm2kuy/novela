@@ -68,16 +68,15 @@ La línea activa de reescritura está en la carpeta `CAPITULOS V3/`:
 
 Los capítulos V3 son textos en desarrollo; el capítulo 5 es un primer borrador. La carpeta `CAPITULOS/` y el manuscrito consolidado anterior se preservan como material histórico y no deben sobrescribirse por accidente.
 
-### Capítulo 5 V3 — Velero / encuentro con otras versiones
+### Capítulo 5 V3 — Velero / la pasajera escondida
 
-El protagonista, herido y a bordo del velero `Nereida`, escucha golpes y una tos debajo de cubierta. Abre la escotilla principal, baja al compartimento inferior y descubre una segunda puerta que conduce a un espacio oculto bajo el casco. Allí encuentra a un hombre con su mismo rostro y una venda ensangrentada en el antebrazo izquierdo.
+El capítulo 5 fue reescrito desde cero después de detectar que el borrador anterior acumulaba recursos que evocaban una estructura demasiado reconocible de dobles y posible bucle temporal.
 
-El hombre le dice que no debería estar allí y le advierte que él no es a quien debe sacar del lugar. La radio pronuncia el nombre del protagonista y reproduce su propia voz con instrucciones que no recuerda haber dado. Mientras ambos permanecen abajo, una tercera figura comienza a descender por la escotilla abierta; lleva la misma venda. El capítulo termina sin revelar la identidad ni la naturaleza de las figuras.
+En la versión activa, el protagonista sigue a bordo del velero Nereida, después de la advertencia recibida por radio al final del capítulo 4. Encuentra a una mujer llamada Inés escondida detrás de la cabina. Ambos intentan evitar que una segunda embarcación los localice y liberan una línea enganchada bajo la popa para recuperar el control del velero. Inés se niega a explicar por qué huye y la advertencia de radio continúa sin destinatario confirmado.
 
-**Estado:** borrador narrativo; las hipótesis sobre bucles, sustituciones, duplicación, el reloj, los golpes y el funcionamiento del velero no se consideran hechos canónicos confirmados.
+Al final, una pequeña luz verde se enciende en el panel del timón. Inés reacciona con reconocimiento y le pide que no vuelva a tocarla; desde debajo de cubierta llega un golpe. El capítulo no explica la luz, el sonido, la identidad de quien habló por radio ni qué busca la embarcación que los sigue.
 
-La nueva versión de un texto no cambia automáticamente su asignación a una ventana ni confirma teorías narrativas. La relación entre los borradores actuales y el mapa canónico anterior debe revisarse cuando el autor lo decida, sin forzar equivalencias.
-
+**Estado:** borrador narrativo activo. No incluye versiones idénticas del protagonista, relojes imposibles, voces que reproducen o anticipan sus acciones ni una explicación basada en bucles temporales. La naturaleza de la luz verde y la presencia bajo cubierta siguen sin explicación y no están conectadas a otros fenómenos por decisión canónica.
 ## Mecánica canónica vigente — sueño y 24 horas
 
 La entrada y salida de las ventanas y de la Habitación se realizan mediante el **sueño**.
