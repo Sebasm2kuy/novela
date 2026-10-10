@@ -1,81 +1,165 @@
 # Capítulo 5
 
-No sabía cuánto tiempo llevaba inmóvil cuando comprendí que, si seguía esperando a que algo ocurriera, iba a terminar dejando que ocurriera lo que fuera. La escotilla continuaba cerrada detrás de mí y el viento había vuelto a levantar la superficie del mar, haciendo que el velero cabeceara con un movimiento cada vez más brusco. Me dolía el brazo, tenía la ropa húmeda y apenas podía pensar en otra cosa que no fuera aquella voz: *No dejes que te vea.* No me había dicho que no abriera la escotilla ni que me alejara de allí. Había hablado de alguien que podía verme, como si en la cubierta hubiera una persona a la que yo todavía no había conseguido distinguir.
+Durante unos segundos me quedé junto a la escotilla, sin apartar la vista del lugar donde había visto la mano. El barco seguía balanceándose y el agua golpeaba el casco con una regularidad que empezaba a parecerme deliberada. Quise convencerme de que alguien podía haberse escondido detrás de la cabina por miedo a mí, pero no sabía qué podía haber hecho para asustarlo. Tampoco sabía por qué la radio me había advertido que no dejara que me viera. La frase seguía resonando en mi cabeza, desprovista de contexto y, por eso mismo, difícil de ignorar.
 
-Apunté la linterna hacia la cabina y luego hacia la popa. Revisé debajo del banco, detrás del timón y junto a los cabos enrollados, pero no encontré a nadie. La mano que había visto desaparecer detrás de la cabina podía pertenecer a una persona escondida, aunque también era posible que la hubiera confundido con algo que se movía entre la ropa y las cuerdas. Intenté convencerme de que el miedo estaba completando lo que mis ojos no habían alcanzado a ver, hasta que tres golpes llegaron desde debajo de la cubierta.
+La escotilla se había cerrado de golpe detrás de mí. Me agaché para probar el borde, pero la tapa no cedió cuando tiré de ella. No estaba seguro de si el pestillo se había enganchado con el movimiento del barco o si alguien lo había accionado desde abajo. La diferencia importaba: si había una persona allí, quizá intentaba salir; si yo la dejaba encerrada y algo le ocurría, no podría saberlo hasta que fuera demasiado tarde. Probé una vez más, con cuidado de no lastimarme el brazo, y abandoné el intento cuando la madera volvió a golpear contra el marco.
 
-No fueron fuertes. Sonaron amortiguados por la madera, separados por pausas irregulares, como si alguien golpeara con los nudillos sin querer llamar demasiado la atención. Me acerqué a la escotilla y dirigí la luz hacia el borde de la tapa, donde una gota de agua resbalaba lentamente. La limpié con el pulgar y apoyé la palma sobre la madera. Estaba fría. Del otro lado no se oía nada. Me incliné, intentando escuchar alguna respiración, y pregunté si había alguien ahí. Mi voz sonó más alta de lo que esperaba, pero no obtuve respuesta. El viento y el golpe de las olas contra el casco se tragaron cualquier sonido que pudiera venir de abajo.
+Apagué la linterna. No tenía sentido seguir iluminando cada rincón de la cubierta como si buscara una herramienta perdida. Si la persona que había visto quería esconderse, la luz solo le facilitaba evitarme. Esperé a que mis ojos se acostumbraran a la oscuridad y distinguí la silueta del mástil, el contorno de la vela recogida y la línea de la barandilla. Más allá, el mar era una extensión negra, aunque no completamente vacía: muy lejos, casi en el límite de lo visible, apareció una luz blanca que no correspondía a ninguna estrella.
 
-Probé el pestillo. Seguía cerrado. Podía volver a la cabina, recuperar la radio y pedir ayuda. También podía intentar poner el motor en marcha una vez más, aunque no tenía una posición confirmada y ni siquiera sabía hacia dónde debía navegar. La opción más sencilla era asegurar la escotilla y mantenerme alejado de ella hasta que amaneciera. Ninguna resolvía el problema; solo me permitía aplazarlo. Si de verdad había alguien encerrado allí, dejarlo abajo podía significar condenarlo a pasar otra hora sin aire, sin agua o con una herida que yo ni siquiera conocía.
+Al principio pensé que era un barco. La luz avanzaba lentamente y desaparecía a ratos detrás de las olas, pero no alcancé a distinguir luces de navegación ni una silueta. Me quedé observándola hasta que volvió a aparecer, más a la derecha. No sabía si se acercaba o si el movimiento de nuestra embarcación hacía que pareciera desplazarse. Cuando traté de calcular la distancia, una ola levantó el casco y tuve que apoyar una mano en la cabina para no perder el equilibrio.
 
-Busqué una herramienta en la caja que había junto a la cabina. Encontré un destornillador largo y regresé a la tapa. El pestillo no parecía tener ningún mecanismo complicado. Lo levanté con la mano sana y tiré de la escotilla, pero no se movió. Volví a intentarlo, esta vez apoyando una rodilla en la cubierta y tirando con todo el peso del cuerpo. La tapa cedió unos milímetros y algo golpeó desde abajo. El impacto me sacudió la mano y me hizo soltar el pestillo. Retrocedí, convencido durante un instante de que alguien acababa de empujar la escotilla desde el otro lado.
+Algo rozó la madera a mi espalda. Me volví tan rápido que el brazo herido me dio una punzada. La persona que había visto antes estaba agachada junto al extremo de la cabina. Ya no era una mano fugaz ni una sombra entre las cuerdas, sino una mujer con un impermeable oscuro y el pelo pegado a la frente. Tenía una herida en la mejilla, y sujetaba contra el pecho un pequeño bolso impermeable. No parecía sorprendida de encontrarme allí. Parecía estar calculando cuánto tardaría yo en gritar.
 
-Entonces escuché una tos. Era humana. Venía de muy cerca, justo debajo de mí, y terminó convertida en una respiración áspera que parecía exigirle un esfuerzo enorme a quien la producía. El miedo cambió de forma. Ya no estaba pensando en quién podía haber allí, sino en cuánto tiempo llevaba encerrado y qué podía pasarle si yo volvía a alejarme. Le dije que iba a abrir y le pedí que se apartara de la tapa, aunque no sabía si podía escucharme. Esperé unos segundos, pero no hubo respuesta.
+—Apagá cualquier luz que quede encendida —susurró.
 
-Metí el destornillador bajo el borde y lo utilicé como palanca. El dolor me atravesó el brazo hasta el hombro, aunque conseguí levantar la tapa lo suficiente para sujetarla con la mano sana. Tiré de ella y la abrí de golpe. El haz de la linterna descendió por el hueco y alcanzó los escalones que conducían al compartimento inferior.
+—¿Fuiste vos la de la radio?
 
-La tapa quedó levantada sobre sus goznes. No la cerré ni intenté asegurarla; la dejé abierta mientras iluminaba el espacio que se extendía debajo de la cubierta. Las cajas, las bolsas y el tanque de agua seguían en su sitio. No vi a nadie, pero el sonido de la tos había venido de allí. Bajé con cuidado, sosteniéndome de la barandilla y manteniendo la luz delante de mí. A cada escalón, el ruido del viento se apagaba un poco más, sustituido por el crujido del casco y el golpeteo del agua contra la estructura del velero.
+La mujer negó con la cabeza. Miró hacia la luz lejana y después hacia la escotilla cerrada, como si también estuviera comprobando que no hubiera nadie detrás de ella.
 
-Al llegar abajo, la tos había cesado. El aire olía a madera mojada y combustible, con un rastro de sudor más intenso que antes. Giré hacia el espacio donde había encontrado las gotas de agua y distinguí la puerta baja que había intentado abrir durante mi primera revisión. Seguía cerrada, pero el pestillo ya no estaba encajado en su sitio: la pieza de metal colgaba hacia un lado.
+—No la prendas otra vez —dijo—. Y no contestes si te llaman.
 
-Me detuve a observarla. Recordaba haber empujado aquella puerta con el hombro sin conseguir moverla. No podía asegurar que el pestillo hubiera quedado cerrado después de mi intento, pero estaba casi seguro. Me acerqué despacio, calculando el poco espacio que tendría para retroceder si alguien salía de golpe. Dejé la linterna sobre una caja, orientada hacia la abertura, y agarré el borde de la puerta. Le advertí a quien estuviera detrás que iba a abrir y le pedí que me avisara si estaba herido. Después tiré de ella.
+—¿Quiénes?
 
-La puerta cedió con un chirrido y se abrió hacia mí hasta golpearme la rodilla. Detrás no había un armario ni un depósito lleno de herramientas, sino un hueco estrecho que se prolongaba bajo el casco. La linterna iluminó una manta, una botella de agua vacía y una pequeña rejilla por la que entraba un hilo de aire. El espacio apenas tenía altura suficiente para que una persona permaneciera sentada.
+No me respondió. Se acercó a la barandilla, se agachó y miró el agua por encima del borde. El movimiento le costaba; una mano le temblaba y mantenía el otro brazo pegado al cuerpo. Quise preguntarle si estaba herida, pero ella levantó un dedo para pedirme silencio. La luz blanca había desaparecido. En su lugar oí un ruido que al principio confundí con el viento: un motor lejano, grave y constante, que parecía acercarse desde la misma dirección.
 
-En el suelo había sangre. No mucha, pero sí la suficiente para distinguir las manchas oscuras entre las gotas de agua. Me agaché y dirigí la luz hacia el fondo. La manta se movió. Le pedí a quien estuviera allí que se tranquilizara y le aseguré que no iba a hacerle daño, aunque mi propia voz no consiguió transmitir la seguridad que pretendía.
+—¿Te están buscando? —pregunté.
 
-Una mano apareció detrás de la tela. Era la misma que había visto retirarse en cubierta, o eso creí. Los dedos estaban pálidos y tenían las uñas rotas. La mano se apoyó en el suelo, tembló y volvió a desaparecer. Me quité la chaqueta y la extendí delante de la abertura, como si pudiera demostrar con aquel gesto que no iba a acercarme más. El brazo herido me ardía tanto que empezaba a sentir náuseas, pero aun así me arrodillé y aparté la manta con la mano sana.
+La mujer me miró como si la pregunta fuera demasiado simple para responderla. Después señaló la popa. Allí, bajo el golpeteo de las olas, se escuchaba un roce metálico que no había notado antes. Me acerqué con cautela y me arrodillé junto al borde. Algo tiraba de la embarcación desde abajo. Cada vez que una ola levantaba el casco, el roce se tensaba; cuando el barco caía, la presión disminuía y volvía a empezar. No podía ver qué era.
 
-Vi una cara y, durante una fracción de segundo, no entendí lo que estaba mirando. La luz le caía de lado y dejaba la mitad del rostro en sombra. Era un hombre de mi edad, con el pelo pegado a la frente, los labios resecos y una herida sobre la ceja. Parecía agotado y asustado. Cuando la linterna le iluminó los ojos, los abrió de golpe y me miró.
+—¿Qué es eso? —susurré.
 
-Entonces comprendí que no había encontrado a un desconocido. La nariz, la forma de la boca y la pequeña cicatriz junto al mentón me resultaban tan familiares como las partes de mi propio cuerpo que podía reconocer sin necesidad de un espejo. El hombre intentó incorporarse, se golpeó la cabeza contra el techo y soltó un gemido antes de llevarse una mano a la frente. Después volvió a mirarme, y yo retrocedí hasta chocar con las cajas.
+—Una línea enganchada en el timón. Si sigue así, no vamos a poder mantener el rumbo.
 
-Él también se apartó, aunque no lo hizo de forma simultánea, como un reflejo. Reaccionó un instante después, con el mismo movimiento torpe de alguien que intenta alejarse de una amenaza sin espacio suficiente para hacerlo. Levantó la mano derecha para protegerse la cara y yo hice lo mismo sin haberlo decidido. Nos quedamos mirándonos, atrapados en aquel hueco donde apenas había lugar para uno, mientras intentaba encontrar en su rostro alguna diferencia que volviera razonable lo que estaba viendo.
+Me sorprendió que lo dijera con tanta seguridad, pero no había tiempo para discutirlo. Busqué entre las herramientas que estaban junto al banco y encontré un bichero, una pértiga corta con un gancho en el extremo. Me tumbé sobre la cubierta y extendí el brazo sano por encima de la popa. El agua me salpicó la cara. El gancho chocó con algo duro y resbaló. Volví a intentarlo, guiándome por el tirón que sentía a través del casco. La mujer se arrodilló a mi lado y sostuvo mi cinturón mientras yo me inclinaba un poco más.
 
-No era una cara parecida ni alguien a quien pudiera confundir conmigo en la oscuridad. Era mi cara, con las mismas proporciones y las mismas imperfecciones. Solo cambiaban los detalles: la sangre sobre la ceja, la piel cenicienta, la barba de varios días y una expresión que nunca había visto en mi propio rostro. Parecía el aspecto que yo habría tenido después de pasar demasiado tiempo encerrado en un lugar sin luz.
+—No llegás desde ahí —dijo—. Tenemos que aflojar la vela para que el barco gire.
 
-Quise hablar, pero no conseguí hacerlo. El hombre tragó saliva y bajó los ojos hacia mi brazo vendado. Después miró el suyo. Llevaba una venda en el antebrazo izquierdo, empapada de sangre. Un «no» apenas audible se le escapó de los labios, tan débil que al principio pensé que lo había pronunciado yo.
+—El motor no arranca.
 
-Necesité un segundo para recuperar la voz. Le pregunté quién era, pero él negó con la cabeza. No parecía estar intentando ocultarme una respuesta; más bien daba la impresión de que no podía aceptar la pregunta. Señalé la venda que le cubría el antebrazo y quise saber qué le había pasado. Él levantó la mirada, abrió la boca y volvió a cerrarla, como si buscara una manera de hablar que no lo obligara a decir lo que estaba pensando.
+—No necesitamos el motor.
 
-Finalmente, me preguntó si ya había arrancado. No entendí a qué se refería y se lo hice saber. Él miró hacia la puerta abierta del compartimento y luego volvió a mirarme. Tenía la respiración entrecortada y los dedos apretados contra el suelo. «No tendrías que estar acá», dijo.
+No hablaba como alguien que estuviera improvisando. Sabía qué cuerda soltar, dónde apoyar los pies y cuánto podía inclinarse la embarcación antes de que el movimiento se volviera peligroso. Seguí sus indicaciones, aunque cada vez que tenía que tirar con el brazo izquierdo el dolor me obligaba a detenerme. Cuando la vela se desplegó parcialmente, el viento la llenó de golpe y el barco viró lo suficiente para que pudiéramos ver el extremo de una cuerda gruesa que subía y bajaba junto a la popa.
 
-Me acerqué un paso, sin saber si quería ayudarlo o sujetarlo antes de que pudiera escapar. Él se encogió contra la pared y levantó ambas manos. El movimiento me resultó tan familiar que sentí una punzada detrás de los ojos, como si hubiera recordado algo sin llegar a verlo.
+El gancho consiguió engancharla. Tiré hasta que me ardieron los dedos y la mujer ayudó desde el otro lado, sujetando la cuerda para que no volviera a hundirse. Por fin apareció una sección mojada, cubierta de algas y pequeños fragmentos de plástico. No era una cuerda de nuestro barco. Era más gruesa, áspera, y tenía un alambre entrelazado en las fibras. Se había enrollado alrededor de una pieza bajo el casco y, con cada balanceo, volvía a tensarse.
 
-Le expliqué que estaba tan perdido como él: me había despertado en aquel barco, no sabía dónde estábamos y no conseguía arrancar el motor. También le hablé de la radio, que apenas funcionaba, y le dije que necesitaba que me contara lo que supiera. Me observó con una mezcla de terror y cansancio. Tenía los ojos enrojecidos y respiraba por la boca; cuando intentó hablar, le tembló la mandíbula.
+—Hay que cortarla —dijo ella.
 
-En lugar de responderme, me preguntó qué hora era. Miré mi reloj. La pantalla seguía encendida, pero los números no tenían sentido. Hasta ese momento no había reparado en ello. Los segmentos digitales mostraban una hora incompleta, con algunos trazos apagados y otros encendidos donde no correspondía. Golpeé el cristal con el dedo, aunque la pantalla no cambió, y le dije que no lo sabía, que mi reloj estaba roto.
+Fui por el cuchillo que había visto en la cabina. La mujer me detuvo antes de que bajara.
 
-Él cerró los ojos y soltó el aire lentamente, como si acabara de confirmar algo que llevaba tiempo temiendo. «Entonces todavía hay tiempo», murmuró. Le pregunté para qué, pero no respondió. Se llevó las manos a la cara y permaneció así durante unos segundos. Cuando volvió a mirarme, ya no parecía asustado de mí, sino por mí.
+—Si encendés la luz, nos van a localizar.
 
-Me dijo que tenía que subir, cerrar la escotilla y no volver a bajar. Miré hacia la puerta del hueco y, más allá, hacia los escalones que conducían a la cubierta. La escotilla principal seguía abierta. Bastaba con subir por la misma escalera por la que había bajado, pero no entendía por qué debía dejarlo allí. Cuando le pregunté el motivo, respondió que era porque ya lo había encontrado.
+—No voy a hacerlo.
 
-La frase no tenía sentido. Estábamos frente a frente en un compartimento diminuto, con el mismo rostro y una herida en el mismo brazo. No podía dejarlo allí, encerrado detrás de aquella puerta. Tampoco podía fingir que lo que veía era consecuencia del golpe en la cabeza. Había una persona herida delante de mí, y esa persona era yo.
+Le mostré el cuchillo y me tumbé de nuevo junto a la borda. La cuerda estaba demasiado tensa para cortarla de una sola vez. Tuve que apoyarla contra el borde y trabajar con movimientos cortos, deteniéndome cada vez que el casco se levantaba. El metal del alambre raspaba la hoja y el esfuerzo me hacía perder sensibilidad en la mano. La mujer se inclinó sobre mí para sujetar el cabo, y durante un instante sentí que ambos estábamos a punto de caer al agua. Ninguno soltó la cuerda.
 
-Le dije que no iba a dejarlo encerrado y me incliné para ayudarlo a levantarse. Él reaccionó con una rapidez que no esperaba: me agarró la muñeca sana y apretó con tanta fuerza que casi perdí el equilibrio. Su mirada se clavó en la mía. Me advirtió que no estaba entendiendo y añadió, con una desesperación que no le había oído hasta entonces, que él no era a quien tenía que sacar de allí.
+Cuando por fin cedió, el extremo golpeó el costado y desapareció bajo la superficie. El barco se liberó con un tirón brusco. La mujer me agarró del hombro para evitar que me golpeara contra la borda y me ayudó a volver a cubierta. Nos quedamos tendidos junto al banco, respirando con dificultad, mientras la vela recogía el viento y la embarcación empezaba a avanzar, todavía sin un rumbo claro.
 
-Antes de que pudiera preguntarle qué significaba aquello, la radio empezó a sonar en la cabina. El siseo llegó desde arriba, atravesando el espacio bajo cubierta, seguido por una voz que parecía pasar por varias capas de estática. No pude distinguir las primeras palabras, pero después oí mi nombre. No el de un desconocido ni el de alguien que estuviera llamando a otra persona: era mi nombre, pronunciado con claridad por alguien que hablaba desde la radio.
+El motor que habíamos oído se volvió más intenso. La luz blanca reapareció a lo lejos y esta vez no tuve dudas: venía de otra embarcación. Una segunda luz, más pequeña, se encendió junto a ella. La mujer se incorporó de golpe y me agarró la manga.
 
-El hombre soltó mi muñeca. Los dos miramos hacia la puerta y, por encima de ella, hacia la escalera. La voz volvió a escucharse, esta vez más fuerte, anunciando que ya estaba en cubierta.
+—Tenemos que apagar la luz de posición.
 
-Sentí que el estómago se me cerraba. Cuando había bajado, la cubierta parecía vacía. Había revisado el timón, la popa, los cabos y el espacio detrás de la cabina. Solo había visto una mano retirarse, sin llegar a distinguir una cara. Sin embargo, alguien estaba hablando como si pudiera observar cada uno de mis movimientos.
+—No quiero chocar con ellos.
 
-El hombre empezó a arrastrarse hacia el fondo del compartimento. Intenté sujetarlo, pero me apartó con el hombro y señaló la pequeña rejilla de ventilación. Susurró que debía salir por ahí. Miré la abertura: era demasiado pequeña para que una persona pudiera pasar. Se lo dije, pero él me respondió que yo no.
+—No vienen a rescatarnos.
 
-La radio emitió un chasquido y, de inmediato, mi propia voz llenó el espacio. «No abras la escotilla», dijo. Me quedé inmóvil. No era una imitación aproximada ni alguien que se pareciera a mí al hablar. Era mi voz, con el mismo tono que había utilizado al intentar comunicarme por radio, la misma aspereza que me habían dejado el dolor de cabeza y la garganta seca.
+No podía saber si mentía. La mujer estaba herida, escondida en un barco que no parecía conocer, y se negaba a explicar qué había ocurrido. Pero tampoco me había pedido dinero ni intentado quitarme nada. Me había ayudado a liberar el timón y no había aprovechado que estaba tendido junto a la borda para dejarme caer. No era mucho en lo que basar la confianza, aunque era más de lo que tenía unos minutos antes.
 
-La frase se repitió acompañada por un ruido de fondo que reconocí antes de entender por qué: el golpe de una ola contra el casco, el crujido de la madera y el sonido de mis botas al subir los escalones. La radio estaba reproduciendo algo que yo acababa de hacer. El siseo continuó durante unos segundos antes de que mi voz volviera a hablar, esta vez con palabras que no pertenecían a ningún recuerdo que pudiera reconocer: si lo había encontrado, no debía mirarlo a los ojos.
+Me levanté y fui hasta el pequeño panel junto al timón. Apagué la luz de posición y el velero quedó a oscuras. La mujer se agachó detrás de la cabina y me indicó que hiciera lo mismo. Desde allí veíamos una parte del horizonte entre los cabos. El motor seguía acercándose, pero la luz blanca se movía de un lado al otro, barriendo la superficie del mar en tramos lentos. No parecía la iluminación accidental de una embarcación que navegara sin rumbo. Alguien estaba buscando algo.
 
-El hombre que tenía mi cara empezó a llorar en silencio. No intenté acercarme, no porque creyera en la advertencia, sino porque por primera vez desde que había despertado en el velero no sabía cuál de los dos estaba en peligro. Me quedé de rodillas junto a la puerta, escuchando la estática y tratando de distinguir si había alguien más en la cabina.
+—¿Qué quieren? —pregunté en voz baja.
 
-Entonces crujió la madera sobre nosotros. Oí un paso lento en cubierta y, después, otro. Los sonidos avanzaron desde la escotilla hacia la cabina y se detuvieron justo encima de la escalera. La luz que llegaba desde arriba se oscureció durante un instante, como si alguien se hubiera situado frente a la abertura. El hombre se apretó contra el fondo del compartimento y negó repetidamente con la cabeza. Yo no podía apartar la vista de la puerta por la que había entrado.
+—No lo sé.
 
-Desde arriba llegó mi propia voz, esta vez sin la distorsión de la radio. Me dijo que sabía que estaba allí.
+—¿Y por qué no querés que te encuentren?
 
-La figura comenzó a bajar por la escalera que comunicaba la cubierta con el compartimento inferior. Como la escotilla seguía abierta, no tuvo que forzarla ni hacer ningún ruido para entrar. Yo me quedé junto a la puerta baja, sin espacio para retirarme sin darle la espalda al hombre escondido. No veía el rostro de quien descendía; solo una bota mojada sobre el primer escalón, el borde de un pantalón oscuro y una mano apoyándose en la barandilla.
+La mujer apretó el bolso contra el pecho. Por primera vez dejó de mirar las luces y me sostuvo la mirada. Tenía los ojos enrojecidos, no solo por el agua salada. Parecía haber pasado mucho tiempo sin dormir.
 
-La manga se le había subido lo suficiente para dejar a la vista una venda alrededor del antebrazo izquierdo. Era la misma que llevaba yo.
+—Porque cuando suban a este barco no van a preguntar quién soy —dijo—. Van a decidirlo por mí.
 
-El hombre escondido detrás de la manta me miró una última vez. Movió los labios sin emitir sonido y, aunque no llegó a pronunciar palabra, entendí lo que intentaba decirme: no dejes que te vea. La figura bajó otro escalón. No podía verle la cara, pero la voz y aquella venda bastaban para que una idea empezara a tomar forma, una idea que no quería terminar de pensar.
+No entendí la frase. Antes de que pudiera pedirle que la explicara, el ruido del motor cambió de dirección. La embarcación había virado. La luz cruzó el mar a nuestra izquierda, se detuvo un momento y volvió hacia nosotros. Me agaché instintivamente. La mujer me agarró por la nuca y me obligó a mantener la cabeza baja, sin violencia, pero con una urgencia que me hizo obedecer.
 
-La persona que acababa de encontrar en el compartimento no era la única que tenía mi cara.
+El haz pasó por encima de la cubierta y siguió de largo. Durante unos segundos solo vimos la claridad desplazarse sobre las olas. Después desapareció detrás de una cresta y el motor se alejó lo suficiente para que volviéramos a respirar con normalidad. No sabía si nos habían visto y decidido seguir de largo, o si jamás habían distinguido nuestra silueta. La mujer tampoco parecía saberlo. Se quedó escuchando hasta que el ruido se confundió con el viento.
+
+—Podemos llamar a emergencias —le dije—. Si estás herida, alguien tiene que atenderte.
+
+—No por esa radio.
+
+—Entonces usaremos otra.
+
+—No hay otra.
+
+Me aparté para mirarla. El bolso que sostenía tenía una hebilla de metal deformada y una mancha oscura en uno de los lados. Ella siguió mi mirada y lo puso entre los pies, como si temiera que fuera a quitárselo. No le pregunté qué contenía. Había aprendido que, en un barco a oscuras, una pregunta podía ser menos útil que observar qué hacía la persona que tenía delante.
+
+—¿Cómo te llamás? —pregunté.
+
+Tardó en responder.
+
+—Inés.
+
+Le dije mi nombre, aunque mi voz sonó extraña después de tanto hablar en susurros. Ella asintió, pero no intentó estrecharme la mano ni decirme el suyo como si acabáramos de conocernos en circunstancias normales. Seguía pendiente de la embarcación que se alejaba.
+
+—¿Estabas en el agua cuando llegué? —pregunté.
+
+—Cuando llegaste, vos ya estabas acá.
+
+La respuesta no aclaraba nada. Le pregunté cómo había subido al velero y me dijo que había trepado por la popa aprovechando que el casco estaba bajo, aunque no me explicó de dónde venía. Después señaló mi brazo vendado.
+
+—Eso necesitás revisarlo. Se te está pasando la sangre por debajo.
+
+Miré la venda. Tenía razón: una mancha oscura se extendía por el borde y llegaba hasta la muñeca. El dolor se había vuelto una pulsación constante, pero hasta ese momento había estado demasiado ocupado para prestarle atención. Inés me indicó que entrara a la cabina y buscara más gasas. Antes de moverme, me pidió que dejara la puerta abierta para poder vigilar el mar.
+
+Obedecí. Encontré el botiquín donde lo había dejado y me senté en el suelo, con la espalda apoyada contra la pared, para cambiar la venda sin forzar el brazo. Inés permaneció en la entrada, agachada de modo que su silueta no se recortara contra la luz interior. Cuando terminé, me alcanzó la botella de agua y esperó a que bebiera.
+
+—¿Qué fue lo que dijo la radio? —preguntó al cabo de un rato.
+
+La miré. No recordaba haberle mencionado la advertencia, pero había podido oírla desde cubierta.
+
+—Que no dejara que me viera.
+
+Inés bajó la mirada hacia el bolso. No pareció sorprendida; tampoco confirmó que supiera de qué se trataba. Pasó el pulgar por la hebilla deformada, siguiendo el borde del metal.
+
+—¿Sabés quién lo dijo? —pregunté.
+
+—No.
+
+—¿Lo escuchaste antes?
+
+—No de esa manera.
+
+Esperé una explicación, pero ella se levantó y volvió a mirar hacia el mar. No intenté detenerla. Al menos ahora sabía que la advertencia no había sido una conversación entre nosotros, ni una orden que ella me hubiera dado directamente. Seguía sin saber quién había hablado, qué significaba aquella frase o qué relación tenía con la embarcación que nos había buscado.
+
+El viento aflojó por un momento y la vela perdió tensión. El velero comenzó a girar lentamente, empujado por una corriente que no podía distinguir. Inés volvió a mi lado y me ayudó a incorporarme. Teníamos que mantener el rumbo antes de que el barco quedara atravesado a las olas, y ninguno de los dos podía hacerlo sin la ayuda del otro. No confiaba en ella, pero tampoco podía manejar la vela con un brazo herido mientras ella se mantenía escondida detrás de la cabina.
+
+Trabajamos sin hablar demasiado. Ella se ocupó de las cuerdas y yo mantuve el timón en la posición que me indicó. Poco a poco el barco recuperó estabilidad. La noche continuaba cerrada y no había señal de tierra, pero al menos ya no estábamos girando sin control. Cuando el último cabo quedó sujeto, Inés se sentó junto a la entrada y apoyó la cabeza contra la madera.
+
+—Si vuelven —dijo—, no me nombres.
+
+—No sé quiénes son.
+
+—Mejor.
+
+No supe si pretendía tranquilizarme o advertirme. Miré hacia la popa, donde el extremo de la cuerda cortada se había perdido bajo el agua, y luego hacia la cabina, donde la radio permanecía apagada. La luz lejana no había vuelto a aparecer. Durante un rato solo se oyeron las velas, la madera y el agua.
+
+Me habría gustado pensar que habíamos dejado atrás el peligro. Pero la embarcación que nos había buscado no había intentado comunicarse ni ofrecido ayuda, y la frase que había salido de la radio seguía sin tener un destinatario claro. Inés se negaba a contarme por qué huía, y yo no podía ofrecerle una explicación de cómo había terminado herido en un barco cuyo rumbo desconocía.
+
+Cuando me acerqué al timón, encontré algo que no había visto antes: una pequeña luz verde, apenas visible, encendida en la base del panel. No era parte de las luces de navegación. Parpadeaba con un ritmo irregular. Me incliné para ver si había quedado algún interruptor activado, pero no encontré ninguno. La luz se apagó cuando la toqué y volvió a encenderse unos segundos después.
+
+Inés se levantó al verla. Por primera vez desde que había aparecido, su expresión cambió de verdad. No fue miedo a la embarcación que nos perseguía ni preocupación por la herida. Fue reconocimiento.
+
+—¿Qué es? —le pregunté.
+
+Ella retrocedió hasta la puerta de la cabina.
+
+—No la toques otra vez.
+
+—¿Por qué?
+
+Inés miró hacia la escotilla cerrada, después al panel y finalmente a mí, como si estuviera tratando de decidir cuál de las tres cosas era más peligrosa.
+
+—Porque no estaba encendida cuando subí.
+
+La luz verde volvió a parpadear. Esta vez, desde algún lugar bajo la cubierta, llegó un golpe seco que no se parecía al movimiento del casco ni al sonido de una cuerda. Inés cerró los ojos un instante, apretando el bolso contra el pecho. Yo mantuve la mano apartada del panel y escuché, esperando que el golpe se repitiera.
+
+No volvió a hacerlo.
+
+Pero la pequeña luz continuó encendida.
