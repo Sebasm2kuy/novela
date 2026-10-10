@@ -51,21 +51,21 @@ El próximo capítulo a desarrollar es el Capítulo 9, pero su ventana y objetiv
 No usar archivos antiguos para alterar esta dirección canónica.
 
 
-## Nueva etapa de manuscrito — V2
+## Ubicación vigente del manuscrito en reescritura
 
-A partir del 5 de octubre de 2026, la nueva etapa de reescritura y expansión del manuscrito se guarda en:
+La etapa de trabajo actual usa deliberadamente dos carpetas distintas:
 
-`CAPITULOS V2/`
+- **Prólogo vigente:** `CAPITULOS V3/00_PROLOGO.md`
+- **Capítulo 1:** `CAPITULOS V2/01_CAPITULO_1.md`
+- **Capítulo 2:** `CAPITULOS V2/02_CAPITULO_2.md`
+- **Capítulo 3:** `CAPITULOS V2/03_CAPITULO_3.md`
+- **Capítulo 4:** `CAPITULOS V2/04_CAPITULO_4.md`
 
-El prólogo revisado está guardado como:
+No existe contradicción en que el prólogo esté en V3 y los capítulos estén en V2: son versiones de trabajo independientes. No moverlos para uniformar los números.
 
-`CAPITULOS V2/00_PROLOGO.md`
+Los capítulos 1–4 son textos en desarrollo; el capítulo 4 es un primer borrador. La carpeta `CAPITULOS/` y el manuscrito consolidado anterior se preservan como material histórico y no deben sobrescribirse por accidente.
 
-La versión V2 vigente del prólogo fue reimaginada el 7 de octubre de 2026: transcurre en una sola realidad, sigue una vida cotidiana y ordinaria, elimina el eje MH370/desaparición pública y no menciona explícitamente la Habitación ni otras ventanas/realidades.
-
-La carpeta `CAPITULOS/` queda preservada como V1/histórico y no debe sobrescribirse con el trabajo de V2. Esta separación existe para permitir comparación, recuperación y auditoría sin perder versiones anteriores.
-
-V2 sigue subordinada al canon de `CANON/`; crear una nueva versión del manuscrito no equivale por sí mismo a crear nuevo canon.
+La nueva versión de un texto no cambia automáticamente su asignación a una ventana ni confirma teorías narrativas. La relación entre los borradores actuales y el mapa canónico anterior debe revisarse cuando el autor lo decida, sin forzar equivalencias.
 
 ## Mecánica canónica vigente — sueño y 24 horas
 
