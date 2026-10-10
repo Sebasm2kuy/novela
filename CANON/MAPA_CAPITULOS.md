@@ -1,6 +1,6 @@
 # MAPA CANÓNICO — CAPÍTULO / VENTANA
 
-> **Nota de estado editorial (2026-10-10):** el mapa que sigue conserva asignaciones del manuscrito/canon de una etapa anterior. La reescritura actual está distribuida entre `CAPITULOS V3/00_PROLOGO.md` (prólogo) y `CAPITULOS V2/01_CAPITULO_1.md` a `04_CAPITULO_4.md` (capítulos 1–4). No imponer automáticamente las asignaciones de este mapa a esos borradores: sus correspondencias deben confirmarse con el autor. Esta nota no borra ni reescribe el mapa histórico.
+> **Nota de estado editorial (2026-10-10):** el mapa que sigue conserva asignaciones del manuscrito/canon de una etapa anterior. La reescritura actual está distribuida entre `CAPITULOS V3/00_PROLOGO.md` (prólogo) y `CAPITULOS V3/01_CAPITULO_1.md` a `04_CAPITULO_4.md` (capítulos 1–4). No imponer automáticamente las asignaciones de este mapa a esos borradores: sus correspondencias deben confirmarse con el autor. Esta nota no borra ni reescribe el mapa histórico.
 
 ## Prólogo
 **Ventana 3 — 2014 / La vida que parecía normal**
