@@ -28,7 +28,9 @@ En este proyecto:
 
 - **GitHub = fuente externa persistente y registro de versiones.**
 - **CANON/ = información confirmada.**
-- **CAPITULOS/ = manuscrito vigente incorporado al repositorio.**
+- **CAPITULOS/ = manuscrito histórico/consolidado de etapas anteriores, salvo indicación expresa.**
+- **CAPITULOS V2/ = capítulos de la etapa de reescritura actual (por ahora, capítulos 1–4).**
+- **CAPITULOS V3/ = prólogo vigente de la etapa actual.**
 - **IDEAS/ = propuestas todavía no canonizadas.**
 - **ARCHIVO/ = versiones antiguas, descartadas o históricas.**
 
@@ -81,16 +83,14 @@ Una vez leído el historial reciente, continuar con la localización de:
 5. `CANON/ESTADO_ACTUAL.md`
 6. El capítulo o capítulos relevantes de `CAPITULOS/`
 7. El archivo de la ventana relevante, si existe.
-8. Los archivos narrativos independientes vigentes en `CAPITULOS/`:
-   - `00_PROLOGO.md`
-   - `01_CAPITULO_1.md`
-   - `02_CAPITULO_2.md`
-   - `03_CAPITULO_3.md`
-   - `04_CAPITULO_4.md`
-   - `05_CAPITULO_5.md`
-   - `06_CAPITULO_6.md`
-   Estos archivos constituyen la versión de trabajo vigente del prólogo y los capítulos 1–6.
-9. `CAPITULOS/W A T H N E V E R L E F T prologo + caps 1-6` conserva una copia consolidada de respaldo/histórica. Cuando exista el capítulo independiente correspondiente, usar ese archivo como fuente principal de edición.
+8. Para la etapa de reescritura actual, las rutas correctas son:
+   - Prólogo vigente: `CAPITULOS V3/00_PROLOGO.md`
+   - Capítulo 1: `CAPITULOS V2/01_CAPITULO_1.md`
+   - Capítulo 2: `CAPITULOS V2/02_CAPITULO_2.md`
+   - Capítulo 3: `CAPITULOS V2/03_CAPITULO_3.md`
+   - Capítulo 4: `CAPITULOS V2/04_CAPITULO_4.md`
+   Los capítulos 1–4 de V2 son borradores de trabajo y pueden cambiar; el Capítulo 4 es un primer borrador. No asumir que la numeración V2/V3 representa canon de las ventanas ni que estos textos ya están asignados al mapa anterior.
+9. `CAPITULOS/` y el archivo consolidado `CAPITULOS/W A T H N E V E R L E F T prologo + caps 1-6` conservan material histórico/de etapas previas. No usarlos como fuente principal para editar los textos actuales si existe la ruta V2/V3 indicada arriba.
 10. Solo consultar `IDEAS/` o `ARCHIVO/` cuando sea necesario y tratándolos como NO CANON por defecto.
 
 ### Paso 2 — Establecer el canon operativo
@@ -142,6 +142,18 @@ Una lectura posible de un hecho. Puede discutirse, pero no es canon.
 Una idea nueva de la IA o del autor todavía no aprobada como canon.
 
 ---
+
+## Dirección de trabajo actual — lecturas de prueba y misterio
+
+El autor está revisando el prólogo V3 y los capítulos 1–4 de V2 con lectores de prueba que no conocen el canon, entre ellos Qwen. Sus reacciones sirven para evaluar el efecto de lectura, no para fijar explicaciones.
+
+- Priorizar el efecto emocional y la claridad de la escena por encima de confirmar teorías de lectores.
+- No convertir cada anomalía, frase, objeto, número o coincidencia en una señal relacionada con las demás.
+- No forzar una gran explicación unificadora ni ampliar el misterio solo para responder a todas las preguntas que surjan.
+- Mantener la novela como ciencia ficción: los fenómenos pueden seguir sin explicación, siempre que la escena y sus consecuencias sean coherentes.
+- No vincular capítulos o narradores distintos salvo que el autor lo decida.
+- En el capítulo del velero, conservar primero el conflicto concreto de un hombre herido, a la deriva y con la posibilidad de no estar solo. La escotilla, la radio y la presencia oculta no tienen que explicar la novela entera.
+- Registrar por separado: reacción emocional del lector, interpretación del lector, hecho del manuscrito y decisión expresa del autor.
 
 # 3. REGLAS NARRATIVAS FUNDAMENTALES
 
