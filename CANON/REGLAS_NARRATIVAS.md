@@ -81,10 +81,16 @@ No adelantar información que el protagonista todavía no puede saber.
 - Los diálogos deben sonar naturales y contener subtexto.
 - La tecnología debe aparecer integrada en la escena, no como manual técnico.
 
-## Misterio
-Las pistas deben ser verdaderas, pero incompletas.
+## Misterio y límites de interpretación
+Las pistas deben ser verdaderas, pero incompletas. No todas las anomalías, imágenes, objetos, frases o patrones que un lector detecte tienen que estar conectados entre sí.
 
-La novela debe permitir que el lector descubra significados antes o después que el protagonista sin recibir explicaciones omniscientes.
+La novela puede permitir que el lector descubra significados antes o después que el protagonista, pero no debe convertir cada coincidencia en una pieza de un único rompecabezas ni explicar fenómenos solo porque generan preguntas.
+
+**No añadir conexiones solo porque el lector podría establecerlas. Añadirlas únicamente cuando la historia las necesite y el autor las decida.**
+
+Una lectura de prueba sirve para observar qué siente, sospecha o interpreta un lector sin contexto; sus teorías no se convierten por eso en canon ni crean obligaciones para capítulos futuros. Se pueden conservar reacciones emocionales útiles y descartar interpretaciones que desvíen la historia.
+
+La ciencia ficción puede sostener fenómenos desconocidos sin explicarlos de inmediato. La coherencia interna importa, pero no exige una explicación exhaustiva de cada detalle.
 
 El autor puede saber más que el lector, pero la narración no debe convertirse en una explicación externa.
 
