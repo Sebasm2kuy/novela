@@ -151,3 +151,15 @@ No escribir el capítulo 6 para contestar todas las preguntas de Qwen ni para co
 
 La idea de Qwen de que Inés quizá estuvo en el agua no está confirmada por el texto. En la versión activa, el diálogo sobre el momento en que llegó al barco necesita revisarse por claridad, ya que ella afirma que ya estaba a bordo cuando el protagonista salió de la cabina.
 
+
+
+---
+
+## Decisión del autor — descartar la trama de Inés
+
+**Fecha:** 2026-10-10  
+**Estado:** DECISIÓN EDITORIAL DEL AUTOR
+
+El autor indicó que no terminó de leer el borrador porque le aburrió y pidió olvidar a la mujer. Por tanto, la versión centrada en Inés, el bolso y la persecución marítima queda descartada, no como canon ni como borrador activo. No intentar rescatarla con retoques menores.
+
+La siguiente reescritura del capítulo 5 debe partir de cero. Mantener solo la continuidad mínima del capítulo 4 y no inventar otra acumulación de pistas ni forzar conexiones con el prólogo o capítulos previos. Antes de escribir, hay que encontrar un motor dramático que interese al autor, no solo que genere preguntas en lectores externos.
