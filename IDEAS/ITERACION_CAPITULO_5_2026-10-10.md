@@ -103,3 +103,51 @@ Cuando el autor lea el capítulo, evaluar si conviene mantener o simplificar:
 - la luz verde y el golpe bajo cubierta.
 
 No crear una conexión con el prólogo ni con las puertas de los capítulos 1–2 salvo decisión expresa del autor. No escribir el capítulo 6 únicamente para responder a las preguntas de Gemini; primero debe decidirse qué preguntas son realmente parte de la historia.
+
+
+---
+
+## Tercera lectura externa — reacción de Qwen a la reescritura
+
+**Fecha:** 2026-10-10  
+**Estado:** INTERPRETACIÓN DE LECTOR / NO CANON
+
+### Reacción emocional reportada
+
+Qwen valoró el alivio inicial al descubrir que la figura escondida era una persona, seguido por el cambio hacia un thriller de supervivencia marítima. Destacó la fisicidad de la cuerda enganchada, el trabajo nocturno con un solo brazo y la colaboración cautelosa entre el protagonista e Inés.
+
+También consideró eficaz la caracterización de Inés a través de lo que calla, su competencia náutica y las reglas que impone. Señaló el bolso y la frase «Van a decidirlo por mí» como elementos que generan sospechas sobre su identidad y sus motivos.
+
+### Teorías que Qwen propuso — NO CONFIRMADAS
+
+- La frase de Inés sobre que otros decidirán quién es podría recordar a los soldados del prólogo, que examinaban a las personas mediante una luz y elegían qué hacer con ellas.
+- El bolso podría contener algo importante para la huida; su contenido permanece desconocido.
+- La luz verde podría ser un rastreador, un transmisor, una baliza o parte de un mecanismo del barco.
+- El golpe bajo cubierta podría indicar una tercera presencia además de Inés y el protagonista.
+- El velero, la luz verde y el golpe podrían estar conectados con la superficie/puerta, las vibraciones de capítulos 1–2 o el prólogo.
+- Qwen interpretó que los capítulos podrían ser perspectivas de un mismo evento catastrófico, o de una misma persona en momentos distintos.
+
+**Todas estas teorías son hipótesis del lector y no establecen canon.** No se ha decidido que Inés tenga relación con la mujer del prólogo, que los perseguidores pertenezcan a la misma fuerza que los soldados, ni que los fenómenos del velero estén conectados con la puerta de los capítulos 1–2.
+
+### Observación editorial comparada con Gemini
+
+Gemini y Qwen coinciden en que el nuevo borrador tiene ritmo, peligro físico y una dinámica efectiva entre dos personas que cooperan sin confiar plenamente. Ambos lectores se sienten atraídos por Inés, el bolso y el final de la luz verde/golpe.
+
+Ambos también tienden a vincular los indicios del capítulo 5 con motivos anteriores:
+- Gemini lo hizo explícitamente con el arma, los soldados y el prólogo, y con la puerta/superficie de capítulos 1–2.
+- Qwen destacó especialmente la idea de una fuerza que clasifica o decide la identidad de una persona y planteó que distintos capítulos podrían ser facetas de un mismo acontecimiento.
+
+Esto no prueba que los indicios estén objetivamente conectados, pero demuestra que el texto invita con fuerza a esa lectura. La frase «Van a decidirlo por mí», la persecución, la luz verde y el golpe bajo cubierta son suficientemente enfáticos como para sugerir un sistema común.
+
+### Conclusión editorial provisional
+
+El capítulo se aleja de la combinación de dobles, reloj imposible y radio que reproduce acciones que recordaba a un bucle de *Triangle*, pero el nuevo conjunto puede estar creando otra expectativa: una organización que clasifica personas, una tecnología de rastreo y una anomalía bajo el barco, todo conectado con el prólogo y los capítulos anteriores.
+
+Si esa conexión no está decidida por el autor, no conviene reforzarla simplemente porque los lectores la propongan. Debe revisarse si cada elemento del capítulo tiene una función inmediata propia o si la acumulación hace parecer que todos forman parte del mismo mecanismo.
+
+No escribir el capítulo 6 para contestar todas las preguntas de Qwen ni para confirmar la interpretación unificadora. La siguiente decisión corresponde al autor tras leer el borrador.
+
+### Nota de continuidad / precisión
+
+La idea de Qwen de que Inés quizá estuvo en el agua no está confirmada por el texto. En la versión activa, el diálogo sobre el momento en que llegó al barco necesita revisarse por claridad, ya que ella afirma que ya estaba a bordo cuando el protagonista salió de la cabina.
+
