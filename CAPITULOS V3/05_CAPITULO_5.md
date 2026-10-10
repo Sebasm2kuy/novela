@@ -10,7 +10,7 @@ Al principio pensé que era un barco. La luz avanzaba lentamente y desaparecía 
 
 Algo rozó la madera a mi espalda. Me volví tan rápido que el brazo herido me dio una punzada. La persona que había visto antes estaba agachada junto al extremo de la cabina. Ya no era una mano fugaz ni una sombra entre las cuerdas, sino una mujer con un impermeable oscuro y el pelo pegado a la frente. Tenía una herida en la mejilla, y sujetaba contra el pecho un pequeño bolso impermeable. No parecía sorprendida de encontrarme allí. Parecía estar calculando cuánto tardaría yo en gritar.
 
-—Apagá cualquier luz que quede encendida —susurró. —¿Fuiste vos la de la radio? La mujer negó con la cabeza y miró hacia la luz lejana, luego hacia la escotilla cerrada, como si también estuviera comprobando que no hubiera nadie detrás de ella.
+—Apagá cualquier luz que quede encendida —susurró. Le pregunté si había sido ella quien habló por radio, pero la mujer negó con la cabeza y miró hacia la luz lejana, luego hacia la escotilla cerrada, como si también estuviera comprobando que no hubiera nadie detrás de ella.
 
 —No la prendas otra vez —dijo—. Y no contestes si te llaman.
 
@@ -18,7 +18,7 @@ Algo rozó la madera a mi espalda. Me volví tan rápido que el brazo herido me 
 
 —¿Te están buscando? —pregunté. La mujer me miró como si la pregunta fuera demasiado simple para responderla. Después señaló la popa. Allí, bajo el golpeteo de las olas, se escuchaba un roce metálico que no había notado antes. Me acerqué con cautela y me arrodillé junto al borde. Algo tiraba de la embarcación desde abajo. Cada vez que una ola levantaba el casco, el roce se tensaba; cuando el barco caía, la presión disminuía y volvía a empezar. No podía ver qué era.
 
-—¿Qué es eso? —susurré. —Una línea enganchada en el timón. Si sigue así, no vamos a poder mantener el rumbo.
+Le pregunté qué era y me señaló la popa: una línea se había enganchado en el timón y, si seguía así, no íbamos a poder mantener el rumbo.
 
 Me sorprendió que lo dijera con tanta seguridad, pero no había tiempo para discutirlo. Busqué entre las herramientas que estaban junto al banco y encontré un bichero, una pértiga corta con un gancho en el extremo. Me tumbé sobre la cubierta y extendí el brazo sano por encima de la popa. El agua me salpicó la cara. El gancho chocó con algo duro y resbaló. Volví a intentarlo, guiándome por el tirón que sentía a través del casco. La mujer se arrodilló a mi lado y sostuvo mi cinturón mientras yo me inclinaba un poco más.
 
@@ -38,7 +38,7 @@ El motor que habíamos oído se volvió más intenso. La luz blanca reapareció 
 
 Me levanté y fui hasta el pequeño panel junto al timón. Apagué la luz de posición y el velero quedó a oscuras. La mujer se agachó detrás de la cabina y me indicó que hiciera lo mismo. Desde allí veíamos una parte del horizonte entre los cabos. El motor seguía acercándose, pero la luz blanca se movía de un lado al otro, barriendo la superficie del mar en tramos lentos. No parecía la iluminación accidental de una embarcación que navegara sin rumbo. Alguien estaba buscando algo.
 
-—¿Qué quieren? —pregunté en voz baja. —No lo sé. Quise saber por qué no quería que la encontraran. La mujer apretó el bolso contra el pecho y, por primera vez, dejó de mirar las luces para sostenerme la mirada. Tenía los ojos enrojecidos, no solo por el agua salada. Parecía haber pasado mucho tiempo sin dormir.
+—¿Qué quieren? —pregunté en voz baja. La mujer no apartó la vista de las luces. —No lo sé —respondió. Le pregunté por qué no quería que la encontraran; apretó el bolso contra el pecho y, por primera vez, dejó de mirar las luces para sostenerme la mirada. Tenía los ojos enrojecidos, no solo por el agua salada. Parecía haber pasado mucho tiempo sin dormir.
 
 —Porque cuando suban a este barco no van a preguntar quién soy —dijo—. Van a decidirlo por mí. No entendí la frase. Antes de que pudiera pedirle que la explicara, el ruido del motor cambió de dirección. La embarcación había virado. La luz cruzó el mar a nuestra izquierda, se detuvo un momento y volvió hacia nosotros. Me agaché instintivamente. La mujer me agarró por la nuca y me obligó a mantener la cabeza baja, sin violencia, pero con una urgencia que me hizo obedecer.
 
@@ -48,7 +48,7 @@ Le dije que podíamos llamar a emergencias; estaba herida y alguien tenía que a
 
 —¿Cómo te llamás? —pregunté. Tardó tanto en responder que creí que no lo haría. —Inés. Le dije mi nombre, aunque mi voz sonó extraña después de tanto hablar en susurros. Ella asintió, pero no intentó estrecharme la mano ni decirme el suyo como si acabáramos de conocernos en circunstancias normales. Seguía pendiente de la embarcación que se alejaba.
 
-—¿Estabas en el agua cuando llegué? —pregunté. —Cuando llegaste, vos ya estabas acá. La respuesta no aclaraba nada. Le pregunté cómo había subido al velero y me dijo que había trepado por la popa aprovechando que el casco estaba bajo, aunque no me explicó de dónde venía. Después señaló mi brazo vendado.
+Le pregunté si estaba en el agua cuando yo había llegado al velero. Inés negó con la cabeza y me dijo que ya se encontraba a bordo cuando salí de la cabina. Cuando quise saber cómo había subido, explicó que había trepado por la popa mientras el casco estaba bajo, pero no aclaró de dónde venía. Después señaló mi brazo vendado.
 
 —Eso necesitás revisarlo. Se te está pasando la sangre por debajo. Miré la venda. Tenía razón: una mancha oscura se extendía por el borde y llegaba hasta la muñeca. El dolor se había vuelto una pulsación constante, pero hasta ese momento había estado demasiado ocupado para prestarle atención. Inés me indicó que entrara a la cabina y buscara más gasas. Antes de moverme, me pidió que dejara la puerta abierta para poder vigilar el mar.
 
@@ -58,7 +58,7 @@ Obedecí. Encontré el botiquín donde lo había dejado y me senté en el suelo,
 
 Inés bajó la mirada hacia el bolso. No pareció sorprendida; tampoco confirmó que supiera de qué se trataba. Pasó el pulgar por la hebilla deformada, siguiendo el borde del metal.
 
-—¿Sabés quién lo dijo? —pregunté. —No. Quise saber si lo había escuchado antes, y me respondió que no de esa manera. Esperé una explicación, pero ella se levantó y volvió a mirar hacia el mar. No intenté detenerla. Al menos ahora sabía que la advertencia no había sido una conversación entre nosotros, ni una orden que ella me hubiera dado directamente. Seguía sin saber quién había hablado, qué significaba aquella frase o qué relación tenía con la embarcación que nos había buscado.
+Le pregunté si sabía quién había hablado. —No —respondió. También quise saber si había escuchado antes aquella advertencia; dijo que no de esa manera. Esperé una explicación, pero ella se levantó y volvió a mirar hacia el mar. No intenté detenerla. Al menos ahora sabía que la advertencia no había sido una conversación entre nosotros, ni una orden que ella me hubiera dado directamente. Seguía sin saber quién había hablado, qué significaba aquella frase o qué relación tenía con la embarcación que nos había buscado.
 
 El viento aflojó por un momento y la vela perdió tensión. El velero comenzó a girar lentamente, empujado por una corriente que no podía distinguir. Inés volvió a mi lado y me ayudó a incorporarme. Teníamos que mantener el rumbo antes de que el barco quedara atravesado a las olas, y ninguno de los dos podía hacerlo sin la ayuda del otro. No confiaba en ella, pero tampoco podía manejar la vela con un brazo herido mientras ella se mantenía escondida detrás de la cabina.
 
