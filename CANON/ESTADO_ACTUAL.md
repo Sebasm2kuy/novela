@@ -1,6 +1,6 @@
 # ESTADO ACTUAL DEL PROYECTO
 
-> **Distinción de estado:** las secciones que describen los capítulos 7–8 y el desarrollo anterior corresponden al manuscrito/canon de una etapa previa. La línea de trabajo editorial activa es el prólogo V3 más los capítulos 1–4 V2, listados más abajo. No asumir que el manuscrito reescrito ya conserva las asignaciones de ventanas del material anterior; esa correspondencia sigue pendiente de revisión.
+> **Distinción de estado:** las secciones que describen los capítulos 7–8 y el desarrollo anterior corresponden al manuscrito/canon de una etapa previa. La línea de trabajo editorial activa es el prólogo V3 más los capítulos 1–4 V3, listados más abajo. No asumir que el manuscrito reescrito ya conserva las asignaciones de ventanas del material anterior; esa correspondencia sigue pendiente de revisión.
 
 ## Situación narrativa
 El manuscrito vigente llega hasta el Capítulo 8.
@@ -58,14 +58,14 @@ No usar archivos antiguos para alterar esta dirección canónica.
 La etapa de trabajo actual usa deliberadamente dos carpetas distintas:
 
 - **Prólogo vigente:** `CAPITULOS V3/00_PROLOGO.md`
-- **Capítulo 1:** `CAPITULOS V2/01_CAPITULO_1.md`
-- **Capítulo 2:** `CAPITULOS V2/02_CAPITULO_2.md`
-- **Capítulo 3:** `CAPITULOS V2/03_CAPITULO_3.md`
-- **Capítulo 4:** `CAPITULOS V2/04_CAPITULO_4.md`
+- **Capítulo 1:** `CAPITULOS V3/01_CAPITULO_1.md`
+- **Capítulo 2:** `CAPITULOS V3/02_CAPITULO_2.md`
+- **Capítulo 3:** `CAPITULOS V3/03_CAPITULO_3.md`
+- **Capítulo 4:** `CAPITULOS V3/04_CAPITULO_4.md`
 
 No existe contradicción en que el prólogo esté en V3 y los capítulos estén en V2: son versiones de trabajo independientes. No moverlos para uniformar los números.
 
-Los capítulos 1–4 son textos en desarrollo; el capítulo 4 es un primer borrador. La carpeta `CAPITULOS/` y el manuscrito consolidado anterior se preservan como material histórico y no deben sobrescribirse por accidente.
+Los capítulos 1–4 en V3 son textos en desarrollo; el capítulo 4 es un primer borrador. La carpeta `CAPITULOS/` y el manuscrito consolidado anterior se preservan como material histórico y no deben sobrescribirse por accidente.
 
 La nueva versión de un texto no cambia automáticamente su asignación a una ventana ni confirma teorías narrativas. La relación entre los borradores actuales y el mapa canónico anterior debe revisarse cuando el autor lo decida, sin forzar equivalencias.
 
