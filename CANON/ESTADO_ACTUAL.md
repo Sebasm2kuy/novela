@@ -1,15 +1,15 @@
 # ESTADO ACTUAL DEL PROYECTO
 
-> **Distinción de estado:** las secciones que describen los capítulos 7–8 y el desarrollo anterior corresponden al manuscrito/canon de una etapa previa. La línea de trabajo editorial activa es el prólogo V3 más los capítulos 1–4 V3, listados más abajo. No asumir que el manuscrito reescrito ya conserva las asignaciones de ventanas del material anterior; esa correspondencia sigue pendiente de revisión.
+> **Distinción de estado:** las secciones que describen los capítulos 7–8 y el desarrollo anterior corresponden al manuscrito/canon de una etapa previa. La línea de trabajo editorial activa es el prólogo V3 más los capítulos 1–5 V3, listados más abajo. No asumir que el manuscrito reescrito ya conserva las asignaciones de ventanas del material anterior; esa correspondencia sigue pendiente de revisión.
 
 ## Situación narrativa
-El manuscrito vigente llega hasta el Capítulo 8.
 
-El protagonista ya ha pasado por varias ventanas y ha empezado a percibir patrones relacionados con ausencias, recuerdos, espacios imposibles y discontinuidades temporales.
+El manuscrito histórico/canon previo llega hasta el Capítulo 8. La reescritura activa V3 llega hasta el Capítulo 5, que sigue siendo un borrador en desarrollo y no determina por sí mismo ninguna asignación de ventana ni nuevas reglas canónicas.
 
-La naturaleza de la Habitación continúa protegida.
+En el manuscrito histórico, el protagonista ya ha pasado por varias ventanas y ha empezado a percibir patrones relacionados con ausencias, recuerdos, espacios imposibles y discontinuidades temporales. La naturaleza de la Habitación continúa protegida en ese material.
 
-## Último punto narrativo
+## Último punto narrativo del manuscrito histórico
+
 El Capítulo 8 continúa directamente desde el final del Capítulo 7, dentro de la Ventana 5 / 2056.
 
 El protagonista presencia junto a tres soldados una grabación de sí mismo dentro de la sala de las siete arquitecturas. Antes de poder descubrir qué significa, se produce el desplazamiento y regresa a la Habitación.
@@ -20,8 +20,9 @@ En la Habitación, el protagonista registra lo ocurrido en su cuaderno, vuelve s
 
 También percibe una vibración sutil detrás de la pared que le resulta familiar después de la experiencia en 2056. La conexión entre ambos fenómenos permanece abierta.
 
-## Capítulo 8 — Dirección de continuidad y estilo
-El capítulo 8 debe conservar estas decisiones:
+## Capítulo 8 — Dirección de continuidad histórica
+
+Estas indicaciones corresponden al manuscrito anterior y no deben imponerse automáticamente a la reescritura V3:
 
 - continuación directa del Capítulo 7;
 - desaparición física percibida por testigos, sin explicar todavía la naturaleza exacta del desplazamiento;
@@ -36,36 +37,44 @@ El capítulo 8 debe conservar estas decisiones:
 - evitar sobreexplicar la memoria o la mecánica de los saltos.
 
 ## Capítulo 7 — Ventana 5 / 2056 / Las Siete Arquitecturas
+
 El Capítulo 7 desarrolla una incursión armada en 2056. Las siete arquitecturas advierten repetidamente antes de escalar sus defensas y actúan conforme a protocolos, no por malicia. El combate obliga al protagonista a tomar decisiones propias dentro de la acción, incluida la desobediencia de una orden para rescatar a un compañero herido.
 
 El capítulo termina con el descubrimiento de una grabación que demuestra que una versión anterior del protagonista ya había estado en la sala de las siete arquitecturas.
 
 El significado de esa grabación y la relación entre lo que su cuerpo recuerda y lo que su memoria consciente recuerda siguen sin explicación canónica.
 
-## Próxima zona de desarrollo
-El próximo capítulo a desarrollar es el Capítulo 9, pero su ventana y objetivo concreto todavía pueden definirse durante la construcción. Las ventanas todavía no utilizadas son:
+## Próxima zona de desarrollo del manuscrito histórico
+
+El mapa histórico proponía el Capítulo 9 como siguiente capítulo, con ventana y objetivo aún por definir. Las ventanas allí señaladas como todavía no utilizadas son:
 
 1. Ventana 1 — Y2K
 2. Ventana 4 — Cortexia 2026
 3. Ventana 9 — El Mundo Perfecto
 4. Ventana 10 — Copia Exacta
 
-No usar archivos antiguos para alterar esta dirección canónica.
-
+Esta planificación pertenece a la etapa anterior y no fija automáticamente el rumbo de la reescritura V3.
 
 ## Ubicación vigente del manuscrito en reescritura
 
-La etapa de trabajo actual usa deliberadamente dos carpetas distintas:
+La línea activa de reescritura está en la carpeta `CAPITULOS V3/`:
 
-- **Prólogo vigente:** `CAPITULOS V3/00_PROLOGO.md`
+- **Prólogo:** `CAPITULOS V3/00_PROLOGO.md`
 - **Capítulo 1:** `CAPITULOS V3/01_CAPITULO_1.md`
 - **Capítulo 2:** `CAPITULOS V3/02_CAPITULO_2.md`
 - **Capítulo 3:** `CAPITULOS V3/03_CAPITULO_3.md`
 - **Capítulo 4:** `CAPITULOS V3/04_CAPITULO_4.md`
+- **Capítulo 5:** `CAPITULOS V3/05_CAPITULO_5.md`
 
-No existe contradicción en que el prólogo esté en V3 y los capítulos estén en V2: son versiones de trabajo independientes. No moverlos para uniformar los números.
+Los capítulos V3 son textos en desarrollo; el capítulo 5 es un primer borrador. La carpeta `CAPITULOS/` y el manuscrito consolidado anterior se preservan como material histórico y no deben sobrescribirse por accidente.
 
-Los capítulos 1–4 en V3 son textos en desarrollo; el capítulo 4 es un primer borrador. La carpeta `CAPITULOS/` y el manuscrito consolidado anterior se preservan como material histórico y no deben sobrescribirse por accidente.
+### Capítulo 5 V3 — Velero / encuentro con otras versiones
+
+El protagonista, herido y a bordo del velero `Nereida`, escucha golpes y una tos debajo de cubierta. Abre la escotilla principal, baja al compartimento inferior y descubre una segunda puerta que conduce a un espacio oculto bajo el casco. Allí encuentra a un hombre con su mismo rostro y una venda ensangrentada en el antebrazo izquierdo.
+
+El hombre le dice que no debería estar allí y le advierte que él no es a quien debe sacar del lugar. La radio pronuncia el nombre del protagonista y reproduce su propia voz con instrucciones que no recuerda haber dado. Mientras ambos permanecen abajo, una tercera figura comienza a descender por la escotilla abierta; lleva la misma venda. El capítulo termina sin revelar la identidad ni la naturaleza de las figuras.
+
+**Estado:** borrador narrativo; las hipótesis sobre bucles, sustituciones, duplicación, el reloj, los golpes y el funcionamiento del velero no se consideran hechos canónicos confirmados.
 
 La nueva versión de un texto no cambia automáticamente su asignación a una ventana ni confirma teorías narrativas. La relación entre los borradores actuales y el mapa canónico anterior debe revisarse cuando el autor lo decida, sin forzar equivalencias.
 
@@ -88,9 +97,11 @@ El mecanismo anterior basado en señal/contacto voluntario con una pared queda r
 La vibración o cualquier anomalía asociada a una pared puede seguir existiendo como elemento narrativo independiente, pero su relación con el tránsito no está confirmada.
 
 ## Protección de continuidad
+
 Los archivos antiguos pueden contener ideas o versiones previas incompatibles con el canon actual. Deben conservarse como histórico, no como autoridad.
 
 ## Política de actualización
+
 Toda nueva decisión canónica relevante debe reflejarse primero en `CANON/BIBLIA_MAESTRA.md` y, cuando corresponda, también en:
 - `CANON/MAPA_CAPITULOS.md`
 - `CANON/VENTANAS.md`
@@ -100,6 +111,7 @@ Toda nueva decisión canónica relevante debe reflejarse primero en `CANON/BIBLI
 Las propuestas no confirmadas van a `IDEAS/` y nunca a CANON.
 
 ## Manuscrito definitivo disponible
+
 El archivo:
 
 `CAPITULOS/W A T H N E V E R L E F T prologo + caps 1-6`
@@ -111,6 +123,7 @@ Commit de referencia confirmado por el autor: `6351e5fb513440b6c9832ce3bce037d0a
 Este archivo debe tratarse como histórico salvo que exista una versión posterior explícitamente confirmada.
 
 ## Inicio de chat nuevo
+
 El autor no necesita copiar instrucciones ni volver a explicar el proyecto. Basta con indicar que se revise el repositorio. El asistente debe leer `CANON/PROMPT_MAESTRO_CHATGPT.md` y los archivos canónicos necesarios, y continuar desde allí.
 
 ## Ideas recientes — pendientes de confirmación
