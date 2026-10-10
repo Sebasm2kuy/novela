@@ -16,9 +16,7 @@ Algo rozó la madera a mi espalda. Me volví tan rápido que el brazo herido me 
 
 —¿Quiénes? No me respondió. Se acercó a la barandilla, se agachó y miró el agua por encima del borde. El movimiento le costaba; una mano le temblaba y mantenía el otro brazo pegado al cuerpo. Quise preguntarle si estaba herida, pero ella levantó un dedo para pedirme silencio. La luz blanca había desaparecido. En su lugar oí un ruido que al principio confundí con el viento: un motor lejano, grave y constante, que parecía acercarse desde la misma dirección.
 
-—¿Te están buscando? —pregunté.
-
-La mujer me miró como si la pregunta fuera demasiado simple para responderla. Después señaló la popa. Allí, bajo el golpeteo de las olas, se escuchaba un roce metálico que no había notado antes. Me acerqué con cautela y me arrodillé junto al borde. Algo tiraba de la embarcación desde abajo. Cada vez que una ola levantaba el casco, el roce se tensaba; cuando el barco caía, la presión disminuía y volvía a empezar. No podía ver qué era.
+—¿Te están buscando? —pregunté. La mujer me miró como si la pregunta fuera demasiado simple para responderla. Después señaló la popa. Allí, bajo el golpeteo de las olas, se escuchaba un roce metálico que no había notado antes. Me acerqué con cautela y me arrodillé junto al borde. Algo tiraba de la embarcación desde abajo. Cada vez que una ola levantaba el casco, el roce se tensaba; cuando el barco caía, la presión disminuía y volvía a empezar. No podía ver qué era.
 
 —¿Qué es eso? —susurré. —Una línea enganchada en el timón. Si sigue así, no vamos a poder mantener el rumbo.
 
@@ -36,13 +34,11 @@ Cuando por fin cedió, el extremo golpeó el costado y desapareció bajo la supe
 
 El motor que habíamos oído se volvió más intenso. La luz blanca reapareció a lo lejos y esta vez no tuve dudas: venía de otra embarcación. Una segunda luz, más pequeña, se encendió junto a ella. La mujer se incorporó de golpe y me agarró la manga.
 
-—Tenemos que apagar la luz de posición —dijo, agarrándome la manga. No quería chocar con la otra embarcación, pero ella insistió en que no venían a rescatarnos. No podía saber si mentía. La mujer estaba herida, escondida en un barco que no parecía conocer, y se negaba a explicar qué había ocurrido. Pero tampoco me había pedido dinero ni intentado quitarme nada. Me había ayudado a liberar el timón y no había aprovechado que estaba tendido junto a la borda para dejarme caer. No era mucho en lo que basar la confianza, aunque era más de lo que tenía unos minutos antes.
+—Tenemos que apagar la luz de posición —dijo. No quería chocar con la otra embarcación, pero ella insistió en que no venían a rescatarnos. No podía saber si mentía. La mujer estaba herida, escondida en un barco que no parecía conocer, y se negaba a explicar qué había ocurrido. Pero tampoco me había pedido dinero ni intentado quitarme nada. Me había ayudado a liberar el timón y no había aprovechado que estaba tendido junto a la borda para dejarme caer. No era mucho en lo que basar la confianza, aunque era más de lo que tenía unos minutos antes.
 
 Me levanté y fui hasta el pequeño panel junto al timón. Apagué la luz de posición y el velero quedó a oscuras. La mujer se agachó detrás de la cabina y me indicó que hiciera lo mismo. Desde allí veíamos una parte del horizonte entre los cabos. El motor seguía acercándose, pero la luz blanca se movía de un lado al otro, barriendo la superficie del mar en tramos lentos. No parecía la iluminación accidental de una embarcación que navegara sin rumbo. Alguien estaba buscando algo.
 
-—¿Qué quieren? —pregunté en voz baja. —No lo sé. Quise saber por qué no quería que la encontraran, pero la mujer apretó el bolso contra el pecho.
-
-La mujer apretó el bolso contra el pecho. Por primera vez dejó de mirar las luces y me sostuvo la mirada. Tenía los ojos enrojecidos, no solo por el agua salada. Parecía haber pasado mucho tiempo sin dormir.
+—¿Qué quieren? —pregunté en voz baja. —No lo sé. Quise saber por qué no quería que la encontraran. La mujer apretó el bolso contra el pecho y, por primera vez, dejó de mirar las luces para sostenerme la mirada. Tenía los ojos enrojecidos, no solo por el agua salada. Parecía haber pasado mucho tiempo sin dormir.
 
 —Porque cuando suban a este barco no van a preguntar quién soy —dijo—. Van a decidirlo por mí. No entendí la frase. Antes de que pudiera pedirle que la explicara, el ruido del motor cambió de dirección. La embarcación había virado. La luz cruzó el mar a nuestra izquierda, se detuvo un momento y volvió hacia nosotros. Me agaché instintivamente. La mujer me agarró por la nuca y me obligó a mantener la cabeza baja, sin violencia, pero con una urgencia que me hizo obedecer.
 
@@ -54,9 +50,7 @@ Le dije que podíamos llamar a emergencias; estaba herida y alguien tenía que a
 
 —¿Estabas en el agua cuando llegué? —pregunté. —Cuando llegaste, vos ya estabas acá. La respuesta no aclaraba nada. Le pregunté cómo había subido al velero y me dijo que había trepado por la popa aprovechando que el casco estaba bajo, aunque no me explicó de dónde venía. Después señaló mi brazo vendado.
 
-—Eso necesitás revisarlo. Se te está pasando la sangre por debajo.
-
-Miré la venda. Tenía razón: una mancha oscura se extendía por el borde y llegaba hasta la muñeca. El dolor se había vuelto una pulsación constante, pero hasta ese momento había estado demasiado ocupado para prestarle atención. Inés me indicó que entrara a la cabina y buscara más gasas. Antes de moverme, me pidió que dejara la puerta abierta para poder vigilar el mar.
+—Eso necesitás revisarlo. Se te está pasando la sangre por debajo. Miré la venda. Tenía razón: una mancha oscura se extendía por el borde y llegaba hasta la muñeca. El dolor se había vuelto una pulsación constante, pero hasta ese momento había estado demasiado ocupado para prestarle atención. Inés me indicó que entrara a la cabina y buscara más gasas. Antes de moverme, me pidió que dejara la puerta abierta para poder vigilar el mar.
 
 Obedecí. Encontré el botiquín donde lo había dejado y me senté en el suelo, con la espalda apoyada contra la pared, para cambiar la venda sin forzar el brazo. Inés permaneció en la entrada, agachada de modo que su silueta no se recortara contra la luz interior. Cuando terminé, me alcanzó la botella de agua y esperó a que bebiera.
 
@@ -76,22 +70,6 @@ Me habría gustado pensar que habíamos dejado atrás el peligro. Pero la embarc
 
 Cuando me acerqué al timón, encontré algo que no había visto antes: una pequeña luz verde, apenas visible, encendida en la base del panel. No era parte de las luces de navegación. Parpadeaba con un ritmo irregular. Me incliné para ver si había quedado algún interruptor activado, pero no encontré ninguno. La luz se apagó cuando la toqué y volvió a encenderse unos segundos después.
 
-Inés se levantó al verla. Por primera vez desde que había aparecido, su expresión cambió de verdad. No fue miedo a la embarcación que nos perseguía ni preocupación por la herida. Fue reconocimiento.
+Inés se levantó al verla. Por primera vez desde que había aparecido, su expresión cambió de verdad. No fue miedo a la embarcación que nos perseguía ni preocupación por la herida, sino reconocimiento. —¿Qué es? —le pregunté. Ella retrocedió hasta la puerta de la cabina. —No la toques otra vez. Quise saber por qué, pero Inés miró hacia la escotilla cerrada, después al panel y finalmente a mí, como si intentara decidir cuál de las tres cosas era más peligrosa. —Porque no estaba encendida cuando subí.
 
-—¿Qué es? —le pregunté.
-
-Ella retrocedió hasta la puerta de la cabina.
-
-—No la toques otra vez.
-
-—¿Por qué?
-
-Inés miró hacia la escotilla cerrada, después al panel y finalmente a mí, como si estuviera tratando de decidir cuál de las tres cosas era más peligrosa.
-
-—Porque no estaba encendida cuando subí.
-
-La luz verde volvió a parpadear. Esta vez, desde algún lugar bajo la cubierta, llegó un golpe seco que no se parecía al movimiento del casco ni al sonido de una cuerda. Inés cerró los ojos un instante, apretando el bolso contra el pecho. Yo mantuve la mano apartada del panel y escuché, esperando que el golpe se repitiera.
-
-No volvió a hacerlo.
-
-Pero la pequeña luz continuó encendida.
+La luz verde volvió a parpadear y, esta vez, desde algún lugar bajo la cubierta llegó un golpe seco que no se parecía al movimiento del casco ni al sonido de una cuerda. Inés cerró los ojos un instante, apretando el bolso contra el pecho. Mantuve la mano apartada del panel y escuché, esperando que el golpe se repitiera. No volvió a hacerlo, pero la pequeña luz continuó encendida.
