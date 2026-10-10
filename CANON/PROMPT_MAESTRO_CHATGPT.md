@@ -85,11 +85,11 @@ Una vez leído el historial reciente, continuar con la localización de:
 7. El archivo de la ventana relevante, si existe.
 8. Para la etapa de reescritura actual, las rutas correctas son:
    - Prólogo vigente: `CAPITULOS V3/00_PROLOGO.md`
-   - Capítulo 1: `CAPITULOS V2/01_CAPITULO_1.md`
-   - Capítulo 2: `CAPITULOS V2/02_CAPITULO_2.md`
-   - Capítulo 3: `CAPITULOS V2/03_CAPITULO_3.md`
-   - Capítulo 4: `CAPITULOS V2/04_CAPITULO_4.md`
-   Los capítulos 1–4 de V2 son borradores de trabajo y pueden cambiar; el Capítulo 4 es un primer borrador. No asumir que la numeración V2/V3 representa canon de las ventanas ni que estos textos ya están asignados al mapa anterior.
+   - Capítulo 1: `CAPITULOS V3/01_CAPITULO_1.md`
+   - Capítulo 2: `CAPITULOS V3/02_CAPITULO_2.md`
+   - Capítulo 3: `CAPITULOS V3/03_CAPITULO_3.md`
+   - Capítulo 4: `CAPITULOS V3/04_CAPITULO_4.md`
+   Los capítulos 1–4 de V3 son borradores de trabajo y pueden cambiar; el Capítulo 4 es un primer borrador. No asumir que la numeración V2/V3 representa canon de las ventanas ni que estos textos ya están asignados al mapa anterior.
 9. `CAPITULOS/` y el archivo consolidado `CAPITULOS/W A T H N E V E R L E F T prologo + caps 1-6` conservan material histórico/de etapas previas. No usarlos como fuente principal para editar los textos actuales si existe la ruta V2/V3 indicada arriba.
 10. Solo consultar `IDEAS/` o `ARCHIVO/` cuando sea necesario y tratándolos como NO CANON por defecto.
 
@@ -145,7 +145,7 @@ Una idea nueva de la IA o del autor todavía no aprobada como canon.
 
 ## Dirección de trabajo actual — lecturas de prueba y misterio
 
-El autor está revisando el prólogo V3 y los capítulos 1–4 de V2 con lectores de prueba que no conocen el canon, entre ellos Qwen. Sus reacciones sirven para evaluar el efecto de lectura, no para fijar explicaciones.
+El autor está revisando el prólogo V3 y los capítulos 1–4 de V3 con lectores de prueba que no conocen el canon, entre ellos Qwen. Sus reacciones sirven para evaluar el efecto de lectura, no para fijar explicaciones.
 
 - Priorizar el efecto emocional y la claridad de la escena por encima de confirmar teorías de lectores.
 - No convertir cada anomalía, frase, objeto, número o coincidencia en una señal relacionada con las demás.
