@@ -1,117 +1,53 @@
 # Capítulo 4
 
-Me desperté con un dolor de cabeza insoportable, pero lo que más me dolía era el corte en mi brazo.
+Desperté con la cabeza a punto de estallarme y un dolor agudo en el brazo izquierdo. Durante unos segundos no supe dónde estaba. Tenía la mejilla apoyada contra algo áspero, la camisa húmeda y un sabor metálico en la boca. Intenté incorporarme, pero el suelo se inclinó debajo de mí y tuve que agarrarme del borde de la cama para no caer.
 
-Durante unos segundos no pude hacer otra cosa que apretar los dientes y esperar a que el dolor dejara de latirme detrás de los ojos. Tenía la boca seca, la camisa pegada a la piel y una sensación de frío que me había calado hasta los huesos. Cuando intenté incorporarme, el barco se inclinó bajo mi cuerpo y tuve que agarrarme del borde de la cama para no caer al suelo.
+El movimiento me lo explicó antes que cualquier otra cosa: estaba en un barco.
 
-Barco.
+La cabina era baja y estrecha. Una ventanilla redonda dejaba entrar la luz gris de la noche, apenas suficiente para distinguir las vetas de la madera y una hilera de armarios sujetos a la pared. Olía a sal, combustible y ropa mojada. El casco crujía con cada balanceo, y el agua golpeaba por fuera en intervalos irregulares. No recordaba haber subido a bordo. Tampoco recordaba cómo me había lastimado.
 
-La palabra apareció antes de que pudiera entender lo que estaba viendo. Sobre mí había un techo bajo, recorrido por vetas oscuras; a mi izquierda, una ventanilla redonda dejaba entrar una luz débil que no alcanzaba a iluminar la cabina. Olía a madera húmeda, sal y combustible. El lugar se movía con un vaivén lento, irregular, acompañado por crujidos que venían de todas partes. Me llevé la mano sana a la frente y descubrí que tenía el pelo mojado.
+Me senté despacio y examiné el brazo. La manga estaba rasgada desde la muñeca hasta unos centímetros por debajo del codo. La sangre se había secado alrededor de un corte largo, no muy profundo, pero lo bastante abierto como para que cada movimiento me hiciera apretar los dientes. Encontré una bolsa de primeros auxilios en un armario, junto a una linterna y dos chalecos salvavidas. Limpié la herida como pude, sujetando la gasa con la mano derecha y apoyando el codo contra la mesa para que el balanceo no me la arrancara de las manos. La venda quedó torpe, aunque dejó de sangrar.
 
-Me senté con cuidado. El brazo izquierdo me ardía desde la muñeca hasta casi el codo. La tela de la camisa se había pegado alrededor de la herida y, cuando intenté apartarla, el tirón me arrancó una mueca. El corte era largo, aunque no parecía muy profundo. Había sangre seca en los bordes y otra mancha más oscura que no supe si seguía húmeda o si la luz me estaba engañando.
+Bebí un poco de agua de una botella que había en el suelo y esperé a que el mareo disminuyera. Después encendí la linterna y revisé la cabina. Había una mesa atornillada al piso, dos cajones que no cerraban del todo y una escalera que subía a cubierta. Un cuaderno de navegación descansaba bajo una banda elástica. Lo abrí por la primera página y encontré el nombre de la embarcación escrito con tinta azul: *Nereida*. Los demás datos estaban en columnas, abreviaturas y cifras que no me decían nada. No encontré un teléfono ni una identificación que me permitiera saber quién era el dueño.
 
-No recordaba haberme hecho aquello.
+Antes de salir, me aseguré de que la venda no estuviera demasiado apretada y me puse una chaqueta impermeable que colgaba junto a la escalera. Estaba húmeda en los hombros, como si alguien la hubiera dejado allí después de estar un rato bajo la lluvia. No le di importancia. En un barco, casi todo parecía húmedo.
 
-Busqué algo donde apoyar los pies y encontré unas botas tiradas junto a la cama. Me las puse sin desatar los cordones y abrí un armario estrecho que se había quedado entreabierto. Dentro había una manta, dos chalecos salvavidas y una bolsa de tela. La abrí, encontré una linterna pequeña y la encendí. El haz recorrió una botella de agua, una caja de herramientas y una puerta que daba a un pasillo todavía más estrecho.
+Subí a cubierta con la linterna entre los dientes y el brazo herido pegado al cuerpo. El aire frío me despejó un poco. La noche era cerrada; las nubes ocultaban el cielo y no había costa ni luces de otras embarcaciones a la vista. El velero se balanceaba sobre olas cortas y desordenadas. La vela principal estaba recogida, aunque una parte de la lona se había soltado y golpeaba el mástil cada vez que el viento cambiaba. Las cuerdas vibraban contra la madera y el agua saltaba por encima de la borda de vez en cuando.
 
-Bebí un trago demasiado largo. El agua tenía gusto a plástico, pero me ayudó a tragar y a despejar un poco la cabeza. Después busqué en la bolsa algo con qué vendarme. Había gasas, cinta adhesiva y un frasco de antiséptico. Limpiarme la herida con una sola mano resultó más difícil de lo que esperaba; cada vez que intentaba sujetar la gasa, el barco se balanceaba y tenía que apoyar la espalda contra la pared para no perder el equilibrio. Cuando terminé, la venda quedó torcida y demasiado apretada en un extremo, pero al menos la sangre ya no me corría por la muñeca.
+Me sujeté a la barandilla y miré alrededor, buscando algo que pudiera reconocer. Nada. Solo el mar, negro hasta donde alcanzaba la vista.
 
-Necesitaba saber dónde estaba y cómo había llegado allí. Para averiguarlo, primero tenía que salir de aquella cabina.
+—¿Hay alguien? —grité.
 
-Me agaché para atravesar la puerta y subí tres escalones de madera. El aire de la noche me golpeó la cara, frío y cargado de sal. La cubierta estaba mojada. Una luz roja, protegida por una pequeña carcasa, iluminaba apenas el timón, las cuerdas y parte de una vela recogida que se hinchaba y aflojaba con cada ráfaga. Más allá no había nada que pudiera distinguir con claridad. El mar se extendía alrededor del barco como una superficie negra, interrumpida por crestas pálidas que aparecían cuando una ola levantaba el reflejo de la luz.
+El viento se llevó la pregunta. Esperé, con una mano alrededor de la barandilla, pero no hubo respuesta. Repetí el llamado hacia la proa y luego hacia la popa. Mi propia voz sonó pequeña en medio del ruido del agua.
 
-No había costa a la vista, ni luces de otras embarcaciones, ni una línea en el horizonte que me permitiera calcular la distancia hasta tierra. Miré hacia arriba. Las nubes ocultaban casi todo el cielo y solo se veían unas pocas estrellas entre las aberturas. El viento tiraba de mi ropa y hacía que las cuerdas golpearan contra el mástil con un sonido seco, insistente.
+Junto al timón había una pantalla de navegación apagada. La encendí y esperé a que apareciera algo útil. El mapa tardó en cargar; después mostró una cuadrícula y varios datos, pero no conseguí ubicar mi posición. Busqué el equipo de radio y lo encendí. Solo salió un siseo continuo. Ajusté el volumen, cambié de frecuencia y presioné el botón para transmitir una llamada de emergencia. Solté el botón y escuché. Nada cambió: ni una voz, ni una respuesta, ni siquiera una transmisión lejana. Probé una vez más, dando el nombre del velero y diciendo que necesitaba ayuda. Al terminar, volvió el mismo ruido uniforme.
 
-Levanté la vista y entonces me di cuenta de que no sabía dónde estaba.
+La radio no recibía nada.
 
-Me quedé junto al acceso, intentando acostumbrarme a la oscuridad. El barco no parecía estar navegando hacia ningún lugar concreto. La vela principal estaba recogida y el casco giraba despacio sobre las olas, empujado por el viento. Cada tanto una ola golpeaba el costado y levantaba una salpicadura que llegaba hasta la cubierta. No veía señales de una avería grave, pero tampoco encontraba a nadie que pudiera explicarme por qué estaba allí.
+La dejé encendida a bajo volumen y revisé el motor. El compartimento estaba bajo una tapa cerca de la cabina. Aflojé los tornillos con una herramienta de la caja que había encontrado abajo y levanté la cubierta. El olor a combustible era fuerte. La linterna me mostró mangueras, correas y piezas metálicas que no sabía identificar. No vi nada suelto de inmediato, y como no tenía los conocimientos ni las herramientas para revisar el sistema con seguridad, cerré la tapa.
 
-—¿Hola? —llamé.
+Me senté ante los mandos y giré la llave. El motor produjo un traqueteo breve y se detuvo. Esperé unos segundos antes de intentarlo de nuevo. Esta vez respondió con dos golpes secos, pero no llegó a arrancar. No insistí. No sabía cuánto combustible quedaba ni si seguir forzándolo podía empeorar el problema.
 
-El viento se llevó la palabra. Esperé, escuchando el crujido de la madera y el agua contra el casco. No hubo respuesta.
+Una ola levantó el velero y lo dejó caer con un golpe que me hizo chocar la rodilla contra el panel. Desde la cabina llegó un ruido de vidrio rodando. Bajé enseguida, convencido de que algo se había roto, pero encontré una botella vacía desplazándose de un lado a otro del suelo. La atrapé antes de que golpeara de nuevo contra la pata de la mesa y la metí en un armario. Al incorporarme, otra ola hizo crujir el casco y una caja se deslizó de un estante hasta caer de costado. El golpe me sobresaltó; después vi los trapos y las herramientas desparramados a sus pies. Recogí lo que pude y trabé la caja con una bolsa para que no volviera a moverse.
 
-Recorrí la cubierta con la linterna. Había una escotilla cerrada, un par de cabos enrollados y un balde encajado bajo un banco. Junto al timón encontré un equipo de navegación con la pantalla apagada. Toqué varios botones hasta que apareció una luz tenue, pero no supe interpretar lo que mostraba. Una carta ocupaba la mayor parte de la pantalla, con líneas y números demasiado pequeños para distinguirlos bajo aquella iluminación. Busqué un interruptor de luz, pero solo conseguí encender una lámpara sobre la mesa de la cabina.
+Los ruidos empezaron a tener sentido en cuanto encontré de dónde venían. El barco se inclinaba y las cosas mal sujetas se desplazaban por la cabina. No era difícil imaginar cuántos objetos podían haberse soltado en los compartimentos que aún no había revisado. La explicación no hacía la situación más segura, pero al menos dejaba de obligarme a imaginar qué podía haber detrás de cada golpe.
 
-Volví a bajar. El barco parecía más estrecho desde dentro, y la luz amarillenta hacía que las paredes de madera adquirieran un tono enfermizo. En la mesa había una taza vacía, un cuchillo con el mango gastado y un cuaderno cerrado por una banda elástica. No lo abrí. En ese momento me importaba más encontrar una radio o un teléfono. Registré dos cajones, aparté unos mapas doblados y encontré un equipo portátil junto a una caja de fusibles. La radio encendió con un siseo de estática.
+Aseguré los armarios con sus cierres y recorrí el espacio inferior. Había provisiones, un tanque de agua y bolsas sujetas con correas. Una de las correas se había aflojado y una caja de conservas golpeaba contra el costado de un mueble. La ajusté con la mano sana y comprobé las demás. Cerca del casco había un pequeño charco. Pasé los dedos por el borde de una junta y noté humedad, aunque no pude determinar si entraba agua por allí o si se había acumulado por el movimiento y las cosas mojadas. Lo sequé con un trapo y dejé otro al lado para ver si volvía a humedecerse.
 
-No sabía qué frecuencia debía usar, así que probé los mandos hasta encontrar una voz que se deshacía entre interferencias. Una mujer hablaba en inglés, demasiado rápido para que pudiera entender más que algunas palabras. Giré el dial con cuidado y escuché otra transmisión, esta vez en español, aunque la voz desapareció antes de terminar una frase. Presioné el botón del micrófono.
+Al girarme, un nuevo golpe resonó sobre mi cabeza. Subí dos escalones y me detuve para escuchar. El sonido se repitió, acompañado por un tirón de cuerda y un chasquido de lona. Recordé la vela que se había soltado parcialmente. Si seguía golpeando el mástil, podía terminar dañada o enredarse con algún cabo. Tenía que sujetarla antes de que el viento aumentara.
 
-—¿Hay alguien que me escuche? Estoy a bordo de un velero y necesito ayuda. No conozco mi posición.
+Volví a cubierta. La lluvia había empezado sin que me diera cuenta, fina al principio, luego más insistente. Me aseguré a la barandilla con la mano derecha y avancé hasta el mástil, procurando no cargar el peso sobre el brazo herido. El cabo que debía sujetar la lona estaba fuera de su sitio. Tiré de él, pero la vela se hinchó con una ráfaga y me lo arrancó de la mano. La tela golpeó contra el mástil con un estruendo que se mezcló con el viento.
 
-Solté el botón y esperé. La radio respondió con un crujido áspero que me hizo apartarla un poco de la oreja. Volví a llamar, más despacio, describí lo que podía ver y repetí que no sabía dónde estaba. Solo recibí estática.
+Esperé el siguiente balanceo, agarré el cabo de nuevo y tiré con todo el cuerpo. El dolor me atravesó el brazo y tuve que contener un grito, pero esta vez conseguí pasarlo por la cornamusa y asegurarlo. La lona dejó de golpear. Solo quedaron el viento y el agua chocando contra el casco.
 
-Dejé el equipo sobre la mesa y busqué una libreta o algún documento que indicara el nombre del barco. Encontré papeles dentro de una carpeta impermeable, pero la mayoría eran formularios con casillas y números. En una hoja aparecía escrito el nombre de la embarcación: *Nereida*. Lo repetí en voz baja, por si necesitaba identificarla en otra llamada. Debajo había un espacio para el nombre del patrón. La tinta se había corrido y no pude leerlo.
+Me apoyé un momento en la cabina para recuperar el aliento. La cubierta resbalaba bajo las botas y cada movimiento del velero parecía más brusco que el anterior. Quise volver abajo, pero una ola rompió contra la borda y barrió parte de la cubierta. El agua me golpeó las piernas. La escotilla se levantó con el impacto y cayó de nuevo contra el marco, cerrándose de golpe. Me agaché para comprobar el cierre y vi que el pestillo había quedado a medio encajar. Lo ajusté hasta oírlo trabarse.
 
-El motor. Si conseguía arrancarlo, al menos podría recuperar algo de control sobre la embarcación.
+Me quedé un segundo con la mano sobre la tapa, respirando despacio. No había nadie allí para ayudarme, y no sabía cuánto tiempo podría mantener el barco en esas condiciones. Tenía una herida que necesitaba atención, un motor que no arrancaba y una radio inútil. Ni siquiera podía decir dónde estaba.
 
-Encontré la llave colgando de un gancho junto a la puerta y subí a la cubierta. El acceso al motor estaba bajo una tapa atornillada cerca de la cabina. No tenía las herramientas adecuadas a mano, pero en la caja había una llave que parecía encajar. Aflojé los tornillos, levanté la tapa y el olor a combustible se hizo más fuerte. La linterna iluminó correas, tubos y piezas metálicas que no sabía nombrar. Revisé lo que pude sin meter las manos entre las partes móviles y volví a cerrar la tapa.
+La lluvia empezó a disminuir, pero el mar seguía moviendo el velero con fuerza. Volví al timón, sujetándome a cada paso, y miré la pantalla de navegación. Los datos seguían allí, ordenados y claros para alguien que supiera leerlos. Intenté seguir las líneas del mapa, reconocer una costa o encontrar una referencia, pero no tenía nada con qué compararlas. Anoté en el cuaderno las cifras que aparecían en la pantalla, el nombre de la embarcación y el estado del motor. Si lograba conseguir ayuda más adelante, al menos tendría algo concreto que explicar.
 
-Me senté ante los mandos y giré la llave.
+Cuando terminé, me senté en el banco junto al timón. La cabeza todavía me dolía y el cuerpo empezaba a temblarme por el frío. Me quité la chaqueta, la escurrí por encima de la cubierta y volví a ponérmela. La radio seguía encendida abajo; desde allí solo llegaba el siseo apagado de la estática. No había recibido ninguna señal.
 
-El motor respondió con un gemido corto, como si hubiera intentado arrancar y se hubiera arrepentido enseguida. Lo intenté otra vez. Esta vez hubo un traqueteo irregular que hizo vibrar el panel, seguido de un silencio total.
+Miré el horizonte una vez más. La noche no parecía dispuesta a terminar pronto. El velero subía y bajaba, las cuerdas tiraban de sus amarres y el agua golpeaba el casco con una regularidad que, poco a poco, dejó de parecerme una serie de golpes aislados. No sabía cómo había llegado a bordo ni por qué estaba herido, pero esas preguntas podían esperar. Primero tenía que mantenerme despierto, conservar el calor y encontrar una manera de llevar la embarcación a tierra.
 
-—Vamos —murmuré, y volví a girar la llave.
-
-La batería parecía tener fuerza, pero el motor no llegó a ponerse en marcha. No quise insistir demasiado; no sabía cuánto combustible quedaba ni si estaba empeorando algo al seguir intentándolo. Me incliné para revisar los mandos, apreté una conexión que parecía floja y probé una última vez. El motor soltó dos golpes secos y murió.
-
-Apoyé la frente contra el borde del panel. La herida palpitaba bajo la venda y el dolor de cabeza había regresado con fuerza. Necesitaba descansar, pero no podía permitirme quedarme dormido en una embarcación que no sabía gobernar, sin una posición clara y sin nadie que respondiera por radio.
-
-Al enderezarme, vi algo que no había notado antes: una chaqueta impermeable colgada detrás de la puerta de la cabina. Era demasiado grande para mí y tenía los hombros mojados. La toqué con la mano sana. La tela estaba fría, pero no empapada; parecía que alguien la había usado hacía poco y la había dejado allí para que escurriera. Miré hacia la escalera. No había oído entrar a nadie ni había visto a otra persona en cubierta.
-
-Me quedé escuchando.
-
-El barco crujió cuando una ola lo levantó. Una cuerda golpeó el mástil. Desde algún lugar debajo de mis pies llegó un sonido leve, parecido al de una botella rodando hasta chocar contra una pared. Esperé a que se repitiera, pero no oí nada más.
-
-Me dije que podía ser cualquier cosa suelta en el interior. Un barco en movimiento debía de estar lleno de ruidos así. Aun así, tomé la linterna y bajé los escalones que llevaban a un compartimento más pequeño, detrás de la cabina principal.
-
-Allí guardaban cajas de provisiones, un tanque de agua y varias bolsas sujetas con correas. El haz de luz recorrió el suelo y se detuvo en una botella tumbada junto a una caja. La recogí y la dejé en su sitio. No había nadie. Revisé detrás de las cajas, aparté una lona doblada y comprobé el espacio estrecho junto al casco, donde apenas cabía una persona agachada. Estaba vacío.
-
-Cuando me incorporé, noté que la linterna iluminaba unas gotas de agua en el suelo. Formaban un rastro corto desde el compartimento hasta una puerta baja que daba a la zona de almacenamiento. Me agaché. Las gotas brillaban bajo la luz, recientes y todavía separadas unas de otras. La puerta estaba cerrada con un pestillo sencillo.
-
-Probé a abrirla, pero algo la trababa desde el otro lado. Empujé con el hombro y el dolor del brazo me obligó a retroceder. Podía buscar una herramienta y forzarla, pero no tenía sentido romper nada sin saber qué había detrás. Quizá era un espacio de almacenamiento atascado por el movimiento del barco. Quizá las gotas venían de una filtración. Cualquiera de las dos explicaciones era posible.
-
-Entonces oí un roce al otro lado de la puerta.
-
-No fue un golpe ni el crujido de una tabla. Sonó como una suela desplazándose despacio sobre el suelo.
-
-Me quedé inmóvil, con la linterna fija en el pestillo. El ruido no volvió. Acerqué la mano sana a la puerta y apoyé los dedos sobre la madera. Estaba fría. No llamé ni pregunté quién había allí. No sabía qué decir, y una parte de mí temía que cualquier palabra pudiera confirmar algo que todavía prefería no saber.
-
-Retrocedí sin apartar la vista de la puerta y subí a la cabina. Necesitaba una salida, una posición, una forma de conseguir ayuda. No podía quedarme abajo intentando adivinar si el barco tenía un polizón, si alguien estaba herido o si los ruidos eran producto del casco y del agua. Volví a encender la radio y probé de nuevo, esta vez con el nombre de la embarcación.
-
-—Aquí el velero Nereida. ¿Alguien me recibe? Necesito asistencia. El motor no arranca y no tengo posición confirmada.
-
-La estática se abrió durante un segundo. Creí escuchar una voz, tan baja que me incliné hacia el aparato para entenderla.
-
-—...no abras...
-
-La señal desapareció.
-
-Me quedé con el micrófono en la mano, esperando que la transmisión volviera. No volvió. Repetí la llamada y recibí únicamente el siseo de la radio. Podía haber escuchado mal. La interferencia era fuerte y la voz había sido apenas un fragmento. Dejé el micrófono en su soporte y fui a buscar una linterna más potente.
-
-Mientras abría el cajón, la luz de la cabina parpadeó. No se apagó del todo, pero la habitación quedó sumida en una penumbra roja durante un instante antes de recuperar su color amarillento. Miré hacia la escalera. Desde arriba llegó el sonido de una cuerda arrastrándose por la cubierta.
-
-Subí despacio, sujetándome con la mano sana a la barandilla. El viento había aumentado y el velero giraba con más fuerza sobre las olas. Una de las velas, mal asegurada, se había soltado parcialmente y golpeaba contra el mástil. Me acerqué para sujetarla, consciente de que no podía dejarla así. El movimiento me obligó a apoyar una rodilla en la cubierta mientras intentaba alcanzar el cabo. La herida tiró bajo la venda y un dolor agudo me recorrió el brazo, pero conseguí atrapar la cuerda y asegurarla alrededor de una cornamusa.
-
-Cuando terminé, me quedé unos segundos respirando con la cabeza baja. Al levantarla, vi que la escotilla que daba al compartimento inferior estaba abierta.
-
-Recordaba haberla dejado cerrada. No podía jurarlo, pero sí recordaba haber subido los escalones y haber empujado la tapa para que encajara. Ahora estaba levantada unos centímetros, lo suficiente para dejar una franja de oscuridad entre la madera y el marco.
-
-Me acerqué y apunté con la linterna. No vi nada abajo. El aire que salía del interior olía a humedad y a algo más, un olor cálido y humano que no encajaba con el frío de la cubierta. Me agaché para cerrar la escotilla, pero antes de tocarla escuché un sonido detrás de mí.
-
-Un paso.
-
-No fue el golpe de una cuerda ni el crujido del barco. La madera se hundió con el peso de alguien que acababa de apoyar el pie.
-
-Me volví de golpe, levantando la linterna. El haz recorrió el timón, la vela recogida y las cuerdas que se movían con el viento. No había nadie a la vista. La luz llegó hasta la barandilla de popa y se detuvo sobre una mano que se retiró lentamente detrás de la cabina.
-
-Me quedé sin respirar, con la linterna apuntando al lugar vacío.
-
-No grité. No corrí. El brazo me dolía demasiado para hacer ninguna de las dos cosas con facilidad, y no sabía si la persona que acababa de ver estaba asustada, herida o esperando que yo me acercara. Lo único que sabía era que no estaba solo en el velero.
-
-Desde abajo, la radio comenzó a transmitir otra vez. La voz apenas atravesó la madera, pero esta vez entendí las palabras con claridad.
-
-—No dejes que te vea.
-
-La mano desapareció por completo detrás de la cabina. El barco se inclinó con una ola y la escotilla se cerró de golpe a mis espaldas.
-
-No me moví. En algún lugar bajo mis pies, alguien acababa de contener la respiración.
+Apreté la venda alrededor del brazo, comprobé el cierre de la escotilla y me quedé junto al timón, pendiente de las olas y de cualquier cambio en el viento. Por el momento, eso era todo lo que podía hacer.
