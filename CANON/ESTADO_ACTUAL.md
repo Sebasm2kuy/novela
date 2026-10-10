@@ -72,9 +72,9 @@ Los capítulos V3 son textos en desarrollo; el capítulo 5 es un primer borrador
 
 El borrador centrado en Inés y la persecución marítima fue descartado por el autor: le resultó aburrido antes de terminar de leerlo. No es la versión activa ni debe tratarse como canon. El archivo `CAPITULOS V3/05_CAPITULO_5.md` ahora contiene una nota de estado, no el capítulo narrativo.
 
-La próxima versión debe escribirse desde cero, sin conservar la mujer escondida ni esa trama de supervivencia náutica. Se mantiene únicamente la continuidad del final del capítulo 4: el protagonista está herido a bordo del velero Nereida, oyó por radio «No dejes que te vea», vio una mano retirarse detrás de la cabina y la escotilla se cerró de golpe.
+La próxima versión debe escribirse desde cero, sin conservar la mujer escondida ni esa trama de supervivencia náutica. El capítulo 4 V3 fue reescrito para eliminar transmisiones misteriosas y presencia oculta: la radio solo produce estática y no recibe señales; los ruidos se identifican progresivamente como objetos sueltos, una caja que cae y una vela golpeando el mástil durante el mal tiempo. El protagonista permanece herido a bordo del velero Nereida, no recuerda cómo llegó ni cómo se lastimó, y el motor no arranca.
 
-**Estado:** pendiente de nueva dirección narrativa. No se han confirmado conexiones entre el velero, el prólogo ni los capítulos 1–3.
+**Estado:** capítulo 5 pendiente de nueva dirección narrativa. No se han confirmado conexiones entre el velero, el prólogo ni los capítulos 1–3.
 ## Mecánica canónica vigente — sueño y 24 horas
 
 La entrada y salida de las ventanas y de la Habitación se realizan mediante el **sueño**.
