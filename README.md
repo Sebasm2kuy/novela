@@ -11,7 +11,7 @@ La regla es simple:
 - CANON contiene únicamente información confirmada.
 - IDEAS contiene propuestas que todavía no son canon.
 - ARCHIVO contiene versiones antiguas o material descartado.
-- CAPITULOS contiene los textos narrativos vigentes cuando hayan sido incorporados.
+- `CAPITULOS/` conserva manuscritos consolidados/históricos; la ubicación vigente de cada texto se especifica en la sección de manuscrito actual.
 - HISTORIAL_CHAT conserva la evolución real de las conversaciones y respuestas de trabajo.
 
 No se debe convertir una propuesta de IA, un borrador antiguo o una interpretación en canon sin decisión expresa del autor.
