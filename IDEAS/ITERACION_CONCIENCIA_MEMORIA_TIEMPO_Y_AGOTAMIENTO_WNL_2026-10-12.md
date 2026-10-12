@@ -159,3 +159,28 @@ El autor acaba de proponer que el protagonista padezca una misma «enfermedad» 
 5. ¿La enfermedad y el cansancio son dos efectos separados, o el cansancio es uno de los síntomas/consecuencias de la enfermedad?
 
 No responder estas preguntas por el autor ni convertir esta propuesta en canon. No modificar el manuscrito ni los archivos de CANON a partir de esta idea sin confirmación expresa.
+
+
+## 12. Preferencias exploratorias del autor — enfermedad como cuenta regresiva
+
+**Estado: exploración, NO CANON.**
+
+El autor respondió a las primeras preguntas sobre la enfermedad:
+- Al cambiar de realidad, la enfermedad y el deterioro **continúan**. El cambio de realidad no lo salva ni le devuelve el tiempo perdido.
+- La manifestación narrativa debe sentirse como una **cuenta regresiva urgente**, no solo como un deterioro lento y discreto.
+
+Estas preferencias orientan la exploración, pero no fijan todavía el mecanismo médico, los síntomas, la velocidad exacta ni la relación con el cansancio.
+
+### Consecuencia dramática que se quiere explorar
+Cada cambio de realidad debería llevarlo a otra experiencia, no ofrecerle una cura ni un reinicio. La enfermedad puede hacer que cada decisión y cada período vivido tengan un coste; el peligro es que el protagonista no disponga de tiempo ilimitado para resolver lo que le ocurre.
+
+### Nudo de coherencia todavía abierto
+El canon vigente establece que una Ventana queda congelada en el instante en que el protagonista la abandona y que, al regresar, retoma ese mismo instante. Por tanto, aún hay que resolver cómo puede «continuar» el deterioro sin asumir que el cuerpo de una Ventana se deteriora mientras él está ausente.
+
+Posibles modelos para comparar, no decisiones:
+1. **La progresión acompaña a la conciencia:** al entrar en otra realidad, el cuerpo que habita refleja la etapa alcanzada por la enfermedad. Queda por explicar qué ocurre al regresar a una Ventana congelada.
+2. **La enfermedad avanza por etapas en cada cuerpo:** el protagonista conserva una cuenta regresiva subjetiva, pero cada Ventana tiene un estado corporal propio. Este modelo podría debilitar la idea de que cambiar no le devuelve tiempo, según cómo se resuelva.
+3. **Existe una regla de sincronización entre la enfermedad y las Ventanas:** la progresión se conserva al desplazarse y se manifiesta al volver, sin que la Ventana avance durante su ausencia. Habría que definir esa regla con cuidado para que no parezca una excepción arbitraria al congelamiento.
+4. **Todavía no decidir el mecanismo:** mantener solo el efecto dramático deseado —no hay reinicio ni salvación— y explorar escenas antes de elegir una explicación.
+
+No elegir automáticamente ninguno de estos modelos. El siguiente paso es aclarar qué debe conservarse exactamente entre realidades: el grado visible de deterioro, el tiempo de vida que le queda, la intensidad de los síntomas o una combinación. Tampoco se ha decidido si el cansancio es síntoma de la enfermedad o un fenómeno distinto.
