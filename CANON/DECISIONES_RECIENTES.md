@@ -85,3 +85,23 @@ Se confirma una nueva dirección para el prólogo de WATH NEVER LEFT:
 - El cierre puede producirse cuando el protagonista se queda dormido, dejando abierto lo que ocurre después.
 
 Esta decisión reemplaza la dirección anterior del prólogo relacionada con la desaparición pública del avión.
+
+## Decisión canónica — 2026-10-12 — Tiempo en Ventanas ausentes
+
+El tiempo de una Ventana que el protagonista ha dejado atrás avanza durante las horas que él duerme fuera de ella. Las horas que permanece despierto en otras Ventanas no se suman al reloj de la Ventana ausente.
+
+Ejemplo: si duerme seis horas fuera de una Ventana, el reloj de esa Ventana avanza seis horas, aunque luego permanezca despierto 24 o 36 horas en otra. Cuando vuelve, retoma el momento al que avanzó el reloj durante las horas de sueño transcurridas en su ausencia, no necesariamente el instante exacto de salida.
+
+## Confirmación canónica — 2026-10-12 — Memoria entre Ventanas
+
+El protagonista recuerda todo lo vivido por él en las demás Ventanas. Esto no implica que herede automáticamente los recuerdos personales de la versión local de sí mismo que existe en la Ventana a la que llega. Recordar sus experiencias no significa comprender su causa o la arquitectura que las conecta.
+
+## Confirmación narrativa — 2026-10-12 — La Habitación
+
+La Habitación es otra realidad en la que el protagonista está encerrado al principio. No se explica de inmediato qué es, quién o qué la originó ni por qué está allí. No debe presentarse al comienzo como un sistema que él ya comprende.
+
+## Confirmación canónica — 2026-10-12 — La muerte no es un mecanismo de tránsito
+
+Si el protagonista muere dentro de una Ventana, muere en esa experiencia. La muerte no activa el tránsito, no lo devuelve a la Habitación ni es una forma de abandonar una realidad. Para él, morir significa morir; no conoce ninguna salida mediante la muerte. Se descarta como regla el retorno vivo al mismo instante de su muerte.
+
+La memoria de las experiencias de otras Ventanas continúa mientras él está vivo; no convierte la muerte en una transferencia entre realidades.
