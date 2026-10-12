@@ -241,13 +241,11 @@ El mecanismo anterior basado en una señal física/sensorial y contacto voluntar
 
 ### Regla temporal vigente
 
-Cuando abandona una realidad, **esa realidad queda congelada exactamente en el instante de su salida**.
+Cuando abandona una Ventana tras cumplir el mínimo de 24 horas y se duerme, el reloj de esa Ventana avanza durante las horas que duerme fuera de ella. Las horas que permanece despierto en otras Ventanas no se suman al reloj de la Ventana ausente.
 
-Cuando vuelve a ella, regresa al mismo **día/hora/minuto/segundo** en que la abandonó.
+Ejemplo: si duerme seis horas fuera de una Ventana, su reloj avanza seis horas aunque luego permanezca despierto 24 o 36 horas en otra. Al regresar, retoma el momento al que avanzó el reloj durante las horas de sueño transcurridas en su ausencia; no necesariamente el mismo segundo de salida.
 
-Para los habitantes de esa realidad no necesariamente ha transcurrido ningún tiempo.
-
-La Habitación sí mantiene continuidad temporal durante la permanencia del protagonista allí.
+La Ventana en la que está presente avanza durante el tiempo que vive allí. La Habitación mantiene continuidad temporal propia durante los períodos en que permanece dentro de ella.
 
 # 6. LA HABITACIÓN
 
@@ -267,24 +265,11 @@ Es donde el protagonista:
 - intenta descubrir el patrón;
 - busca una forma de romperlo.
 
-Por tanto, la Habitación funciona narrativamente como su **centro de investigación**, aunque su verdadera naturaleza siga siendo desconocida.
+Al comienzo, la Habitación debe presentarse solamente como otra realidad en la que el protagonista está encerrado. No explicar qué es, quién o qué la creó ni por qué está allí.
 
-No es simplemente una sala de espera ni debe describirse como un espacio "fuera" de las realidades.
+El protagonista puede comer, dormir, pensar, escribir, recordar y observar durante su estancia. Más adelante, puede usar ese tiempo para registrar lo vivido o comparar pistas si la narración lo desarrolla, pero no debe presentarse desde el principio como un centro de investigación que él comprende.
 
-El protagonista puede recordar las otras realidades mientras está allí y utilizar ese período para reconstruir lo vivido.
-
-No debe asumirse que todas las conexiones que él encuentre sean correctas.
-
-Su verdadera naturaleza no está establecida para revelación temprana.
-
-No decidir prematuramente si es:
-- laboratorio;
-- prisión;
-- refugio;
-- centro de control;
-- otra cosa.
-
-Es un misterio.
+No asumir que todas las conexiones que él encuentre sean correctas. La naturaleza y función última de la Habitación siguen siendo un misterio.
 
 ### Memoria y desorientación
 
@@ -312,22 +297,13 @@ En los capítulos iniciales debe evitarse explicar su arquitectura completa.
 
 # 7. MUERTE Y CONTRADICCIÓN
 
-Si el protagonista muere dentro de una realidad, la experiencia de esa muerte es real para él y posteriormente regresa a la Habitación.
+Si el protagonista muere dentro de una Ventana, muere en esa experiencia. La muerte no activa el tránsito, no lo devuelve a la Habitación y no es una forma de abandonar una realidad.
 
-Puede pasar por otras realidades y, más adelante, volver a la realidad donde murió.
+Para él, morir significa morir; no conoce ninguna salida mediante la muerte ni puede utilizarla como alternativa al sueño. No existe una regla por la que regrese vivo al instante exacto de su muerte.
 
-Al regresar, vuelve al **mismo instante exacto de su muerte —hora, minuto y segundo—, pero está vivo**.
+Mientras está vivo, recuerda lo que ha vivido en las demás Ventanas. Esta memoria no convierte la muerte en un mecanismo de transferencia.
 
-El canon no explica todavía qué ocurrió.
-
-La contradicción debe conservarse:
-
-- recuerda haber muerto;
-- ese instante vuelve a existir para él;
-- la realidad no conserva la muerte como hecho ocurrido;
-- él aparece vivo en el mismo punto temporal.
-
-No convertir esto automáticamente en "resurrección", viaje temporal, línea alternativa, copia, simulación ni explicación equivalente. Es una anomalía real de la experiencia del protagonista cuyo significado permanece abierto.
+No definir prematuramente qué ocurre después de la muerte en un sentido metafísico más amplio, pero nunca tratarla como método de desplazamiento.
 
 # 8. MAPA CANÓNICO ACTUAL DE CAPÍTULOS Y VENTANAS
 
@@ -841,12 +817,12 @@ El objetivo es que la novela tenga una **fuente de verdad persistente, versionad
 
 Las ideas siguientes fueron discutidas recientemente y deben conservarse como **propuestas**, no como reglas.
 
-1. Que una realidad quede congelada exactamente en el instante de salida y se retome en ese mismo instante.
-2. Que el protagonista conserve conscientemente los recuerdos de las demás realidades y pueda incluso dudar de cuál está viviendo.
-3. Que la Habitación sea también una realidad real para él y funcione como centro de investigación para reunir pistas y tratar de romper el patrón.
-4. Que cada realidad tenga un objetivo local de 24 horas mientras existe simultáneamente un objetivo global: comprender y romper el patrón.
-5. Que una muerte dentro de una realidad pueda ser experimentada como real y, tras otros saltos, el protagonista regrese al instante exacto de esa muerte pero esté vivo, sin explicación inmediata.
-6. Que las diez realidades sean igualmente reales desde su experiencia.
+1. La hipótesis filosófica de que la conciencia puede existir independientemente del cuerpo y que el cerebro podría funcionar como receptor/interfaz.
+2. El mecanismo, los síntomas y la progresión de la enfermedad explorada por el autor, incluida la manera en que sus efectos se manifiestan entre Ventanas.
+3. Los objetivos completos de cada Ventana y la dirección global de la novela, que deben desarrollarse sin sobreexplicación.
+4. La arquitectura última que conecta las realidades y el origen de la Habitación.
+
+No volver a tratar como propuestas pendientes estas reglas ya confirmadas: el reloj de las Ventanas ausentes avanza por las horas que él duerme fuera de ellas, recuerda todo lo vivido por él en las demás Ventanas sin heredar automáticamente los recuerdos de la versión local, la Habitación es otra realidad donde está encerrado al principio y su naturaleza no se explica de entrada, y morir en una Ventana no activa el tránsito ni le ofrece una salida.
 
 **IMPORTANTE:** ninguna de estas ideas cambia el canon actual hasta que el autor diga expresamente que desea confirmarla.
 
