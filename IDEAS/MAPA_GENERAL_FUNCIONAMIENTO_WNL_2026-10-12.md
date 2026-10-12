@@ -58,13 +58,13 @@ flowchart TD
     LOCAL -. "posible dirección global" .-> GLOBAL
   end
 
-  subgraph ILLNESS["ENFERMEDAD — PREFERENCIA EXPLORATORIA, NO CANON"]
+  subgraph ILLNESS["ENFERMEDAD — CONTINUIDAD ENTRE VENTANAS CONFIRMADA; DETALLES EN DESARROLLO"]
     I1["Está presente en todas las realidades.<br/>No explica los desplazamientos."]:::idea
     I2["Deterioro físico y tiempo de vida perdido<br/>continúan; cambiar no lo salva ni reinicia la cuenta."]:::idea
     I3["Evolución irregular:<br/>aparentes mejoras y recaídas bruscas."]:::idea
     I4["Puede afectar cuerpo, mente<br/>o ambos, según lo que requiera cada Ventana."]:::idea
     I5["Efecto dramático: hace creer que todavía hay tiempo<br/>y puede impedirle actuar cuando más lo necesita."]:::idea
-    I6["Problema sin resolver: cómo progresa la enfermedad<br/>entre cuerpos con relojes locales distintos."]:::pending
+    I6["Pendiente: causa, diagnóstico y síntomas concretos<br/>de la enfermedad."]:::pending
     I1 --> I2 --> I3 --> I4 --> I5
     I2 -. "requiere coherencia temporal" .-> I6
   end
@@ -114,7 +114,7 @@ El orden en que aparecen las Ventanas no indica su orden cronológico ni su impo
 
 ### Nudo crucial aún no resuelto
 
-El reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella. Sigue pendiente diseñar con precisión cómo se refleja la progresión de la enfermedad en cuerpos y experiencias diferentes, manteniendo la preferencia de que el deterioro y el tiempo de vida perdido no se reinicien al cambiar de realidad.
+El reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella. La progresión de la enfermedad sigue el mismo curso en todas las Ventanas; cambiar de realidad no la reinicia ni devuelve el deterioro acumulado. Siguen pendientes la causa, el diagnóstico y los síntomas concretos.
 
 ## 5. Dirección narrativa y prólogo
 
@@ -173,4 +173,9 @@ Estas cuatro reglas están confirmadas y deben primar sobre cualquier descripci�
 3. La Habitación es otra realidad donde está encerrado al principio; su naturaleza y el motivo del encierro no se explican de entrada.
 4. Morir en una Ventana no activa el tránsito ni lo devuelve a la Habitación. Para él, morir es morir; no conoce una salida mediante la muerte.
 
-La enfermedad se mantiene como idea, no canon. Su continuidad entre cuerpos y relojes locales es el principal problema de diseño aún abierto.
+La continuidad de la progresión de la enfermedad entre Ventanas está confirmada. Su causa, diagnóstico, síntomas concretos y manifestaciones narrativas siguen en desarrollo.
+
+
+## Aclaración del autor — 2026-10-12
+
+El deterioro y las eventuales mejorías siguen el mismo curso en todas las Ventanas; cambiar de realidad no reinicia ni altera esa progresión. Para el protagonista, morir es definitivo: no continúa su experiencia en otra Ventana ni despierta en la Habitación.
