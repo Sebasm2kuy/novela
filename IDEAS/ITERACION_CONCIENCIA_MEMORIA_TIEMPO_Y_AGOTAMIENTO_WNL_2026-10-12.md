@@ -208,3 +208,42 @@ Las aparentes mejoras podrían ofrecerle esperanza —o hacer que él y otros in
 La preferencia de que la enfermedad y el tiempo de vida restante continúen debe coexistir con la regla vigente de que las Ventanas se congelan al abandonarlas. El mecanismo sigue abierto: no se ha escogido entre una progresión ligada a la conciencia, una sincronización de estados entre Ventanas u otra solución. No inventar una explicación ni tratar estas opciones como canon.
 
 No modificar archivos de CANON ni el manuscrito a partir de esta exploración.
+
+
+## 14. Lluvia de ideas del asistente — maneras de narrar la enfermedad
+
+**Estado: propuestas para evaluar; el autor todavía no ha elegido ninguna. NO CANON.**
+
+El objetivo es respetar las preferencias exploratorias ya expresadas: enfermedad presente en todas las realidades, deterioro físico y tiempo de vida restante que no se reinician al cambiar, manifestación irregular con aparentes mejoras y empeoramientos bruscos. La enfermedad no debe explicar el mecanismo de los desplazamientos.
+
+### A. Dos curvas distintas: síntomas irregulares y coste acumulativo
+Una opción narrativa es distinguir entre lo que se ve y lo que se está perdiendo:
+- **Síntomas visibles:** fluctúan; puede haber una mejoría que parezca auténtica y luego una recaída brusca.
+- **Coste acumulado:** no retrocede, aunque él parezca encontrarse mejor. La mejoría no equivale a recuperar el tiempo de vida perdido.
+
+Esto daría una regla dramática sencilla: los síntomas pueden engañarlo; el coste no se borra. Queda por resolver cómo se expresa esa continuidad corporal sin contradecir el congelamiento de las Ventanas.
+
+### B. Tres estilos posibles de manifestación
+1. **El depredador silencioso:** señales pequeñas y fáciles de ignorar al principio; después, episodios que revelan que algo grave lleva tiempo avanzando.
+2. **La enfermedad por crisis:** puede funcionar aparentemente bien entre episodios, pero cada crisis pone en peligro inmediato su capacidad de actuar y sobrevivir.
+3. **La recuperación engañosa:** después de una crisis parece volver a la normalidad, lo cual le da esperanza; más adelante descubre que esa mejoría no ha devuelto lo perdido y que cada nueva caída puede ser peor.
+
+Se pueden combinar, pero son tonos narrativos para comparar, no síntomas ni reglas fijadas.
+
+### C. Pistas recurrentes sin diagnóstico prematuro
+En vez de definir enseguida una enfermedad médica concreta, se podrían escoger más adelante dos o tres señales físicas reconocibles —por ejemplo, una pérdida breve de coordinación, una alteración de la respiración o una debilidad súbita— y mostrar que aparecen en distintas experiencias. No se propone que estos síntomas sean definitivos; solo ilustran cómo crear un patrón que el lector pueda reconocer antes de comprenderlo.
+
+Una posibilidad especialmente útil para el misterio: en una realidad alguien atribuye el episodio a una causa común; en otra, los síntomas se interpretan de otra manera. Las explicaciones locales podrían diferir sin que la novela confirme inmediatamente cuál es correcta.
+
+### D. El patrón se entiende después, no durante
+Las crisis pueden parecer impredecibles al principio, pero al mirar atrás el protagonista —y el lector— podría advertir un patrón. Es mejor que la irregularidad tenga coherencia retrospectiva que hacer que cada recaída aparezca solo porque la trama necesita peligro.
+
+No es necesario fijar un desencadenante ahora. Es posible que el protagonista busque correlaciones equivocadas antes de comprender qué señales son fiables.
+
+### E. La tensión con el congelamiento de las Ventanas
+Hay una dificultad estructural que ninguna lluvia de ideas debe ocultar:
+- Si una Ventana queda congelada al abandonarla, el cuerpo que queda allí no debería seguir deteriorándose durante su ausencia.
+- Si al regresar todo retoma exactamente el estado del momento de partida, la enfermedad parecería retroceder localmente, aunque el tiempo de vida global no se haya recuperado.
+- Para sostener la preferencia de un deterioro y un tiempo restante que persisten, hará falta decidir si la enfermedad sigue una continuidad común a través de los cuerpos, si las distintas manifestaciones corporales son estados diferentes de una misma progresión, o si existe otra regla. Cualquiera de esas soluciones puede afectar cómo se entiende el congelamiento, así que no debe introducirse como si fuera gratis.
+
+**No se ha seleccionado una explicación.** Las opciones anteriores son material de brainstorming del asistente; no son decisiones del autor, canon ni cambios del manuscrito.
