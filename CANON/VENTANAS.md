@@ -137,5 +137,10 @@ Las conexiones profundas entre las ventanas todavía están en desarrollo. Los e
 - Mientras él está ausente, el reloj de cada Ventana avanza por las horas que duerme fuera de ella, no por las horas que permanece despierto en otras Ventanas. Si duerme seis horas fuera, esa Ventana acumula seis horas, aunque luego permanezca despierto 24 o 36 horas en otra.
 - Recuerda todo lo vivido por él en las demás Ventanas. Esto no implica heredar automáticamente los recuerdos personales de la versión local.
 - La Habitación es otra realidad en la que está encerrado al principio. No se explican de inmediato su naturaleza, su origen ni la razón de su encierro.
-- Si muere en una Ventana, la muerte no lo devuelve a la Habitación ni activa otro tránsito. Para él, morir significa morir; no conoce una salida a través de la muerte.
+- Si muere en una Ventana, muere definitivamente. Su experiencia consciente no continúa en otra Ventana ni en la Habitación; la muerte no activa el tránsito ni permite una segunda oportunidad.
 - Las conexiones profundas entre las Ventanas, el origen del mecanismo y la explicación definitiva de estas reglas siguen protegidos como misterio.
+
+
+## Regla confirmada — continuidad de la enfermedad
+
+La progresión de la enfermedad es común a todas las Ventanas y conserva un mismo curso. Ni el deterioro ni las eventuales mejorías se reinician o cambian por el hecho de pasar a otra realidad; el deterioro acumulado no se pierde. La causa, el diagnóstico y los síntomas concretos permanecen en desarrollo, y la enfermedad no explica el mecanismo del tránsito.
