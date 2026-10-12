@@ -120,24 +120,30 @@ Por tanto, las 24 horas son una **condición temporal mínima**, no un período 
 
 El sueño es el **mecanismo canónico de entrada y salida**. El contacto con una pared ya no es el mecanismo de desplazamiento.
 
-Cada realidad queda congelada en el instante exacto en que el protagonista la abandona. Al regresar, vuelve al mismo día/hora/minuto/segundo.
+El tiempo de las Ventanas que el protagonista ha dejado atrás avanza durante las horas que él duerme fuera de ellas. No avanza por el total de las horas que permanece despierto en otras Ventanas. Por ejemplo, seis horas de sueño fuera de una Ventana equivalen a seis horas transcurridas en el reloj de esa Ventana, aunque él luego permanezca despierto 24 o 36 horas en otra.
 
-La Habitación sí continúa temporalmente durante los períodos de permanencia allí.
+Al regresar, retoma la Ventana en el momento al que ha avanzado durante las horas de sueño transcurridas en su ausencia; no vuelve necesariamente al instante exacto de salida. Las Ventanas en las que está presente avanzan con el tiempo que vive allí. La Habitación posee continuidad temporal propia durante la estancia en ella.
 
-El protagonista conserva los recuerdos de las demás realidades y puede experimentar desorientación sobre cuál está viviendo. No asumir que recordar equivale a comprender.
+El protagonista recuerda todo lo que ha vivido en las demás Ventanas. No asumir que recordar equivale a comprender; tampoco confundir sus recuerdos de experiencias propias con los recuerdos personales de la versión local de sí mismo.
 
-## Investigación y objetivos
-La Habitación funciona como centro de investigación del protagonista. Allí reúne recuerdos, registra pistas, compara acontecimientos y formula hipótesis sobre el patrón general.
+## Habitación y exposición
 
-Cada realidad puede contener un objetivo o conflicto propio que debe afrontarse dentro de sus 24 horas. Ese objetivo local coexiste con el objetivo global de comprender y romper el patrón.
+La Habitación es otra realidad en la que el protagonista está encerrado al principio. La narración no debe explicar inicialmente qué es, quién la creó ni por qué se encuentra allí. No presentarla al comienzo como un sistema que él ya comprende ni como un manual del mecanismo.
+
+El protagonista puede dormir, escribir, pensar y observar durante su estancia. Si más adelante reúne recuerdos o compara pistas, eso debe desarrollarse orgánicamente, sin revelar prematuramente la naturaleza de la Habitación.
+
+## Objetivos narrativos
+
+Cada Ventana puede tener un conflicto local. Los objetivos concretos de las diez Ventanas siguen en construcción y no deben inventarse para completar el mapa. La dirección global de la trama y la forma en que el protagonista comprenderá el patrón deben revelarse gradualmente, no explicarse al principio.
 
 ## Muerte
-Si el protagonista muere en una realidad, la muerte se experimenta como real y lo lleva de vuelta a la Habitación.
 
-Si posteriormente regresa a esa realidad, vuelve exactamente al instante de la muerte y está vivo. Esta contradicción es un misterio canónico, no una explicación. No convertirla automáticamente en resurrección, viaje temporal, copia o línea alternativa.
+Si el protagonista muere dentro de una Ventana, muere en esa experiencia. La muerte no activa el tránsito, no lo devuelve a la Habitación y no es una forma de abandonar la realidad. Para él, morir significa morir; no conoce ninguna salida posible por medio de la muerte. No hay una regla canónica de retorno vivo al instante exacto de su muerte.
 
-## Ideas recientes — no canon
+Mientras está vivo, conserva los recuerdos de lo vivido en otras Ventanas. Esa memoria no hace de la muerte un mecanismo de transferencia.
 
-Se han discutido nuevas posibilidades sobre tiempo, memoria, función de la Habitación y muerte. Deben tratarse como **ideas en exploración** hasta confirmación expresa del autor.
+## Misterios que siguen abiertos
 
-No usar estas ideas para declarar contradicciones, corregir el manuscrito ni modificar reglas existentes.
+La naturaleza última del protagonista, el origen de la Habitación, la arquitectura de las diez Ventanas y el porqué del mecanismo de tránsito deben permanecer sin explicación prematura. La hipótesis de una conciencia independiente del cuerpo y un cerebro como receptor/interfaz es una idea filosófica de ficción, no un hecho científico demostrado ni una explicación ya confirmada de la novela.
+
+Las ideas que continúan sin confirmación deben permanecer en IDEAS. No usar una hipótesis pendiente para declarar contradicciones ni para modificar el manuscrito sin decisión expresa del autor.No usar estas ideas para declarar contradicciones, corregir el manuscrito ni modificar reglas existentes.
