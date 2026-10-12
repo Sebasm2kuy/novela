@@ -41,13 +41,12 @@ flowchart TD
   end
 
   subgraph RULES["OTRAS REGLAS DEL MUNDO"]
-    FROZEN["Al abandonar una Ventana, queda congelada<br/>en el instante exacto de salida.<br/>Al volver, retoma ese mismo instante."]:::canon
-    DEATH["Si muere en una Ventana,<br/>la experiencia de la muerte es real<br/>y regresa a la Habitación."]:::canon
-    ALIVE["Si vuelve a esa Ventana,<br/>está vivo en el instante exacto de su muerte.<br/>La contradicción no se explica aún."]:::canon
+    TIMEADV["Las Ventanas ausentes avanzan durante<br/>las horas que él duerme fuera de ellas;<br/>las horas despierto en otra no se suman."]:::canon
+    DEATH["Si muere en una Ventana,<br/>la muerte no activa el tránsito<br/>ni lo devuelve a la Habitación."]:::canon
     IDENTITY["La misma identidad/conciencia existe<br/>en las diez realidades; solo experimenta<br/>conscientemente una a la vez."]:::canon
-    FROZEN -. "regla al volver" .-> W
-    DEATH --> ALIVE
-    IDENTITY -. "pregunta abierta sobre la memoria" .-> MEM["La memoria entre Ventanas debe consolidarse<br/>en los documentos: algunos archivos la tratan<br/>como regla y otros aún como propuesta."]:::pending
+    MEM["Recuerda todo lo vivido en las demás Ventanas;<br/>no hereda automáticamente recuerdos<br/>de la versión local."]:::canon
+    TIMEADV -. "regla temporal al volver" .-> W
+    IDENTITY --> MEM
   end
 
   subgraph STORY["CÓMO SE CUENTA"]
@@ -80,8 +79,8 @@ flowchart TD
 - Hay exactamente diez Ventanas y la Habitación. Todas son reales para el protagonista mientras las experimenta; no sabe de antemano cuál sería una realidad «verdadera».
 - El sueño es el disparador, pero no basta por sí solo: deben haber transcurrido al menos 24 horas en la estancia correspondiente. Las 24 horas no significan que deba mantenerse despierto. Dormirse antes del mínimo no desplaza.
 - Después de cumplirse el mínimo, el siguiente sueño lo devuelve de una Ventana a la Habitación o lo lleva de la Habitación a una nueva Ventana. No elige conscientemente el destino.
-- La Habitación continúa en el tiempo; las Ventanas, según la regla temporal repetida en los archivos operativos, quedan congeladas cuando las abandona y se reanudan en el instante exacto cuando vuelve.
-- La muerte en una Ventana lo devuelve a la Habitación. Si vuelve a esa Ventana, está vivo en el instante exacto en que recuerda haber muerto. No explicar por qué.
+- La Habitación posee continuidad temporal propia durante su estancia. Las Ventanas ausentes avanzan durante las horas que él duerme fuera de ellas; las horas despierto en otras no se suman a sus relojes.
+- Morir en una Ventana no lo devuelve a la Habitación ni provoca otro tránsito. Para él, la muerte significa morir; no conoce una salida mediante ella.
 - La misma identidad/conciencia existe en las diez realidades, pero solo experimenta una conscientemente a la vez. La hipótesis de que la conciencia pueda existir separada del cuerpo y el cerebro funcionar como interfaz es una posibilidad filosófica de ficción, no una explicación científica demostrada.
 
 ## 3. Las diez Ventanas — inventario interno
@@ -115,7 +114,7 @@ El orden en que aparecen las Ventanas no indica su orden cronológico ni su impo
 
 ### Nudo crucial aún no resuelto
 
-Si una Ventana queda congelada al abandonarla, el cuerpo que deja allí no puede seguir deteriorándose durante su ausencia bajo esa misma regla. Aún falta decidir cómo la progresión de la enfermedad acompaña al protagonista y aparece en distintas realidades sin romper el congelamiento ni convertirlo en una excepción arbitraria.
+El reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella. Sigue pendiente diseñar con precisión cómo se refleja la progresión de la enfermedad en cuerpos y experiencias diferentes, manteniendo la preferencia de que el deterioro y el tiempo de vida perdido no se reinicien al cambiar de realidad.
 
 ## 5. Dirección narrativa y prólogo
 
@@ -142,12 +141,20 @@ Si una Ventana queda congelada al abandonarla, el cuerpo que deja allí no puede
 - Cada Ventana puede tener un conflicto local y coexistir con una dirección global de comprender el patrón y romperlo; la definición de objetivos concretos todavía está en desarrollo.
 - El sueño real compartido por el autor —desastre accidental en unas escaleras, soledad ante una responsabilidad imposible, culpa, persecución y terror— está disponible como inspiración emocional, no como trama obligatoria ni canon.
 
-## 8. Inconsistencias documentales que el mapa NO resuelve por su cuenta
+## 8. Estado de decisiones y preguntas que siguen abiertas
 
-1. **Tiempo de las Ventanas:** los apartados específicos de congelamiento en BIBLIA_MAESTRA.md, además de VENTANAS.md y REGLAS_NARRATIVAS.md, establecen que la Ventana queda congelada y se retoma en el instante exacto. Sin embargo, una sección posterior de BIBLIA_MAESTRA.md dice que el tiempo continúa avanzando durante la ausencia. Este mapa utiliza la regla específica de congelamiento, pero señala la frase contradictoria para futura limpieza documental.
-2. **Memoria entre realidades:** REGLAS_NARRATIVAS.md y VENTANAS.md la presentan como regla operativa, pero BIBLIA_MAESTRA.md, en su apartado de ideas recientes, aún la clasifica como posibilidad por explorar. La preferencia del autor es explorarla, pero el estado documental debe consolidarse.
-3. **Habitación como centro de investigación y objetivo global:** algunas reglas operativas hablan de comparar pistas e intentar romper el patrón, mientras BIBLIA_MAESTRA.md todavía agrupa parte de esa dirección bajo ideas recientes en exploración. No elegir aquí qué archivo debe cambiar: requiere una decisión editorial explícita.
-4. **Enfermedad y congelamiento:** la enfermedad está en IDEAS y no es canon. Su progresión entre Ventanas debe diseñarse sin quebrar la regla del tiempo congelado.
+Las aclaraciones siguientes fueron confirmadas por el autor el 2026-10-12 y deben reflejarse de forma consistente en los documentos operativos:
+1. **Tiempo en Ventanas ausentes:** avanzan las horas que el protagonista duerme fuera de ellas, no las horas que permanece despierto en otra Ventana.
+2. **Memoria:** recuerda todo lo vivido por él en las demás Ventanas, sin heredar automáticamente los recuerdos de la versión local.
+3. **Habitación:** es otra realidad en la que está encerrado al principio; no se explicará de inmediato su naturaleza ni el motivo del encierro.
+4. **Muerte:** no activa el tránsito. Si muere en una Ventana, muere allí; para él, morir es el final y no conoce una salida mediante la muerte.
+
+Pendientes que no se resuelven mediante estas aclaraciones:
+- El mecanismo específico de la enfermedad y la forma de representar su progresión física y mental a través de realidades.
+- Los síntomas concretos de la enfermedad y su asignación, si corresponde, a Ventanas específicas.
+- La naturaleza última de la conciencia, el origen de la Habitación y las razones por las que existe el sistema de Ventanas.
+- Los objetivos completos de las diez Ventanas y la forma de revelar gradualmente el objetivo o patrón global.
+- La revisión explícita de las asignaciones de Ventanas a los capítulos V3, ya que parte del mapa procede de la versión anterior.
 
 ## 9. Leyenda de estado
 
