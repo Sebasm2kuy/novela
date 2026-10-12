@@ -86,3 +86,54 @@ No reescribir el prólogo ni modificar capítulos solo a partir de esta explorac
 - **Problema abierto:** acumulación de cansancio, naturaleza del descanso y significado de los límites físicos.
 - **Canon modificado:** ninguno.
 - **Manuscrito modificado:** ninguno.
+
+
+## 10. Puesta en limpio conceptual — conciencia, sueño y agotamiento
+
+Esta sección ordena la hipótesis sin convertirla en canon.
+
+### 10.1. La conciencia no necesariamente termina cuando el cuerpo duerme
+La pregunta de fondo es si la conciencia es producida por el cerebro o si, dentro de la ficción, podría existir independientemente y utilizar el cerebro como receptor/interfaz para vivir una experiencia concreta.
+
+Si se explora la segunda posibilidad, el sueño podría no equivaler a una interrupción total de la conciencia: podría ser el mecanismo que permite pasar de una experiencia a otra. Esto es una premisa filosófica de ficción, no una afirmación científica demostrada ni una explicación cerrada de WNL.
+
+### 10.2. La continuidad de la memoria
+La preferencia exploratoria es que la misma conciencia conserva lo vivido y puede recordar aprendizajes de una experiencia al entrar en otra. Por tanto, no empieza de cero después de cada desplazamiento.
+
+Esto se refiere a sus propias experiencias acumuladas; no implica que obtenga automáticamente todos los recuerdos de la versión de sí mismo que existe en la nueva realidad. La forma exacta en que recuerda —con claridad, fragmentos, asociaciones o algún otro mecanismo— sigue abierta.
+
+### 10.3. El sueño puede desplazarlo sin ofrecerle un descanso reparador
+La dificultad que se quiere explorar es que el protagonista puede dormirse en una realidad y recuperar la conciencia en otra, pero seguir experimentando una continuidad mental. El cambio de escenario no garantiza por sí mismo que sienta haber descansado de verdad.
+
+La hipótesis dramática es que el cansancio no desaparezca simplemente por el hecho de haberse dormido o desplazado. Podría acumularse o persistir entre experiencias, deteriorando gradualmente su concentración, sus reflejos, su capacidad para decidir y sus posibilidades de sobrevivir. Todavía no está definido si se trataría de cansancio subjetivo que acompaña a la conciencia, de desgaste físico del cuerpo actual o de una combinación de ambos.
+
+### 10.4. Distinción crucial: conciencia, cuerpo y tiempo
+Hay tres cuestiones diferentes que no deben tratarse como si fueran la misma:
+
+- **Continuidad consciente:** sigue habiendo una experiencia subjetiva que enlaza lo que vivió antes con lo que vive ahora.
+- **Descanso corporal:** queda por decidir si el cuerpo de cada realidad recupera energía durante el sueño que precede al desplazamiento.
+- **Acumulación de cansancio:** queda por decidir si el cansancio puede acompañar a la conciencia a otra realidad, si depende del cuerpo que habita en ese momento o si funciona de otra manera.
+
+Esta distinción importa porque las reglas actuales dicen que una Ventana queda congelada cuando él la abandona y que, al regresar, vuelve al instante exacto en que se fue. Por tanto, no se debe asumir sin decidirlo que el cuerpo de una Ventana continúa envejeciendo o agotándose mientras él está ausente. Si el desgaste debe acumularse entre realidades, habrá que establecer cómo se manifiesta sin contradecir ese congelamiento.
+
+### 10.5. Qué significa que «el tiempo físico se acaba»
+La expresión apunta a una consecuencia real y peligrosa, no solo a que el protagonista esté cansado. Sin embargo, todavía hay que definir qué se está agotando exactamente: la capacidad física de seguir viviendo y actuando, la recuperación que su organismo necesita, un límite biológico de la vida que experimenta o algún vínculo entre tiempo vivido y desgaste.
+
+No decidirlo por adelantado. La idea es que la continuidad de la experiencia tenga un coste y que ese coste pueda ponerlo en peligro.
+
+### 10.6. Cómo puede descubrirlo el lector
+Al principio, el lector podría interpretar los cambios como sueños o despertares aleatorios. La diferencia se puede hacer perceptible de forma gradual: el protagonista recuerda experiencias que no siente como sueños ordinarios, arrastra consecuencias mentales de lo vivido y empieza a notar que el cansancio afecta lo que puede hacer. La narración no necesita explicar la teoría de la conciencia de inmediato; las consecuencias pueden aparecer antes que la explicación.
+
+### 10.7. Ejemplo de funcionamiento, sin añadir reglas nuevas
+Como esquema provisional: el protagonista vive una experiencia, se duerme cuando se cumple la condición temporal necesaria y despierta en otra realidad; conserva recuerdos de lo anterior y continúa viviendo. Si los desplazamientos no le ofrecen descanso suficiente, la continuidad podría convertirse en agotamiento acumulado. El ejemplo ilustra el problema narrativo, pero no fija aún el mecanismo físico.
+
+**Cuidado con las duraciones:** los valores de 4, 8, 12, 24 y 36 horas se mencionaron como ejemplos para pensar el problema, no como duración canon de cada Ventana. La regla vigente sigue exigiendo un mínimo de 24 horas antes de que dormir pueda producir el desplazamiento. Cualquier posible cambio a esa regla requeriría una decisión expresa del autor.
+
+### 10.8. Decisiones que siguen abiertas
+1. ¿El sueño que desencadena el desplazamiento no recupera energía, recupera solo una parte o sí proporciona descanso físico normal?
+2. ¿El cansancio se transfiere con la continuidad de la conciencia, depende del cuerpo de la realidad actual o combina ambas cosas?
+3. ¿Qué límite concreto representa que «el tiempo físico se acaba» y cómo se hace perceptible en escena?
+4. ¿Cómo se expresa el agotamiento sin contradecir que la Ventana abandonada queda congelada?
+5. ¿Las duraciones variables son solo una hipótesis de tiempo subjetivo o el autor quiere revisar en el futuro la regla canónica del mínimo de 24 horas?
+
+Hasta que el autor resuelva estas cuestiones, todo lo anterior continúa en `IDEAS/` como exploración y no modifica el canon ni el manuscrito.
