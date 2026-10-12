@@ -70,13 +70,13 @@ Los lapsos subjetivos acumulados pueden producir cansancio, culpa, desorientaci�
 
 # 8. Muerte y límites del tránsito
 
-Si el protagonista muere dentro de una Ventana, muere en esa experiencia. **La muerte no activa el tránsito, no lo devuelve a la Habitación ni sirve como forma de abandonar una realidad.**
+Si el protagonista muere dentro de una Ventana, **muere definitivamente**. Para él, morir es morir, como para cualquier ser humano: su experiencia consciente termina y no continúa en otra Ventana, no despierta en la Habitación ni obtiene una segunda oportunidad por medio de otra versión de sí mismo. La muerte no activa el tránsito, no lo devuelve a la Habitación ni sirve como forma de abandonar una realidad.
 
-Para él, morir significa morir; no conoce ninguna salida posible a través de la muerte y no debe planificarla ni entenderla como una alternativa al sueño. No existe una regla canónica que lo haga regresar vivo al instante exacto de su muerte.
+La muerte no es una alternativa al sueño ni un mecanismo de desplazamiento, reinicio, resurrección o transferencia de su experiencia. No existe una regla canónica que lo haga regresar vivo al instante exacto de su muerte.
 
-Mientras sigue vivo, conserva los recuerdos de lo vivido en las demás Ventanas. La continuidad de esos recuerdos no convierte la muerte en un mecanismo para transferir su experiencia a otro lugar.
+Mientras sigue vivo, conserva los recuerdos de lo vivido en las demás Ventanas. Esa continuidad de memoria no le concede continuidad después de morir.
 
-No explicar prematuramente qué es el protagonista ni qué ocurre después de la muerte en un sentido metafísico más amplio.
+La regla es definitiva para la experiencia del protagonista. No hace falta explicar de manera prematura la naturaleza última de las realidades ni la arquitectura que las sostiene.
 
 ## 9. Historia
 El protagonista no puede cambiar la historia de una ventana.
@@ -186,7 +186,13 @@ La continuidad debe reflejar que el reloj de una Ventana ausente avanza durante 
 
 El hecho de que el lector sepa que el protagonista puede volver no significa que sepa cuándo volverá.
 
-## 17. Misterios y asuntos todavía no definidos
+## 17. Continuidad de la enfermedad entre Ventanas
+
+La progresión de la enfermedad es independiente de la realidad o Ventana en la que se encuentre el protagonista. **El deterioro y las eventuales mejorías forman parte de un mismo curso continuo en todas las Ventanas**: cambiar de realidad no reinicia, borra, cura ni altera esa progresión, y el deterioro acumulado no retrocede por el mero hecho de desplazarse.
+
+Esta regla de continuidad está confirmada. Siguen en desarrollo la causa y naturaleza de la enfermedad, un posible diagnóstico, los síntomas concretos, su manifestación física o mental en cada experiencia y la forma narrativa de mostrar sus cambios. La enfermedad no explica el mecanismo de los desplazamientos.
+
+## 18. Misterios y asuntos todavía no definidos
 
 Las siguientes cuestiones siguen protegidas o en desarrollo; no deben recibir una explicación prematura:
 - qué es realmente el protagonista y cuál es la naturaleza última de su conciencia;
@@ -195,6 +201,6 @@ Las siguientes cuestiones siguen protegidas o en desarrollo; no deben recibir un
 - cuál es la arquitectura última de las diez Ventanas y por qué funciona el mecanismo de tránsito;
 - si la hipótesis de una conciencia independiente del cuerpo y un cerebro que actúa como receptor/interfaz será una explicación verdadera dentro de la ficción;
 - los objetivos completos de cada Ventana y la forma en que se revelará la dirección global de la novela;
-- el mecanismo, diagnóstico y síntomas de la enfermedad explorada en los archivos de IDEAS.
+- la causa, naturaleza, diagnóstico y síntomas concretos de la enfermedad; su progresión continua entre Ventanas ya está confirmada, pero su explicación médica y su representación siguen en desarrollo.
 
 Las reglas confirmadas sobre las horas de sueño en Ventanas ausentes, la memoria de experiencias anteriores, el carácter enigmático de la Habitación y la muerte como no-mecanismo de tránsito no deben volver a listarse como propuestas pendientes.
