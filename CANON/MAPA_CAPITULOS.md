@@ -163,3 +163,13 @@ El lector debe poder sentir que una visita tiene un propósito narrativo aunque 
 ## Terminología
 
 "Ventanas" es actualmente un término de arquitectura/autores. No exigir que el protagonista utilice esa palabra ni que comprenda las realidades con ese concepto.
+
+## Reglas temporales confirmadas — 2026-10-12
+
+- El reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella, no por las horas que permanece despierto en otra Ventana. Seis horas de sueño fuera equivalen a seis horas de avance en la Ventana ausente, aunque después permanezca despierto 24 o 36 horas en otra.
+- Al regresar, retoma el momento al que avanzó el reloj de esa Ventana; no necesariamente vuelve al instante exacto de salida.
+- Recuerda todo lo vivido por él en las demás Ventanas, sin heredar automáticamente los recuerdos personales de la versión local.
+- La Habitación es otra realidad donde está encerrado al principio; su naturaleza y el motivo del encierro no se explican de entrada.
+- Morir en una Ventana no activa el tránsito ni lo devuelve a la Habitación. Para él, morir significa morir; no conoce una salida mediante la muerte.
+
+La asignación histórica de Ventanas a capítulos que aparece arriba no debe imponerse automáticamente a la reescritura V3.
