@@ -865,3 +865,26 @@ A partir de la instrucción explícita del autor del 2026-10-09, **guardar en Gi
 
 Esta regla amplía la política de persistencia de ideas y versiones sin alterar las demás reglas de canon.
 
+# 24. PROTOCOLO OPERATIVO OBLIGATORIO DE CONTINUIDAD — NO BASTA CON RECORDAR LA REGLA
+
+La experiencia del autor mostró que tener una instrucción general de persistencia no garantiza que el historial se haya escrito. Por eso, para toda interacción de trabajo sobre WNL, se aplica este procedimiento verificable:
+
+1. **Antes de responder cuando se retoma un chat o se necesita continuidad**, leer el registro más reciente de `HISTORIAL_CHAT/` disponible y los archivos de ideas/canon relevantes. No asumir que el contenido del prompt demuestra que la conversación anterior quedó registrada.
+2. **Al finalizar cada turno sustantivo sobre WNL**, crear o actualizar el archivo cronológico del día en `HISTORIAL_CHAT/YYYY-MM-DD.md`. Registrar al menos la aportación del autor, la respuesta/conclusión de trabajo, las ideas nuevas, las decisiones, descartes y preguntas abiertas. Usar la zona horaria `America/Montevideo (UTC-03:00)` y no inventar horas que no estén disponibles.
+3. Distinguir explícitamente entre **USUARIO** y **ASISTENTE**. No es necesario copiar cada palabra si un resumen fiel conserva la idea, los motivos, el estado y las preguntas pendientes. Si el autor proporciona una transcripción recuperada, dejar claro qué parte fue recuperada y no fingir que se registró contemporáneamente.
+4. Mantener la información en el lugar adecuado: `HISTORIAL_CHAT/` para el recorrido de la conversación; `IDEAS/` para hipótesis y propuestas; `CANON/` únicamente para decisiones confirmadas. No sustituir el historial por una nota de ideas ni considerar que una cosa reemplaza a la otra.
+5. **Verificar la escritura** después de crear o actualizar: volver a leer el archivo o confirmar la ruta y el commit devueltos por GitHub. Solo entonces decir que quedó guardado.
+6. Si no se puede escribir o verificar el archivo, decirlo claramente en la respuesta final. No afirmar que se actualizó GitHub, ni dejar que el autor suponga que se hizo. Dar el motivo conocido y el paso necesario para resolverlo.
+7. La actualización del historial es parte del cierre de la tarea, no una tarea opcional posterior. Si la respuesta debe continuar en varios mensajes, registrar el turno sustantivo antes de darlo por terminado.
+8. Al inicio de un chat nuevo, revisar el historial cronológico más reciente antes de pedir al autor que repita información. Si el archivo de hoy no existe, buscar el último archivo disponible; su ausencia no autoriza a concluir que no hubo conversación.
+9. No se puede garantizar un guardado automático fuera de una interacción activa ni cuando la integración de GitHub no está disponible. Esta limitación debe comunicarse con honestidad; nunca simular una automatización inexistente.
+
+**Checklist obligatorio al cerrar un turno WNL:**
+- [ ] ¿Registré este turno en `HISTORIAL_CHAT/`?
+- [ ] ¿Separé aportación del autor y respuesta del asistente?
+- [ ] ¿Etiqueté propuestas frente a canon confirmado?
+- [ ] ¿Verifiqué que el archivo quedó en GitHub?
+- [ ] ¿Informé qué archivo se actualizó, o expliqué con claridad por qué no se pudo?
+
+Este protocolo se añade porque la regla anterior ya existía, pero no se ejecutó de forma consistente. La prioridad es la continuidad real y comprobable, no solo la presencia de instrucciones.
+
