@@ -60,32 +60,32 @@ Se pidió al autor que definiera, si le servía, dos dimensiones. A la fecha de 
 
 Estas opciones son herramientas para ordenar la conversación, no decisiones ni límites a otras soluciones posibles.
 
-## 7. Reglas canónicas que no deben confundirse con estas ideas
-El canon actual de sueño y desplazamiento permanece intacto:
+## 7. Reglas canónicas vigentes que contextualizan estas ideas
 - En cada Ventana deben transcurrir como mínimo 24 horas antes de que dormir pueda producir la salida. Puede dormir o estar despierto durante esas 24 horas; dormir antes del mínimo no desplaza.
 - En la Habitación también deben transcurrir como mínimo 24 horas antes de que dormir pueda producir un nuevo desplazamiento. Puede dormir o descansar durante ese período; dormir antes del mínimo no desplaza.
-- Cumplido el mínimo, el siguiente sueño produce automáticamente el desplazamiento correspondiente.
-- El destino no se elige conscientemente.
+- Cumplido el mínimo, el siguiente sueño produce automáticamente el desplazamiento correspondiente y el destino no se elige conscientemente.
+- El protagonista recuerda todo lo vivido por él en las demás Ventanas. No se ha establecido que pierda recuerdos; la forma en que la narración muestra su recuerdo debe respetar esta memoria completa y no convertirla en una amnesia entre Ventanas.
+- El reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella, no por las horas que permanece despierto en otras Ventanas. Si duerme seis horas fuera, esa Ventana avanza seis horas aunque luego permanezca despierto 24 o 36 horas en otra.
+- Morir en una Ventana no produce tránsito ni lo devuelve a la Habitación. Para él, morir es el final; no conoce una salida mediante la muerte.
 
-Las duraciones de 4, 8, 12, 24 o 36 horas mencionadas en la exploración del cansancio no sustituyen ni modifican la regla canónica de mínimo 24 horas.
+Las duraciones de 4, 8, 12, 24 o 36 horas mencionadas anteriormente fueron ejemplos para pensar en el tiempo subjetivo, no valores fijados para cada Ventana. La regla del mínimo de 24 horas se mantiene.
 
 ## 8. Próximo paso
-Resolver con las palabras del autor cómo se relacionan:
-1. conciencia;
-2. memoria acumulada;
-3. sueño y desplazamiento;
-4. descanso corporal;
-5. cansancio y límites físicos.
+Continuar explorando, sin convertir la enfermedad en canon, cómo se relacionan:
+1. la hipótesis filosófica de la conciencia con el sueño y el desplazamiento;
+2. la recuperación física durante el sueño;
+3. el cansancio acumulado y los límites del cuerpo;
+4. el tiempo de vida restante y los síntomas irregulares de la enfermedad.
 
 No reescribir el prólogo ni modificar capítulos solo a partir de esta exploración. No actualizar CANON hasta que el autor confirme una decisión concreta.
 
 ## 9. Resumen de estado
 - **Hipótesis exploratoria:** conciencia posiblemente independiente del cuerpo; cerebro como receptor/interfaz.
-- **Preferencia exploratoria elegida:** la conciencia conserva recuerdos y puede acceder a ellos entre realidades.
+- **Memoria confirmada como regla:** recuerda todo lo vivido por él en las demás Ventanas; no hereda automáticamente los recuerdos personales de la versión local.
 - **Posibilidad pendiente:** aprendizaje de otra experiencia podría ayudar a escapar de las instalaciones del capítulo 2; posible conexión espacial todavía no confirmada.
 - **Problema abierto:** acumulación de cansancio, naturaleza del descanso y significado de los límites físicos.
-- **Canon modificado:** ninguno.
-- **Manuscrito modificado:** ninguno.
+- **Actualización posterior (2026-10-12):** el canon operativo ya recoge las reglas de avance temporal durante el sueño, memoria entre Ventanas, Habitación enigmática y muerte no utilizable para transitar.
+- **Manuscrito modificado en esa actualización:** ninguno. La enfermedad sigue siendo exploratoria, no canon.
 
 
 ## 10. Puesta en limpio conceptual — conciencia, sueño y agotamiento
@@ -98,9 +98,9 @@ La pregunta de fondo es si la conciencia es producida por el cerebro o si, dentr
 Si se explora la segunda posibilidad, el sueño podría no equivaler a una interrupción total de la conciencia: podría ser el mecanismo que permite pasar de una experiencia a otra. Esto es una premisa filosófica de ficción, no una afirmación científica demostrada ni una explicación cerrada de WNL.
 
 ### 10.2. La continuidad de la memoria
-La preferencia exploratoria es que la misma conciencia conserva lo vivido y puede recordar aprendizajes de una experiencia al entrar en otra. Por tanto, no empieza de cero después de cada desplazamiento.
+La regla confirmada es que el protagonista recuerda todo lo vivido por él en las demás Ventanas. No empieza de cero después de cada desplazamiento. Esto no implica que reciba automáticamente los recuerdos propios de la versión local de sí mismo.
 
-Esto se refiere a sus propias experiencias acumuladas; no implica que obtenga automáticamente todos los recuerdos de la versión de sí mismo que existe en la nueva realidad. La forma exacta en que recuerda —con claridad, fragmentos, asociaciones o algún otro mecanismo— sigue abierta.
+Esto se refiere a sus propias experiencias acumuladas y no a los recuerdos personales de la versión local. El canon confirma que recuerda todo lo vivido por él; la puesta en escena puede decidir cómo afloran esos recuerdos sin negar que la memoria de las otras Ventanas persiste.
 
 ### 10.3. El sueño puede desplazarlo sin ofrecerle un descanso reparador
 La dificultad que se quiere explorar es que el protagonista puede dormirse en una realidad y recuperar la conciencia en otra, pero seguir experimentando una continuidad mental. El cambio de escenario no garantiza por sí mismo que sienta haber descansado de verdad.
@@ -114,7 +114,7 @@ Hay tres cuestiones diferentes que no deben tratarse como si fueran la misma:
 - **Descanso corporal:** queda por decidir si el cuerpo de cada realidad recupera energía durante el sueño que precede al desplazamiento.
 - **Acumulación de cansancio:** queda por decidir si el cansancio puede acompañar a la conciencia a otra realidad, si depende del cuerpo que habita en ese momento o si funciona de otra manera.
 
-Esta distinción importa porque las reglas actuales dicen que una Ventana queda congelada cuando él la abandona y que, al regresar, vuelve al instante exacto en que se fue. Por tanto, no se debe asumir sin decidirlo que el cuerpo de una Ventana continúa envejeciendo o agotándose mientras él está ausente. Si el desgaste debe acumularse entre realidades, habrá que establecer cómo se manifiesta sin contradecir ese congelamiento.
+Esta distinción importa porque el reloj de una Ventana ausente avanza durante las horas que él duerme fuera de ella, no por todas las horas que permanece despierto en otras Ventanas. La progresión local del tiempo puede afectar los cuerpos que quedan en esas realidades durante el sueño transcurrido; todavía queda por definir el mecanismo específico de la enfermedad y cómo su deterioro y el tiempo de vida restante se manifiestan en los distintos cuerpos.
 
 ### 10.5. Qué significa que «el tiempo físico se acaba»
 La expresión apunta a una consecuencia real y peligrosa, no solo a que el protagonista esté cansado. Sin embargo, todavía hay que definir qué se está agotando exactamente: la capacidad física de seguir viviendo y actuando, la recuperación que su organismo necesita, un límite biológico de la vida que experimenta o algún vínculo entre tiempo vivido y desgaste.
@@ -133,7 +133,7 @@ Como esquema provisional: el protagonista vive una experiencia, se duerme cuando
 1. ¿El sueño que desencadena el desplazamiento no recupera energía, recupera solo una parte o sí proporciona descanso físico normal?
 2. ¿El cansancio se transfiere con la continuidad de la conciencia, depende del cuerpo de la realidad actual o combina ambas cosas?
 3. ¿Qué límite concreto representa que «el tiempo físico se acaba» y cómo se hace perceptible en escena?
-4. ¿Cómo se expresa el agotamiento sin contradecir que la Ventana abandonada queda congelada?
+4. ¿Cómo se expresa el agotamiento teniendo en cuenta que una Ventana ausente avanza durante las horas que él duerme fuera de ella, pero no durante las horas que permanece despierto en otras?
 5. ¿Las duraciones variables son solo una hipótesis de tiempo subjetivo o el autor quiere revisar en el futuro la regla canónica del mínimo de 24 horas?
 
 Hasta que el autor resuelva estas cuestiones, todo lo anterior continúa en `IDEAS/` como exploración y no modifica el canon ni el manuscrito.
@@ -175,12 +175,12 @@ Estas preferencias orientan la exploración, pero no fijan todavía el mecanismo
 Cada cambio de realidad debería llevarlo a otra experiencia, no ofrecerle una cura ni un reinicio. La enfermedad puede hacer que cada decisión y cada período vivido tengan un coste; el peligro es que el protagonista no disponga de tiempo ilimitado para resolver lo que le ocurre.
 
 ### Nudo de coherencia todavía abierto
-El canon vigente establece que una Ventana queda congelada en el instante en que el protagonista la abandona y que, al regresar, retoma ese mismo instante. Por tanto, aún hay que resolver cómo puede «continuar» el deterioro sin asumir que el cuerpo de una Ventana se deteriora mientras él está ausente.
+El canon vigente establece que el reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella, pero no por las horas que permanece despierto en otras. Sigue abierto cómo relacionar ese avance temporal local con la preferencia exploratoria de que la enfermedad y el tiempo de vida perdido continúen al cambiar de realidad.
 
 Posibles modelos para comparar, no decisiones:
-1. **La progresión acompaña a la conciencia:** al entrar en otra realidad, el cuerpo que habita refleja la etapa alcanzada por la enfermedad. Queda por explicar qué ocurre al regresar a una Ventana congelada.
+1. **La progresión acompaña a la conciencia:** al entrar en otra realidad, el cuerpo que habita refleja la etapa alcanzada por la enfermedad. Debe respetar que el reloj de la Ventana ausente avanza durante las horas que él duerme fuera de ella.
 2. **La enfermedad avanza por etapas en cada cuerpo:** el protagonista conserva una cuenta regresiva subjetiva, pero cada Ventana tiene un estado corporal propio. Este modelo podría debilitar la idea de que cambiar no le devuelve tiempo, según cómo se resuelva.
-3. **Existe una regla de sincronización entre la enfermedad y las Ventanas:** la progresión se conserva al desplazarse y se manifiesta al volver, sin que la Ventana avance durante su ausencia. Habría que definir esa regla con cuidado para que no parezca una excepción arbitraria al congelamiento.
+3. **Existe una regla de sincronización entre la enfermedad y las Ventanas:** la progresión se conserva al desplazarse y se manifiesta al volver, teniendo en cuenta que una Ventana ausente avanza durante las horas que él duerme fuera de ella, no durante las horas que permanece despierto en otra.
 4. **Todavía no decidir el mecanismo:** mantener solo el efecto dramático deseado —no hay reinicio ni salvación— y explorar escenas antes de elegir una explicación.
 
 No elegir automáticamente ninguno de estos modelos. El siguiente paso es aclarar qué debe conservarse exactamente entre realidades: el grado visible de deterioro, el tiempo de vida que le queda, la intensidad de los síntomas o una combinación. Tampoco se ha decidido si el cansancio es síntoma de la enfermedad o un fenómeno distinto.
@@ -202,10 +202,10 @@ Las aparentes mejoras podrían ofrecerle esperanza —o hacer que él y otros in
 2. ¿Los empeoramientos bruscos se desencadenan por esfuerzo, estrés, falta de descanso u otras circunstancias, o no se identifica una causa clara?
 3. ¿Qué señal permite medir que el tiempo de vida se reduce, sin convertirlo en una cuenta numérica demasiado explícita?
 4. ¿La enfermedad tiene síntomas reconocibles en todas las realidades, aunque su intensidad fluctúe?
-5. ¿Cómo se representa el avance persistente al volver a una Ventana congelada en el instante de salida?
+5. ¿Cómo se representa el avance persistente al volver a una Ventana cuyo reloj solo ha avanzado durante las horas que él durmió fuera de ella?
 
 ### Límite de continuidad
-La preferencia de que la enfermedad y el tiempo de vida restante continúen debe coexistir con la regla vigente de que las Ventanas se congelan al abandonarlas. El mecanismo sigue abierto: no se ha escogido entre una progresión ligada a la conciencia, una sincronización de estados entre Ventanas u otra solución. No inventar una explicación ni tratar estas opciones como canon.
+La preferencia de que la enfermedad y el tiempo de vida restante continúen debe coexistir con la regla de que una Ventana ausente avanza durante las horas que él duerme fuera de ella, no durante todas las horas que permanece despierto en otras. El mecanismo específico de la enfermedad sigue abierto; no se ha escogido una explicación definitiva ni se deben tratar los modelos propuestos como canon.
 
 No modificar archivos de CANON ni el manuscrito a partir de esta exploración.
 
@@ -221,7 +221,7 @@ Una opción narrativa es distinguir entre lo que se ve y lo que se está perdien
 - **Síntomas visibles:** fluctúan; puede haber una mejoría que parezca auténtica y luego una recaída brusca.
 - **Coste acumulado:** no retrocede, aunque él parezca encontrarse mejor. La mejoría no equivale a recuperar el tiempo de vida perdido.
 
-Esto daría una regla dramática sencilla: los síntomas pueden engañarlo; el coste no se borra. Queda por resolver cómo se expresa esa continuidad corporal sin contradecir el congelamiento de las Ventanas.
+Esto daría una regla dramática sencilla: los síntomas pueden engañarlo; el coste no se borra. Queda por resolver cómo se expresa esa continuidad corporal en cada Ventana y cómo se relaciona con las horas que avanzan mientras él duerme fuera.
 
 ### B. Tres estilos posibles de manifestación
 1. **El depredador silencioso:** señales pequeñas y fáciles de ignorar al principio; después, episodios que revelan que algo grave lleva tiempo avanzando.
@@ -240,13 +240,15 @@ Las crisis pueden parecer impredecibles al principio, pero al mirar atrás el pr
 
 No es necesario fijar un desencadenante ahora. Es posible que el protagonista busque correlaciones equivocadas antes de comprender qué señales son fiables.
 
-### E. La tensión con el congelamiento de las Ventanas
-Hay una dificultad estructural que ninguna lluvia de ideas debe ocultar:
-- Si una Ventana queda congelada al abandonarla, el cuerpo que queda allí no debería seguir deteriorándose durante su ausencia.
-- Si al regresar todo retoma exactamente el estado del momento de partida, la enfermedad parecería retroceder localmente, aunque el tiempo de vida global no se haya recuperado.
-- Para sostener la preferencia de un deterioro y un tiempo restante que persisten, hará falta decidir si la enfermedad sigue una continuidad común a través de los cuerpos, si las distintas manifestaciones corporales son estados diferentes de una misma progresión, o si existe otra regla. Cualquiera de esas soluciones puede afectar cómo se entiende el congelamiento, así que no debe introducirse como si fuera gratis.
+### E. La tensión entre enfermedad y tiempo de las Ventanas
+Hay una dificultad de diseño, pero ya no consiste en que las Ventanas queden totalmente congeladas:
+- El reloj de una Ventana ausente avanza durante las horas que él duerme fuera de ella.
+- Las horas que permanece despierto en otra Ventana no se suman al reloj de la Ventana ausente; por eso el tiempo subjetivo del protagonista puede ser mucho mayor que el avance local de esa realidad.
+- La enfermedad se quiere persistente entre realidades: cambiar no debe salvarlo ni devolverle el tiempo de vida perdido.
 
-**No se ha seleccionado una explicación.** Las opciones anteriores son material de brainstorming del asistente; no son decisiones del autor, canon ni cambios del manuscrito.
+Queda por definir cómo se relaciona esa progresión común con los diferentes cuerpos, síntomas y relojes locales. No asumir que cada cuerpo comparte automáticamente todos los síntomas ni inventar una regla de sincronización sin decisión del autor.
+
+**No se ha seleccionado un mecanismo médico definitivo.****No se ha seleccionado una explicación.** Las opciones anteriores son material de brainstorming del asistente; no son decisiones del autor, canon ni cambios del manuscrito.
 
 
 ## 15. Preferencia dramática del autor — la enfermedad le roba tiempo y capacidad de actuar
@@ -273,7 +275,7 @@ La esperanza no tiene por qué ser una ilusión completa: la mejoría puede sent
 2. ¿Cómo expresa el cuerpo que ya no puede actuar: debilidad, coordinación, respiración, confusión u otro efecto aún por decidir?
 3. ¿La enfermedad impide acciones físicas concretas, afecta también su capacidad para pensar y decidir, o ambas?
 4. ¿Qué patrón oculto podría unir las mejorías y las recaídas sin volverlas predecibles?
-5. ¿Cómo se mantiene la continuidad del deterioro entre realidades respetando que las Ventanas se congelan cuando él las abandona?
+5. ¿Cómo se representa la continuidad del deterioro entre cuerpos, dado que las Ventanas ausentes avanzan durante sus horas de sueño y no durante todas las horas que permanece despierto en otras?
 
 Estas ideas describen el efecto emocional deseado; no constituyen reglas confirmadas. No actualizar CANON ni modificar el manuscrito por esta exploración.
 
@@ -300,7 +302,7 @@ La idea es que la manifestación más dramáticamente relevante dependa de la si
 ### Preguntas abiertas
 1. ¿Las manifestaciones dependen del cuerpo y contexto de cada Ventana, o existe también un patrón reconocible que se repite entre ellas?
 2. ¿Qué formas concretas de deterioro físico y cognitivo encajan con cada experiencia, una vez revisadas sus tramas?
-3. ¿Cómo hacer perceptible el avance persistente y el tiempo de vida perdido sin contradecir que una Ventana queda congelada al ser abandonada?
+3. ¿Cómo hacer perceptible el avance persistente y el tiempo de vida perdido, teniendo en cuenta que las Ventanas ausentes solo avanzan durante las horas que él duerme fuera de ellas?
 4. ¿Qué señales podrían advertir al lector del patrón antes de que el protagonista lo comprenda?
 
 No se han asignado síntomas a ninguna Ventana concreta. No modificar los archivos de CANON ni el manuscrito a partir de esta preferencia.
