@@ -42,7 +42,7 @@ flowchart TD
 
   subgraph RULES["OTRAS REGLAS DEL MUNDO"]
     TIMEADV["Las Ventanas ausentes avanzan durante<br/>las horas que él duerme fuera de ellas;<br/>las horas despierto en otra no se suman."]:::canon
-    DEATH["Si muere en una Ventana,<br/>la muerte no activa el tránsito<br/>ni lo devuelve a la Habitación."]:::canon
+    DEATH["Si muere en una Ventana,<br/>muere definitivamente:<br/>no continúa en otra Ventana."]:::canon
     IDENTITY["La misma identidad/conciencia existe<br/>en las diez realidades; solo experimenta<br/>conscientemente una a la vez."]:::canon
     MEM["Recuerda todo lo vivido en las demás Ventanas;<br/>no hereda automáticamente recuerdos<br/>de la versión local."]:::canon
     TIMEADV -. "regla temporal al volver" .-> W
@@ -80,7 +80,7 @@ flowchart TD
 - El sueño es el disparador, pero no basta por sí solo: deben haber transcurrido al menos 24 horas en la estancia correspondiente. Las 24 horas no significan que deba mantenerse despierto. Dormirse antes del mínimo no desplaza.
 - Después de cumplirse el mínimo, el siguiente sueño lo devuelve de una Ventana a la Habitación o lo lleva de la Habitación a una nueva Ventana. No elige conscientemente el destino.
 - La Habitación posee continuidad temporal propia durante su estancia. Las Ventanas ausentes avanzan durante las horas que él duerme fuera de ellas; las horas despierto en otras no se suman a sus relojes.
-- Morir en una Ventana no lo devuelve a la Habitación ni provoca otro tránsito. Para él, la muerte significa morir; no conoce una salida mediante ella.
+- Morir en una Ventana es definitivo. Su experiencia consciente termina; no continúa en otra Ventana ni despierta en la Habitación.
 - La misma identidad/conciencia existe en las diez realidades, pero solo experimenta una conscientemente a la vez. La hipótesis de que la conciencia pueda existir separada del cuerpo y el cerebro funcionar como interfaz es una posibilidad filosófica de ficción, no una explicación científica demostrada.
 
 ## 3. Las diez Ventanas — inventario interno
@@ -102,7 +102,7 @@ Estos son los conceptos registrados en CANON/VENTANAS.md. **No deben asignarse a
 
 El orden en que aparecen las Ventanas no indica su orden cronológico ni su importancia. Una misma Ventana puede reaparecer en varios capítulos.
 
-## 4. Enfermedad — todo lo elegido hasta ahora, todavía no canon
+## 4. Enfermedad — continuidad confirmada; detalles médicos en desarrollo
 
 - La misma enfermedad está presente en todas las realidades; cambiar no lo salva, no reinicia el deterioro ni devuelve el tiempo de vida perdido.
 - Su manifestación será irregular: puede mejorar aparentemente y empeorar bruscamente.
@@ -112,9 +112,9 @@ El orden en que aparecen las Ventanas no indica su orden cronológico ni su impo
 - Los síntomas pueden fluctuar, pero la preferencia es que el deterioro y el tiempo perdido no retrocedan.
 - No se han elegido nombre, diagnóstico, síntomas fijos, desencadenantes ni mecanismo médico.
 
-### Nudo crucial aún no resuelto
+### Continuidad confirmada; desarrollo médico pendiente
 
-El reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella. La progresión de la enfermedad sigue el mismo curso en todas las Ventanas; cambiar de realidad no la reinicia ni devuelve el deterioro acumulado. Siguen pendientes la causa, el diagnóstico y los síntomas concretos.
+La progresión de la enfermedad sigue el mismo curso en todas las Ventanas. El deterioro y las eventuales mejorías no se reinician ni cambian al pasar a otra realidad; cambiar de Ventana no lo cura ni le devuelve el deterioro acumulado o el tiempo de vida perdido. Siguen pendientes la causa y naturaleza de la enfermedad, el diagnóstico y los síntomas concretos, así como la manera de representar sus manifestaciones físicas y mentales.
 
 ## 5. Dirección narrativa y prólogo
 
@@ -147,7 +147,7 @@ Las aclaraciones siguientes fueron confirmadas por el autor el 2026-10-12 y debe
 1. **Tiempo en Ventanas ausentes:** avanzan las horas que el protagonista duerme fuera de ellas, no las horas que permanece despierto en otra Ventana.
 2. **Memoria:** recuerda todo lo vivido por él en las demás Ventanas, sin heredar automáticamente los recuerdos de la versión local.
 3. **Habitación:** es otra realidad en la que está encerrado al principio; no se explicará de inmediato su naturaleza ni el motivo del encierro.
-4. **Muerte:** no activa el tránsito. Si muere en una Ventana, muere en esa experiencia; para él, morir es el final y no conoce una salida mediante la muerte.
+4. **Muerte:** es definitiva. Si muere en una Ventana, su experiencia consciente termina; no continúa en otra Ventana ni despierta en la Habitación.
 
 Pendientes que no se resuelven mediante estas aclaraciones:
 - El mecanismo específico de la enfermedad y la forma de representar su progresión física y mental a través de realidades.
@@ -171,7 +171,7 @@ Estas cuatro reglas están confirmadas y deben primar sobre cualquier descripci�
 1. El reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella; las horas que permanece despierto en otra no se suman. Seis horas de sueño fuera equivalen a seis horas de avance local.
 2. Recuerda todo lo vivido por él en las demás Ventanas, sin heredar automáticamente los recuerdos personales de la versión local.
 3. La Habitación es otra realidad donde está encerrado al principio; su naturaleza y el motivo del encierro no se explican de entrada.
-4. Morir en una Ventana no activa el tránsito ni lo devuelve a la Habitación. Para él, morir es morir; no conoce una salida mediante la muerte.
+4. Morir en una Ventana es definitivo: su experiencia consciente termina y no continúa en otra Ventana ni despierta en la Habitación.
 
 La continuidad de la progresión de la enfermedad entre Ventanas está confirmada. Su causa, diagnóstico, síntomas concretos y manifestaciones narrativas siguen en desarrollo.
 
