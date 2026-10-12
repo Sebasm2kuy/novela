@@ -64,7 +64,7 @@ flowchart TD
     I3["Evolución irregular:<br/>aparentes mejoras y recaídas bruscas."]:::idea
     I4["Puede afectar cuerpo, mente<br/>o ambos, según lo que requiera cada Ventana."]:::idea
     I5["Efecto dramático: hace creer que todavía hay tiempo<br/>y puede impedirle actuar cuando más lo necesita."]:::idea
-    I6["Problema sin resolver: cómo persiste el deterioro<br/>sin contradecir las Ventanas congeladas."]:::pending
+    I6["Problema sin resolver: cómo progresa la enfermedad<br/>entre cuerpos con relojes locales distintos."]:::pending
     I1 --> I2 --> I3 --> I4 --> I5
     I2 -. "requiere coherencia temporal" .-> I6
   end
@@ -136,8 +136,8 @@ El reloj de una Ventana ausente avanza durante las horas que el protagonista due
 ## 7. Hipótesis relacionadas, pero aún no canonizadas
 
 - La conciencia podría existir de algún modo independiente del cuerpo y el cerebro actuar como receptor/interfaz. Es una premisa de ficción que se explora, no un hecho científico demostrado.
-- El protagonista podría conservar recuerdos y aprendizajes de sus experiencias entre realidades. El autor ha preferido explorar esa posibilidad, pero los archivos del repositorio no la clasifican de manera uniforme.
-- La Habitación podría servir como espacio para anotar, comparar recuerdos, estudiar pistas y elaborar hipótesis. Su función como «centro de investigación» no está etiquetada de forma uniforme en todos los archivos.
+- Está confirmado en CANON que el protagonista recuerda todo lo vivido por él en las demás Ventanas. Eso no implica heredar automáticamente los recuerdos personales de la versión local.
+- La Habitación está confirmada como otra realidad donde el protagonista está encerrado al principio; no se explicará inicialmente qué es ni por qué está allí. Que más adelante registre o compare pistas puede desarrollarse orgánicamente, pero no hay que presentarla desde el comienzo como un centro de investigación que él comprende.
 - Cada Ventana puede tener un conflicto local y coexistir con una dirección global de comprender el patrón y romperlo; la definición de objetivos concretos todavía está en desarrollo.
 - El sueño real compartido por el autor —desastre accidental en unas escaleras, soledad ante una responsabilidad imposible, culpa, persecución y terror— está disponible como inspiración emocional, no como trama obligatoria ni canon.
 
@@ -147,7 +147,7 @@ Las aclaraciones siguientes fueron confirmadas por el autor el 2026-10-12 y debe
 1. **Tiempo en Ventanas ausentes:** avanzan las horas que el protagonista duerme fuera de ellas, no las horas que permanece despierto en otra Ventana.
 2. **Memoria:** recuerda todo lo vivido por él en las demás Ventanas, sin heredar automáticamente los recuerdos de la versión local.
 3. **Habitación:** es otra realidad en la que está encerrado al principio; no se explicará de inmediato su naturaleza ni el motivo del encierro.
-4. **Muerte:** no activa el tránsito. Si muere en una Ventana, muere allí; para él, morir es el final y no conoce una salida mediante la muerte.
+4. **Muerte:** no activa el tránsito. Si muere en una Ventana, muere en esa experiencia; para él, morir es el final y no conoce una salida mediante la muerte.
 
 Pendientes que no se resuelven mediante estas aclaraciones:
 - El mecanismo específico de la enfermedad y la forma de representar su progresión física y mental a través de realidades.
