@@ -6816,5 +6816,5 @@ Y finalmente comprobar que cada expansión produzca experiencia, consecuencia o 
 - **Tiempo en Ventanas ausentes:** el reloj avanza durante las horas que el protagonista duerme fuera de ellas, no durante todas las horas que permanece despierto en otra Ventana. Seis horas de sueño fuera equivalen a seis horas de avance local.
 - **Memoria:** recuerda todo lo vivido por él en las demás Ventanas; esto no le entrega automáticamente los recuerdos personales de la versión local.
 - **Habitación:** es otra realidad donde está encerrado al principio. No explicar de entrada qué es ni por qué está allí, ni presentarla inicialmente como un centro de investigación que él entiende.
-- **Muerte:** morir en una Ventana no activa el tránsito ni lo devuelve a la Habitación. Para él, morir significa morir; no conoce una salida mediante la muerte.
-- **Enfermedad:** sigue en IDEAS, no en canon. Su continuidad entre cuerpos y relojes locales es un problema creativo abierto.
+- **Muerte:** morir en una Ventana es definitivo. Su experiencia consciente termina; no continúa en otra Ventana ni despierta en la Habitación. La muerte no es tránsito ni segunda oportunidad.
+- **Enfermedad:** la continuidad de su progresión entre Ventanas está confirmada; no se reinicia ni cambia por el cambio de realidad. La causa, los síntomas concretos y sus manifestaciones siguen en desarrollo dentro de IDEAS.
