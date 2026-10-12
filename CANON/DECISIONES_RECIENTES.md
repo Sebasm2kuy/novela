@@ -121,4 +121,15 @@ Es otra realidad en la que está encerrado al principio. No se explica de inmedi
 Si muere dentro de una Ventana, muere en esa experiencia. La muerte no activa el tránsito, no lo devuelve a la Habitación y no es una forma de abandonar una realidad. Para él, morir significa morir; no conoce ninguna salida mediante la muerte. Se descarta como regla el retorno vivo al instante exacto de su muerte.
 
 ### Límite de esta actualización
-La enfermedad común a todas las realidades sigue siendo una idea en exploración. No se modifican el manuscrito ni el canon médico; su mecanismo y manifestación entre cuerpos siguen abiertos.
+La continuidad de la progresión de la enfermedad entre Ventanas ya está confirmada: sigue un mismo curso, sin reinicios ni alteraciones por el cambio de realidad. La causa, el diagnóstico, los síntomas concretos y su manifestación entre cuerpos siguen en desarrollo. No se modificó el manuscrito.
+
+
+## Confirmación del autor — 2026-10-12 — Muerte definitiva y continuidad de la enfermedad
+
+### Muerte
+El autor confirma que para el protagonista morir es definitivo, igual que para cualquier ser humano. Aunque viva experiencias en distintas realidades, nunca ha muerto antes: si muere, su experiencia consciente termina. No pasa a otra Ventana ni despierta en la Habitación; morir no sirve como tránsito, reinicio, resurrección ni segunda oportunidad.
+
+### Enfermedad
+El autor aclara que el deterioro y las eventuales mejorías no dependen de la realidad o Ventana. La enfermedad sigue el mismo curso continuo en todas: cambiar de realidad no reinicia ni altera su progresión, no lo cura ni le devuelve el deterioro o el tiempo de vida perdidos. Quedan por desarrollar la causa, naturaleza, diagnóstico y síntomas concretos, así como su manifestación narrativa. Esta regla de continuidad no significa que la enfermedad explique los desplazamientos.
+
+La regla sobre la muerte queda confirmada como canon. La continuidad entre Ventanas de la enfermedad también queda confirmada; los detalles médicos y narrativos específicos continúan en desarrollo. No se modificó el manuscrito.
