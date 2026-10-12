@@ -138,9 +138,14 @@ Cada Ventana puede tener un conflicto local. Los objetivos concretos de las diez
 
 ## Muerte
 
-Si el protagonista muere dentro de una Ventana, muere en esa experiencia. La muerte no activa el tránsito, no lo devuelve a la Habitación y no es una forma de abandonar la realidad. Para él, morir significa morir; no conoce ninguna salida posible por medio de la muerte. No hay una regla canónica de retorno vivo al instante exacto de su muerte.
+Si el protagonista muere dentro de una Ventana, muere definitivamente. Para él, morir es morir, como para cualquier ser humano: su experiencia consciente termina y no continúa en otra Ventana ni despierta en la Habitación. La muerte no activa el tránsito, no es una forma de abandonar una realidad y no permite reiniciar, resucitar o transferir su experiencia a otra versión de sí mismo. No hay retorno vivo al instante exacto de la muerte.
 
 Mientras está vivo, conserva los recuerdos de lo vivido en otras Ventanas. Esa memoria no hace de la muerte un mecanismo de transferencia.
+
+
+## Continuidad de la enfermedad entre Ventanas
+
+La enfermedad sigue un mismo curso continuo sin importar en qué realidad o Ventana se encuentre el protagonista. El deterioro y las eventuales mejorías no se reinician ni cambian por el desplazamiento; cambiar de Ventana no lo cura ni devuelve el deterioro acumulado. Esta continuidad está confirmada. La causa, el diagnóstico, los síntomas concretos y la forma en que se manifiesta en cada experiencia continúan en desarrollo; la enfermedad no explica el mecanismo de los viajes.
 
 ## Misterios que siguen abiertos
 
