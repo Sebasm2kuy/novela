@@ -276,3 +276,31 @@ La esperanza no tiene por qué ser una ilusión completa: la mejoría puede sent
 5. ¿Cómo se mantiene la continuidad del deterioro entre realidades respetando que las Ventanas se congelan cuando él las abandona?
 
 Estas ideas describen el efecto emocional deseado; no constituyen reglas confirmadas. No actualizar CANON ni modificar el manuscrito por esta exploración.
+
+
+## 16. Preferencia exploratoria — manifestaciones físicas y mentales según la Ventana
+
+**Estado: preferencia del autor para seguir explorando; NO CANON.**
+
+El autor decidió explorar que la enfermedad pueda afectar **tanto al cuerpo como a la mente**, y que cada dimensión resulte útil según la Ventana en la que se encuentre el protagonista.
+
+Posibilidades a explorar, sin asignarlas todavía a Ventanas concretas:
+- **Manifestación física:** su cuerpo puede no responder cuando necesita actuar; podría limitar su fuerza, coordinación, movilidad o capacidad de reaccionar.
+- **Manifestación cognitiva:** puede afectarle la claridad mental, la concentración, la memoria de trabajo o la capacidad de pensar y decidir en un momento crítico.
+- **Manifestación combinada:** una crisis puede afectar simultáneamente las capacidades físicas y mentales.
+
+La idea es que la manifestación más dramáticamente relevante dependa de la situación de cada Ventana. No hay que asignar síntomas específicos a las Ventanas sin revisar primero sus historias vigentes; tampoco debe parecer que el autor puede escoger cualquier síntoma solo para forzar una escena. Cuando se desarrollen, las manifestaciones deberían guardar coherencia con la situación, el cuerpo y el arco de esa experiencia, a la vez que reflejan la misma enfermedad subyacente.
+
+### Núcleo dramático que permanece
+- La enfermedad y el deterioro, así como la reducción del tiempo de vida, continúan entre realidades; el cambio no lo salva ni le devuelve el tiempo perdido.
+- La progresión aparente es irregular: puede haber mejorías aparentes y empeoramientos bruscos.
+- La enfermedad puede quitarle la capacidad de actuar justo cuando más la necesita y hacerle creer que todavía dispone de tiempo cuando casi no le queda.
+- No debe explicar el mecanismo de los desplazamientos.
+
+### Preguntas abiertas
+1. ¿Las manifestaciones dependen del cuerpo y contexto de cada Ventana, o existe también un patrón reconocible que se repite entre ellas?
+2. ¿Qué formas concretas de deterioro físico y cognitivo encajan con cada experiencia, una vez revisadas sus tramas?
+3. ¿Cómo hacer perceptible el avance persistente y el tiempo de vida perdido sin contradecir que una Ventana queda congelada al ser abandonada?
+4. ¿Qué señales podrían advertir al lector del patrón antes de que el protagonista lo comprenda?
+
+No se han asignado síntomas a ninguna Ventana concreta. No modificar los archivos de CANON ni el manuscrito a partir de esta preferencia.
