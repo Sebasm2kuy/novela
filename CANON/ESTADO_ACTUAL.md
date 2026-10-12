@@ -130,11 +130,11 @@ El autor confirmó y aclaró los siguientes puntos, que deben mantenerse consist
 - **Tiempo en Ventanas ausentes:** avanza durante las horas que el protagonista duerme fuera de cada Ventana; no avanza por todas las horas que permanece despierto en otra. Seis horas dormidas fuera equivalen a seis horas de avance en la Ventana ausente, aunque él esté despierto 24 o 36 horas en otra.
 - **Memoria:** recuerda todo lo vivido por él en las demás Ventanas. Esto no significa que reciba automáticamente los recuerdos propios de la versión local que existe en cada una.
 - **Habitación:** es otra realidad donde está encerrado al principio. No se explicará de inmediato qué es ni por qué está allí.
-- **Muerte:** morir en una Ventana no activa un desplazamiento ni lo devuelve a la Habitación. Para él, morir significa morir; no conoce una salida mediante la muerte.
+- **Muerte:** morir en una Ventana es definitivo. Su experiencia consciente termina; no continúa en otra Ventana ni despierta en la Habitación. La muerte no activa tránsito ni ofrece una segunda oportunidad.
 
 ## Cuestiones aún en exploración
 
 - La hipótesis de que la conciencia pueda existir independientemente del cuerpo y que el cerebro funcione como receptor/interfaz.
 - Los objetivos concretos de cada Ventana y la revelación gradual de la dirección global de la novela.
-- La enfermedad que aparece en IDEAS: sus síntomas, mecanismo y modo de representar su progresión entre realidades.
+- La enfermedad: su progresión continua y persistente en todas las Ventanas está confirmada; siguen pendientes la causa, naturaleza, diagnóstico, síntomas concretos y modo de representar sus manifestaciones físicas y mentales. No explica el mecanismo de los desplazamientos.
 - Las conexiones profundas entre las Ventanas y la explicación última del mecanismo.
