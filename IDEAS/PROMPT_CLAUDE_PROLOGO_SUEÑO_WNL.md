@@ -152,7 +152,7 @@ La existencia y función de la Habitación deben permanecer fuera del conocimien
 5. MUERTE
 ==================================================
 
-Si el protagonista muere dentro de una Ventana, muere en esa experiencia. La muerte no activa el tránsito, no lo devuelve a la Habitación ni sirve para escapar de esa realidad. Para él, morir es morir; no conoce ninguna salida mediante la muerte.
+Si el protagonista muere dentro de una Ventana, muere definitivamente. Para él, morir es morir, como para cualquier ser humano: su experiencia consciente termina y no continúa en otra Ventana ni despierta en la Habitación. La muerte no activa el tránsito ni ofrece una segunda oportunidad.
 
 No explicar la muerte ni su significado metafísico en el prólogo, y no utilizarla como mecanismo de desplazamiento.
 
