@@ -311,9 +311,9 @@ No se han asignado síntomas a ninguna Ventana concreta. No modificar los archiv
 - Recuerda todo lo vivido por él en las demás Ventanas, sin heredar automáticamente los recuerdos personales de la versión local.
 - La Habitación es otra realidad donde está encerrado al principio; no explicar de entrada qué es ni por qué está allí.
 - Morir en una Ventana no activa el tránsito ni lo devuelve a la Habitación.
-- La enfermedad común a todas las realidades continúa como propuesta en IDEAS. Su deterioro y tiempo de vida perdido se desean persistentes, pero el mecanismo de continuidad entre cuerpos y relojes locales aún no está definido.
+- La continuidad de la progresión de la enfermedad entre Ventanas está confirmada. La causa, la naturaleza, el diagnóstico, los síntomas concretos y su manifestación narrativa siguen en exploración.
 
-Estas aclaraciones temporales, de memoria y muerte son canon; las hipótesis sobre conciencia separada del cuerpo, descanso durante el sueño y enfermedad siguen en exploración.
+Estas aclaraciones temporales, de memoria y muerte son canon. También está confirmada la continuidad de la progresión de la enfermedad entre Ventanas; sus detalles médicos y narrativos siguen en exploración. Las hipótesis sobre conciencia separada del cuerpo y descanso durante el sueño siguen pendientes.
 
 
 ## Aclaración del autor — 2026-10-12
