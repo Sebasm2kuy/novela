@@ -170,6 +170,6 @@ El lector debe poder sentir que una visita tiene un propósito narrativo aunque 
 - Al regresar, retoma el momento al que avanzó el reloj de esa Ventana; no necesariamente vuelve al instante exacto de salida.
 - Recuerda todo lo vivido por él en las demás Ventanas, sin heredar automáticamente los recuerdos personales de la versión local.
 - La Habitación es otra realidad donde está encerrado al principio; su naturaleza y el motivo del encierro no se explican de entrada.
-- Morir en una Ventana no activa el tránsito ni lo devuelve a la Habitación. Para él, morir significa morir; no conoce una salida mediante la muerte.
+- Morir en una Ventana es definitivo. Su experiencia consciente termina; no continúa en otra Ventana ni despierta en la Habitación. La muerte no activa el tránsito ni ofrece una segunda oportunidad.
 
 La asignación histórica de Ventanas a capítulos que aparece arriba no debe imponerse automáticamente a la reescritura V3.
