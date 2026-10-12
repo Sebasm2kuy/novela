@@ -314,3 +314,8 @@ No se han asignado síntomas a ninguna Ventana concreta. No modificar los archiv
 - La enfermedad común a todas las realidades continúa como propuesta en IDEAS. Su deterioro y tiempo de vida perdido se desean persistentes, pero el mecanismo de continuidad entre cuerpos y relojes locales aún no está definido.
 
 Estas aclaraciones temporales, de memoria y muerte son canon; las hipótesis sobre conciencia separada del cuerpo, descanso durante el sueño y enfermedad siguen en exploración.
+
+
+## Aclaración del autor — 2026-10-12
+
+El deterioro y las eventuales mejorías siguen el mismo curso en todas las Ventanas; cambiar de realidad no reinicia ni altera esa progresión. Para el protagonista, morir es definitivo: no continúa su experiencia en otra Ventana ni despierta en la Habitación. La causa y los síntomas concretos de la enfermedad siguen en desarrollo.
