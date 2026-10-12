@@ -137,3 +137,25 @@ Como esquema provisional: el protagonista vive una experiencia, se duerme cuando
 5. ¿Las duraciones variables son solo una hipótesis de tiempo subjetivo o el autor quiere revisar en el futuro la regla canónica del mínimo de 24 horas?
 
 Hasta que el autor resuelva estas cuestiones, todo lo anterior continúa en `IDEAS/` como exploración y no modifica el canon ni el manuscrito.
+
+
+## 11. Nueva idea propuesta — una misma enfermedad en todas las realidades
+
+**Estado: propuesta del autor, todavía NO CANON.**
+
+El autor acaba de proponer que el protagonista padezca una misma «enfermedad» en todas las realidades. No debe explicar ni revelar el mecanismo de los viajes; su función sería deteriorar el cuerpo rápidamente.
+
+### Núcleo de la idea
+- La enfermedad está presente en todas las realidades que experimenta el protagonista.
+- El deterioro corporal es acelerado.
+- La enfermedad no funciona como explicación de los desplazamientos ni debe revelar por sí sola qué los causa.
+- Puede conectar temáticamente con el problema anterior de la continuidad de la conciencia, el cansancio y los límites físicos, pero todavía no se ha decidido si son fenómenos relacionados o problemas separados.
+
+### Preguntas abiertas
+1. ¿La enfermedad se manifiesta con síntomas idénticos en cada realidad o produce el mismo deterioro mediante síntomas distintos?
+2. ¿El deterioro vuelve a empezar con el cuerpo de cada realidad, avanza según el tiempo que él vive o se acumula de otra manera?
+3. ¿Es una enfermedad reconocible por médicos dentro de cada realidad, algo que no consiguen diagnosticar o una condición que él todavía no identifica?
+4. ¿Qué ritmo de deterioro busca el autor: gradual, perceptible en cada visita, o acelerado hasta convertirse en una amenaza urgente?
+5. ¿La enfermedad y el cansancio son dos efectos separados, o el cansancio es uno de los síntomas/consecuencias de la enfermedad?
+
+No responder estas preguntas por el autor ni convertir esta propuesta en canon. No modificar el manuscrito ni los archivos de CANON a partir de esta idea sin confirmación expresa.
