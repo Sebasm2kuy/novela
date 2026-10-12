@@ -107,7 +107,7 @@ Una respuesta puede resolver una pregunta y abrir otra más profunda.
 
 Esta regla es especialmente importante para las diez ventanas.
 
-El protagonista debe permanecer como mínimo 24 horas en cada ventana. Cuando se duerme después de cumplir ese mínimo, regresa a la Habitación, y la realidad queda congelada exactamente en el instante de su salida.
+El protagonista debe permanecer como mínimo 24 horas en cada Ventana. Cuando se duerme después de cumplir ese mínimo, el tránsito se activa. Durante su ausencia, el reloj de esa Ventana avanza por las horas que él duerme fuera de ella; las horas que permanece despierto en otras Ventanas no se suman a ese reloj. Si duerme seis horas fuera, esa Ventana avanza seis horas, aunque después permanezca despierto 24 o 36 horas en otra.
 
 Debemos preguntar:
 
@@ -1382,7 +1382,7 @@ Puede haber:
 - una decisión tomada en su ausencia;
 - información que ahora puede interpretar de otra manera.
 
-Esto convierte la diferencia entre el tiempo subjetivo del protagonista y el tiempo congelado de cada ventana en una herramienta narrativa.
+Esto convierte la diferencia entre el tiempo subjetivo del protagonista y el avance local de cada Ventana —que durante su ausencia corresponde a las horas que duerme fuera de ella— en una herramienta narrativa.
 
 ---
 
@@ -3589,7 +3589,7 @@ Esto evita convertir cualquier explicación en canon.
 
 Decir que una realidad tiene una determinada regla es menos potente que mostrar una consecuencia cotidiana de esa regla.
 
-Por ejemplo, en vez de explicar repetidamente que el tiempo sigue avanzando mientras el protagonista está fuera, una ventana puede mostrar:
+Por ejemplo, en vez de explicar repetidamente cómo avanza el reloj de una Ventana durante las horas que él duerme fuera —sin sumar las horas que permanece despierto en otras—, una escena puede mostrar:
 
 - una persona que esperaba verlo y ya se cansó;
 - una cita que perdió;
@@ -6810,3 +6810,11 @@ Primero **corregir**.
 Después **expandir donde realmente falte historia**.
 
 Y finalmente comprobar que cada expansión produzca experiencia, consecuencia o significado, en lugar de simplemente aumentar el número de palabras.
+
+## Aclaración canónica — 2026-10-12 — Tiempo, memoria, Habitación y muerte
+
+- **Tiempo en Ventanas ausentes:** el reloj avanza durante las horas que el protagonista duerme fuera de ellas, no durante todas las horas que permanece despierto en otra Ventana. Seis horas de sueño fuera equivalen a seis horas de avance local.
+- **Memoria:** recuerda todo lo vivido por él en las demás Ventanas; esto no le entrega automáticamente los recuerdos personales de la versión local.
+- **Habitación:** es otra realidad donde está encerrado al principio. No explicar de entrada qué es ni por qué está allí, ni presentarla inicialmente como un centro de investigación que él entiende.
+- **Muerte:** morir en una Ventana no activa el tránsito ni lo devuelve a la Habitación. Para él, morir significa morir; no conoce una salida mediante la muerte.
+- **Enfermedad:** sigue en IDEAS, no en canon. Su continuidad entre cuerpos y relojes locales es un problema creativo abierto.
