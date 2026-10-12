@@ -106,9 +106,9 @@ En la Habitación:
 
 Las 24 horas son una condición temporal mínima, NO una obligación de permanecer despierto.
 
-Las realidades quedan congeladas exactamente en el instante en que el protagonista las abandona. Si vuelve, regresa al mismo instante exacto.
+Durante la ausencia del protagonista, el reloj de cada Ventana avanza por las horas que él duerme fuera de ella; las horas que permanece despierto en otras Ventanas no se suman a ese reloj. Si duerme seis horas fuera, esa Ventana avanza seis horas, aunque después permanezca despierto 24 o 36 horas en otra. Al regresar, retoma el momento al que avanzó el reloj durante las horas de sueño transcurridas en su ausencia, no necesariamente el instante exacto de salida.
 
-La Habitación, en cambio, continúa temporalmente.
+La Habitación posee continuidad temporal propia. Esta regla no debe explicarse en el prólogo.
 
 IMPORTANTE PARA EL PRÓLOGO:
 
@@ -152,15 +152,9 @@ La existencia y función de la Habitación deben permanecer fuera del conocimien
 5. MUERTE
 ==================================================
 
-La muerte dentro de una realidad puede ser experimentada como real.
+Si el protagonista muere dentro de una Ventana, muere en esa experiencia. La muerte no activa el tránsito, no lo devuelve a la Habitación ni sirve para escapar de esa realidad. Para él, morir es morir; no conoce ninguna salida mediante la muerte.
 
-Más adelante, el protagonista puede regresar a esa misma realidad y encontrarse vivo en el mismo instante exacto de su muerte.
-
-Esto es una contradicción deliberadamente no resuelta.
-
-No explicarla.
-
-No usarla todavía como explicación del prólogo.
+No explicar la muerte ni su significado metafísico en el prólogo, y no utilizarla como mecanismo de desplazamiento.
 
 ==================================================
 6. MISTERIOS PROTEGIDOS
@@ -582,3 +576,5 @@ EL LECTOR DEBE VIVIR LA EXPERIENCIA.
 NO DEBE RECIBIR UNA EXPLICACIÓN DE LA EXPERIENCIA.
 
 Quiero que esta vez escribas el prólogo que podría realmente pertenecer a WATH NEVER LEFT.
+
+> **Revisión de continuidad: 2026-10-12.** Si otras notas antiguas dicen que las Ventanas se congelan por completo o que la muerte permite volver vivo al instante exacto, esas reglas fueron reemplazadas. Este prompt respeta las reglas vigentes de tiempo, memoria y muerte.
