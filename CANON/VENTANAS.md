@@ -116,8 +116,8 @@ Una ventana puede:
 - aparecer;
 - dejar un conflicto abierto;
 - desaparecer del relato durante varios capítulos;
-- continuar viviendo fuera de escena;
-- reaparecer posteriormente con nuevas consecuencias.
+- avanzar durante las horas que el protagonista duerme mientras está fuera;
+- reaparecer posteriormente con consecuencias correspondientes a ese tiempo transcurrido.
 
 El protagonista no controla cuándo regresará a una ventana.
 
@@ -131,17 +131,11 @@ Los objetivos completos de cada ventana todavía están en construcción y no de
 
 Las conexiones profundas entre las ventanas todavía están en desarrollo. Los ecos existentes no deben convertirse automáticamente en una explicación. La contaminación explícita entre ventanas es una posibilidad narrativa futura, no una obligación inmediata.
 
-## Notas históricas sobre decisiones recientes
+## Resumen del canon operativo actual
 
-Las siguientes reglas forman parte del canon operativo actual:
-- congelación de cada realidad en el instante de salida;
-- retorno al mismo instante exacto;
-- memoria consciente de las demás realidades;
-- Habitación como centro de investigación;
-- objetivos locales junto al patrón global;
-- contradicción entre muerte recordada y retorno vivo al instante exacto;
-- sueño como mecanismo de tránsito;
-- mínimo de 24 horas en cada ventana;
-- mínimo de 24 horas en la Habitación antes de un nuevo tránsito.
-
-Las conexiones profundas entre las ventanas y la explicación definitiva de estas reglas siguen protegidas como misterio.
+- El sueño posterior al mínimo de 24 horas activa el tránsito; dormir antes del mínimo no desplaza.
+- Mientras él está ausente, el reloj de cada Ventana avanza por las horas que duerme fuera de ella, no por las horas que permanece despierto en otras Ventanas. Si duerme seis horas fuera, esa Ventana acumula seis horas, aunque luego permanezca despierto 24 o 36 horas en otra.
+- Recuerda todo lo vivido por él en las demás Ventanas. Esto no implica heredar automáticamente los recuerdos personales de la versión local.
+- La Habitación es otra realidad en la que está encerrado al principio. No se explican de inmediato su naturaleza, su origen ni la razón de su encierro.
+- Si muere en una Ventana, la muerte no lo devuelve a la Habitación ni activa otro tránsito. Para él, morir significa morir; no conoce una salida a través de la muerte.
+- Las conexiones profundas entre las Ventanas, el origen del mecanismo y la explicación definitiva de estas reglas siguen protegidos como misterio.
