@@ -105,3 +105,20 @@ La Habitación es otra realidad en la que el protagonista está encerrado al pri
 Si el protagonista muere dentro de una Ventana, muere en esa experiencia. La muerte no activa el tránsito, no lo devuelve a la Habitación ni es una forma de abandonar una realidad. Para él, morir significa morir; no conoce ninguna salida mediante la muerte. Se descarta como regla el retorno vivo al mismo instante de su muerte.
 
 La memoria de las experiencias de otras Ventanas continúa mientras él está vivo; no convierte la muerte en una transferencia entre realidades.
+
+## Aclaración canónica — 2026-10-12 — Tiempo, memoria, Habitación y muerte
+
+### Tiempo en Ventanas ausentes
+El reloj de una Ventana que el protagonista ha dejado atrás avanza durante las horas que duerme fuera de ella. Las horas que permanece despierto en otras Ventanas no se suman al reloj de la Ventana ausente. Si duerme seis horas fuera, esa Ventana avanza seis horas, aunque después permanezca despierto 24 o 36 horas en otra. Al regresar, retoma el momento al que avanzó ese reloj durante las horas de sueño transcurridas en su ausencia, no necesariamente el instante exacto de salida.
+
+### Memoria entre Ventanas
+Recuerda todo lo vivido por él en las demás Ventanas. Esto no significa que herede automáticamente los recuerdos personales de la versión local que existe en la Ventana a la que llega.
+
+### Habitación
+Es otra realidad en la que está encerrado al principio. No se explica de inmediato qué es, quién o qué la originó ni por qué está allí.
+
+### Muerte
+Si muere dentro de una Ventana, muere en esa experiencia. La muerte no activa el tránsito, no lo devuelve a la Habitación y no es una forma de abandonar una realidad. Para él, morir significa morir; no conoce ninguna salida mediante la muerte. Se descarta como regla el retorno vivo al instante exacto de su muerte.
+
+### Límite de esta actualización
+La enfermedad común a todas las realidades sigue siendo una idea en exploración. No se modifican el manuscrito ni el canon médico; su mecanismo y manifestación entre cuerpos siguen abiertos.
