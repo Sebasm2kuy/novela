@@ -13,7 +13,7 @@ La ausencia de la segunda H en "WATH" es intencional y forma parte de las anomal
 - El lector solo conoce lo que el protagonista percibe, recuerda, interpreta o descubre.
 - El protagonista no sabe que es una conciencia simulada.
 - No dispone de manuales ni explicaciones técnicas sobre su propia naturaleza.
-- Al entrar en una ventana no recibe automáticamente recuerdos o conocimientos nuevos.
+- Recuerda todo lo vivido por él en las demás Ventanas. Esto no significa que reciba automáticamente los recuerdos personales de la versión local de sí mismo ni conocimientos que nunca haya experimentado.
 - No necesariamente es una persona en el sentido ordinario.
 - Línea conceptual vigente: "Él sabe que existe, piensa, siente y recuerda. Pero nunca se ha preguntado qué es."
 
@@ -46,44 +46,37 @@ El sueño es, por tanto, el **disparador del tránsito**, pero las 24 horas tran
 
 No existe ya un mecanismo canónico basado en señal o contacto voluntario con una pared.
 
-# 5. Tiempo, tránsito y congelación de las realidades
+# 5. Tiempo, tránsito y paso entre las realidades
 
-Cuando el protagonista abandona una ventana al quedarse dormido después de haber cumplido el mínimo de 24 horas, **esa realidad queda detenida exactamente en el instante de su salida**.
+Cuando el protagonista abandona una Ventana mediante el sueño después de cumplir el mínimo de 24 horas, el tiempo de esa Ventana **no queda congelado por completo**.
 
-Cuando vuelve posteriormente a esa misma realidad, regresa al **mismo instante exacto —hora, minuto y segundo— en que la abandonó**.
+Mientras él está ausente, el reloj de esa Ventana avanza por las horas que él pasa dormido fuera de ella. Las horas que permanece despierto en otras Ventanas no se suman al reloj de la Ventana que dejó atrás.
 
-Para los habitantes de esa realidad puede no haber transcurrido ningún tiempo durante su ausencia. Una conversación, movimiento o acción puede continuar exactamente donde quedó.
+Por ejemplo, si duerme seis horas fuera de una Ventana, el reloj de esa Ventana avanza seis horas; eso sigue siendo así aunque después permanezca despierto durante 24 o 36 horas en otra Ventana. El tiempo acumulado durante las ausencias depende de las horas que duerme fuera de cada Ventana, no de todo el tiempo subjetivo que vive despierto en otros lugares.
 
-El tiempo subjetivo del protagonista, en cambio, sí continúa: entre una visita y otra puede haber vivido otras ventanas y períodos de permanencia en la Habitación.
+Por eso, cuando regresa a una Ventana, no vuelve necesariamente al instante exacto en que se marchó: la encuentra en el punto al que ha avanzado su reloj durante las horas de sueño transcurridas en su ausencia. Los habitantes pueden haber vivido ese intervalo y las acciones pueden haber progresado durante él.
 
-Por tanto, existe una diferencia fundamental entre:
-- el tiempo que él ha vivido;
-- el tiempo transcurrido dentro de una ventana concreta;
-- el tiempo continuo de la Habitación.
+El tiempo subjetivo del protagonista continúa a través de las distintas experiencias. Existe una diferencia entre:
+- el tiempo que él vive conscientemente;
+- el tiempo que transcurre en la Ventana donde se encuentra;
+- el tiempo que acumula una Ventana mientras él está ausente;
+- la continuidad temporal propia de la Habitación.
 
-Las diez realidades no avanzan mientras él está ausente de ellas. Cada una conserva su propio estado hasta que vuelve a experimentarla.
+La Habitación es otra realidad y posee continuidad temporal propia durante los períodos en que él permanece allí. La naturaleza de la Habitación, la razón por la que está encerrado y el origen del mecanismo no deben explicarse al principio de la novela.
 
-La Habitación sí posee continuidad temporal propia. Allí transcurre el período entre una ventana y la siguiente.
-
-El sueño no desplaza al protagonista por sí mismo durante los primeros 24 horas de una estancia: **primero debe cumplirse el mínimo temporal y luego producirse el sueño**.
+El sueño posterior al mínimo temporal sigue siendo el disparador del tránsito. Dormirse antes de haber cumplido las 24 horas de la estancia no produce desplazamiento.
 
 Los lapsos subjetivos acumulados pueden producir cansancio, culpa, desorientación y problemas de identidad.
 
-# 8. Muerte y contradicción de estados
-Si el protagonista muere dentro de una realidad, la experiencia de esa muerte es real para él y posteriormente regresa a la Habitación.
+# 8. Muerte y límites del tránsito
 
-Después puede recorrer otras realidades y, en algún momento, regresar a la realidad donde murió.
+Si el protagonista muere dentro de una Ventana, muere en esa experiencia. **La muerte no activa el tránsito, no lo devuelve a la Habitación ni sirve como forma de abandonar una realidad.**
 
-Al volver, regresa al **mismo instante exacto de la muerte** —hora, minuto y segundo—, pero se encuentra vivo.
+Para él, morir significa morir; no conoce ninguna salida posible a través de la muerte y no debe planificarla ni entenderla como una alternativa al sueño. No existe una regla canónica que lo haga regresar vivo al instante exacto de su muerte.
 
-No debe explicarse todavía qué ocurrió ni convertir este fenómeno en una respuesta sobre la naturaleza del protagonista.
+Mientras sigue vivo, conserva los recuerdos de lo vivido en las demás Ventanas. La continuidad de esos recuerdos no convierte la muerte en un mecanismo para transferir su experiencia a otro lugar.
 
-El canon establece únicamente la contradicción:
-- el protagonista recuerda haber muerto;
-- la realidad conserva el instante anterior como si esa muerte no hubiera ocurrido;
-- cuando vuelve, él está vivo.
-
-La novela puede explorar esta contradicción como una anomalía de memoria, existencia, posibilidad o realidad, pero ninguna interpretación constituye por sí sola una explicación canónica.
+No explicar prematuramente qué es el protagonista ni qué ocurre después de la muerte en un sentido metafísico más amplio.
 
 ## 9. Historia
 El protagonista no puede cambiar la historia de una ventana.
@@ -139,7 +132,7 @@ La pregunta de construcción adecuada en esta etapa es:
 
 > **¿Esta aparición deja una situación suficientemente viva e interesante como para que queramos volver a ella?**
 
-El protagonista puede regresar posteriormente a una misma ventana. El tiempo continúa avanzando mientras él está ausente, por lo que el regreso puede encontrar consecuencias nuevas.
+El protagonista puede regresar posteriormente a una misma Ventana. Durante la ausencia, su reloj avanza por las horas que él pasa dormido fuera de ella, no por todas las horas que permanece despierto en otras Ventanas. Al volver, puede encontrar consecuencias correspondientes a ese intervalo.
 
 El orden de aparición de las ventanas no representa su orden cronológico ni su orden interno de importancia.
 
@@ -189,19 +182,19 @@ Ejemplo estructural válido:
 
 **Capítulo D → Ventana X nuevamente → el conflicto continúa o ha cambiado.**
 
-La continuidad debe conservar el paso del tiempo y las consecuencias de la ausencia del protagonista.
+La continuidad debe reflejar que el reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella; las horas despierto en otras Ventanas no se suman a ese reloj.
 
 El hecho de que el lector sepa que el protagonista puede volver no significa que sepa cuándo volverá.
 
-## 17. Ideas recientes en exploración — NO CANON
+## 17. Misterios y asuntos todavía no definidos
 
-Las siguientes ideas fueron discutidas por el autor y quedan registradas únicamente como posibilidades de diseño. **No modifican las reglas canónicas anteriores hasta confirmación expresa del autor.**
+Las siguientes cuestiones siguen protegidas o en desarrollo; no deben recibir una explicación prematura:
+- qué es realmente el protagonista y cuál es la naturaleza última de su conciencia;
+- quién o qué creó la Habitación y por qué está encerrado allí;
+- qué significa la anomalía de la H ausente;
+- cuál es la arquitectura última de las diez Ventanas y por qué funciona el mecanismo de tránsito;
+- si la hipótesis de una conciencia independiente del cuerpo y un cerebro que actúa como receptor/interfaz será una explicación verdadera dentro de la ficción;
+- los objetivos completos de cada Ventana y la forma en que se revelará la dirección global de la novela;
+- el mecanismo, diagnóstico y síntomas de la enfermedad explorada en los archivos de IDEAS.
 
-- Explorar que cada realidad conserve exactamente el instante en que el protagonista la abandona, de modo que al regresar vuelva al mismo momento.
-- Explorar que el protagonista conserve los recuerdos de todas las realidades y pueda llegar a dudar de cuál está viviendo.
-- Explorar que la Habitación sea también una realidad para él y funcione como centro de investigación, donde reúne recuerdos, pistas e hipótesis para comprender y romper el patrón.
-- Explorar que cada realidad tenga un objetivo/conflicto propio además del objetivo global de descubrir cómo romper el patrón.
-- Explorar una regla en la que, si muere en una realidad, experimente realmente la muerte, regrese a la Habitación y posteriormente pueda volver al instante exacto de su muerte encontrándose vivo. El motivo de esta aparente contradicción queda deliberadamente sin resolver.
-- Explorar la posibilidad de que todas las realidades sean igualmente reales desde su experiencia, sin una realidad privilegiada identificable.
-
-Estas ideas no deben tratarse como hechos canónicos, no deben alterar manuscritos ni reglas de continuidad y no deben usarse para corregir escenas existentes hasta que el autor las confirme.
+Las reglas confirmadas sobre las horas de sueño en Ventanas ausentes, la memoria de experiencias anteriores, el carácter enigmático de la Habitación y la muerte como no-mecanismo de tránsito no deben volver a listarse como propuestas pendientes.
