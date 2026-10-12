@@ -247,3 +247,32 @@ Hay una dificultad estructural que ninguna lluvia de ideas debe ocultar:
 - Para sostener la preferencia de un deterioro y un tiempo restante que persisten, hará falta decidir si la enfermedad sigue una continuidad común a través de los cuerpos, si las distintas manifestaciones corporales son estados diferentes de una misma progresión, o si existe otra regla. Cualquiera de esas soluciones puede afectar cómo se entiende el congelamiento, así que no debe introducirse como si fuera gratis.
 
 **No se ha seleccionado una explicación.** Las opciones anteriores son material de brainstorming del asistente; no son decisiones del autor, canon ni cambios del manuscrito.
+
+
+## 15. Preferencia dramática del autor — la enfermedad le roba tiempo y capacidad de actuar
+
+**Estado: preferencia exploratoria del autor; NO CANON.**
+
+Al preguntarle qué es lo más aterrador que la enfermedad podría hacerle al protagonista, el autor eligió combinar dos efectos:
+- **Le quita la capacidad de actuar cuando más la necesita.**
+- **Le hace creer que todavía tiene tiempo cuando casi se le ha acabado.**
+
+### Núcleo dramático
+La amenaza no consiste solo en que el protagonista esté deteriorándose o pueda morir. La enfermedad también puede engañarlo con aparentes treguas: después de una crisis, se siente mejor y cree que recuperó margen para actuar. Entonces, cuando aparece una oportunidad importante, puede sobrevenir una recaída que le impida hacer lo necesario.
+
+La esperanza no tiene por qué ser una ilusión completa: la mejoría puede sentirse real, pero eso no significa que haya recuperado el tiempo de vida perdido ni que esté fuera de peligro.
+
+### Posible uso narrativo
+- La enfermedad puede interferir con una decisión, una huida, un intento de ayudar a alguien o una oportunidad que no se repetirá.
+- No conviene que cada crisis ocurra justo en el clímax: si sucede siempre, el recurso se vuelve predecible. Algunas recaídas podrían llegar en momentos ordinarios y algunas mejorías podrían aparecer cuando el protagonista o el lector esperan un empeoramiento.
+- Las recaídas pueden parecer impredecibles al principio, pero sería deseable que tuvieran una coherencia retrospectiva, aun cuando ni el protagonista ni el lector puedan reconocerla de inmediato.
+- Todavía no se han definido síntomas, desencadenantes, diagnóstico ni mecanismo de progresión.
+
+### Preguntas que quedan abiertas
+1. ¿Qué señales le hacen creer que ha recuperado tiempo o que está mejorando?
+2. ¿Cómo expresa el cuerpo que ya no puede actuar: debilidad, coordinación, respiración, confusión u otro efecto aún por decidir?
+3. ¿La enfermedad impide acciones físicas concretas, afecta también su capacidad para pensar y decidir, o ambas?
+4. ¿Qué patrón oculto podría unir las mejorías y las recaídas sin volverlas predecibles?
+5. ¿Cómo se mantiene la continuidad del deterioro entre realidades respetando que las Ventanas se congelan cuando él las abandona?
+
+Estas ideas describen el efecto emocional deseado; no constituyen reglas confirmadas. No actualizar CANON ni modificar el manuscrito por esta exploración.
