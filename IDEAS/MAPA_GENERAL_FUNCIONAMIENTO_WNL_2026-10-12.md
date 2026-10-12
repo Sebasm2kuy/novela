@@ -164,3 +164,13 @@ Pendientes que no se resuelven mediante estas aclaraciones:
 - **Material histórico:** capítulos o mapas anteriores que ayudan a entender el proyecto, pero no deben imponerse automáticamente sobre la reescritura V3.
 
 **Este archivo es un mapa de trabajo, no un reemplazo de la Biblia Maestra. No modifica CANON ni el manuscrito.**
+
+## Aclaración canónica — 2026-10-12 — Tiempo, memoria, Habitación y muerte
+
+Estas cuatro reglas están confirmadas y deben primar sobre cualquier descripción antigua contradictoria:
+1. El reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella; las horas que permanece despierto en otra no se suman. Seis horas de sueño fuera equivalen a seis horas de avance local.
+2. Recuerda todo lo vivido por él en las demás Ventanas, sin heredar automáticamente los recuerdos personales de la versión local.
+3. La Habitación es otra realidad donde está encerrado al principio; su naturaleza y el motivo del encierro no se explican de entrada.
+4. Morir en una Ventana no activa el tránsito ni lo devuelve a la Habitación. Para él, morir es morir; no conoce una salida mediante la muerte.
+
+La enfermedad se mantiene como idea, no canon. Su continuidad entre cuerpos y relojes locales es el principal problema de diseño aún abierto.
