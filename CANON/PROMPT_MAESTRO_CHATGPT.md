@@ -297,9 +297,9 @@ En los capítulos iniciales debe evitarse explicar su arquitectura completa.
 
 # 7. MUERTE Y CONTRADICCIÓN
 
-Si el protagonista muere dentro de una Ventana, muere en esa experiencia. La muerte no activa el tránsito, no lo devuelve a la Habitación y no es una forma de abandonar una realidad.
+Si el protagonista muere dentro de una Ventana, muere definitivamente. Para él, morir es morir, como para cualquier ser humano: su experiencia consciente termina y no continúa en otra Ventana ni despierta en la Habitación. La muerte no activa el tránsito ni transfiere su experiencia a otra versión de sí mismo.
 
-Para él, morir significa morir; no conoce ninguna salida mediante la muerte ni puede utilizarla como alternativa al sueño. No existe una regla por la que regrese vivo al instante exacto de su muerte.
+Para él, morir es morir. No puede utilizar la muerte como alternativa al sueño, desplazamiento, reinicio o segunda oportunidad; no regresa vivo al instante exacto de su muerte.
 
 Mientras está vivo, recuerda lo que ha vivido en las demás Ventanas. Esta memoria no convierte la muerte en un mecanismo de transferencia.
 
@@ -864,3 +864,8 @@ La experiencia del autor mostró que tener una instrucción general de persisten
 
 Este protocolo se añade porque la regla anterior ya existía, pero no se ejecutó de forma consistente. La prioridad es la continuidad real y comprobable, no solo la presencia de instrucciones.
 
+
+
+# REGLA CONFIRMADA — CONTINUIDAD DE LA ENFERMEDAD ENTRE VENTANAS
+
+La enfermedad mantiene un mismo curso continuo cualquiera que sea la realidad o Ventana. El deterioro y las eventuales mejorías no se reinician ni cambian por desplazarse; pasar a otra realidad no lo cura ni devuelve el deterioro acumulado. Esta continuidad está confirmada por el autor. La naturaleza, causa, diagnóstico, síntomas concretos y manera de representarlos siguen en desarrollo dentro de IDEAS. La enfermedad no explica el mecanismo de los viajes. No volver a presentar como pendiente la pregunta de si su progresión continúa al cambiar de Ventana.
