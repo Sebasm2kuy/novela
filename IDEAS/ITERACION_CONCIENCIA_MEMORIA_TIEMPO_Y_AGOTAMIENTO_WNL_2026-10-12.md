@@ -17,13 +17,11 @@ El autor eligió provisionalmente esta posibilidad:
 
 Esta es una **hipótesis de trabajo**, no una explicación definitiva del universo de WNL. No se debe cerrar todavía si es verdadera dentro de la novela, ni quién o qué podría originar la conciencia.
 
-## 3. Memoria entre experiencias: preferencia exploratoria
-Al comparar dos posibilidades sobre la memoria, el autor eligió explorar la opción A:
-- La conciencia conserva los recuerdos de todas las experiencias.
-- Puede acceder a esos recuerdos al experimentar otra realidad.
-- El protagonista no necesariamente empieza desde cero con cada cambio; lo aprendido podría acompañarlo y modificar sus decisiones posteriores.
+## 3. Memoria entre experiencias: regla confirmada
+El protagonista recuerda todo lo vivido por él en las demás Ventanas. No empieza de cero después de cada desplazamiento.
 
-Todavía falta definir cómo se experimentan, organizan y recuperan esos recuerdos, y si existen límites, interferencias o consecuencias. No añadir por cuenta propia filtros de memoria ni otras restricciones como si estuvieran aprobados.
+Esto no implica que herede automáticamente los recuerdos personales de la versión local de sí mismo que existe en cada Ventana. La puesta en escena puede mostrar cómo afloran los recuerdos, pero no debe negar que persisten.
+
 
 ## 4. Posible consecuencia narrativa para la instalación del capítulo 2
 El autor planteó que algo aprendido en otra experiencia/realidad podría ayudar al protagonista a escapar de las instalaciones del capítulo 2. También se propuso investigar si ese lugar podría compartir una estructura o ubicación física con otro lugar que conozca en otra experiencia.
@@ -306,3 +304,13 @@ La idea es que la manifestación más dramáticamente relevante dependa de la si
 4. ¿Qué señales podrían advertir al lector del patrón antes de que el protagonista lo comprenda?
 
 No se han asignado síntomas a ninguna Ventana concreta. No modificar los archivos de CANON ni el manuscrito a partir de esta preferencia.
+
+## Aclaración canónica — 2026-10-12 — Tiempo, memoria, Habitación y muerte
+
+- El reloj de una Ventana ausente avanza durante las horas que el protagonista duerme fuera de ella, no por las horas que permanece despierto en otra.
+- Recuerda todo lo vivido por él en las demás Ventanas, sin heredar automáticamente los recuerdos personales de la versión local.
+- La Habitación es otra realidad donde está encerrado al principio; no explicar de entrada qué es ni por qué está allí.
+- Morir en una Ventana no activa el tránsito ni lo devuelve a la Habitación.
+- La enfermedad común a todas las realidades continúa como propuesta en IDEAS. Su deterioro y tiempo de vida perdido se desean persistentes, pero el mecanismo de continuidad entre cuerpos y relojes locales aún no está definido.
+
+Estas aclaraciones temporales, de memoria y muerte son canon; las hipótesis sobre conciencia separada del cuerpo, descanso durante el sueño y enfermedad siguen en exploración.
