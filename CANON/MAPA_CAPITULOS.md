@@ -140,11 +140,11 @@ El mapa de capítulos indica dónde aparece una ventana, pero no define necesari
 
 Una misma ventana puede regresar en capítulos posteriores.
 
-### Nueva regla temporal
+### Regla temporal vigente
 
-Cuando el protagonista abandona una ventana, **esa realidad queda congelada exactamente en el instante de salida**. Cuando regresa, vuelve al mismo instante exacto de día/hora/minuto/segundo.
+Cuando el protagonista abandona una Ventana, su reloj no queda congelado por completo. Durante la ausencia, el tiempo de esa Ventana avanza por las horas que él duerme fuera de ella; las horas que permanece despierto en otras Ventanas no se suman al reloj de la Ventana ausente. Por ejemplo, seis horas de sueño producen seis horas de avance en una Ventana ausente, aunque él después permanezca despierto 24 o 36 horas en otra.
 
-Por tanto, entre una visita y otra no avanzan los acontecimientos de esa ventana. Lo que sí avanza es el tiempo subjetivo del protagonista, porque durante la ausencia puede vivir otras ventanas y períodos en la Habitación.
+Al regresar, retoma la Ventana en el instante al que avanzó durante las horas de sueño transcurridas en su ausencia, no necesariamente en el mismo segundo en que salió. El tiempo subjetivo del protagonista puede ser mucho mayor que el tiempo que avanzó en las Ventanas ausentes.
 
 ### Objetivos
 
