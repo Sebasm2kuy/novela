@@ -184,3 +184,27 @@ Posibles modelos para comparar, no decisiones:
 4. **Todavía no decidir el mecanismo:** mantener solo el efecto dramático deseado —no hay reinicio ni salvación— y explorar escenas antes de elegir una explicación.
 
 No elegir automáticamente ninguno de estos modelos. El siguiente paso es aclarar qué debe conservarse exactamente entre realidades: el grado visible de deterioro, el tiempo de vida que le queda, la intensidad de los síntomas o una combinación. Tampoco se ha decidido si el cansancio es síntoma de la enfermedad o un fenómeno distinto.
+
+
+## 13. Preferencias exploratorias — deterioro acumulado e irregular
+
+**Estado: exploración, NO CANON.**
+
+El autor precisó dos preferencias:
+- Entre realidades continúa tanto el **deterioro físico** como la **reducción del tiempo de vida**. Cambiar de realidad no lo salva ni le devuelve el tiempo perdido.
+- La cuenta regresiva se manifiesta de forma **irregular**, con aparentes mejoras y empeoramientos bruscos, en lugar de una progresión perfectamente lineal.
+
+### Posible efecto narrativo
+Las aparentes mejoras podrían ofrecerle esperanza —o hacer que él y otros interpreten mal lo que está pasando—, mientras los empeoramientos repentinos recuerdan que el peligro sigue presente. La irregularidad no debe sentirse como un recurso arbitrario: cuando se desarrolle, convendrá darle un patrón reconocible en retrospectiva, aunque al principio no se entienda.
+
+### Preguntas todavía abiertas
+1. ¿Las aparentes mejoras son recuperación física real, una pausa temporal, síntomas que fluctúan o solo una impresión engañosa?
+2. ¿Los empeoramientos bruscos se desencadenan por esfuerzo, estrés, falta de descanso u otras circunstancias, o no se identifica una causa clara?
+3. ¿Qué señal permite medir que el tiempo de vida se reduce, sin convertirlo en una cuenta numérica demasiado explícita?
+4. ¿La enfermedad tiene síntomas reconocibles en todas las realidades, aunque su intensidad fluctúe?
+5. ¿Cómo se representa el avance persistente al volver a una Ventana congelada en el instante de salida?
+
+### Límite de continuidad
+La preferencia de que la enfermedad y el tiempo de vida restante continúen debe coexistir con la regla vigente de que las Ventanas se congelan al abandonarlas. El mecanismo sigue abierto: no se ha escogido entre una progresión ligada a la conciencia, una sincronización de estados entre Ventanas u otra solución. No inventar una explicación ni tratar estas opciones como canon.
+
+No modificar archivos de CANON ni el manuscrito a partir de esta exploración.
