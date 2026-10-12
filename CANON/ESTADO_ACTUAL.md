@@ -123,10 +123,18 @@ Este archivo debe tratarse como histórico salvo que exista una versión posteri
 
 El autor no necesita copiar instrucciones ni volver a explicar el proyecto. Basta con indicar que se revise el repositorio. El asistente debe leer `CANON/PROMPT_MAESTRO_CHATGPT.md` y los archivos canónicos necesarios, y continuar desde allí.
 
-## Ideas recientes — pendientes de confirmación
+## Reglas y aclaraciones confirmadas — 2026-10-12
 
-Durante la exploración reciente se plantearon cambios importantes en la mecánica de las diez realidades: congelación temporal, memoria completa entre realidades, función investigativa de la Habitación, objetivos locales/globales y una posible regla de muerte seguida de retorno al mismo instante estando vivo.
+El autor confirmó y aclaró los siguientes puntos, que deben mantenerse consistentes en los documentos operativos:
 
-**Estado: PROPUESTAS / NO CANON.**
+- **Tiempo en Ventanas ausentes:** avanza durante las horas que el protagonista duerme fuera de cada Ventana; no avanza por todas las horas que permanece despierto en otra. Seis horas dormidas fuera equivalen a seis horas de avance en la Ventana ausente, aunque él esté despierto 24 o 36 horas en otra.
+- **Memoria:** recuerda todo lo vivido por él en las demás Ventanas. Esto no significa que reciba automáticamente los recuerdos propios de la versión local que existe en cada una.
+- **Habitación:** es otra realidad donde está encerrado al principio. No se explicará de inmediato qué es ni por qué está allí.
+- **Muerte:** morir en una Ventana no activa un desplazamiento ni lo devuelve a la Habitación. Para él, morir significa morir; no conoce una salida mediante la muerte.
 
-El canon vigente no debe modificarse con estas ideas hasta confirmación expresa del autor.
+## Cuestiones aún en exploración
+
+- La hipótesis de que la conciencia pueda existir independientemente del cuerpo y que el cerebro funcione como receptor/interfaz.
+- Los objetivos concretos de cada Ventana y la revelación gradual de la dirección global de la novela.
+- La enfermedad que aparece en IDEAS: sus síntomas, mecanismo y modo de representar su progresión entre realidades.
+- Las conexiones profundas entre las Ventanas y la explicación última del mecanismo.
