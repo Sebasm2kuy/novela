@@ -14,7 +14,7 @@ Abajo, las calles eran franjas blancas entre edificios vacíos. Había autos ent
 
 No miré mucho tiempo. Aferrado a una escalera a mitad de la torre, distraerse era una forma bastante tonta de morir.
 
-Una de las dos aspas tenía una grieta que le recorría el borde. Cada vez que pasaba frente a mí, las tres aspas —o lo que quedaba de ellas— sacudían la máquina y hacían vibrar la torre. Si la última se partía, el giro desigual podía destrozar el generador, la caja metálica que convertía el movimiento del viento en electricidad.
+Una de las dos aspas tenía una grieta que le recorría el borde. Cada vez que el aspa agrietada pasaba frente a mí, la máquina daba un tirón y hacía vibrar la torre. Si la última se partía, el giro desigual podía destrozar el generador, la caja metálica que convertía el movimiento del viento en electricidad.
 
 Esa electricidad hacía funcionar la bomba de agua, abajo, junto al depósito. La bomba llenaba el tanque del barrio. Si el generador se rompía, el agua dejaría de subir y el tanque no estaría lleno antes de la noche.
 
