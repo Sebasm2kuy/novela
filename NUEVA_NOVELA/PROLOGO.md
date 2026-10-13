@@ -22,7 +22,6 @@ Había prometido que lo estaría.
 
 Había subido para cambiar el cable roto del freno. Era una reparación que debía haber hecho esa mañana, antes de que el viento empeorara. El cable conectaba una palanca con el mecanismo que apretaba un disco y detenía el giro. Sin él, no podía frenar la máquina de forma segura.
 
-El freno servía para detener la máquina cuando había que trabajar en ella. La palanca estaba arriba, junto al generador, y el cable roto la unía al mecanismo de frenado: al tirar de la palanca, unas piezas de metal apretaban un disco y reducían el giro poco a poco. El cable se había partido por dentro, donde no podía alcanzarlo desde el suelo.
 
 Yo había encontrado un tramo de cable resistente en el hueco de un ascensor abandonado. Lo había subido pensando que tendría tiempo de cambiarlo.
 
