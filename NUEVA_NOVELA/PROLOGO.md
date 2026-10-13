@@ -1,99 +1,109 @@
 # PRÓLOGO
 
-> **Estado:** borrador de trabajo aceptado como prólogo. Esto no convierte automáticamente en canon todos los detalles del mundo ni resuelve la premisa global de la novela.
+> **Estado:** versión pulida del prólogo, aceptada para seguir trabajando. La ambientación y los mecanismos que aparecen aquí siguen sujetos a revisión; este texto no fija por sí solo el canon completo de la novela.
 
-La chapa me está comiendo las manos.
+La chapa me está abriendo las manos y todavía falta un kilómetro.
 
-No es el peso. Cuarenta kilos los levanto, los he levantado durante tres horas. Es el borde. El disco de acero no tiene asas; solo ocho agujeros para pernos y un canto vivo que se me clava en la base de los dedos cada vez que lo arrastro un metro sobre la sal. Los guantes se me deshicieron hace una hora. Ahora toco el metal directamente.
+La arrastro inclinando el cuerpo hacia delante, con los dedos enganchados en el borde y las botas hundiéndose hasta los tobillos en la costra blanca. A cada tirón, el disco de acero raspa la sal y deja detrás una cicatriz oscura. El viento la cubre casi enseguida. Aquí afuera nada permanece a la vista demasiado tiempo.
 
-El viento me golpea el hombro izquierdo. Ya no es el empujón constante de la mañana. Viene en rachas cortas, girando. Cuando termine de asentarse del este, meterá el aire cargado por la boca de la toma y los ventiladores lo repartirán por los dormitorios. Cuarenta personas. Cuarenta personas respirando lo que yo no quise evitar a tiempo.
+Donde antes había una carretera, ahora se extiende una planicie de sal endurecida, cuarteada en placas irregulares. De vez en cuando asoma un tramo de asfalto, negro como una quemadura, o la mitad de un auto que la costra fue tragándose durante años. Más lejos, los esqueletos de los edificios sobresalen de la bruma: torres sin ventanas, antenas dobladas, puentes que terminan en el vacío. Todo está cubierto por una película gris que se pega a la lengua y se mete en las costuras de la ropa. Si uno se pasa la mano por la cara, siente la piel áspera, como si hubiera dormido enterrado en ceniza.
 
-Debería haber cambiado la placa el martes. La vieja se deshizo entre mis dedos como galleta mojada. Lo anoté. Luego la bomba del nivel dos empezó a perder caudal y decidí que la boca podía aguantar un ciclo más.
+Sobre las ruinas, el cielo arde.
 
-No aguantó.
+Una cortina verde atraviesa el horizonte y se retuerce hasta volverse violeta. No hay norte ni sur para esas luces; se extienden de un extremo al otro del cielo, ondulando detrás de una neblina que nunca termina de disiparse. La claridad cambia a cada rato, y con ella cambia el color de la sal: blanca, luego verdosa, luego del color de un moretón. No miro mucho tiempo hacia arriba. Desde hace años sabemos que cuando el violeta empieza a comerse el verde, conviene estar bajo tierra antes de que el viento cambie.
 
-Mis rodillas tocan la sal. No he decidido arrodillarme. El cuerpo se rinde un segundo antes que la cabeza. La chapa raspa el suelo. La arrastro otro metro. Los dedos se me cierran solos alrededor del canto. Ya no los controlo.
+Y el viento está cambiando.
 
-La toma aparece al final del descenso: un bloque de hormigón con dos aberturas. La grande, circular, es la boca principal de aire. Está abierta. La pequeña, rectangular, es la puerta de mantenimiento. Detrás hay una escalerilla que baja al pozo. La puerta está cerrada.
+Me golpea el hombro izquierdo en ráfagas cortas, cada vez más fuertes. Cuando termine de asentarse desde el este, va a empujar el aire de la superficie por la boca de ventilación y los ventiladores lo van a repartir por los dormitorios. Cuarenta personas duermen en el nivel tres. Algunas tienen hijos; otras llevan tanto tiempo bajo tierra que ya no recuerdan el color de un árbol vivo. Todas van a respirar lo que yo debí impedir hace dos días.
 
-Llevo la chapa hasta la boca. Los agujeros no alinean del todo. Empujo con la cadera. El acero raspa el hormigón. Encaja a medias. Encaja lo suficiente.
+La chapa se me resbala. La atrapo antes de que caiga y el borde me abre la palma. La sangre sale oscura, casi negra bajo esta luz. Me la limpio contra el pantalón y vuelvo a agarrarla.
 
-Antes de poner el primer perno, apoyo la palma en la puerta de mantenimiento. El metal vibra. Los ventiladores siguen girando abajo, chupando aire hacia los niveles. Si me metiera por esa escalerilla, bajaría a una plataforma enrejada alrededor del motor. Desde allí no se para nada. Los mandos están en la sala de máquinas, al otro lado del nivel cuatro, detrás de una puerta que no alcanzo. El intercomunicador lleva dos días muerto.
+Debí cambiar la placa el martes. La vieja se deshizo entre mis dedos como una galleta mojada. Lo anoté en el registro, con fecha y hora. Después empezó a fallar la bomba del segundo nivel y decidí que la ventilación podía esperar hasta el siguiente turno. La bomba abastecía los filtros de agua; parecía la urgencia más grande. Me dije que una placa más aguantaría.
 
-La voz sale por la puerta de mantenimiento, apagada, metálica.
+Ahora arrastro cuarenta kilos de acero por un desierto muerto para corregir esa decisión antes de que mate a cuarenta personas.
 
-—¡No cierres!
+La toma aparece al final de una pendiente, un bloque de hormigón que sobresale de la sal como un diente roto. La abertura circular mira al cielo. A su lado hay una puerta angosta, oxidada en los bordes, con una escalerilla que baja al pozo de ventilación. El refugio está debajo de mis pies, repartido en galerías y salas excavadas en la roca. Desde aquí no se ve nada de él, solo esa puerta cerrada y el hormigón vibrando con el esfuerzo de los ventiladores.
 
-Ríos. Mantenimiento, nivel cuatro. La reconozco por el tono ronco, no por la calma.
+Empujo la chapa contra la abertura. Es casi tan ancha como mis brazos extendidos. Los agujeros no coinciden del todo con los del borde de hormigón, y tengo que levantar un lado con la rodilla mientras empujo con la cadera. El acero chilla contra la piedra. Por fin queda apoyado, torcido apenas, pero suficiente para empezar a sujetarlo.
 
-Me quedo con el primer perno a medio roscar.
+Antes de colocar el primer tornillo, apoyo la mano en la puerta de mantenimiento. La vibración me sube por los huesos. Los ventiladores siguen aspirando aire desde abajo; incluso aquí puedo oír su zumbido, un sonido grave que se mezcla con el silbido del viento y me hace vibrar los dientes.
 
-—La placa de la derivación se está combando —dice—. Los tacos están escupiendo polvo.
+Si bajo por la escalerilla, llegaré a una plataforma junto a los motores, no a los controles. Para detenerlos tendría que cruzar hasta la sala de máquinas, al otro lado del nivel cuatro. Ayer hice ese recorrido con las manos sanas y tardé cuarenta minutos. El viento me da quince. El intercomunicador lleva dos días muerto.
 
-Eso lo entiendo. Cerrada la boca, los ventiladores no tienen por dónde entrar y deprimen el pozo. La única frontera que cede es la placa provisional del túnel este. Una chapa fina, pensada para polvo, no para presión.
+La voz que sale de la puerta me hace dar un respingo.
 
-—Aguanta —digo—. Doy tres pernos y bajo.
+—¡No la cierres!
 
-No es verdad. No puedo bajar. Si dejo la boca abierta un minuto más, el frente del este entra. Si la dejo a medias, el aire contaminado pasa igual y la placa de la derivación sigue cargada. No hay término medio.
+Es Ríos, la técnica que trabaja en el nivel cuatro. La reconozco por la ronquera, aunque el metal de la puerta le deforma las palabras.
 
-—No puedes cerrar —dice Ríos—. El puntal de la viga está anclado al marco de la placa.
+Me quedo inmóvil, con el primer tornillo entre los dedos.
 
-Me detengo.
+—La placa del túnel este se está doblando —dice—. Los anclajes están saliendo de la pared.
 
-—¿Qué?
+Sé lo que significa. Si tapo la entrada, los ventiladores van a seguir tirando de aire, pero ya no tendrán de dónde sacarlo. La presión dentro del pozo va a caer y el aire del refugio buscará una salida por el punto más débil: una placa provisional que separa el conducto del túnel este. Esa placa se instaló para mantener el polvo fuera, no para soportar la fuerza de los motores.
 
-—La roca se abrió hace media hora. Tuvimos que afirmar el puntal al marco. Si el marco se mueve, la viga cae.
+—Aguanta un momento —le digo—. Pongo la chapa y bajo.
 
-No lo sabía. Yo aprobé el refuerzo anclado a la roca, no al marco. Alguien improvisó sobre la marcha y no me avisó. O quizá yo no estaba donde debía estar cuando avisaron.
+Lo digo como si todavía hubiera un modo de hacer las dos cosas.
 
-Miro la boca. Tres pernos puestos. Faltan cinco. El viento ya no viene en rachas. Empuja seguido, frío, con un sabor a cobre.
+—No puedes cerrarla —responde Ríos—. El puntal que sostiene la viga está sujeto al marco de esa placa. Si el marco se mueve, la viga cae.
 
-—¿Podéis apartaros? —pregunto.
+Dejo de respirar por un instante.
+
+—¿Quién autorizó eso?
+
+—La roca se abrió hace media hora. No había dónde fijar el puntal. Tuvimos que improvisar.
+
+Yo había aprobado el refuerzo para el túnel, pero no esa solución. O tal vez alguien me avisó mientras yo estaba ocupado con la bomba y no escuché. La diferencia no cambia lo que va a pasar.
+
+Miro la chapa apoyada contra la boca. El viento ya no llega en ráfagas: empuja de forma constante y levanta una nube de sal que me golpea las piernas. A lo lejos, los edificios desaparecen detrás de una cortina blanca. El cielo se vuelve más violeta y el aire adquiere ese gusto a moneda que se queda pegado al fondo de la garganta.
+
+—¿Pueden apartarse del puntal? —pregunto.
 
 —¿Hacia dónde?
 
-—Pared sur. Lejos del puntal.
+—A la pared sur. Lo más lejos que puedan.
 
-Silencio. Luego ruido de metal arrastrado, una tos, una maldición corta.
+Oigo un golpe, algo que arrastran por el suelo y una tos que termina en una maldición.
 
-—Dos pueden —dice Ríos—. Uno está sujetando el extremo. Si lo suelta, la viga cae antes.
+—Dos pueden moverse —dice—. El tercero está sosteniendo el extremo. Si lo suelta, la viga cae antes de que podamos apartarnos.
 
-Cierro los ojos un segundo. Solo uno.
+Apoyo la frente un segundo contra la chapa fría. En el refugio, cuarenta personas siguen durmiendo sin saber que el aire puede matarlas. En el túnel este, seis trabajadores intentan mantener en pie un techo agrietado. No hay una decisión que los salve a todos. Solo hay una que todavía puedo tomar.
 
-—Apartaos lo que podáis. Voy a cerrar.
+—Apártense cuanto puedan —digo—. Voy a cerrar.
 
-—No.
+—No lo hagas.
 
-—Ríos.
+No contesto. Si sigo escuchándola, quizá no pueda mover las manos.
 
-—Si no cierras, el aire del este llega a los dormitorios.
+Coloco el segundo tornillo y después el tercero. El metal se resiste; los agujeros apenas coinciden y tengo que hacer fuerza con todo el cuerpo para que la chapa no se deslice. El hormigón vibra bajo mis rodillas. El zumbido de los ventiladores sube de tono y se vuelve un gemido agudo que se me mete en la cabeza.
 
-No responde. Tampoco hace falta.
+Cuando ajusto el cuarto tornillo, oigo un chasquido al otro lado de la puerta. Después, otro más largo, como si alguien estuviera retorciendo una lámina enorme con las manos desnudas.
 
-Giro el cuarto perno. El quinto. El hormigón vibra bajo mis rodillas con un tono más alto, como si el pozo se hubiera quedado sin aliento. El sexto se resiste. Apoyo todo mi peso en la llave. El hombro me lanza un dolor limpio. El perno entra.
+—¡Apártense! —grito.
 
-Por la puerta de mantenimiento sube un crujido. No viene del motor. Viene más abajo, de la derivación. Es un sonido pequeño, seco, como una tuerca saltando de su sitio.
+El quinto tornillo entra. El sexto me hace resbalar; la llave se me escapa y me golpea los nudillos. Siento la piel abierta, pero vuelvo a sujetarla. El cielo, reflejado en el acero, cambia de verde a violeta oscuro. La sal vuela a ras del suelo y me azota la cara.
 
-Séptimo perno.
+El séptimo.
 
-Otro crujido. Más largo. Metal arrancándose de algo que ya no lo sujeta.
+Desde el fondo del pozo llega un ruido seco, seguido por el chirrido de algo arrancándose de la pared.
 
-—¡Apartaos! —grito, aunque sé que no sirve de nada.
+Aprieto el último tornillo hasta que la llave vuelve a resbalar. Esta vez el borde del hormigón me abre la palma y la sangre cae sobre el acero en pequeñas gotas negras.
 
-Octavo perno. Aprieto hasta que la llave resbala y me abro la palma contra el hormigón.
+La chapa queda fija.
 
-La chapa principal queda asentada. El viento del este rebota contra ella y se dispersa. Los ventiladores siguen girando, ahora alimentándose del aire del refugio, no del cielo.
+Por un instante, el viento parece apagarse. Luego vuelve a rugir alrededor del bloque de hormigón, y la entrada queda sellada. Los ventiladores siguen funcionando; ya no aspiran el aire de la superficie, sino el del refugio. La gente de los dormitorios tendrá aire limpio.
 
-Durante dos latidos no ocurre nada.
+Entonces oigo el derrumbe.
 
-Luego, a través de la puerta de mantenimiento, llega un golpe hondo. Después el estrépito de la viga al caer, el chillido corto del metal torciéndose y una voz que se corta a la mitad.
+El golpe llega amortiguado desde abajo, tan profundo que primero lo siento en las rodillas y después lo escucho. Sigue un estruendo de metal, piedra y polvo, y una voz que grita una sola vez antes de desaparecer bajo el ruido. Una nube gris empieza a salir por las rendijas de la puerta de mantenimiento.
 
-Un polvo fino sale por las juntas de la puerta.
+Me quedo con la frente apoyada en la chapa. No rezo. Ni siquiera sé qué podría pedir.
 
-Me quedo con la frente apoyada en el acero. La boca está sellada. Los dormitorios van a respirar aire limpio.
+La voz de Ríos vuelve después de unos segundos, quebrada por la tos.
 
-La voz de Ríos vuelve, ronca, entrecortada por la tos.
+—La viga cayó. Uno quedó atrapado. Está vivo, pero no podemos sacarlo.
 
-—La viga ha caído. Uno está pillado. Está vivo, pero no podemos sacarlo.
+Abro la puerta. Del otro lado, la escalerilla desciende por un pozo oscuro; abajo, una luz roja parpadea entre el polvo. El aire que sube huele a roca recién partida, a metal caliente y a algo más que no consigo identificar. Mis manos ya no pueden cerrarse. Los dedos se me han quedado rígidos, curvados alrededor del borde de la chapa.
 
-Abro la puerta de mantenimiento. La escalerilla baja doce metros en la oscuridad. Mis manos no se cierran. Los dedos están curvados, rígidos, pegados a la forma de la chapa. Bajo agarrando los peldaños con los antebrazos, hacia el polvo, hacia la voz, hacia lo que acabo de decidir.
+Pongo un pie en el primer peldaño y me aferro con los antebrazos. Doce metros más abajo están Ríos, los trabajadores y la consecuencia de mi decisión. Empiezo a bajar.
