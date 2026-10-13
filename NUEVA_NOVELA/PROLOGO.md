@@ -8,15 +8,15 @@ Durante un segundo la vi girar en el aire, negra contra el sol pálido. Después
 
 Me abracé a la escalera.
 
-La torre se sacudió bajo mis botas. El viento me arrancó el aire de los pulmones y me llenó la boca de polvo salado. Abajo, las calles eran franjas blancas entre edificios vacíos. Había autos enterrados hasta las ventanas, balcones abiertos como cajas y carteles que el viento golpeaba contra sus soportes. En los techos, detrás de muros bajos, todavía se veían algunas huertas: manchas verdes y débiles en una ciudad que llevaba años perdiendo sus colores.
+La torre de hierro se sacudió bajo mis botas. El viento me arrancó el aire de los pulmones y me llenó la boca de polvo salado. El rotor estaba a treinta metros de la calle, por encima de buena parte de los edificios: allí el viento llegaba con más fuerza, pero una caída no dejaba segundas oportunidades. Abajo, las calles eran franjas blancas entre edificios vacíos. Había autos enterrados hasta las ventanas, balcones abiertos como cajas y carteles que el viento golpeaba contra sus soportes. En los techos, detrás de muros bajos, todavía se veían algunas huertas: manchas verdes y débiles en una ciudad que llevaba años perdiendo sus colores.
 
-No miré mucho tiempo. A treinta metros del suelo, distraerse era una forma bastante tonta de morir.
+No miré mucho tiempo. Aferrado a una escalera a mitad de la torre, distraerse era una forma bastante tonta de morir.
 
-La segunda pala seguía unida al molino, pero una grieta le recorría el borde. Cada vez que pasaba frente a mí, el rotor entero daba un tirón y la torre vibraba como si alguien la golpeara con un martillo. Si esa pala también se desprendía, podía destrozar el eje que movía la bomba de agua. Y sin la bomba, el depósito del barrio no iba a llenarse antes de la noche.
+De las dos palas que quedaban, una tenía una grieta que le recorría el borde. Cada vez que pasaba frente a mí, el rotor daba un tirón y la torre vibraba como si alguien la golpeara con un martillo. Si la pala agrietada también se desprendía, el rotor desbalanceado podía destrozar el eje y el generador que estaban en la caja metálica, justo detrás de las palas. Sin ese generador no habría electricidad para la bomba situada abajo, junto al depósito, y el tanque del barrio no se llenaría antes de la noche.
 
 Había prometido que lo haría.
 
-El freno del molino se había roto esa mañana. Era una pieza sencilla: una palanca que, al tirar de ella, apretaba unas zapatas contra el disco del eje y detenía las palas. El cable que conectaba la palanca con el freno se había partido por dentro, justo donde no podía alcanzarlo desde el suelo. Yo había encontrado un tramo de cable resistente en el hueco de un ascensor abandonado y lo había llevado hasta la torre pensando que tendría tiempo de cambiarlo.
+El freno del aerogenerador se había roto esa mañana. La palanca estaba junto al eje, dentro de la caja metálica que se movía con el rotor. Al bajarla, unas piezas de metal se apretaban contra un disco unido al eje y lo frenaban. El cable que transmitía el tirón de la palanca se había partido por dentro, donde no podía alcanzarlo desde el suelo. Yo había encontrado un tramo de cable resistente en el hueco de un ascensor abandonado y lo había subido pensando que tendría tiempo de reemplazar el roto.
 
 Me había equivocado con el tiempo.
 
@@ -40,7 +40,7 @@ Lo sujeté al aro de metal de la palanca y tiré con las dos manos.
 
 Nada.
 
-Volví a tirar, apoyando una bota contra el borde de la plataforma. La palanca se movió un dedo y regresó de golpe. El freno estaba demasiado lejos para accionarlo desde allí con la fuerza que me quedaba; además, el rotor empujaba en cada vuelta como si intentara arrancarme el brazo.
+Volví a tirar, apoyando una bota contra el borde de la plataforma. La palanca se movió un dedo y regresó de golpe. El freno estaba demasiado duro para accionarlo con la fuerza que me quedaba; además, el rotor empujaba en cada vuelta como si intentara arrancarme el brazo.
 
 Una ráfaga golpeó la torre de costado. La plataforma se inclinó lo suficiente para que una de mis botas resbalara. Me estrellé la rodilla contra el metal y el cable se me escapó de las manos.
 
@@ -48,7 +48,7 @@ No lo solté por completo. Lo atrapé con la muñeca y me quedé colgando del po
 
 La tormenta había alcanzado los primeros edificios. La nube de polvo venía por la avenida y ya no podía distinguir la calle donde había dejado mis herramientas. El sol se convirtió en una mancha amarilla detrás de la bruma.
 
-Tenía que detener el molino antes de que el viento arrancara la otra pala. No podía reparar la grieta allá arriba, pero sí podía inmovilizar el rotor y evitar que siguiera castigando el eje. Si conseguía mantener apretado el freno, después alguien podría subir con herramientas y reemplazar la pala rota.
+Tenía que detener el aerogenerador antes de que el viento arrancara la última pala sana. No podía reparar la grieta allá arriba, pero sí podía inmovilizar el rotor y evitar que el desequilibrio destrozara el eje y el generador. Después alguien podría subir con herramientas y reemplazar la pala rota.
 
 Volví a la plataforma y busqué algo que me permitiera mantener la palanca abajo. Solo tenía el cable nuevo, una llave pesada y la correa de cuero que usaba para sujetar la bolsa al cinturón. La correa no estaba hecha para aquello. Tampoco lo estaba yo.
 
@@ -68,7 +68,7 @@ El rotor giró una vez más, despacio, y se detuvo con una de las palas apuntand
 
 Nada se rompió.
 
-La bomba debía seguir funcionando. Desde arriba no podía comprobarlo, pero el molino ya no estaba golpeando el eje con cada vuelta. Había comprado tiempo, no una solución.
+La bomba estaba abajo, junto al depósito, conectada al generador por cables que bajaban por la torre. Un banco de baterías le daría corriente durante unas horas aunque el rotor quedara detenido; alcanzaba para terminar de llenar el tanque, siempre que no perdiéramos más tiempo. Había protegido el generador y comprado tiempo, no una solución: alguien tendría que reparar o reemplazar la pala antes de que se agotara la reserva.
 
 Miré hacia abajo. Dos peldaños de la escalera habían desaparecido; quizá los había arrancado la ráfaga, quizá estaban allí abajo entre las ruinas. Bajar por fuera ya no era una opción. La torre tenía una escalera interior de mantenimiento, estrecha y oscura, que llegaba hasta el pie de la estructura. Para alcanzarla debía cruzar la plataforma y abrir una trampilla en el suelo.
 
@@ -82,6 +82,6 @@ No parecían vehículos. Tampoco incendios.
 
 Me quedé inmóvil, con la mano sobre la trampilla, tratando de distinguir algo más. La bruma se cerró sobre la calle y las luces desaparecieron.
 
-Abajo, el barrio esperaba el agua. Sobre mi cabeza, la tormenta empezaba a sacudir otra vez las palas detenidas.
+Abajo, el barrio esperaba el agua. La bomba seguía trabajando con la reserva de las baterías, pero el contador de carga no iba a esperar para siempre. Sobre mi cabeza, la tormenta empezaba a sacudir otra vez las palas detenidas.
 
 Y en algún lugar entre las ruinas, alguien se estaba moviendo en plena tormenta.
