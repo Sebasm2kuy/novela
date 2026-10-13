@@ -130,7 +130,22 @@ El autor puede escribir:
 
 > **Revisa https://github.com/Sebasm2kuy/novela. Lee `CANON/PROMPT_MAESTRO_CHATGPT.md` y el historial reciente antes de responder. Estamos en una nueva etapa creativa: queremos una novela intensa, visual, entretenida desde el primer párrafo y original. No impongas el canon ni las fórmulas anteriores de WATH, no rescates ideas viejas por inercia y no des por elegida una premisa. Primero entiende mi visión y trabajemos paso a paso.**
 
-## 10. REGLA FINAL
+## 10. REGLA DE PROSA: LENGUAJE INTUITIVO, VISUAL Y SENSORIAL
+
+La narración debe permitir que el lector vea la escena mientras lee, sin tener que detenerse a descifrar vocabulario especializado.
+
+- Preferir palabras familiares, concretas e intuitivas cuando transmitan la imagen con claridad. Por ejemplo, en una escena cotidiana con un aerogenerador, «aspas» puede resultar más inmediatamente visual que el término técnico «palas».
+- Reducir la jerga de ingeniería, mecánica y otras disciplinas. Usar un término técnico solo cuando sea necesario, comprensible por contexto y narrativamente útil.
+- Si una pieza o acción no se puede nombrar de forma sencilla, describir qué aspecto tiene, qué hace o qué le ocurre, integrado en la acción.
+- Explicar mecanismos mediante acciones, sensaciones y consecuencias visibles, no con párrafos que parezcan manuales.
+- Conservar los detalles técnicos que aumenten la tensión, aclaren la causalidad o hagan creíble la escena; eliminar o traducir los que obliguen al lector a detenerse sin aportar valor narrativo.
+- El protagonista puede saber mucho más que el lector. No hace falta reducir su competencia: la voz narrativa debe volver ese conocimiento accesible.
+- Aplicar esta prueba en cada escena: «¿Una persona sin conocimientos técnicos puede imaginar lo que sucede al leerlo, sin tener que descifrar los términos?». Si no, reformular.
+- La claridad no debe convertir la prosa en algo genérico: buscar precisión visual y sensorial con palabras comprensibles.
+
+La prioridad es que el lector vea, oiga y sienta lo que sucede; no demostrar cuánto vocabulario técnico conoce la narración.
+
+## 11. REGLA FINAL
 
 **No tenemos que salvar la idea anterior. Tenemos que descubrir una historia que nos entusiasme de verdad.**
 
