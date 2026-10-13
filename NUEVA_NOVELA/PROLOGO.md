@@ -40,7 +40,7 @@ Dejo de respirar por un instante.
 
 Yo había aprobado el refuerzo para el túnel, pero no esa solución. O tal vez alguien me avisó mientras yo estaba ocupado con la bomba y no escuché. La diferencia no cambia lo que va a pasar.
 
-Miro la chapa apoyada contra la boca. El viento ya no llega en ráfagas: empuja de forma constante y levanta una nube de sal que me golpea las piernas. A lo lejos, los edificios desaparecen detrás de una cortina blanca. El cielo se vuelve más violeta y el aire adquiere ese gusto a moneda que se queda pegado al fondo de la garganta.
+Miro la chapa apoyada contra la boca. El viento ya no llega en ráfagas: empuja de forma constante y levanta una nube de sal que me golpea las piernas. A lo lejos, los edificios desaparecen detrás de una cortina de polvo. El sol es apenas una mancha apagada y el aire adquiere ese gusto a moneda que se queda pegado al fondo de la garganta.
 
 Le pregunto a Ríos si pueden apartarse del puntal. «¿Hacia dónde?», contesta, y detrás de su voz escucho un golpe, algo que arrastran por el suelo y una tos que termina en una maldición. Les digo que se peguen a la pared sur, lo más lejos posible. Ríos responde que dos pueden moverse, pero el tercero está sosteniendo el extremo; si lo suelta, la viga caerá antes de que los demás alcancen a apartarse.
 
