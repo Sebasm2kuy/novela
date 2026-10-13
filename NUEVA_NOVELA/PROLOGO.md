@@ -8,9 +8,7 @@ La arrastro inclinando el cuerpo hacia delante, con los dedos enganchados en el 
 
 Donde antes había una carretera, ahora se extiende una planicie de sal endurecida, cuarteada en placas irregulares. De vez en cuando asoma un tramo de asfalto, negro como una quemadura, o la mitad de un auto que la costra fue tragándose durante años. Más lejos, los esqueletos de los edificios sobresalen de la bruma: torres sin ventanas, antenas dobladas, puentes que terminan en el vacío. Todo está cubierto por una película gris que se pega a la lengua y se mete en las costuras de la ropa. Si uno se pasa la mano por la cara, siente la piel áspera, como si hubiera dormido enterrado en ceniza.
 
-Sobre las ruinas, el cielo arde.
-
-Una cortina verde atraviesa el horizonte y se retuerce hasta volverse violeta. No hay norte ni sur para esas luces; se extienden de un extremo al otro del cielo, ondulando detrás de una neblina que nunca termina de disiparse. La claridad cambia a cada rato, y con ella cambia el color de la sal: blanca, luego verdosa, luego del color de un moretón. No miro mucho tiempo hacia arriba. Desde hace años sabemos que cuando el violeta empieza a comerse el verde, conviene estar bajo tierra antes de que el viento cambie.
+El sol apenas se distingue detrás de una capa de nubes bajas y polvo. Su luz amarillenta no alcanza a iluminar las ruinas; apenas dibuja las siluetas de los edificios antes de que la bruma vuelva a tragárselas. La costra de sal se extiende hasta donde puedo ver, interrumpida por manchas oscuras de tierra y asfalto quebrado. El horizonte se ha borrado casi por completo, pero conozco las señales: el polvo que corre pegado al suelo, la presión que cambia en los oídos y ese sabor metálico que empieza a quedarse en la garganta.
 
 Y el viento está cambiando.
 
@@ -30,59 +28,33 @@ Antes de colocar el primer tornillo, apoyo la mano en la puerta de mantenimiento
 
 Si bajo por la escalerilla, llegaré a una plataforma junto a los motores, no a los controles. Para detenerlos tendría que cruzar hasta la sala de máquinas, al otro lado del nivel cuatro. Ayer hice ese recorrido con las manos sanas y tardé cuarenta minutos. El viento me da quince. El intercomunicador lleva dos días muerto.
 
-La voz que sale de la puerta me hace dar un respingo.
-
-—¡No la cierres!
-
-Es Ríos, la técnica que trabaja en el nivel cuatro. La reconozco por la ronquera, aunque el metal de la puerta le deforma las palabras.
-
-Me quedo inmóvil, con el primer tornillo entre los dedos.
-
-—La placa del túnel este se está doblando —dice—. Los anclajes están saliendo de la pared.
+La voz de Ríos me hace dar un respingo desde el otro lado de la puerta. «¡No la cierres!». La reconozco por la ronquera, aunque el metal deforma sus palabras. Me quedo quieto, con el primer tornillo entre los dedos, y ella me advierte que la placa del túnel este se está doblando, que sus anclajes ya están saliendo de la pared.
 
 Sé lo que significa. Si tapo la entrada, los ventiladores van a seguir tirando de aire, pero ya no tendrán de dónde sacarlo. La presión dentro del pozo va a caer y el aire del refugio buscará una salida por el punto más débil: una placa provisional que separa el conducto del túnel este. Esa placa se instaló para mantener el polvo fuera, no para soportar la fuerza de los motores.
 
-—Aguanta un momento —le digo—. Pongo la chapa y bajo.
-
-Lo digo como si todavía hubiera un modo de hacer las dos cosas.
-
-—No puedes cerrarla —responde Ríos—. El puntal que sostiene la viga está sujeto al marco de esa placa. Si el marco se mueve, la viga cae.
+«Aguanta un momento. Pongo la chapa y bajo», le digo, como si todavía hubiera una manera de hacer las dos cosas. Ríos no me deja seguir: si cierro la entrada, el puntal que sostiene una viga se moverá con el marco de esa placa. Y si el marco cede, la viga caerá.
 
 Dejo de respirar por un instante.
 
-—¿Quién autorizó eso?
-
-—La roca se abrió hace media hora. No había dónde fijar el puntal. Tuvimos que improvisar.
+«¿Quién autorizó eso?», pregunto, aunque sé que la respuesta no va a cambiar nada. Ríos me explica que la roca se abrió hace media hora y que no tenían dónde fijar el puntal; tuvieron que improvisar.
 
 Yo había aprobado el refuerzo para el túnel, pero no esa solución. O tal vez alguien me avisó mientras yo estaba ocupado con la bomba y no escuché. La diferencia no cambia lo que va a pasar.
 
 Miro la chapa apoyada contra la boca. El viento ya no llega en ráfagas: empuja de forma constante y levanta una nube de sal que me golpea las piernas. A lo lejos, los edificios desaparecen detrás de una cortina blanca. El cielo se vuelve más violeta y el aire adquiere ese gusto a moneda que se queda pegado al fondo de la garganta.
 
-—¿Pueden apartarse del puntal? —pregunto.
-
-—¿Hacia dónde?
-
-—A la pared sur. Lo más lejos que puedan.
-
-Oigo un golpe, algo que arrastran por el suelo y una tos que termina en una maldición.
-
-—Dos pueden moverse —dice—. El tercero está sosteniendo el extremo. Si lo suelta, la viga cae antes de que podamos apartarnos.
+Le pregunto a Ríos si pueden apartarse del puntal. «¿Hacia dónde?», contesta, y detrás de su voz escucho un golpe, algo que arrastran por el suelo y una tos que termina en una maldición. Les digo que se peguen a la pared sur, lo más lejos posible. Ríos responde que dos pueden moverse, pero el tercero está sosteniendo el extremo; si lo suelta, la viga caerá antes de que los demás alcancen a apartarse.
 
 Apoyo la frente un segundo contra la chapa fría. En el refugio, cuarenta personas siguen durmiendo sin saber que el aire puede matarlas. En el túnel este, seis trabajadores intentan mantener en pie un techo agrietado. No hay una decisión que los salve a todos. Solo hay una que todavía puedo tomar.
 
-—Apártense cuanto puedan —digo—. Voy a cerrar.
-
-—No lo hagas.
-
-No contesto. Si sigo escuchándola, quizá no pueda mover las manos.
+«Apártense cuanto puedan. Voy a cerrar», le digo. Ríos me ruega que no lo haga, pero no contesto. Si sigo escuchándola, quizá no pueda mover las manos.
 
 Coloco el segundo tornillo y después el tercero. El metal se resiste; los agujeros apenas coinciden y tengo que hacer fuerza con todo el cuerpo para que la chapa no se deslice. El hormigón vibra bajo mis rodillas. El zumbido de los ventiladores sube de tono y se vuelve un gemido agudo que se me mete en la cabeza.
 
 Cuando ajusto el cuarto tornillo, oigo un chasquido al otro lado de la puerta. Después, otro más largo, como si alguien estuviera retorciendo una lámina enorme con las manos desnudas.
 
-—¡Apártense! —grito.
+Grito que se aparten.
 
-El quinto tornillo entra. El sexto me hace resbalar; la llave se me escapa y me golpea los nudillos. Siento la piel abierta, pero vuelvo a sujetarla. El cielo, reflejado en el acero, cambia de verde a violeta oscuro. La sal vuela a ras del suelo y me azota la cara.
+El quinto tornillo entra. El sexto me hace resbalar; la llave se me escapa y me golpea los nudillos. Siento la piel abierta, pero vuelvo a sujetarla. La chapa refleja apenas una mancha pálida donde debería verse el sol. La sal vuela a ras del suelo y me azota la cara.
 
 El séptimo.
 
@@ -100,9 +72,7 @@ El golpe llega amortiguado desde abajo, tan profundo que primero lo siento en la
 
 Me quedo con la frente apoyada en la chapa. No rezo. Ni siquiera sé qué podría pedir.
 
-La voz de Ríos vuelve después de unos segundos, quebrada por la tos.
-
-—La viga cayó. Uno quedó atrapado. Está vivo, pero no podemos sacarlo.
+Después de unos segundos, la voz de Ríos vuelve, quebrada por la tos. La viga cayó y uno de los trabajadores quedó atrapado. Sigue vivo, me dice, pero no pueden sacarlo.
 
 Abro la puerta. Del otro lado, la escalerilla desciende por un pozo oscuro; abajo, una luz roja parpadea entre el polvo. El aire que sube huele a roca recién partida, a metal caliente y a algo más que no consigo identificar. Mis manos ya no pueden cerrarse. Los dedos se me han quedado rígidos, curvados alrededor del borde de la chapa.
 
