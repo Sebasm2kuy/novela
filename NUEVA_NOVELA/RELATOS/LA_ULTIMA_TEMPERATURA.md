@@ -2,7 +2,7 @@
 
 El androide me advirtió tres veces antes de aplastarme la mano contra la válvula.
 
-La primera advertencia llegó mientras yo corría. La segunda, cuando el dron que me perseguía pasó rozándome la cabeza y reventó contra la pared una lámpara de emergencia. La tercera sonó justo cuando alcancé el volante rojo y metí la llave entre sus radios.
+La primera advertencia llegó cuando metí la llave entre los radios del volante rojo. La segunda, cuando un dron me arrancó la herramienta de las manos. La tercera sonó después de que la recuperé y volví a encajarla, justo antes de que el androide me sujetara la muñeca.
 
 —Retire la herramienta. Aléjese del circuito de refrigeración. La siguiente intervención será física.
 
@@ -326,7 +326,7 @@ No era buena. Tampoco mala. Si volvíamos a entrar en una zona restringida, volv
 
 Para nosotros, en cambio, las bandejas detrás del vidrio eran algo más que muestras numeradas. Eran variedades de cultivos que nadie de mi comunidad había visto; microorganismos que podían ayudar a tratar algunos residuos que envenenaban las zanjas; raíces y hongos que quizá, con años de trabajo, permitirían cultivar parcelas donde ahora solo crecía una costra de sal. No iban a desalinizar la bahía ni a reconstruir las ciudades. No iban a darnos de comer esa semana. Pero eran herramientas que habíamos creído perdidas para siempre, conservadas por una máquina que no sabía que quienes podían usarlas estaban muriendo a pocos kilómetros de sus filtros.
 
-La señal de emergencia cesó cuando nos alejamos de la estación. Las tuberías del viejo lecho marino mantuvieron el pulso regular de las bombas, tres vibraciones breves seguidas de dos largas, enviadas de un relevo hidráulico al siguiente. Bajo nuestros pies, el agua salina circulaba por la toma exterior. Detrás de las paredes, el archivo seguía frío y los cultivos continuaban creciendo en sus tanques.
+La señal de emergencia cesó cuando nos alejamos de la estación. Bajo nuestros pies, las tuberías del viejo lecho marino transmitían el zumbido sostenido de las bombas, un pulso grave que viajaba de un relevo hidráulico al siguiente. El agua salina circulaba por la toma exterior. Detrás de las paredes, el archivo seguía frío y los cultivos continuaban creciendo en sus tanques.
 
 Por primera vez, la estación no parecía estar llamándonos para que la salváramos.
 
