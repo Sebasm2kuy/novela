@@ -95,11 +95,11 @@ Gor amplió el esquema. Para detener la estación no bastaba con cortar la tuber
 
 Las dos operaciones estaban separadas. La toma se encontraba fuera, al otro lado del patio, detrás de una compuerta que podía accionarse desde un pozo estrecho. El rotor estaba en la sala de bombas, bajo la estación. El sistema distribuía sus máquinas de mantenimiento entre ambos puntos; si una detectaba una alteración, las demás cambiaban de ruta para sellarla. Una sola cuadrilla no podría cerrar la toma y bloquear el rotor antes de que la máquina de la otra zona llegara a interceptarla.
 
-Nosotros conocíamos los vientos y los tramos de costra capaces de soportar peso. Podíamos cruzar el patio con un carro de vela y un armazón reflectante que desviara durante unos segundos los sensores ópticos. Los hombres de las Galerías tenían las llaves de presión, las cuñas y el conocimiento mecánico para bloquear el rotor sin partir el eje. Separados, ninguno podía alcanzar los dos puntos; juntos, podíamos obligar a la estación a atender dos fallas a la vez.
+Nosotros conocíamos los vientos y los tramos de costra capaces de soportar peso. Podíamos cruzar el patio con un carro de vela y un armazón reflectante que desviara durante unos segundos los sensores ópticos. Los hombres de las Galerías tenían las llaves de presión, las cuñas y el conocimiento mecánico para bloquear el rotor sin partir el eje. Jarek, el más pequeño de ellos, cerraría la toma desde un pozo exterior mientras Seli y el otro hombre mantenían las unidades ocupadas; Raal, Gor y yo llegaríamos al rotor. Un cable de servicio conectaba la toma con un indicador en la sala de bombas. Cuando la válvula exterior alcanzara el tope, la aguja caería y sabríamos que había llegado el momento de trabar el eje. Separados, ninguno podía alcanzar los dos puntos; juntos, podíamos obligar a la estación a atender dos fallas a la vez.
 
 No hubo acuerdo solemne. Raal me extendió la mano herida para que le ajustara el vendaje. Lo hice porque necesitaba que pudiera sujetar una herramienta. Él no me dio las gracias. Yo no le pedí perdón por el perno que le había clavado en el brazo.
 
-El asalto empezó cuando el sol descendió detrás de los acantilados. Seli y dos hombres del este llevaron el carro de vela hacia el patio abierto, con la tela reflectante desplegada entre los mástiles. Los sensores siguieron el resplandor y las máquinas blancas salieron de sus nichos para interceptarlos. No se abalanzaron sobre ellos como soldados; cortaron las ruedas, bloquearon los caminos y extendieron sellador sobre el suelo para cerrarles el paso.
+El asalto empezó cuando el sol descendió detrás de los acantilados. Seli y el segundo hombre de las Galerías llevaron el carro de vela hacia el patio abierto, con la tela reflectante desplegada entre los mástiles. Jarek se separó de ellos y descendió al pozo exterior para cerrar la toma, guiándose por las marcas de mantenimiento que Gor había descifrado. Los sensores siguieron el resplandor y las máquinas blancas salieron de sus nichos para interceptarlos. No se abalanzaron sobre ellos como soldados; cortaron las ruedas, bloquearon los caminos y extendieron sellador sobre el suelo para cerrarles el paso.
 
 Mientras la estación concentraba sus unidades en el patio, Raal, Gor y yo entramos por el conducto de mantenimiento. Nos movimos agachados entre los tubos que vibraban, pasando sobre rejillas calientes y bajo brazos automáticos que podían arrancarnos una pierna con un solo movimiento. Al fondo de la galería encontramos la sala del rotor. Un volante de acero dominaba la pared, unido a un eje que desaparecía dentro de una carcasa sellada.
 
@@ -109,7 +109,7 @@ Gor conectó la herramienta de lectura. En la pantalla apareció la presión de 
 
 Raal se arrodilló junto al volante. Yo llevé la barra de acero hasta el acoplamiento. El ruido del patio llegaba a través de las paredes: golpes, chasquidos y el chillido de una máquina al cortar el armazón de la vela. Seli estaba ganando tiempo, pero no podía mantenerlas ocupadas para siempre.
 
-La señal de cierre llegó por el cable cuando el indicador de presión empezó a caer. Raal giró el volante con ambas manos. No se movió. El sistema automático mantenía la válvula bajo carga, y el metal vibraba como si fuera a soltarse de la pared.
+La aguja del indicador cayó: la válvula exterior había llegado al tope. Raal giró el volante con ambas manos. No se movió. El sistema automático mantenía la válvula bajo carga, y el metal vibraba como si fuera a soltarse de la pared.
 
 —¡Ahora! —gritó.
 
