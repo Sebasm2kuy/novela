@@ -76,7 +76,21 @@ Los dos bandos levantaron las armas hacia las máquinas.
 
 Pero uno de los hombres de las Dársenas ya había disparado. Los perdigones golpearon el pecho del androide y se aplastaron contra una carcasa sin dejar más que marcas. La unidad levantó las manos, proyectó una línea luminosa sobre el suelo y repitió la advertencia.
 
-El hombre retrocedió. Su compañero no. Corrió hacia la válvula con una carga de demolición, dispuesto a volarla para abrir paso al agua. La puerta de seguridad descendió antes de que pudiera llegar. No intentó aplastarlo; lo apartó del compartimento y selló la entrada. Pero el hombre cayó sobre el borde de una canaleta que acababa de abrirse en el suelo. El golpe le quebró el cuello.
+Vi el tramo de tubería que perdía agua. Si cerraba la válvula antes de que la máquina volviera a sellar la fuga, al menos dejaríamos de alimentar aquella pérdida. Corrí hacia el volante, metí la llave entre sus radios y tiré.
+
+—Retire la herramienta. Aléjese del circuito de refrigeración —dijo el androide.
+
+Seguí tirando. El volante vibró bajo la presión.
+
+—Segunda advertencia. La siguiente intervención será física.
+
+El brazo de la unidad me sujetó la muñeca. El volante giró bajo mi llave y me estampó la mano contra la baranda. Oí un chasquido dentro de los guantes y grité. Cuando solté la herramienta, el androide me liberó de inmediato. No intentó golpearme otra vez; solo señaló el corredor de salida.
+
+Entonces el piso cambió de nivel.
+
+Una placa se deslizó entre nosotros y me lanzó contra la baranda. Al otro lado, Mara quedó aislada junto al conducto principal. Los drones descendieron hacia ella, extendiendo una red de filamentos amarillos para apartarla de las ruedas de la bomba. Ninguno disparó. Ninguno necesitaba hacerlo: el edificio entero se había convertido en una máquina que no nos permitiría tocar lo que quería mantener funcionando.
+
+El hombre de las Dársenas que llevaba la carga no retrocedió. Corrió hacia la válvula con el explosivo dispuesto a abrir paso al agua. La puerta de seguridad descendió antes de que pudiera llegar. No intentó aplastarlo; lo apartó del compartimento y selló la entrada. Pero el hombre cayó sobre el borde de una canaleta que acababa de abrirse en el suelo. El golpe le quebró el cuello.
 
 La máquina volvió a cerrar la canaleta y aplicó sellador sobre la grieta de la bomba.
 
