@@ -107,7 +107,7 @@ Gor conectó la herramienta de lectura. En la pantalla apareció la presión de 
 
 —Cuando cerremos la toma —dijo—, la estación va a intentar arrancar otra vez. Tenemos que meter las cuñas antes de que el rotor alcance velocidad.
 
-Raal se arrodilló junto al volante. Yo llevé la barra de acero hasta el acoplamiento. El ruido del patio llegaba a través de las paredes: golpes, chasquidos y el chillido de una máquina al cortar el armazón de la vela. Seli estaba ganando tiempo, pero no podía mantenerlas ocupadas para siempre.
+Raal se arrodilló junto al volante. Yo llevé la barra de acero hasta el acoplamiento. El ruido del patio llegaba a través de las paredes: golpes, chasquidos y el chillido de una máquina al cortar el armazón reflectante. Seli estaba ganando tiempo, pero no podía mantenerlas ocupadas para siempre.
 
 La aguja del indicador cayó: la válvula exterior había llegado al tope. Raal giró el volante con ambas manos. No se movió. El sistema automático mantenía la válvula bajo carga, y el metal vibraba como si fuera a soltarse de la pared.
 
