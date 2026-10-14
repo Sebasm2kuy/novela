@@ -82,7 +82,9 @@ Vi el tramo de tubería que perdía agua. Si cerraba la válvula antes de que la
 
 Seguí tirando. El volante vibró bajo la presión.
 
-—Segunda advertencia. La siguiente intervención será física.
+—Segunda advertencia. Deje el circuito libre.
+
+—Tercera advertencia. Inmovilización física inminente.
 
 El brazo de la unidad me sujetó la muñeca. El volante giró bajo mi llave y me estampó la mano contra la baranda. Oí un chasquido dentro de los guantes y grité. Cuando solté la herramienta, el androide me liberó de inmediato. No intentó golpearme otra vez; solo señaló el corredor de salida.
 
