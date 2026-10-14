@@ -11,7 +11,7 @@ Hablaba mi idioma.
 
 Aquello me sorprendió casi tanto como el disparo. Durante toda mi vida había oído que más allá del Mar Blanco no quedaba nadie. Ahora un desconocido me apuntaba con un arma que funcionaba con el mismo principio que la nuestra, hablaba como mi gente y estaba dispuesto a matarnos por una tubería.
 
-Apoyé la ballesta de torsión contra el borde del conducto y disparé. El perno se le clavó en el antebrazo. Su arma cayó sobre la sal; el hombre se agachó detrás de la rueda, maldiciendo. Su compañero levantó la carabina y me buscó por encima del tubo. Seli me empujó al suelo justo cuando el proyectil arrancó un trozo de la placa oxidada sobre mi cabeza.
+Levanté mi carabina de aire y disparé. El proyectil le abrió el antebrazo. Su arma cayó sobre la sal; el hombre se agachó detrás de la rueda, maldiciendo. Su compañero levantó la carabina y me buscó por encima del tubo. Seli me empujó al suelo justo cuando el proyectil arrancó un trozo de la placa oxidada sobre mi cabeza.
 
 Olan no se movió.
 
@@ -27,7 +27,7 @@ Los pozos de nuestras terrazas llevaban un año empeorando. Primero el agua hab�
 
 En el archivo de la torre de niebla encontré un plano incompleto de la antigua red de bombeo. Una línea gruesa cruzaba el Mar Blanco y llegaba hasta un símbolo marcado como **ESTACIÓN DE REGULACIÓN 4**. El mismo plano indicaba que la estación extraía agua de un acuífero profundo y la enviaba hacia un centro de distribución cuyo nombre estaba borrado. Los registros del pozo mostraban que la presión descendía cada semana, mientras el caudal extraído aumentaba. Era como si algo estuviera intentando compensar una pérdida cada vez mayor.
 
-Seguimos la línea en el terreno. A veces era visible como una hilera de tapas metálicas hundidas en la sal; otras veces solo la encontrábamos apoyando el oído sobre el suelo hasta distinguir el golpe regular de una bomba distante. Seli y Olan me acompañaron. Llevábamos un carro de vela, una carabina, una ballesta y herramientas suficientes para cortar una tubería si encontrábamos el lugar donde el agua se estaba perdiendo.
+Seguimos la línea en el terreno. A veces era visible como una hilera de tapas metálicas hundidas en la sal; otras veces solo la encontrábamos apoyando el oído sobre el suelo hasta distinguir el golpe regular de una bomba distante. Seli y Olan me acompañaron. Llevábamos un carro de vela, dos carabinas de aire y herramientas suficientes para cortar una tubería si encontrábamos el lugar donde el agua se estaba perdiendo.
 
 No sabíamos que alguien más seguía el mismo sistema desde el este. El viejo plano que poseíamos acababa en la estación; no mostraba quién vivía más allá de ella ni a dónde llegaba la tubería principal. Los hombres de las Galerías tenían una copia distinta, heredada de sus propios talleres. Sus pozos también habían empezado a salinizarse, y habían seguido el aumento del bombeo hasta la estación para abrir una derivación que llevara parte del agua hacia sus depósitos. Para ambos pueblos, aquel lugar era el único punto desde el que todavía se podía cambiar lo que estaba ocurriendo bajo tierra.
 
