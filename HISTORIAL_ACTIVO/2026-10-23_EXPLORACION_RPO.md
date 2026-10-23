@@ -242,3 +242,10 @@ El usuario quiere combinar exploración, transformación del mundo y misterio, b
 ## Turno 106 — Momento histórico del protagonista
 
 El usuario plantea decidir si el protagonista vive el comienzo del fenómeno, su etapa intermedia o décadas después de que deje de producirse. El asistente señala que la elección define la experiencia narrativa y que el comienzo de la novela no tiene que coincidir con el comienzo del fenómeno: se puede vivir la transformación en tiempo real o reconstruir el pasado mediante huellas y descubrimientos. Pregunta abierta, ninguna opción aprobada. No desarrollar la premisa todavía.
+
+
+## Turnos 106–107 — Décadas después de la última aparición conocida
+
+El usuario se inclina por situar la novela décadas después de la última aparición de los portales, sin asumir que aquella fuera realmente la última. Esta distancia temporal permitiría reconstruir cómo comenzó y evolucionó el fenómeno, sus peores momentos y la aceptación gradual del nuevo mundo. La historia puede revelar el pasado mediante lugares, expediciones, testimonios, restos y decisiones del presente, de modo que el pasado siga condicionando la vida actual. La «última aparición» como posible misterio queda abierta; no es una decisión de trama cerrada.
+
+Estado: preferencia temporal provisional sólida, todavía no premisa completa ni canon irreversible. No desarrollar personajes, explicación del misterio o estructura detallada de la trama sin aprobación del usuario. Intercambio completo: [ITERACIONES/2026-10-23_TURNOS_106-107_MOMENTO_POSTERIOR.md](ITERACIONES/2026-10-23_TURNOS_106-107_MOMENTO_POSTERIOR.md).
