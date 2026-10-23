@@ -266,3 +266,7 @@ Se localizaron, entre otros, *Portals* (película, 2019), *Doors* (película, 20
 
 Fuentes y análisis ampliado: ver el archivo de iteración enlazado arriba. La investigación está en curso, no es un dictamen final de originalidad.
 
+
+### Segunda ampliación de auditoría (2026-10-23)
+Se añadió y verificó un documento específico con la segunda ronda de comparaciones, incluida una alerta estructural importante sobre *The Chronoliths* de Robert Charles Wilson, además de *The Rift*, *Portals*, *Doors*, *Outland*, *After the Fall, Before the Fall, During the Fall*, *Passage to Anywhere*, *The Holes Around Mars*, *Salvation*, *The Long Earth*, *Century Rain* y *One Step from Earth*. La auditoría sigue abierta y distingue similitudes de tropo, estructura y mecanismo; no certifica originalidad.
+Documento: https://github.com/Sebasm2kuy/novela/blob/main/HISTORIAL_ACTIVO/ITERACIONES/2026-10-23_AUDITORIA_ORIGINALIDAD_SEGUNDA_AMPLIACION.md
