@@ -176,3 +176,12 @@ Se analizó el candidato 5, «El Rediseño de la Flota Perdida». La respuesta e
 Diagnóstico provisional: la propuesta ofrece progreso tangible y un mundo que cuenta su historia mediante restos reutilizados; el encuentro con una sociedad nómada podría introducir una dimensión cultural interesante. Sin embargo, el motor de supervivencia y aprovechamiento de recursos es conocido, existe riesgo de que la aventura se convierta en una secuencia de problemas logísticos, y el descubrimiento de la sociedad nómada todavía no está conectado de forma convincente con la misión inicial. No se aprueba ni se descarta ninguna premisa.
 
 La siguiente y última propuesta de Gemini V2 por analizar es el candidato 6, «La Refracción del Espacio Habitado». No hay premisa aprobada.
+
+
+---
+
+## Propuestas propias — seis candidatas — 2026-10-23
+
+A petición del usuario («Ok ya leímos todo y tienes 4 promps diferentes es tu turno de proponer las 6 ideas»), el asistente presentó seis propuestas propias tras analizar los seis candidatos de Gemini V2: **El cementerio de las mareas**, **La república de las compuertas**, **Los faros del cielo muerto**, **El último vivero**, **La ciudad de las torres inclinadas** y **La frontera de las semillas**. La descripción de cada una, sus riesgos y la comparación crítica están archivados en [ITERACIONES/2026-10-23_PROPUESTAS_PROPIAS_SEIS_IDEAS.md](ITERACIONES/2026-10-23_PROPUESTAS_PROPIAS_SEIS_IDEAS.md).
+
+Diagnóstico comparativo provisional del asistente: las candidatas relativamente más fuertes son **El cementerio de las mareas** (imagen y geografía distintivas, pero conflicto todavía poco singular) y **Los faros del cielo muerto** (recurso visual y causal claro, pero riesgo de reducirse a disputa de infraestructura). Las más débiles son **La ciudad de las torres inclinadas** (imagen potente, motor narrativo limitado) y **La frontera de las semillas** (conflicto conocido de escasez). Las seis siguen siendo propuestas; **ninguna está aprobada ni es canon**. No desarrollar ni reparar ninguna sin indicación expresa del usuario.
