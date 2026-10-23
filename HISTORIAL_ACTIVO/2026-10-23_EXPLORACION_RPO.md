@@ -214,3 +214,12 @@ El usuario rechazó el rumbo de la utopía posescasez y la cadena de fallos entr
 Evaluación crítica registrada: el ciclo podría generar decisiones de viaje y una geografía visualmente activa, pero la física es una extrapolación grande, la estructura puede parecer un videojuego de niveles que se abren y cierran, y la idea aún no tiene una identidad original suficientemente demostrada ni un conflicto singular que la sostenga. **No aprobada; no desarrollar ni reparar por inercia.** El único elemento que se propone poner a prueba es si la imagen de un mundo cuya geografía cambia con el tiempo despierta interés real.
 
 Transcripción del intercambio: [ITERACIONES/2026-10-23_TURNOS_96-99_PROPUESTA_MAREA_DE_PIEDRA.md](ITERACIONES/2026-10-23_TURNOS_96-99_PROPUESTA_MAREA_DE_PIEDRA.md).
+
+
+## Turnos 100–101 — Nueva hipótesis: conexiones temporales entre lugares
+
+El usuario propone que el acontecimiento científico haya producido miles de miniagujeros negros usados para viajar, o que conecten y desconecten dos puntos de la Tierra por períodos. El asistente identifica como dirección más fértil la **inestabilidad de las conexiones geográficas**, más que la deformación literal del relieve: lugares distantes pueden convertirse temporalmente en vecinos y después volver a quedar separados.
+
+Precisión de rigor: los agujeros negros reales no funcionan como portales; los agujeros de gusano son soluciones matemáticas especulativas, sin evidencia observacional ni método conocido para crearlos. Los hipotéticos agujeros negros microscópicos de algunos modelos de física de partículas se desintegrarían rápidamente. Se propone, por tanto, que la población los denomine «miniagujeros negros» por apariencia o error inicial, mientras que el fenómeno ficticio sea una red de conexiones espaciotemporales. Todo esto permanece como exploración, no canon.
+
+Organigrama provisional: experimento extraordinario → efecto global → aberturas emparejadas entre ubicaciones terrestres → aperturas y cierres periódicos → uso humano como red de transporte → vecindad temporal y decisiones condicionadas por ventanas de conexión. La posible regla más singular, todavía no aprobada, es que los puntos de entrada permanezcan fijos pero cambien de pareja según fases. El riesgo identificado es que la idea se reduzca a una red convencional de portales. Intercambio registrado en [ITERACIONES/2026-10-23_TURNOS_100-101_CONEXIONES_ESPACIOTEMPORALES.md](ITERACIONES/2026-10-23_TURNOS_100-101_CONEXIONES_ESPACIOTEMPORALES.md).
