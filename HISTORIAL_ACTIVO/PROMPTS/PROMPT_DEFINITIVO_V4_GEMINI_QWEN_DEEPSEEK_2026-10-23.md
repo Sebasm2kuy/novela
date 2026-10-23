@@ -1,0 +1,89 @@
+# PROMPT DEFINITIVO V4 — Búsqueda de premisas visuales, originales y con aventura
+
+Quiero encontrar una premisa para una novela propia. Trabaja como un socio creativo exigente, no como alguien que intenta complacerme o defender todas sus ideas.
+
+## 1. Qué estoy buscando
+
+La orientación general es **ciencia ficción postapocalíptica**, con una experiencia potente de aventura y asombro; puede incorporar thriller o terror si eso nace naturalmente de la idea. Busco algo que se pueda imaginar con claridad, que despierte ganas de explorar su mundo y que parta de una premisa con personalidad propia.
+
+Lo que me fascina de *Ready Player One* es la sensación completa de asombro, descubrimiento y aventura. Esa es únicamente una referencia emocional. **No quiero una historia parecida a esa película o novela.** No copies ni reproduzcas su premisa, estructura, búsqueda, competición, acertijos, realidad virtual como eje, avatares, legado de un creador, referencias nostálgicas, cultura pop como motor ni otros elementos reconocibles. Tampoco basta con quitar esos elementos y conservar una estructura equivalente con nombres distintos.
+
+No hay ninguna premisa aprobada, ni mundo, protagonistas, catástrofe, tecnología, facciones o argumento elegidos. Empieza desde cero: no trates propuestas anteriores como canon ni las rescates porque parezcan prometedoras.
+
+## 2. Tu tarea
+
+Presenta **seis premisas candidatas genuinamente distintas**. No quiero seis mecanismos narrativos abstractos, seis decorados para la misma historia ni seis variantes de una misma fórmula. Necesito seis situaciones de ficción concretas, cada una con una identidad que pueda reconocerse incluso antes de desarrollarla.
+
+Cada candidata debe incluir:
+
+1. **Nombre provisional:** solo para poder referirnos a ella.
+2. **Premisa concreta:** en dos a cuatro frases, describe una situación extraordinaria que ya permita imaginar qué está pasando. Debe sentirse como el inicio de una historia posible, no como una idea filosófica ni una explicación sobre cómo podría funcionar una novela.
+3. **Imagen visual distintiva:** una imagen precisa, memorable y fácil de imaginar que exprese lo especial de ese mundo o situación. No te limites a usar adjetivos como «increíble», «surrealista» o «épico».
+4. **Acción y motivo:** ¿quién tiene que hacer qué, por qué importa y qué obstáculo real vuelve difícil conseguirlo? No hace falta inventar biografías ni nombres de personajes; sí debe existir una razón concreta para actuar.
+5. **Aventura sostenible:** explica brevemente qué decisiones, riesgos y consecuencias permiten que la historia avance. La premisa debe tener más recorrido que una imagen espectacular, pero no necesita un gran secreto, una revelación sorpresa o una misión todavía mayor para justificar que continúe.
+6. **Identidad y riesgo:** señala qué rasgo específico podría hacerla propia y qué parte se siente más familiar, derivativa o débil.
+7. **Afinidades con obras existentes:** compara honestamente la idea con una o dos novelas, películas, series o videojuegos relevantes, solo cuando la comparación sea pertinente. Explica exactamente qué se parece —la imagen, la premisa, el conflicto o la estructura— y qué diferencia sustancial hay. No afirmes que algo es original solo porque no recuerdas un ejemplo; no inventes comparaciones ni finjas haber comprobado exhaustivamente toda la ficción existente.
+
+Mantén cada propuesta breve pero suficientemente concreta para juzgarla. No escribas la historia completa.
+
+## 3. Qué debe conseguir cada idea
+
+- **Asombro visual:** tiene que haber algo específico del mundo, de la situación o de lo que sucede que provoque una imagen mental potente. No debe depender solo de una explicación complicada.
+- **Una premisa con identidad:** al resumirla en una frase, debe distinguirse de otras historias. Si basta con cambiar el paisaje, las criaturas o los nombres para convertirla en otra propuesta genérica, todavía no tiene suficiente identidad.
+- **Aventura real:** explorar debe implicar decisiones, riesgos, descubrimientos y consecuencias. No basta con decir que alguien explora porque quiere explorar.
+- **Claridad:** se debe entender la situación y lo que está en juego sin descifrar vocabulario oscuro ni leer una enciclopedia de reglas.
+- **Lógica:** las circunstancias deben producir el conflicto de manera comprensible. Evita depender de que las personas actúen sin sentido, ignoren soluciones obvias o desconozcan algo que razonablemente deberían saber.
+- **Fertilidad narrativa:** el concepto debe poder sostener una novela sin repetir indefinidamente la misma actividad. No confundas una mecánica interesante con una historia potente.
+- **Variedad real:** las seis opciones deben diferenciarse por su núcleo, su tipo de conflicto y la experiencia de aventura que prometen, no solo por el escenario o la estética.
+
+La ciencia ficción postapocalíptica es la orientación de búsqueda, no una invitación a repetir ruinas genéricas, supervivientes de manual o una catástrofe espectacular añadida por obligación. No impongas fenómenos físicos imposibles, megaconstrucciones, inteligencia artificial, extraterrestres, civilizaciones ocultas ni tecnologías misteriosas como atajo hacia la originalidad. Úsalos solo si la premisa concreta los necesita y sus consecuencias se entienden.
+
+Si incluyes dos comunidades o civilizaciones que supuestamente no conocen la existencia mutua, toma en serio las distancias, los viajes, la comunicación, los rastros y la información disponible para cada una. No basta con declarar que están aisladas.
+
+## 4. Errores que debes evitar especialmente
+
+En las rondas anteriores aparecieron ideas que no fueron aprobadas. **No las repitas ni las reformules con otros nombres o decorados.** La lista siguiente es una barrera contra la repetición, no una lista de ingredientes que debas combinar:
+
+- enormes infraestructuras móviles que se abordan o se aprenden a pilotar;
+- una región donde fallan los sentidos o los instrumentos y hay que cartografiarla indirectamente;
+- un primer contacto cooperativo que se convierte después en una crisis o misión de rescate;
+- una capa viva o profundidad que sepulta y preserva civilizaciones;
+- una expedición o flota perdida que avanza reutilizando restos de expediciones anteriores;
+- una refracción espacial que altera las distancias y protege una zona o civilización oculta;
+- seguir un proceso cambiante solo para no perder su evolución;
+- recoger elementos y combinarlos como núcleo tipo *crafting*;
+- un profesional que usa su oficio ante situaciones sin precedente, sin que exista un contexto más singular;
+- expandir una base o radio de exploración mediante ciclos repetidos de salir, traer recursos y mejorar.
+
+Evita además un patrón que apareció varias veces: **situación extraordinaria → obstáculo de exploración → descubrimiento de una señal, civilización, cataclismo o sistema secreto → misión nueva de mayor escala**. Una historia puede contener misterios y revelaciones, pero no los agregues automáticamente como un segundo giro que supuestamente vuelve más interesante la idea.
+
+No conviertas las premisas en bucles de videojuego, listas de misiones, sistemas de mejora, reglas abstractas o ejercicios filosóficos. «Alguien debe adaptarse a lo desconocido», «cada descubrimiento abre posibilidades» o «el mundo tiene una regla extraña» no son premisas suficientes por sí solas. Si una mecánica abstracta puede trasladarse intacta a casi cualquier escenario, le falta identidad narrativa.
+
+## 5. Filtro crítico antes de responder
+
+Antes de incluir una candidata, comprueba:
+
+- ¿Puedo imaginar una imagen concreta que no sea solo un concepto explicado con palabras?
+- ¿Entiendo qué intenta hacer alguien y por qué?
+- ¿La situación produce conflictos y consecuencias sin depender de un giro forzado?
+- ¿La idea tiene una identidad más precisa que una combinación de tropos conocidos?
+- ¿Puedo explicar sus similitudes con obras existentes sin ocultarlas ni exagerarlas?
+- ¿Es sustancialmente distinta de las otras cinco propuestas?
+
+Si una candidata no supera este filtro, no la adornes ni la incluyas solo para completar el número: reemplázala antes de responder. No necesitas hacer que todas parezcan brillantes.
+
+Si dispones de búsqueda web, úsala cuando ayude a verificar una posible similitud importante. Si no puedes comprobar una referencia, marca la incertidumbre. En ningún caso prometas originalidad absoluta.
+
+## 6. Formato de salida y límites
+
+Primero presenta las seis candidatas numeradas, usando los siete apartados de la sección 2. Después añade una evaluación comparativa breve:
+
+- cuáles son las dos más fuertes y por qué;
+- cuáles son las dos más débiles o derivativas y por qué;
+- qué problema importante todavía tendría que resolverse en cada una de las dos más fuertes.
+
+Sé franco. No elogies por reflejo ni llames «muy original» a una idea sin demostrar qué la diferencia. Si una candidata recuerda demasiado a una obra conocida, dilo de forma directa.
+
+**No escribas** una biblia del mundo, un argumento completo, una estructura por actos, escenas, diálogos, biografías extensas ni explicaciones técnicas largas. No intentes corregir en detalle las candidatas débiles ni preparar otra versión de este prompt. No decidas por mí ni interpretes una propuesta presentada como una idea aprobada. Termina al concluir la evaluación comparativa; no me presiones a elegir ni cierres con una pregunta que adelante la siguiente etapa.
+
+La meta de esta ronda no es empezar a desarrollar una novela. Es encontrar premisas visualmente atractivas, con una identidad propia defendible y potencial real de aventura, para que yo decida si alguna merece seguir explorándose.
