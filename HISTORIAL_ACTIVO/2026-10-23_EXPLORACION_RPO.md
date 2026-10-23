@@ -185,3 +185,16 @@ La siguiente y última propuesta de Gemini V2 por analizar es el candidato 6, «
 A petición del usuario («Ok ya leímos todo y tienes 4 promps diferentes es tu turno de proponer las 6 ideas»), el asistente presentó seis propuestas propias tras analizar los seis candidatos de Gemini V2: **El cementerio de las mareas**, **La república de las compuertas**, **Los faros del cielo muerto**, **El último vivero**, **La ciudad de las torres inclinadas** y **La frontera de las semillas**. La descripción de cada una, sus riesgos y la comparación crítica están archivados en [ITERACIONES/2026-10-23_PROPUESTAS_PROPIAS_SEIS_IDEAS.md](ITERACIONES/2026-10-23_PROPUESTAS_PROPIAS_SEIS_IDEAS.md).
 
 Diagnóstico comparativo provisional del asistente: las candidatas relativamente más fuertes son **El cementerio de las mareas** (imagen y geografía distintivas, pero conflicto todavía poco singular) y **Los faros del cielo muerto** (recurso visual y causal claro, pero riesgo de reducirse a disputa de infraestructura). Las más débiles son **La ciudad de las torres inclinadas** (imagen potente, motor narrativo limitado) y **La frontera de las semillas** (conflicto conocido de escasez). Las seis siguen siendo propuestas; **ninguna está aprobada ni es canon**. No desarrollar ni reparar ninguna sin indicación expresa del usuario.
+
+
+---
+
+## Turnos 87–93 — De «algo más terrenal» a primeras ramas concretas
+
+El intercambio completo y literal cuando está disponible, incluidas las tres ramas preliminares y su crítica inicial, quedó registrado en [ITERACIONES/2026-10-23_TURNOS_87-93_AVANCE_RAMAS_TERRENALES.md](ITERACIONES/2026-10-23_TURNOS_87-93_AVANCE_RAMAS_TERRENALES.md).
+
+**Preferencia vigente:** partir de una situación cotidiana y creíble que conduzca gradualmente a descubrimientos extraordinarios.
+
+**Corrección metodológica del usuario:** no basta con recapitular qué se hará; hay que ejecutar el siguiente paso cuando el usuario autoriza avanzar. La respuesta debe aplicar el organigrama y producir trabajo concreto, sin añadir una nueva metodología ni forzar una elección.
+
+**Resultado exploratorio:** se derivaron tres motores narrativos provisionales: (1) pérdidas de agua verificables en viviendas sin conexión entre sí; (2) un material desconocido recurrente en aparatos de distintas marcas y épocas; (3) rastros biológicos incongruentes con los entornos cercanos. Primer diagnóstico: la rama 1 ofrece la progresión causal más clara hacia exploración física, pero corre riesgo de caer en la típica red subterránea secreta; la rama 2 parece más misterio industrial que aventura de asombro; la rama 3 corre riesgo de parecer un ecosistema secreto o un portal entre biomas. Ninguna supera todavía el filtro de originalidad tal como está formulada. Ninguna está aprobada ni debe desarrollarse por inercia.
