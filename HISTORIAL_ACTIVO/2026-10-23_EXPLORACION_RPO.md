@@ -97,7 +97,6 @@ Se acordó conservar las iteraciones importantes: preguntas, ramas, propuestas, 
 ---
 
 ## Protocolo para las próximas entradas
-
 Agregar a continuación cada nuevo turno en orden cronológico, con la pregunta/mensaje del usuario y la respuesta completa del asistente. Usar texto literal siempre que esté disponible. Si un turno se registra después de ocurrido y no puede recuperarse literalmente, etiquetarlo como reconstrucción. Actualizar el estado de continuidad cuando haya decisiones o correcciones, sin reemplazar ni borrar las iteraciones anteriores.
 
 ## Turno 15 — Asistente (respuesta literal)
@@ -199,7 +198,6 @@ El intercambio completo y literal cuando está disponible, incluidas las tres ra
 
 **Resultado exploratorio:** se derivaron tres motores narrativos provisionales: (1) pérdidas de agua verificables en viviendas sin conexión entre sí; (2) un material desconocido recurrente en aparatos de distintas marcas y épocas; (3) rastros biológicos incongruentes con los entornos cercanos. Primer diagnóstico: la rama 1 ofrece la progresión causal más clara hacia exploración física, pero corre riesgo de caer en la típica red subterránea secreta; la rama 2 parece más misterio industrial que aventura de asombro; la rama 3 corre riesgo de parecer un ecosistema secreto o un portal entre biomas. Ninguna supera todavía el filtro de originalidad tal como está formulada. Ninguna está aprobada ni debe desarrollarse por inercia.
 
-
 ## Turnos 94–95 — Nueva dirección tras descartar las ramas anteriores
 
 El usuario animó al asistente a mejorar el trabajo: «Ok mejora amigo tu puedes». Se exploró una sola dirección nueva, **«La ruta que nadie construyó»**: una necesidad cotidiana de reparar una pasarela revela una cadena continental de cruces mantenidos durante generaciones por comunidades independientes. La expedición empieza por una necesidad local y cambia de objetivo al viajar por territorios y formas de supervivencia distintos. El asistente evaluó que el motor de viaje y consecuencias es mejor que una investigación de anomalías locales, pero que la ruta puede resultar demasiado convencional y todavía no produce suficiente asombro. **Propuesta no aprobada; no tratarla como canon ni desarrollarla por inercia.** Intercambio completo: [ITERACIONES/2026-10-23_TURNOS_94-95_NUEVA_DIRECCION.md](ITERACIONES/2026-10-23_TURNOS_94-95_NUEVA_DIRECCION.md).
@@ -249,3 +247,22 @@ El usuario plantea decidir si el protagonista vive el comienzo del fenómeno, su
 El usuario se inclina por situar la novela décadas después de la última aparición de los portales, sin asumir que aquella fuera realmente la última. Esta distancia temporal permitiría reconstruir cómo comenzó y evolucionó el fenómeno, sus peores momentos y la aceptación gradual del nuevo mundo. La historia puede revelar el pasado mediante lugares, expediciones, testimonios, restos y decisiones del presente, de modo que el pasado siga condicionando la vida actual. La «última aparición» como posible misterio queda abierta; no es una decisión de trama cerrada.
 
 Estado: preferencia temporal provisional sólida, todavía no premisa completa ni canon irreversible. No desarrollar personajes, explicación del misterio o estructura detallada de la trama sin aprobación del usuario. Intercambio completo: [ITERACIONES/2026-10-23_TURNOS_106-107_MOMENTO_POSTERIOR.md](ITERACIONES/2026-10-23_TURNOS_106-107_MOMENTO_POSTERIOR.md).
+
+## Turnos 110–último intercambio — Protagonista, detonante casual y pausa de auditoría (2026-10-23)
+
+El intercambio detallado se conserva en [ITERACIONES/2026-10-23_TURNOS_110-PAUSA_AUDITORIA_ORIGINALIDAD.md](ITERACIONES/2026-10-23_TURNOS_110-PAUSA_AUDITORIA_ORIGINALIDAD.md).
+
+### Estado creativo actualizado
+- La profesión «reconstructor de historias olvidadas» fue considerada atractiva por su capacidad de habilitar viajes, pero el usuario señaló que aún falta la pregunta/conflicto profundo que impulse al protagonista. No es profesión elegida.
+- El protagonista tendría aproximadamente 55 años; estuvo en la habitación de la primera apertura en el Día Cero, cuando tenía unos 15. Vio algo y sospecha o cree que el evento fue preparado para parecer un accidente inexplicable. El primer desastre le hizo perder a su familia. No debe convertirse en una trama de búsqueda de familiares.
+- La motivación debe ser una necesidad de comprender algo que él mismo no sabe formular, con una dimensión personal y otra extraordinaria. No se encontró todavía la «pregunta raíz».
+- El usuario quiere que algo lo obligue a volver a distintas etapas de las décadas de aperturas, no mediante recuerdos pasivos sino investigando ventanas del pasado para encontrar conexiones que remitan al principio.
+- El detonante del presente debe aparecer por casualidad y parecer vinculado a un acontecimiento diferente, no ligado de forma obvia al Día Cero; la posible conexión se descubriría después.
+- La civilización sigue funcionando y adaptándose, con IA y mundos virtuales que tengan valor cotidiano propio.
+- El usuario pidió pausar el desarrollo creativo y hacer una auditoría muy amplia de similitudes con novelas, cuentos, películas y otras obras antes de escribir. No hay premisa aprobada. No convertir ningún elemento exploratorio en canon.
+
+### Primera tanda de investigación web
+Se localizaron, entre otros, *Portals* (película, 2019), *Doors* (película, 2021), *The Long Earth*, *The Fold*, *The Rift* (2025), *Sidewise in Time*, *Fringe*, *The Gone World*, *La Brea*, *Portals* (novela de Douglas E. Richards), *Salvation* y *Outland*. La evaluación preliminar es que los portales globales, la investigación de anomalías y la estructura de misterio son motivos conocidos; todavía no se ha demostrado una coincidencia total con la combinación exacta en exploración. Riesgos clave: explicación convencional de experimento secreto, conspiración genérica, trauma infantil como motor demasiado familiar, y ventanas temporales que sean solo exposición. El elemento que potencialmente diferencia el fenómeno es que conecte ubicaciones de una misma Tierra y permita transferencia de materia/energía con consecuencias duraderas; aún no está definido ni validado físicamente.
+
+Fuentes y análisis ampliado: ver el archivo de iteración enlazado arriba. La investigación está en curso, no es un dictamen final de originalidad.
+
