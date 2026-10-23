@@ -203,3 +203,14 @@ El intercambio completo y literal cuando está disponible, incluidas las tres ra
 ## Turnos 94–95 — Nueva dirección tras descartar las ramas anteriores
 
 El usuario animó al asistente a mejorar el trabajo: «Ok mejora amigo tu puedes». Se exploró una sola dirección nueva, **«La ruta que nadie construyó»**: una necesidad cotidiana de reparar una pasarela revela una cadena continental de cruces mantenidos durante generaciones por comunidades independientes. La expedición empieza por una necesidad local y cambia de objetivo al viajar por territorios y formas de supervivencia distintos. El asistente evaluó que el motor de viaje y consecuencias es mejor que una investigación de anomalías locales, pero que la ruta puede resultar demasiado convencional y todavía no produce suficiente asombro. **Propuesta no aprobada; no tratarla como canon ni desarrollarla por inercia.** Intercambio completo: [ITERACIONES/2026-10-23_TURNOS_94-95_NUEVA_DIRECCION.md](ITERACIONES/2026-10-23_TURNOS_94-95_NUEVA_DIRECCION.md).
+
+
+---
+
+## Turnos 96–99 — Nueva dirección: «La marea de piedra»
+
+El usuario rechazó el rumbo de la utopía posescasez y la cadena de fallos entre sistemas; ambos quedan descartados para esta exploración. Ante «Te toca amigo», el asistente presentó **«La marea de piedra»**, una propuesta de ciencia ficción donde un ciclo planetario especulativo modifica el relieve a escala continental, haciendo que los mapas tengan fecha de vencimiento y que rutas y territorios sean accesibles en distintos períodos.
+
+Evaluación crítica registrada: el ciclo podría generar decisiones de viaje y una geografía visualmente activa, pero la física es una extrapolación grande, la estructura puede parecer un videojuego de niveles que se abren y cierran, y la idea aún no tiene una identidad original suficientemente demostrada ni un conflicto singular que la sostenga. **No aprobada; no desarrollar ni reparar por inercia.** El único elemento que se propone poner a prueba es si la imagen de un mundo cuya geografía cambia con el tiempo despierta interés real.
+
+Transcripción del intercambio: [ITERACIONES/2026-10-23_TURNOS_96-99_PROPUESTA_MAREA_DE_PIEDRA.md](ITERACIONES/2026-10-23_TURNOS_96-99_PROPUESTA_MAREA_DE_PIEDRA.md).
