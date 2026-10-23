@@ -237,3 +237,8 @@ La oportunidad narrativa sería mostrar las consecuencias a través de comunidad
 ## Turnos 104–105 — Exploración, mundo transformado y misterio
 
 El usuario quiere combinar exploración, transformación del mundo y misterio, buscando que se alimenten mutuamente. La orientación causal propuesta: explorar revela efectos del fenómeno; esos efectos crean nuevas necesidades y oportunidades; los hallazgos cambian la comprensión de las conexiones y orientan las siguientes expediciones. Evitar una sucesión episódica de escenarios espectaculares sin relación causal. El misterio central, los protagonistas y sus objetivos siguen sin definirse; no existe premisa aprobada ni canon. Intercambio completo: [ITERACIONES/2026-10-23_TURNOS_104-105_EXPLORACION_MUNDO_MISTERIO.md](ITERACIONES/2026-10-23_TURNOS_104-105_EXPLORACION_MUNDO_MISTERIO.md).
+
+
+## Turno 106 — Momento histórico del protagonista
+
+El usuario plantea decidir si el protagonista vive el comienzo del fenómeno, su etapa intermedia o décadas después de que deje de producirse. El asistente señala que la elección define la experiencia narrativa y que el comienzo de la novela no tiene que coincidir con el comienzo del fenómeno: se puede vivir la transformación en tiempo real o reconstruir el pasado mediante huellas y descubrimientos. Pregunta abierta, ninguna opción aprobada. No desarrollar la premisa todavía.
