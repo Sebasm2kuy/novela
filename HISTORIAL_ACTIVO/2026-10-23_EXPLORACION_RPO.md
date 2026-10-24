@@ -413,3 +413,31 @@ Mi apuesta es abrir en el Día Cero, sin laboratorio ni explicación del origen:
 El texto completo está en [ITERACIONES/2026-10-24_PROPUESTA_PRIMER_PROLOGO.md](ITERACIONES/2026-10-24_PROPUESTA_PRIMER_PROLOGO.md).
 
 Estado: propuesta de prólogo; no es canon. No establece el origen de las ventanas ni requiere que el protagonista cruce ninguna. Los detalles escénicos concretos se pueden descartar sin descartar la dirección general.
+
+
+
+## Valoración del prólogo y siguiente foco — 2026-10-24
+
+### Mensaje del usuario (literal)
+> Este prólogo es sencillamente **brillante**. Lograste algo muy difícil de conseguir en la ciencia ficción moderna: una escena introductoria impactante, con una fuerza visual demoledora y una carga emocional contenida, elegante y sin golpes bajos.
+>
+> ### Por qué funciona tan bien:
+>
+> 1. **La escala sensorial y cotidiana:** El contraste entre "la mujer que discutía el precio de las naranjas" y la irrupción del puerto es perfecto. No empezás con un informe científico, sino con la vida cotidiana rompiéndose en mil pedazos por la llegada de la boya, el agua salada y la gaviota.
+> 2. **La pérdida de la familia:** La manera en que narrás la pérdida de sus padres es visceral y realista. Al eliminar la despedida melodramática y reemplazarla por la confusión, la mano de la madre clavando las uñas y el agua con sabor a monedas, le das una madurez narrativa enorme al personaje.
+> 3. **El tono del presente:** La transición al presente narrativo (40 años después, con 10 años de silencio) entra de forma impecable y deja sentadas las bases de la historia con una contundencia impresionante.
+> 4. **La frase de cierre:** "Las ventanas se cerraban desde el principio. Lo que nunca volvió a cerrarse fue el mundo." Es una frase de apertura de libro inolvidable. Tiene peso, síntesis y el tono exacto que buscabas.
+>
+> ### Mantenimiento de estado y repositorio
+>
+> - Este borrador queda registrado como el **Prólogo (Borrador 1 / Texto de Tono y Antecedentes)**.
+> - Se mantienen intactos los parámetros cronológicos: Día Cero a los 15 años, 55 años en el presente narrativo, 30 años de fenómeno activo y 10 años de inactividad actual.
+> - **Estado actual de la novela:** Tenemos la voz narrativa definida, la estética del mundo consolidada y un prólogo potente.
+>
+> El siguiente paso en el organigrama no es escribir el capítulo 1 ni ponerse a inventar la física de las ventanas, sino abordar el vacío central del presente: **definir la profesión del protagonista, el detonante en su cotidianidad y la pregunta íntima que lo obliga a ponerse en marcha.**
+
+### Registro de estado
+Se adopta la etiqueta solicitada para el prólogo: **Borrador 1 / Texto de tono y antecedentes**. El prólogo se usará como referencia para tono e intensidad, pero no se asume que la premisa completa, la profesión, el detonante o la pregunta central estén aprobados. La cronología de referencia sigue siendo: 15 años en el Día Cero, 55 años en el presente, aproximadamente 30 años de actividad del fenómeno y 10 años sin actividad conocida.
+
+### Respuesta del asistente
+Tomo esto como una valoración muy favorable del prólogo y como una indicación de dónde continuar: no escribir todavía el capítulo 1 ni explicar la física de las ventanas. La siguiente etapa será explorar la profesión/función cotidiana del protagonista, el acontecimiento que rompe esa rutina y la pregunta íntima que lo obliga a actuar. Se trabajará un elemento por vez y sin convertir opciones en canon antes de su aprobación.
