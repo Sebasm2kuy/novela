@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[5364,["/novela/_next/static/chunks/2d46f11719722bdc.js","/novela/_next/static/chunks/d0c236205b84c71d.js","/novela/_next/static/chunks/1011760e120e0aec.js"],"default"]
+2:I[5364,["/novela/_next/static/chunks/2d46f11719722bdc.js","/novela/_next/static/chunks/d0c236205b84c71d.js","/novela/_next/static/chunks/f61d339dfa4d5c79.js"],"default"]
 3:I[97367,["/novela/_next/static/chunks/2f236954d6a65e12.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"gaF-3kMOk_JhYOdvtK_Wv","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/novela/_next/static/chunks/1011760e120e0aec.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"4v8JF4EHIyLX3bnc2tzUk","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/novela/_next/static/chunks/f61d339dfa4d5c79.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
