@@ -400,3 +400,16 @@ Síntesis del diagnóstico:
 - Mantener como posibilidad: que las conexiones entre lugares revelen patrones inesperados; no convertir esto todavía en la pregunta central.
 - Riesgos: inventar anomalías magnéticas/gravitacionales sin función, añadir subculturas poscatástrofe previsibles, otorgar al protagonista una habilidad conveniente para detectar pistas y elegir prematuramente una profesión archivística.
 - Sigue vigente: premisa no aprobada; protagonista alrededor de 55 años, 15 cuando aparecieron las primeras ventanas, última actividad conocida hace unos 10 años; no se requiere que cruzara la primera ventana.
+
+
+## Solicitud de primer prólogo — 2026-10-24
+
+### Usuario (literal)
+> ME GUSTARIA QUE CON TODO LO QUE LLEVAMOS HABLADO PLANTEES EL PRIMERO PROLOGO Y QUE ROMPA TODO
+
+### Asistente
+Mi apuesta es abrir en el Día Cero, sin laboratorio ni explicación del origen: una ventana que conecta una calle con un puerto lejano, y la catástrofe vista por el chico de quince años. Es un borrador para probar tono e impacto, no una decisión de canon. Algunos detalles concretos —el puerto, la inundación, cómo se separa de sus padres— son elecciones narrativas provisionales que podemos juzgar sin comprometernos con ellas.
+
+El texto completo está en [ITERACIONES/2026-10-24_PROPUESTA_PRIMER_PROLOGO.md](ITERACIONES/2026-10-24_PROPUESTA_PRIMER_PROLOGO.md).
+
+Estado: propuesta de prólogo; no es canon. No establece el origen de las ventanas ni requiere que el protagonista cruce ninguna. Los detalles escénicos concretos se pueden descartar sin descartar la dirección general.
