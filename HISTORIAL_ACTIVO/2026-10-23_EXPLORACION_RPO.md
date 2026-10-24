@@ -274,3 +274,14 @@ Documento: https://github.com/Sebasm2kuy/novela/blob/main/HISTORIAL_ACTIVO/ITERA
 ### Cierre provisional de auditoría de originalidad — ronda final (2026-10-23)
 Se guardó y verificó el informe de cierre con comparaciones finales y opinión crítica: incluye *The Chronoliths*, *Into the Looking Glass*, *Exit West*, *Doors/Portal*, *The Fold*, *The Long Earth*, *The Big Front Yard*, *The Coming of the Quantum Cats*, *World Lines*, *The Rift* y *The Gone World*. Conclusión registrada: no se encontró coincidencia clara que reúna todos los elementos explorados en las sinopsis examinadas; esto no demuestra ineditud. La idea no se declara original ni se abandona: queda como concepto prometedor bajo examen. Riesgos mayores: mecanismo de portales ampliamente transitado; semejanza estructural con *The Chronoliths*; proliferación global de puertas similar en parte a *Into the Looking Glass*; protagonista/estructura de investigación aún genéricos; reglas físicas potencialmente demasiado abiertas. Recomendación: no desarrollar más hasta encontrar una pregunta central y una causalidad propias que entusiasmen genuinamente al autor.
 Informe: https://github.com/Sebasm2kuy/novela/blob/main/HISTORIAL_ACTIVO/ITERACIONES/2026-10-23_CIERRE_PROVISIONAL_AUDITORIA_ORIGINALIDAD_RONDA_FINAL.md
+
+
+## Continuación — 2026-10-24: reorientación hacia el misterio de las ventanas
+
+Se registra la nueva exploración en [ITERACIONES/2026-10-24_REORIENTACION_MISTERIO_VENTANAS.md](ITERACIONES/2026-10-24_REORIENTACION_MISTERIO_VENTANAS.md).
+
+El usuario cuestiona que debamos explicar la aparición de las ventanas mediante física real. Prefiere preservar el misterio: aparecieron un día sin permiso, cambiaron el mundo y las mentes más brillantes no consiguieron comprender qué eran. La humanidad sabe lo básico: permiten el paso de materia y energía entre lugares de la Tierra; mientras permanecen abiertas, se estudian y utilizan, pero su naturaleza fundamental sigue sin explicación. Algunas duran horas, días o meses y otras años. La historia se centra en el protagonista dentro del mundo transformado, no en explicar las ventanas.
+
+Corrección explícita: el asistente volvió a preguntar por la edad del protagonista aunque ya estaba documentada. Datos vigentes: tenía unos 15 años al comienzo de las ventanas, tiene unos 55 en el presente y la última actividad conocida ocurrió hace unos 10 años, sin confirmar que fuera la última. El usuario indicó además que ya no considera necesario que el protagonista haya atravesado la primera ventana. No recuperar esa idea espontáneamente.
+
+La premisa continúa sin aprobarse. No están decididos la motivación del protagonista, la pregunta central ni la trama. Consultar el historial antes de preguntar por datos ya registrados.
