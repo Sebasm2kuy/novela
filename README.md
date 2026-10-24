@@ -21,3 +21,7 @@ El gusto y la decisión del autor tienen prioridad sobre el tiempo invertido en 
 
 - **[HISTORIAL_ACTIVO/2026-10-23_EXPLORACION_RPO.md](HISTORIAL_ACTIVO/2026-10-23_EXPLORACION_RPO.md)** — registro cronológico de la exploración actual, con preguntas, respuestas, decisiones, descartes y estados. Los turnos antiguos cuyo texto literal no esté disponible se identifican como reconstrucciones; los nuevos se registrarán literalmente cuando sea posible.
 - El [prompt maestro](PROMPT_MAESTRO_CHATGPT.md) incluye ahora la obligación de mantener este historial. El registro activo no es canon y no autoriza desarrollar ideas no aprobadas.
+
+## Resumen de continuidad vigente
+
+- **[ESTADO_ACTUAL_NOVELA_2026-10-24.md](HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-10-24.md)** — síntesis de preferencias, elementos confirmados y exploratorios, cronología del protagonista, dirección actual de las ventanas, asuntos pendientes y auditoría de originalidad. No constituye una premisa aprobada.
