@@ -1,5 +1,5 @@
 # Propuesta de primer prólogo — 2026-10-24
-Estado: borrador exploratorio; no es canon ni premisa aprobada.
+Estado: **Prólogo — Borrador 1 / Texto de tono y antecedentes**. Se conserva como primera versión de referencia tras la valoración favorable compartida por el usuario. No es la versión definitiva ni aprueba por sí sola la premisa completa.
 
 ## Solicitud del usuario (literal)
 > ME GUSTARIA QUE CON TODO LO QUE LLEVAMOS HABLADO PLANTEES EL PRIMERO PROLOGO Y QUE ROMPA TODO
@@ -35,6 +35,18 @@ Yo tenía quince años cuando el mar llegó a mi calle. Cuarenta años después,
 Las ventanas se cerraban desde el principio.
 
 Lo que nunca volvió a cerrarse fue el mundo.
+
+## Evaluación compartida por el usuario
+
+El usuario compartió una valoración muy positiva del prólogo, destacando:
+- el contraste entre la vida cotidiana (la mujer de las naranjas) y la irrupción del puerto;
+- la pérdida familiar narrada a través de sensaciones físicas y confusión, sin despedida melodramática;
+- el enlace entre el Día Cero, los 40 años transcurridos y los 10 años sin actividad conocida;
+- el cierre: «Las ventanas se cerraban desde el principio. Lo que nunca volvió a cerrarse fue el mundo».
+
+La valoración propone registrar el texto como **Prólogo (Borrador 1 / Texto de Tono y Antecedentes)** y pasar a explorar, sin escribir aún el capítulo 1 ni definir la física de las ventanas, tres huecos narrativos: la profesión del protagonista, el detonante en su vida cotidiana y la pregunta íntima que lo obliga a ponerse en marcha.
+
+Este respaldo se registra como aceptación del prólogo en calidad de borrador de referencia, no como aprobación de la premisa completa ni de todos los detalles del mundo.
 
 ## Estado y límites
 - No implica que el protagonista haya cruzado una ventana.
