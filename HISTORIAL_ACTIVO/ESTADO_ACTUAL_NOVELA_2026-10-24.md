@@ -66,11 +66,13 @@ Antes se exploró una cadena en que el protagonista cruzaba la primera ventana, 
 
 ## 5. El prólogo y el tono del misterio
 
+El prólogo ya tiene el estado de **Borrador 1 / Texto de tono y antecedentes**, tras una valoración favorable compartida por el usuario. Se consideran especialmente fuertes el contraste cotidiano/extraordinario, la pérdida familiar contenida y el cierre. Esto no convierte en definitivos todos los detalles concretos ni aprueba la premisa completa.
+
 El autor propuso como borrador conceptual:
 
 > «Nadie nunca vio nada parecido, aparecieron un día sin pedir permiso y se quedaron todo el tiempo que quisieron, ni las mentes más brillantes pudieron explicar lo que eran, pero si sabíamos algo, llegaron para cambiarlo todo, para bien y sobre todo para mal...»
 
-No está aprobado como texto final. Sí expresa el tono que le atrae: una especie de recuento histórico de algo que irrumpió sin explicación, alteró el mundo y dejó consecuencias buenas y, especialmente, terribles. Se comentó que “se quedaron todo el tiempo que quisieron” aporta la sensación de que el fenómeno no obedecía a la voluntad humana. No se reescribió ni se fijó el prólogo.
+El prólogo completo de referencia está guardado en [Propuesta de primer prólogo — Borrador 1](ITERACIONES/2026-10-24_PROPUESTA_PRIMER_PROLOGO.md). No está cerrado como versión definitiva; sí expresa el tono que le atrae: una especie de recuento histórico de algo que irrumpió sin explicación, alteró el mundo y dejó consecuencias buenas y, especialmente, terribles. Se comentó que “se quedaron todo el tiempo que quisieron” aporta la sensación de que el fenómeno no obedecía a la voluntad humana. No se reescribió ni se fijó el prólogo.
 
 ## 6. Ciencia, especulación y misterio
 
