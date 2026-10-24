@@ -285,3 +285,105 @@ El usuario cuestiona que debamos explicar la aparición de las ventanas mediante
 Corrección explícita: el asistente volvió a preguntar por la edad del protagonista aunque ya estaba documentada. Datos vigentes: tenía unos 15 años al comienzo de las ventanas, tiene unos 55 en el presente y la última actividad conocida ocurrió hace unos 10 años, sin confirmar que fuera la última. El usuario indicó además que ya no considera necesario que el protagonista haya atravesado la primera ventana. No recuperar esa idea espontáneamente.
 
 La premisa continúa sin aprobarse. No están decididos la motivación del protagonista, la pregunta central ni la trama. Consultar el historial antes de preguntar por datos ya registrados.
+
+
+## Solicitud de resumen general — 2026-10-24
+
+### Usuario (literal)
+> OK DAME UN RESUMEN DE TODO LAS IDEAS CONFIRMADAS O A MEDIO CONFIRMAR DE LA NOVELA
+
+### Asistente
+Se revisaron el prompt maestro, README, historial activo y las iteraciones relevantes. Se creó el resumen completo de continuidad en [ESTADO_ACTUAL_NOVELA_2026-10-24.md](ESTADO_ACTUAL_NOVELA_2026-10-24.md). La respuesta al usuario distingue preferencias firmes, la dirección actual de las ventanas, la cronología y antecedentes del protagonista, elementos exploratorios, rumbos que ya no deben asumirse, el estado de la auditoría de originalidad y las preguntas aún sin resolver. La premisa sigue sin aprobarse.
+
+### Respuesta entregada
+Leí el historial y las iteraciones relevantes del repositorio. Organicé el estado sin tratar todas las ideas como si estuvieran aprobadas. La conclusión más importante es esta: **tenemos una dirección que hoy te interesa —un mundo transformado por ventanas inexplicables—, pero todavía no una premisa aprobada ni el conflicto central de la novela.**
+
+## 1. Lo que está más firme
+
+### La experiencia que buscás
+- Una novela de ciencia ficción con **asombro, aventura, descubrimiento y una historia potente**.
+- La exploración, la transformación del mundo y el misterio tienen que alimentarse mutuamente; no una sucesión de escenarios llamativos que no se relacionan.
+- Ready Player One es una referencia para la sensación de aventura y asombro, **no un modelo para copiar**. La originalidad debe someterse a una crítica estricta.
+- Preferís avanzar con un organigrama, un paso a la vez, y no desarrollar una premisa hasta que de verdad te convenza.
+- La prosa, cuando lleguemos a escribirla, tiene que ser visual y sensorial, con acción y emoción antes que explicaciones técnicas largas. La preferencia de primera persona también aparece registrada en el contexto previo.
+
+## 2. La dirección actual: las ventanas
+
+Esta es la idea que estamos explorando ahora. **No está aprobada como premisa completa.**
+
+- Un día aparecieron ventanas sin pedir permiso. No queremos empezar la novela explicando quién las creó o cómo nacieron: preferís que su origen conserve el misterio.
+- Conectan **dos lugares de la misma Tierra**, no otros planetas ni universos paralelos.
+- Permiten el paso de **materia y energía**.
+- Algunas duran horas, otras días o meses y otras años. La duración variable está sobre la mesa, aunque no hemos fijado reglas definitivas.
+- La humanidad aprendió a observarlas, estudiarlas y aprovecharlas mientras permanecían abiertas, pero no consiguió comprender qué son en su naturaleza fundamental.
+- El mundo quedó transformado por ellas, y la historia trata principalmente del protagonista viviendo en ese mundo, no de dar una explicación enciclopédica de las ventanas.
+- No necesitamos demostrar que el fenómeno es posible según la física actual. Podemos combinar ciencia conocida, especulación y misterio, siempre que las reglas ficticias que decidamos usar sean coherentes.
+
+### Idea relacionada, todavía provisional
+En etapas anteriores te interesó que, al cerrarse una ventana, sus efectos no desaparecieran: la materia trasladada y los daños permanecen, de modo que el planeta acumula cambios geográficos, ecológicos y sociales. Es una de las ideas más útiles para que el mundo transformado tenga consecuencias duraderas, pero la dejo como **exploratoria**, no como regla ya confirmada en todos sus detalles.
+
+Tu borrador de tono para el prólogo fue:
+
+> «Nadie nunca vio nada parecido, aparecieron un día sin pedir permiso y se quedaron todo el tiempo que quisieron, ni las mentes más brillantes pudieron explicar lo que eran, pero si sabíamos algo, llegaron para cambiarlo todo, para bien y sobre todo para mal...»
+
+Es una **idea de prólogo**, no un texto definitivo. Lo que sí expresa con claridad es el tono histórico y misterioso que te atrae.
+
+## 3. Cronología y protagonista
+
+Estos datos ya estaban registrados y no debo volver a preguntártelos como si fueran nuevos:
+
+- Tenía **15 años** cuando aparecieron las primeras ventanas, en el Día Cero.
+- Tiene alrededor de **55 años** en el presente narrativo.
+- Han transcurrido unos **40 años desde el comienzo** del fenómeno.
+- Hace **10 años que no se conoce actividad** de las ventanas; no sabemos si aquella fue realmente la última.
+- El registro anterior contemplaba, de manera aproximada, unas tres décadas de actividad y luego diez años sin actividad conocida. La cronología exacta todavía no está cerrada.
+- Perdió a su familia durante la catástrofe inicial. **No querés que la novela sea una búsqueda de sus familiares.**
+
+### Qué cosas de su pasado siguen abiertas
+En una etapa anterior imaginamos que el protagonista estuvo en la habitación donde apareció la primera ventana y que vio algo que le hizo sospechar que el suceso había sido preparado para parecer un accidente. No definimos qué vio ni si su interpretación era correcta. Eso pertenece a la exploración histórica, pero **no tiene por qué convertirse en el misterio central**.
+
+También dijiste que ya no es necesario que haya atravesado la primera ventana. Por tanto, no debemos hacer que el cruce, un accidente de laboratorio o su responsabilidad en el origen sean requisitos de la historia.
+
+## 4. Qué mundo e historia nos interesan
+
+- La civilización **sobrevive y se adapta**; no buscamos necesariamente un colapso total.
+- La inteligencia artificial y los mundos virtuales podrían ser parte de la vida cotidiana y tener valor propio —trabajo, relaciones, entretenimiento, cultura o exploración—, no existir solamente para resolver el misterio.
+- El pasado importa, pero preferís descubrirlo a través de investigación y hallazgos activos: lugares, expediciones, testimonios, archivos y consecuencias que cambien la comprensión del presente, no únicamente mediante recuerdos explicativos.
+- Antes exploramos la posibilidad de que el detonante actual parezca relacionado con un asunto distinto y solo más adelante revele una conexión inesperada con etapas previas. El acontecimiento concreto aún no está elegido.
+- Querés que el protagonista tenga una relación con ese mundo que le permita “ver más allá”: descubrir conexiones, lugares o realidades que otros no perciben. Todavía no sabemos cómo se expresa esa cualidad.
+- La referencia a la pregunta de Neo en The Matrix describe la **fuerza de la necesidad interior** que buscás: una pregunta que empuje al protagonista hacia algo que ni él sabe formular. No es una autorización para imitar Matrix.
+
+## 5. Qué NO está decidido y no debemos inventar
+
+- La pregunta central de la novela y la necesidad que obliga al protagonista a actuar.
+- El acontecimiento que pone en marcha la trama presente.
+- Su profesión. Se consideró la idea de “reconstructor de historias olvidadas” porque permitiría viajar, pero no fue elegida; tampoco se eligió ninguna de las otras profesiones propuestas.
+- Por qué precisamente él debe investigar el misterio.
+- Las reglas exactas de las ventanas: cómo se emparejan los lugares, qué determina sus duraciones, cómo se cierran o qué puede predecirse de ellas.
+- Cuáles son las consecuencias principales que sostienen la aventura, más allá de que el mundo quedó transformado.
+- El título, los personajes secundarios, el antagonista, la estructura y el final.
+
+## 6. Rumbos que ya no debemos asumir
+
+- **Viajes en el tiempo:** dijiste que añadirlos sería cruzar demasiado.
+- Clones, pérdida de memoria o protagonista como sujeto de prueba: fueron ideas tentativas, con riesgo de acumular giros conocidos; no se eligieron.
+- El mecanismo anterior de laboratorio —él cruza la primera ventana, algo sale mal y un segundo experimento desencadena una catástrofe global— dejó de ser necesario cuando decidiste preservar el misterio del origen.
+- Tampoco necesitamos explicar el fenómeno mediante una singularidad, una resonancia o una supuesta ley física. Esos mecanismos se exploraron, pero no son la dirección actual.
+- La utopía posescasez y la fórmula de “arreglar un problema creando otro” fueron rechazadas antes.
+- Las propuestas antiguas guardadas en IDEAS DESCARTADAS son archivo histórico, no ideas activas que debamos rescatar por inercia.
+
+## 7. La auditoría de originalidad
+
+La auditoría previa concluyó que los portales y anomalías globales son motivos muy utilizados. Señaló riesgos de semejanza estructural con **The Chronoliths** (testigo de un primer acontecimiento, fenómenos globales posteriores y misterio causal) y con **Into the Looking Glass** (incidente inicial y proliferación de puertas). También se revisaron, entre otras, Exit West, Doors/Portal, The Fold, The Long Earth, The Rift y The Gone World.
+
+No se encontró una coincidencia clara con todos los elementos de la versión anterior dentro de las fuentes revisadas, pero la búsqueda no fue exhaustiva y **eso no demuestra que la idea sea original**. El veredicto fue conservarla bajo examen, no declararla extraordinariamente original. Todavía necesitamos una pregunta central y una identidad narrativa propias.
+
+El informe completo está [aquí, en el repositorio](https://github.com/Sebasm2kuy/novela/blob/main/HISTORIAL_ACTIVO/ITERACIONES/2026-10-23_CIERRE_PROVISIONAL_AUDITORIA_ORIGINALIDAD_RONDA_FINAL.md).
+
+---
+
+## Estado en una frase
+
+**Un hombre de 55 años vive en una Tierra transformada por ventanas inexplicables que conectan lugares del propio planeta y permiten transferir materia y energía; la humanidad aprendió a utilizarlas, pero no a comprenderlas, y la historia busca unir exploración, misterio y las consecuencias de ese mundo sin exigir todavía una explicación de su origen.**
+
+Ese es el núcleo de exploración más reciente; todavía no es una premisa aprobada. También guardé este resumen de continuidad en [ESTADO_ACTUAL_NOVELA_2026-10-24.md](https://github.com/Sebasm2kuy/novela/blob/main/HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-10-24.md), para que podamos retomarlo sin hacerte repetir todo.
