@@ -387,3 +387,16 @@ El informe completo está [aquí, en el repositorio](https://github.com/Sebasm2k
 **Un hombre de 55 años vive en una Tierra transformada por ventanas inexplicables que conectan lugares del propio planeta y permiten transferir materia y energía; la humanidad aprendió a utilizarlas, pero no a comprenderlas, y la historia busca unir exploración, misterio y las consecuencias de ese mundo sin exigir todavía una explicación de su origen.**
 
 Ese es el núcleo de exploración más reciente; todavía no es una premisa aprobada. También guardé este resumen de continuidad en [ESTADO_ACTUAL_NOVELA_2026-10-24.md](https://github.com/Sebasm2kuy/novela/blob/main/HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-10-24.md), para que podamos retomarlo sin hacerte repetir todo.
+
+
+## Evaluación de las sugerencias de Gemini — 2026-10-24
+
+El usuario compartió propuestas de Gemini sobre: (1) cicatrices geográficas y sensoriales tras el cierre de ventanas; (2) comercio, oficios y subculturas surgidos alrededor de las ventanas; (3) un protagonista capaz de detectar microdiscontinuidades; (4) eliminar el laboratorio inicial; (5) evitar roles militares y largas explicaciones científicas; (6) tratar los diez años sin actividad conocida como olvido voluntario; y (7) explorar la lógica que determinó qué lugares quedaron conectados.
+
+La evaluación crítica, sin aprobar ninguna propuesta automáticamente, quedó registrada íntegra en [ITERACIONES/2026-10-24_EVALUACION_OPINIONES_GEMINI.md](ITERACIONES/2026-10-24_EVALUACION_OPINIONES_GEMINI.md).
+
+Síntesis del diagnóstico:
+- Más prometedor: mantener el origen como misterio, enfocar en consecuencias físicas tangibles y explorar cómo diez años sin actividad conocida afectaron la relación social con las ventanas.
+- Mantener como posibilidad: que las conexiones entre lugares revelen patrones inesperados; no convertir esto todavía en la pregunta central.
+- Riesgos: inventar anomalías magnéticas/gravitacionales sin función, añadir subculturas poscatástrofe previsibles, otorgar al protagonista una habilidad conveniente para detectar pistas y elegir prematuramente una profesión archivística.
+- Sigue vigente: premisa no aprobada; protagonista alrededor de 55 años, 15 cuando aparecieron las primeras ventanas, última actividad conocida hace unos 10 años; no se requiere que cruzara la primera ventana.
