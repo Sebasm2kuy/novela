@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-10-24T16:01:46.188Z",
+  "messages": [
+    {
+      "id": "ea477078-6c47-488a-a703-579a4174f957",
+      "role": "user",
+      "content": "HOLA",
+      "createdAt": "2026-10-24T16:01:46.185Z"
+    },
+    {
+      "id": "e3de4177-f142-45b0-87a8-72ebb8a7b729",
+      "role": "assistant",
+      "content": "¡Hola! Antes de sumergirnos en ideas o propuestas, me gustaría escuchar un poco más de tu visión. ¿Qué te gustaría explorar en esta nueva novela? ¿Tienes alguna preferencia de tono, conflicto, personaje, o simplemente buscas alguna premisa que te intrigue para arrancar el proceso creativo? Tu respuesta me ayudará a orientar la búsqueda de manera que realmente resuene contigo.",
+      "createdAt": "2026-10-24T16:01:46.185Z"
+    }
+  ]
+}
