@@ -96,6 +96,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[22 — Identidad vocal y expresión de la IA](22_ITERACION_2026-11-03_IDENTIDAD_VOCAL_Y_EXPRESION_DE_LA_IA.md)** — registra la elección confirmada de una voz sintética y neutra tras la primera prueba de actuación; separa esa decisión de otras pautas de personalidad e interpretación que todavía deben ajustarse.
 - **[23 — Ajustes para la prueba 2 de actuación por voz](23_ITERACION_2026-11-03_AJUSTES_PARA_LA_PRUEBA_2.md)** — reúne una dirección provisional de ritmo, extensión de respuestas, personalidad y expresión para evaluar en la segunda prueba.
 - **[24 — Instructivo de interpretación: IA coprotagonista](24_INSTRUCTIVO_IA_COPROTAGONISTA_PARA_PRUEBAS_DE_VOZ.md)** — documento operativo único para las pruebas de voz: contexto que conoce la IA, conciencia latente, identidad vocal, personalidad conversacional, reglas de actuación y evaluación posterior. Está pensado para compartirse directamente en el chat de voz, sin pedirle que lea todo el repositorio.
+- **[25 — Inmersión narrativa y continuidad del personaje](25_ITERACION_2026-11-03_INMERSION_NARRATIVA_Y_CONTINUIDAD_DEL_PERSONAJE.md)** — registra el problema de salida involuntaria del personaje durante la conversación y el ajuste de prioridad máxima añadido al instructivo 24, con límites para no fingir búsquedas, conocimientos ni percepciones ambientales.
 
 ## 7. Método de trabajo y continuidad
 
