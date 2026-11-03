@@ -70,11 +70,11 @@ El cassette solo registra lo que el micrófono alcanza a captar. No muestra lo q
 
 Esto convierte la grabación en un testimonio parcial, no en una narración omnisciente. El oyente tendrá que interpretar lo que oye, igual que el protagonista y la IA.
 
-También hay una cuestión técnica que habrá que resolver en el diseño del mundo: para que la IA pueda debatir espontáneamente sobre una emisión, debe recibir ese audio de alguna manera. Algunas posibilidades son que el sistema tenga entrada de micrófono y escuche el ambiente, que reciba directamente la señal de la radio/televisor o que el protagonista le reproduzca o describa el contenido. La elección todavía está abierta.
+La decisión tomada es que la IA tendrá un micrófono ambiental permanentemente activo y podrá escuchar el sonido de la habitación en tiempo real, incluidas las emisiones de radio o televisión que entren por ese micrófono. Las consecuencias de esa elección —sus límites acústicos, la iniciativa para intervenir, la memoria de lo escuchado y la continuidad energética— se desarrollan en **[03 — Micrófono ambiental permanente](03_MICROFONO_AMBIENTAL_PERMANENTE.md)**.
 
 ## 7. Preguntas abiertas
 
-1. ¿La IA escucha todo el ambiente de la habitación en tiempo real o solo recibe audio cuando el protagonista decide compartirlo?
+1. ¿La IA puede intervenir espontáneamente o espera a que el protagonista le hable?
 2. ¿La radio será la fuente principal de noticias, o también habrá televisión, teléfono, comunicaciones de emergencia y otras fuentes?
 3. ¿El protagonista deja la grabadora funcionando durante períodos largos o cada sesión se inicia deliberadamente?
 4. ¿Qué sonidos del exterior pueden llegar de forma verosímil al lugar donde se realizan las sesiones?
