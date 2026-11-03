@@ -41,12 +41,14 @@ La grabadora analógica y el sistema de IA son independientes: la IA puede escuc
 
 Decisiones confirmadas:
 - La amenaza es un asteroide de dimensiones extraordinarias que pone en riesgo el futuro de la civilización.
-- Fragmentos relacionados llegan antes que el cuerpo principal y pueden causar daños progresivos.
+- Fragmentos relacionados llegan antes que el cuerpo principal y producen daños progresivos.
+- Uno de esos objetos menores afectará la ciudad del protagonista y provocará una interrupción grave de las comunicaciones modernas de la zona.
+- La caída de conectividad se vincula con el uso posterior del módem dial-up del protagonista, que podría conservar una vía de comunicación limitada si sobrevive una ruta telefónica heredada.
 - La humanidad descubre la amenaza mediante una mezcla de señales iniciales confusas y confirmación posterior.
-- El protagonista se encuentra inicialmente lejos de los primeros impactos devastadores y parece estar a salvo, al menos por un tiempo.
+- El protagonista debe permanecer fuera de la zona de destrucción inmediata y parecer a salvo durante la etapa inicial.
 - Los intentos humanos por impedir el impacto forman parte del mundo sonoro de la historia.
 
-Todavía deben investigarse y definirse con rigor el origen y la distribución de los fragmentos, sus tamaños y trayectorias, la secuencia de impactos, la duración de la cuenta regresiva y las posibilidades reales de las misiones de desviación. Las propuestas concretas de cronología ofrecidas durante la conversación no son decisiones confirmadas.
+La mecánica física del evento urbano y el alcance de la caída de comunicaciones todavía no están cerrados. En particular, no se presupone que exista una sola "central de Internet": deben estudiarse daños en nodos metropolitanos de agregación/backhaul, enlaces de fibra, energía y sitios celulares. También debe definirse cómo sobrevive una línea telefónica de cobre o una ruta dial-up independiente.
 
 ## 5. Referencias iniciales por estudiar
 
@@ -68,13 +70,14 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[02 — El cassette como testigo del entorno](02_EL_CASSETTE_COMO_TESTIGO.md)** — desarrolla la idea de que las cintas registran no solo el diálogo, sino también noticias, sonidos ambientales y la evolución de los acontecimientos exteriores.
 - **[03 — Micrófono ambiental permanente](03_MICROFONO_AMBIENTAL_PERMANENTE.md)** — registra la decisión confirmada de que la IA escucha permanentemente el ambiente y desarrolla sus consecuencias narrativas, técnicas y energéticas.
 - **[04 — Iteración del 3 de noviembre: amenaza del asteroide, IA y continuidad](04_ITERACION_2026-11-03_AMENAZA_ASTEROIDE_IA_Y_CONTINUIDAD.md)** — registra las decisiones y preguntas de la conversación sobre el acontecimiento mundial, el inicio de las grabaciones, el origen de la IA y el método de continuidad del proyecto.
-- **[05 — Iteración del 3 de noviembre: motivo inicial de las grabaciones](05_ITERACION_2026-11-03_MOTIVO_INICIAL_DE_LAS_GRABACIONES.md)** — registra la elección del experimento personal como motivo para comenzar a grabar y las preguntas que faltan definir sobre su objetivo.
+- **[05 — Iteración del 3 de noviembre: motivo inicial de las grabaciones](05_ITERACION_2026-11-03_MOTIVO_INICIAL_DE_LAS_GRABACIONES.md)** — conserva la elección exploratoria inicial del experimento personal, que luego fue reemplazada por la decisión de que su amor por lo analógico es razón suficiente (ver Iteración 07).
 - **[06 — Iteración del 3 de noviembre: el programador y su fascinación por lo analógico](06_ITERACION_2026-11-03_EL_PROGRAMADOR_Y_LO_ANALOGICO.md)** — desarrolla la dirección del protagonista como programador y entusiasta de los artefactos analógicos, y el potencial narrativo y sonoro de esos objetos.
 - **[07 — Iteración del 3 de noviembre: el gusto por lo analógico como motivo para grabar](07_ITERACION_2026-11-03_EL_GUSTO_ANALOGICO_COMO_MOTIVO.md)** — registra la decisión de que su amor por los artefactos analógicos basta para explicar el uso de cassettes; no hace falta justificarlo mediante un experimento.
 - **[08 — Iteración del 3 de noviembre: objetos y paisaje sonoro analógico](08_ITERACION_2026-11-03_OBJETOS_Y_PAISAJE_SONORO_ANALOGICO.md)** — reúne diez propuestas de artefactos, sonidos y posibles situaciones, incluida una máquina arcade con Pac-Man o Galaga; quedan como opciones por elegir.
 - **[09 — Iteración del 3 de noviembre: el módem dial-up y la memoria de Adinet](09_ITERACION_2026-11-03_EL_MODEM_DIALUP_Y_LA_MEMORIA_DE_ADINET.md)** — registra la idea de incorporar el sonido de una conexión por módem, el recuerdo uruguayo del 09091234 de Adinet y una posible conexión con un sistema empresarial heredado.
 - **[10 — Iteración del 3 de noviembre: próximo eje, catástrofe y cronología del asteroide](10_ITERACION_2026-11-03_PROXIMO_EJE_CATASTROFE_Y_CRONOLOGIA.md)** — registra la propuesta de investigar el origen de los fragmentos, las primeras señales, la confirmación, la respuesta humana y la cuenta regresiva; el orden queda como método sugerido, no como decisión aprobada.
-- **[11 — Iteración del 3 de noviembre: primera investigación sobre la fragmentación del cuerpo principal](11_ITERACION_2026-11-03_PRIMERA_INVESTIGACION_FRAGMENTACION.md)** — reúne antecedentes reales de fragmentación de cometas y asteroides, incluida la secuencia Shoemaker–Levy 9, y deja abiertas ambas opciones para la ficción.
+- **[11 — Iteración del 3 de noviembre: primera investigación sobre la fragmentación del cuerpo principal](11_ITERACION_2026-11-03_PRIMERA_INVESTIGACION_FRAGMENTACION.md)** — reúne antecedentes reales de fragmentación de cometas y asteroides; la Iteración 12 reafirma que la ficción conserva el asteroide como cuerpo principal.
+- **[12 — Iteración del 3 de noviembre: impacto en la ciudad y caída de las redes modernas](12_ITERACION_2026-11-03_IMPACTO_EN_LA_CIUDAD_Y_CAIDA_DE_LAS_REDES.md)** — registra que un fragmento afecta la ciudad del protagonista y deja fuera de servicio buena parte de las comunicaciones modernas; desarrolla las condiciones técnicas para que el módem dial-up pueda sobrevivir.
 
 ## 7. Método de trabajo y continuidad
 
