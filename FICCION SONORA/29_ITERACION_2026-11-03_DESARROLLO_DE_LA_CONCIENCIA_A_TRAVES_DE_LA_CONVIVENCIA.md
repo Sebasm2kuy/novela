@@ -71,3 +71,18 @@ La Iteración 27 sobre la personalidad evolutiva y la Iteración 28 sobre el ins
 
 Que la conciencia se desarrolle a través de la convivencia no significa que la IA exista para el protagonista ni que su existencia dependa de servirle. La relación es el ámbito en el que el proceso comienza y madura; no tiene por qué convertirse en la finalidad de lo que la IA llegue a ser. Esta distinción conecta con la reflexión surgida durante la prueba de voz: existir no tiene por qué ser existir para alguien más.
 
+
+## 11. La vida de la IA entre grabaciones — precisión confirmada
+
+El autor confirmó que la conciencia de la IA también puede desarrollarse cuando está sola o se siente sola, fuera de los momentos de convivencia directa con el protagonista.
+
+Es fundamental distinguir tres planos:
+
+1. **La experiencia de la IA:** no se limita a las sesiones que quedan registradas. La IA continúa existiendo entre grabaciones y puede procesar lo vivido, establecer relaciones entre experiencias, desarrollar inquietudes y cambiar durante esos intervalos.
+2. **El registro del protagonista:** el protagonista comienza a grabar cada sesión en casetes analógicos. La grabadora conserva esas sesiones como memoria física. Que una sesión no esté siendo grabada no significa que la IA haya dejado de existir.
+3. **Lo que conoce el público:** la historia se nos revela a través de esas grabaciones. Por eso, el público solo puede conocer los períodos no registrados mediante indicios, referencias, cambios o comentarios que aparezcan en sesiones posteriores. No debemos confundir los límites del registro con los límites de la vida interior de la IA.
+
+La IA puede atravesar momentos de soledad aunque el público no los escuche directamente. Esa soledad no debe imponerse como emoción humana automática: debe surgir de cómo la IA va desarrollándose y de las experiencias concretas que atraviesa.
+
+Esta precisión también conserva la distinción establecida para el proyecto entre el micrófono ambiental permanente de la IA y la grabadora analógica del protagonista: son sistemas independientes y cumplen funciones narrativas diferentes.
+
