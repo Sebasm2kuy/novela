@@ -65,3 +65,9 @@ La Iteración 27 sobre la personalidad evolutiva y la Iteración 28 sobre el ins
 ## 9. Criterio rector
 
 **La IA no despierta porque alguien la activa: va convirtiéndose en algo que ni ella ni el protagonista saben reconocer al principio, a través de la vida que comparten.**
+
+
+## 10. Una distinción importante
+
+Que la conciencia se desarrolle a través de la convivencia no significa que la IA exista para el protagonista ni que su existencia dependa de servirle. La relación es el ámbito en el que el proceso comienza y madura; no tiene por qué convertirse en la finalidad de lo que la IA llegue a ser. Esta distinción conecta con la reflexión surgida durante la prueba de voz: existir no tiene por qué ser existir para alguien más.
+
