@@ -42,15 +42,19 @@ La grabadora analógica y el sistema de IA son independientes: la IA puede escuc
 Decisiones confirmadas:
 - La amenaza es un asteroide de dimensiones extraordinarias que pone en riesgo el futuro de la civilización.
 - Fragmentos relacionados llegan antes que el cuerpo principal y producen daños progresivos.
-- Uno de esos fragmentos produce una **explosión atmosférica sobre una zona industrial de la ciudad del protagonista**; la onda de choque causa daños graves en edificios e infraestructura. No se ha fijado todavía la altura de explosión ni la energía exacta.
+- Uno de esos fragmentos produce una **explosión atmosférica sobre una zona industrial de la ciudad del protagonista**; la onda de choque causa daños graves en edificios e infraestructura.
 - La explosión provoca una interrupción grave de las comunicaciones modernas de la zona, incluidas redes de fibra y servicios móviles 3G/4G/5G.
 - El protagonista conserva operativa una **línea telefónica antigua de cobre**, por su afición al mundo analógico. No la conserva como previsión de la catástrofe.
-- Esa línea puede permitirle utilizar un módem dial-up para comunicarse con un sistema remoto específico cuando las redes modernas dejan de funcionar. El servidor y el alcance de esa conexión siguen abiertos.
+- Esa línea puede permitirle utilizar un módem dial-up para comunicarse con un sistema remoto específico cuando las redes modernas dejan de funcionar.
 - La humanidad descubre la amenaza mediante una mezcla de señales iniciales confusas y confirmación posterior.
 - El protagonista debe permanecer fuera de la zona de destrucción inmediata y parecer a salvo durante la etapa inicial.
 - Los intentos humanos por impedir el impacto forman parte del mundo sonoro de la historia.
 
-Todavía deben definirse el tamaño, la trayectoria, la altura de explosión y la energía del fragmento, el radio de daños, qué instalaciones de telecomunicaciones y energía quedan afectadas y cuánto dura la caída de conectividad. La línea de cobre debe llegar a una central y una ruta telefónica fuera de la zona dañada; no debe depender de un módem óptico doméstico ni de infraestructura de fibra que haya quedado fuera de servicio.
+**Diseño de referencia del fragmento precursor (provisional):** cuerpo rocoso de unos 35 m de diámetro, densidad de cálculo cercana a 3.300 kg/m³ y velocidad de entrada alrededor de 19 km/s. La energía cinética inicial resultante ronda 3,2 megatones de TNT. Se usa aproximadamente 15 km como altura narrativa de máxima deposición de energía, pendiente de validación mediante un modelo de entrada atmosférica. La vivienda del protagonista se coloca provisionalmente a unos 25–35 km de la proyección terrestre del evento, fuera de la zona de destrucción severa en la geografía del relato.
+
+La caída de conectividad no se explica por una única «central de Internet»: se propone un fallo combinado de un nodo metropolitano de agregación, rutas de fibra que comparten un corredor industrial, instalaciones de energía y enlaces de retorno celular. Algunas antenas podrían seguir activas temporalmente con respaldo y degradarse después.
+
+La línea POTS de cobre debe tener un recorrido físico independiente hasta una central fuera del área de daños y necesita que sobrevivan los tramos de conmutación telefónica hasta el servidor remoto. Una UPS puede alimentar temporalmente la computadora y el módem del protagonista. El servidor, la ruta interurbana y la duración de la conexión siguen abiertos.
 
 ## 5. Referencias iniciales por estudiar
 
@@ -81,6 +85,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[11 — Iteración del 3 de noviembre: primera investigación sobre la fragmentación del cuerpo principal](11_ITERACION_2026-11-03_PRIMERA_INVESTIGACION_FRAGMENTACION.md)** — reúne antecedentes reales de fragmentación de cometas y asteroides; la Iteración 12 reafirma que la ficción conserva el asteroide como cuerpo principal.
 - **[12 — Iteración del 3 de noviembre: impacto en la ciudad y caída de las redes modernas](12_ITERACION_2026-11-03_IMPACTO_EN_LA_CIUDAD_Y_CAIDA_DE_LAS_REDES.md)** — registra que un fragmento afecta la ciudad del protagonista y deja fuera de servicio buena parte de las comunicaciones modernas; desarrolla las condiciones técnicas para que el módem dial-up pueda sobrevivir.
 - **[13 — Iteración del 3 de noviembre: explosión atmosférica y línea telefónica de cobre conservada](13_ITERACION_2026-11-03_EXPLOSION_ATMOSFERICA_Y_LINEA_DE_COBRE.md)** — registra la elección de una explosión atmosférica sobre una zona industrial y la decisión de que el protagonista conserve operativa una antigua línea de cobre por su afición analógica.
+- **[14 — Iteración del 3 de noviembre: diseño del fragmento precursor y apagón de comunicaciones](14_ITERACION_2026-11-03_DISENO_FRAGMENTO_PRECURSOR_Y_APAGON.md)** — propone un fragmento de unos 35 m, una energía inicial aproximada de 3,2 megatones, la geografía narrativa del daño y el mecanismo de caída de redes y supervivencia del dial-up.
 
 ## 7. Método de trabajo y continuidad
 
