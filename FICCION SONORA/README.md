@@ -45,7 +45,8 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 
 ## 5. Documentos de desarrollo
 
-- **[02 — El cassette como testigo del entorno](02_EL_CASSETTE_COMO_TESTIGO.md)** — desarrolla la idea de que las cintas registran no solo el diálogo, sino también noticias, sonidos ambientales y la evolución de los acontecimientos exteriores. Incluye preguntas técnicas y narrativas todavía abiertas.
+- **[02 — El cassette como testigo del entorno](02_EL_CASSETTE_COMO_TESTIGO.md)** — desarrolla la idea de que las cintas registran no solo el diálogo, sino también noticias, sonidos ambientales y la evolución de los acontecimientos exteriores.
+- **[03 — Micrófono ambiental permanente](03_MICROFONO_AMBIENTAL_PERMANENTE.md)** — registra la decisión confirmada de que la IA escucha permanentemente el ambiente y desarrolla sus consecuencias narrativas, técnicas y energéticas, además de las preguntas que siguen abiertas.
 
 ## 6. Método de trabajo
 
