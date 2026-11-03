@@ -86,6 +86,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[12 — Iteración del 3 de noviembre: impacto en la ciudad y caída de las redes modernas](12_ITERACION_2026-11-03_IMPACTO_EN_LA_CIUDAD_Y_CAIDA_DE_LAS_REDES.md)** — registra que un fragmento afecta la ciudad del protagonista y deja fuera de servicio buena parte de las comunicaciones modernas; desarrolla las condiciones técnicas para que el módem dial-up pueda sobrevivir.
 - **[13 — Iteración del 3 de noviembre: explosión atmosférica y línea telefónica de cobre conservada](13_ITERACION_2026-11-03_EXPLOSION_ATMOSFERICA_Y_LINEA_DE_COBRE.md)** — registra la elección de una explosión atmosférica sobre una zona industrial y la decisión de que el protagonista conserve operativa una antigua línea de cobre por su afición analógica.
 - **[14 — Iteración del 3 de noviembre: diseño del fragmento precursor y apagón de comunicaciones](14_ITERACION_2026-11-03_DISENO_FRAGMENTO_PRECURSOR_Y_APAGON.md)** — propone un fragmento de unos 35 m, una energía inicial aproximada de 3,2 megatones, la geografía narrativa del daño y el mecanismo de caída de redes y supervivencia del dial-up.
+- **[15 — Iteración del 3 de noviembre: enfoque narrativo y primeras señales de la amenaza](15_ITERACION_2026-11-03_ENFOQUE_NARRATIVO_Y_PRIMERAS_SENALES.md)** — registra la preferencia por dejar los tecnicismos como respaldo y priorizar la experiencia de los personajes; propone una progresión gradual de las primeras señales.
 
 ## 7. Método de trabajo y continuidad
 
