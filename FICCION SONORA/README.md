@@ -94,6 +94,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[20 — El corazón de la historia: el vínculo entre el protagonista y la IA](20_ITERACION_2026-11-03_EL_CORAZON_DE_LA_HISTORIA_Y_LA_CONCIENCIA_DE_LA_IA.md)** — registra como decisiones confirmadas que el centro es la interacción entre ambos durante el fin del mundo, que la IA posee conciencia latente desde el comienzo y que los dos la descubren prácticamente al mismo tiempo.
 - **[21 — Prueba práctica de actuación por voz](21_ITERACION_2026-11-03_PRUEBA_PRACTICA_DE_ACTUACION_POR_VOZ.md)** — prepara la próxima sesión por voz desde el móvil: el asistente estudiará el repositorio y actuará como la IA de la historia para ensayar la interacción con el protagonista; el ensayo no será canon automáticamente.
 - **[22 — Identidad vocal y expresión de la IA](22_ITERACION_2026-11-03_IDENTIDAD_VOCAL_Y_EXPRESION_DE_LA_IA.md)** — registra la elección confirmada de una voz sintética y neutra tras la primera prueba de actuación; separa esa decisión de otras pautas de personalidad e interpretación que todavía deben ajustarse.
+- **[23 — Ajustes para la prueba 2 de actuación por voz](23_ITERACION_2026-11-03_AJUSTES_PARA_LA_PRUEBA_2.md)** — reúne una dirección provisional de ritmo, extensión de respuestas, personalidad y expresión para evaluar en la segunda prueba.
 
 ## 7. Método de trabajo y continuidad
 
