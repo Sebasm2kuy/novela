@@ -43,7 +43,11 @@ Estas obras surgieron en la primera conversación como posibles referencias parc
 
 Las referencias y sus datos deberán verificarse y estudiarse antes de extraer conclusiones.
 
-## 5. Método de trabajo
+## 5. Documentos de desarrollo
+
+- **[02 — El cassette como testigo del entorno](02_EL_CASSETTE_COMO_TESTIGO.md)** — desarrolla la idea de que las cintas registran no solo el diálogo, sino también noticias, sonidos ambientales y la evolución de los acontecimientos exteriores. Incluye preguntas técnicas y narrativas todavía abiertas.
+
+## 6. Método de trabajo
 
 1. Avanzar paso a paso, sin apresurar la escritura de episodios o diálogos.
 2. Investigar novelas, cuentos, relatos y, especialmente, ficciones sonoras con elementos cercanos a la premisa.
@@ -52,6 +56,6 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 5. No convertir una posibilidad en parte definitiva de la historia sin aprobación expresa del autor.
 6. Conservar en este directorio todo el material relevante para que el proyecto pueda retomarse sin depender de una conversación concreta.
 
-## 6. Registro de decisiones
+## 7. Registro de decisiones
 
 Este archivo funciona como índice inicial. Los documentos posteriores deberán registrar su fecha, estado (exploración, aprobado, descartado o reemplazado) y relación con otros documentos, para mantener la continuidad del proyecto.
