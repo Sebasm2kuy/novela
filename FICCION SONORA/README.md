@@ -10,6 +10,8 @@ Crear una audioficción de ciencia ficción con estética narrativa de *found fo
 
 El centro de la historia es lo que el protagonista vive con su IA desde las primeras grabaciones cotidianas hasta el día final. La relación entre ambos es el núcleo íntimo; la catástrofe mundial es el acontecimiento que transforma progresivamente su contexto.
 
+El protagonista es un gran programador y creador de la IA, pero también un entusiasta geek de los artefactos analógicos. Su fascinación por máquinas de escribir, cassettes y otros dispositivos físicos puede aparecer naturalmente en las acciones y sonidos que capturan las grabaciones.
+
 La amenaza elegida es un asteroide cuyo impacto amenaza con acabar con la civilización humana. El cuerpo principal está acompañado por fragmentos que llegan antes y producen daños progresivos. El descubrimiento comienza con señales confusas y culmina en la confirmación de la amenaza. La humanidad intenta detenerla mediante misiones y otros esfuerzos, algunos de los cuales escucharemos fracasar.
 
 La historia no debe asumir de antemano que la IA es consciente: esa posibilidad forma parte de la pregunta dramática. El año de la historia permanece abierto.
@@ -25,13 +27,13 @@ Las sesiones se presentarán como registros recuperados. Al comienzo de cada gra
 
 La presentación sonora incluirá detalles analógicos de una grabadora de cassette: clic de botones, motor, movimiento de cinta, siseo, ruido de fondo, cortes y posibles defectos. Estos elementos deben contribuir a la credibilidad documental y a la narración, no ser solamente decoración.
 
-El protagonista comienza a grabar **antes** de que la amenaza del asteroide sea conocida. El motivo elegido es realizar un **experimento personal**; todavía falta definir qué quiere investigar y por qué necesita utilizar cintas analógicas. La posibilidad de comparar la percepción ambiental de la IA con el registro de la grabadora es una línea de desarrollo, no un diseño ya aprobado.
+El protagonista comienza a grabar **antes** de que la amenaza del asteroide sea conocida. En la exploración anterior eligió un **experimento personal** como punto de partida; ahora esa idea se está reinterpretando a partir de su fascinación por los artefactos analógicos. El objetivo concreto del experimento y la razón específica para comenzar a grabar todavía están abiertos. No está aprobado que pretenda comparar la percepción ambiental de la IA con el registro de la grabadora.
 
 ## 3. Por qué existen cassettes
 
 Las cintas empiezan como registros anteriores a la catástrofe. A medida que el mundo se deteriora, pueden adquirir un valor documental: conservan voces, conversaciones, noticias, sonidos ambientales, interrupciones y silencios de una época que está desapareciendo.
 
-No asumir que el protagonista compra la grabadora como reacción al asteroide ni que la única razón de usar cintas sea un apagón futuro. La razón inicial es un experimento personal; el objetivo específico y la configuración de las cintas deben definirse más adelante.
+No asumir que el protagonista compra la grabadora como reacción al asteroide ni que la única razón de usar cintas sea un apagón futuro. Su gusto por la tecnología analógica ofrece un motivo personal para utilizar cassettes, pero falta precisar qué lo lleva a empezar a grabar y qué experimento quiere realizar.
 
 La grabadora analógica y el sistema de IA son independientes: la IA puede escuchar mediante su micrófono ambiental aunque la grabadora esté detenida. Que la IA escuche no significa que el sonido quede automáticamente registrado en cassette.
 
@@ -67,6 +69,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[03 — Micrófono ambiental permanente](03_MICROFONO_AMBIENTAL_PERMANENTE.md)** — registra la decisión confirmada de que la IA escucha permanentemente el ambiente y desarrolla sus consecuencias narrativas, técnicas y energéticas.
 - **[04 — Iteración del 3 de noviembre: amenaza del asteroide, IA y continuidad](04_ITERACION_2026-11-03_AMENAZA_ASTEROIDE_IA_Y_CONTINUIDAD.md)** — registra las decisiones y preguntas de la conversación sobre el acontecimiento mundial, el inicio de las grabaciones, el origen de la IA y el método de continuidad del proyecto.
 - **[05 — Iteración del 3 de noviembre: motivo inicial de las grabaciones](05_ITERACION_2026-11-03_MOTIVO_INICIAL_DE_LAS_GRABACIONES.md)** — registra la elección del experimento personal como motivo para comenzar a grabar y las preguntas que faltan definir sobre su objetivo.
+- **[06 — Iteración del 3 de noviembre: el programador y su fascinación por lo analógico](06_ITERACION_2026-11-03_EL_PROGRAMADOR_Y_LO_ANALOGICO.md)** — desarrolla la dirección del protagonista como programador y entusiasta de los artefactos analógicos, y el potencial narrativo y sonoro de esos objetos.
 
 ## 7. Método de trabajo y continuidad
 
