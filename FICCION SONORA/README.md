@@ -27,13 +27,13 @@ Las sesiones se presentarán como registros recuperados. Al comienzo de cada gra
 
 La presentación sonora incluirá detalles analógicos de una grabadora de cassette: clic de botones, motor, movimiento de cinta, siseo, ruido de fondo, cortes y posibles defectos. Estos elementos deben contribuir a la credibilidad documental y a la narración, no ser solamente decoración.
 
-El protagonista comienza a grabar **antes** de que la amenaza del asteroide sea conocida. En la exploración anterior eligió un **experimento personal** como punto de partida; ahora esa idea se está reinterpretando a partir de su fascinación por los artefactos analógicos. El objetivo concreto del experimento y la razón específica para comenzar a grabar todavía están abiertos. No está aprobado que pretenda comparar la percepción ambiental de la IA con el registro de la grabadora.
+El protagonista comienza a grabar **antes** de que la amenaza del asteroide sea conocida. El motivo es su amor por el mundo analógico: le gustan esos artefactos y disfruta utilizarlos. No necesita un experimento científico, una hipótesis sobre la IA ni una previsión de la catástrofe para justificar las cintas. La grabadora forma parte de su afición. Las grabaciones adquirirán involuntariamente un valor documental mucho mayor cuando el mundo empiece a desaparecer.
 
 ## 3. Por qué existen cassettes
 
 Las cintas empiezan como registros anteriores a la catástrofe. A medida que el mundo se deteriora, pueden adquirir un valor documental: conservan voces, conversaciones, noticias, sonidos ambientales, interrupciones y silencios de una época que está desapareciendo.
 
-No asumir que el protagonista compra la grabadora como reacción al asteroide ni que la única razón de usar cintas sea un apagón futuro. Su gusto por la tecnología analógica ofrece un motivo personal para utilizar cassettes, pero falta precisar qué lo lleva a empezar a grabar y qué experimento quiere realizar.
+No asumir que el protagonista compra la grabadora como reacción al asteroide ni que la única razón de usar cintas sea un apagón futuro. Su amor por el mundo analógico es razón suficiente para empezar a grabar; no hay un experimento que funcione como requisito de esta decisión. La configuración concreta de las sesiones y los dispositivos que utiliza se desarrollará más adelante.
 
 La grabadora analógica y el sistema de IA son independientes: la IA puede escuchar mediante su micrófono ambiental aunque la grabadora esté detenida. Que la IA escuche no significa que el sonido quede automáticamente registrado en cassette.
 
@@ -70,6 +70,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[04 — Iteración del 3 de noviembre: amenaza del asteroide, IA y continuidad](04_ITERACION_2026-11-03_AMENAZA_ASTEROIDE_IA_Y_CONTINUIDAD.md)** — registra las decisiones y preguntas de la conversación sobre el acontecimiento mundial, el inicio de las grabaciones, el origen de la IA y el método de continuidad del proyecto.
 - **[05 — Iteración del 3 de noviembre: motivo inicial de las grabaciones](05_ITERACION_2026-11-03_MOTIVO_INICIAL_DE_LAS_GRABACIONES.md)** — registra la elección del experimento personal como motivo para comenzar a grabar y las preguntas que faltan definir sobre su objetivo.
 - **[06 — Iteración del 3 de noviembre: el programador y su fascinación por lo analógico](06_ITERACION_2026-11-03_EL_PROGRAMADOR_Y_LO_ANALOGICO.md)** — desarrolla la dirección del protagonista como programador y entusiasta de los artefactos analógicos, y el potencial narrativo y sonoro de esos objetos.
+- **[07 — Iteración del 3 de noviembre: el gusto por lo analógico como motivo para grabar](07_ITERACION_2026-11-03_EL_GUSTO_ANALOGICO_COMO_MOTIVO.md)** — registra la decisión de que su amor por los artefactos analógicos basta para explicar el uso de cassettes; no hace falta justificarlo mediante un experimento.
 
 ## 7. Método de trabajo y continuidad
 
