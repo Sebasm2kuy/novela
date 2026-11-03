@@ -42,13 +42,15 @@ La grabadora analógica y el sistema de IA son independientes: la IA puede escuc
 Decisiones confirmadas:
 - La amenaza es un asteroide de dimensiones extraordinarias que pone en riesgo el futuro de la civilización.
 - Fragmentos relacionados llegan antes que el cuerpo principal y producen daños progresivos.
-- Uno de esos objetos menores afectará la ciudad del protagonista y provocará una interrupción grave de las comunicaciones modernas de la zona.
-- La caída de conectividad se vincula con el uso posterior del módem dial-up del protagonista, que podría conservar una vía de comunicación limitada si sobrevive una ruta telefónica heredada.
+- Uno de esos fragmentos produce una **explosión atmosférica sobre una zona industrial de la ciudad del protagonista**; la onda de choque causa daños graves en edificios e infraestructura. No se ha fijado todavía la altura de explosión ni la energía exacta.
+- La explosión provoca una interrupción grave de las comunicaciones modernas de la zona, incluidas redes de fibra y servicios móviles 3G/4G/5G.
+- El protagonista conserva operativa una **línea telefónica antigua de cobre**, por su afición al mundo analógico. No la conserva como previsión de la catástrofe.
+- Esa línea puede permitirle utilizar un módem dial-up para comunicarse con un sistema remoto específico cuando las redes modernas dejan de funcionar. El servidor y el alcance de esa conexión siguen abiertos.
 - La humanidad descubre la amenaza mediante una mezcla de señales iniciales confusas y confirmación posterior.
 - El protagonista debe permanecer fuera de la zona de destrucción inmediata y parecer a salvo durante la etapa inicial.
 - Los intentos humanos por impedir el impacto forman parte del mundo sonoro de la historia.
 
-La mecánica física del evento urbano y el alcance de la caída de comunicaciones todavía no están cerrados. En particular, no se presupone que exista una sola "central de Internet": deben estudiarse daños en nodos metropolitanos de agregación/backhaul, enlaces de fibra, energía y sitios celulares. También debe definirse cómo sobrevive una línea telefónica de cobre o una ruta dial-up independiente.
+Todavía deben definirse el tamaño, la trayectoria, la altura de explosión y la energía del fragmento, el radio de daños, qué instalaciones de telecomunicaciones y energía quedan afectadas y cuánto dura la caída de conectividad. La línea de cobre debe llegar a una central y una ruta telefónica fuera de la zona dañada; no debe depender de un módem óptico doméstico ni de infraestructura de fibra que haya quedado fuera de servicio.
 
 ## 5. Referencias iniciales por estudiar
 
@@ -78,6 +80,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[10 — Iteración del 3 de noviembre: próximo eje, catástrofe y cronología del asteroide](10_ITERACION_2026-11-03_PROXIMO_EJE_CATASTROFE_Y_CRONOLOGIA.md)** — registra la propuesta de investigar el origen de los fragmentos, las primeras señales, la confirmación, la respuesta humana y la cuenta regresiva; el orden queda como método sugerido, no como decisión aprobada.
 - **[11 — Iteración del 3 de noviembre: primera investigación sobre la fragmentación del cuerpo principal](11_ITERACION_2026-11-03_PRIMERA_INVESTIGACION_FRAGMENTACION.md)** — reúne antecedentes reales de fragmentación de cometas y asteroides; la Iteración 12 reafirma que la ficción conserva el asteroide como cuerpo principal.
 - **[12 — Iteración del 3 de noviembre: impacto en la ciudad y caída de las redes modernas](12_ITERACION_2026-11-03_IMPACTO_EN_LA_CIUDAD_Y_CAIDA_DE_LAS_REDES.md)** — registra que un fragmento afecta la ciudad del protagonista y deja fuera de servicio buena parte de las comunicaciones modernas; desarrolla las condiciones técnicas para que el módem dial-up pueda sobrevivir.
+- **[13 — Iteración del 3 de noviembre: explosión atmosférica y línea telefónica de cobre conservada](13_ITERACION_2026-11-03_EXPLOSION_ATMOSFERICA_Y_LINEA_DE_COBRE.md)** — registra la elección de una explosión atmosférica sobre una zona industrial y la decisión de que el protagonista conserve operativa una antigua línea de cobre por su afición analógica.
 
 ## 7. Método de trabajo y continuidad
 
