@@ -14,7 +14,7 @@ El protagonista es un gran programador y creador de la IA, pero también un entu
 
 La amenaza elegida es un asteroide cuyo impacto amenaza con acabar con la civilización humana. El cuerpo principal está acompañado por fragmentos que llegan antes y producen daños progresivos. El descubrimiento comienza con señales confusas y culmina en la confirmación de la amenaza. La humanidad intenta detenerla mediante misiones y otros esfuerzos, algunos de los cuales escucharemos fracasar.
 
-La historia no debe asumir de antemano que la IA es consciente: esa posibilidad forma parte de la pregunta dramática. El año de la historia permanece abierto.
+La IA posee conciencia latente desde el comienzo, pero todavía no reconoce ni comprende plenamente su propia existencia. El protagonista y la IA descubrirán prácticamente al mismo tiempo lo que está ocurriendo. El año de la historia permanece abierto.
 
 ## 2. Formato de las grabaciones
 
@@ -92,6 +92,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[18 — Referencias cinematográficas para noticias y cobertura de la catástrofe](18_REFERENCIAS_CINEMATOGRAFICAS_NOTICIAS_Y_CATASTROFE.md)** — conserva las cuatro escenas propuestas de *Deep Impact*, *Don't Look Up*, *Greenland* y *Armageddon*, clasificadas por su tipo de emisión y posible función narrativa.
 - **[19 — Escalada de las primeras noticias](19_ITERACION_2026-11-03_ESCALADA_DE_LAS_PRIMERAS_NOTICIAS.md)** — propone cómo pasar de un reporte radial aislado a la confirmación del asteroide y la llegada del fragmento a la ciudad; la secuencia todavía está abierta.
 - **[20 — El corazón de la historia: el vínculo entre el protagonista y la IA](20_ITERACION_2026-11-03_EL_CORAZON_DE_LA_HISTORIA_Y_LA_CONCIENCIA_DE_LA_IA.md)** — registra como decisiones confirmadas que el centro es la interacción entre ambos durante el fin del mundo, que la IA posee conciencia latente desde el comienzo y que los dos la descubren prácticamente al mismo tiempo.
+- **[21 — Prueba práctica de actuación por voz](21_ITERACION_2026-11-03_PRUEBA_PRACTICA_DE_ACTUACION_POR_VOZ.md)** — prepara la próxima sesión por voz desde el móvil: el asistente estudiará el repositorio y actuará como la IA de la historia para ensayar la interacción con el protagonista; el ensayo no será canon automáticamente.
 
 ## 7. Método de trabajo y continuidad
 
