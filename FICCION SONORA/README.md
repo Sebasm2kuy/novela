@@ -91,6 +91,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[17 — Iteración del 3 de noviembre: publicación en YouTube y clips de películas](17_ITERACION_2026-11-03_PUBLICACION_EN_YOUTUBE_Y_CLIPS_DE_PELICULAS.md)** — registra la preferencia del autor por una publicación artística no monetizada en YouTube y su interés en incorporar escenas reales, junto con las limitaciones de copyright y las opciones para conservar versiones alternativas.
 - **[18 — Referencias cinematográficas para noticias y cobertura de la catástrofe](18_REFERENCIAS_CINEMATOGRAFICAS_NOTICIAS_Y_CATASTROFE.md)** — conserva las cuatro escenas propuestas de *Deep Impact*, *Don't Look Up*, *Greenland* y *Armageddon*, clasificadas por su tipo de emisión y posible función narrativa.
 - **[19 — Escalada de las primeras noticias](19_ITERACION_2026-11-03_ESCALADA_DE_LAS_PRIMERAS_NOTICIAS.md)** — propone cómo pasar de un reporte radial aislado a la confirmación del asteroide y la llegada del fragmento a la ciudad; la secuencia todavía está abierta.
+- **[20 — El corazón de la historia: el vínculo entre el protagonista y la IA](20_ITERACION_2026-11-03_EL_CORAZON_DE_LA_HISTORIA_Y_LA_CONCIENCIA_DE_LA_IA.md)** — registra como decisiones confirmadas que el centro es la interacción entre ambos durante el fin del mundo, que la IA posee conciencia latente desde el comienzo y que los dos la descubren prácticamente al mismo tiempo.
 
 ## 7. Método de trabajo y continuidad
 
