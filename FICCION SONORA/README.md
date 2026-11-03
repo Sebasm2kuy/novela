@@ -66,6 +66,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[02 — El cassette como testigo del entorno](02_EL_CASSETTE_COMO_TESTIGO.md)** — desarrolla la idea de que las cintas registran no solo el diálogo, sino también noticias, sonidos ambientales y la evolución de los acontecimientos exteriores.
 - **[03 — Micrófono ambiental permanente](03_MICROFONO_AMBIENTAL_PERMANENTE.md)** — registra la decisión confirmada de que la IA escucha permanentemente el ambiente y desarrolla sus consecuencias narrativas, técnicas y energéticas.
 - **[04 — Iteración del 3 de noviembre: amenaza del asteroide, IA y continuidad](04_ITERACION_2026-11-03_AMENAZA_ASTEROIDE_IA_Y_CONTINUIDAD.md)** — registra las decisiones y preguntas de la conversación sobre el acontecimiento mundial, el inicio de las grabaciones, el origen de la IA y el método de continuidad del proyecto.
+- **[05 — Iteración del 3 de noviembre: motivo inicial de las grabaciones](05_ITERACION_2026-11-03_MOTIVO_INICIAL_DE_LAS_GRABACIONES.md)** — registra la decisión de que el protagonista comienza a grabar por un motivo concreto y las tres alternativas exploradas; el motivo exacto sigue abierto.
 
 ## 7. Método de trabajo y continuidad
 
