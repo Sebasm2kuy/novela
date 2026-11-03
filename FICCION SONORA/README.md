@@ -72,6 +72,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[06 — Iteración del 3 de noviembre: el programador y su fascinación por lo analógico](06_ITERACION_2026-11-03_EL_PROGRAMADOR_Y_LO_ANALOGICO.md)** — desarrolla la dirección del protagonista como programador y entusiasta de los artefactos analógicos, y el potencial narrativo y sonoro de esos objetos.
 - **[07 — Iteración del 3 de noviembre: el gusto por lo analógico como motivo para grabar](07_ITERACION_2026-11-03_EL_GUSTO_ANALOGICO_COMO_MOTIVO.md)** — registra la decisión de que su amor por los artefactos analógicos basta para explicar el uso de cassettes; no hace falta justificarlo mediante un experimento.
 - **[08 — Iteración del 3 de noviembre: objetos y paisaje sonoro analógico](08_ITERACION_2026-11-03_OBJETOS_Y_PAISAJE_SONORO_ANALOGICO.md)** — reúne diez propuestas de artefactos, sonidos y posibles situaciones, incluida una máquina arcade con Pac-Man o Galaga; quedan como opciones por elegir.
+- **[09 — Iteración del 3 de noviembre: el módem dial-up y la memoria de Adinet](09_ITERACION_2026-11-03_EL_MODEM_DIALUP_Y_LA_MEMORIA_DE_ADINET.md)** — registra la idea de incorporar el sonido de una conexión por módem, el recuerdo uruguayo del 09091234 de Adinet y una posible conexión con un sistema empresarial heredado.
 
 ## 7. Método de trabajo y continuidad
 
