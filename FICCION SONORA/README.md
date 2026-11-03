@@ -25,13 +25,13 @@ Las sesiones se presentarán como registros recuperados. Al comienzo de cada gra
 
 La presentación sonora incluirá detalles analógicos de una grabadora de cassette: clic de botones, motor, movimiento de cinta, siseo, ruido de fondo, cortes y posibles defectos. Estos elementos deben contribuir a la credibilidad documental y a la narración, no ser solamente decoración.
 
-El protagonista comienza a grabar **antes** de que la amenaza del asteroide sea conocida. El motivo inicial exacto todavía está en exploración; el respaldo personal de conversaciones y acontecimientos es una posibilidad, no una decisión cerrada.
+El protagonista comienza a grabar **antes** de que la amenaza del asteroide sea conocida. El motivo elegido es realizar un **experimento personal**; todavía falta definir qué quiere investigar y por qué necesita utilizar cintas analógicas. La posibilidad de comparar la percepción ambiental de la IA con el registro de la grabadora es una línea de desarrollo, no un diseño ya aprobado.
 
 ## 3. Por qué existen cassettes
 
 Las cintas empiezan como registros anteriores a la catástrofe. A medida que el mundo se deteriora, pueden adquirir un valor documental: conservan voces, conversaciones, noticias, sonidos ambientales, interrupciones y silencios de una época que está desapareciendo.
 
-No asumir que el protagonista compra la grabadora como reacción al asteroide ni que la única razón de usar cintas sea un apagón futuro. La razón inicial y la configuración concreta del respaldo deben definirse más adelante.
+No asumir que el protagonista compra la grabadora como reacción al asteroide ni que la única razón de usar cintas sea un apagón futuro. La razón inicial es un experimento personal; el objetivo específico y la configuración de las cintas deben definirse más adelante.
 
 La grabadora analógica y el sistema de IA son independientes: la IA puede escuchar mediante su micrófono ambiental aunque la grabadora esté detenida. Que la IA escuche no significa que el sonido quede automáticamente registrado en cassette.
 
@@ -66,7 +66,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[02 — El cassette como testigo del entorno](02_EL_CASSETTE_COMO_TESTIGO.md)** — desarrolla la idea de que las cintas registran no solo el diálogo, sino también noticias, sonidos ambientales y la evolución de los acontecimientos exteriores.
 - **[03 — Micrófono ambiental permanente](03_MICROFONO_AMBIENTAL_PERMANENTE.md)** — registra la decisión confirmada de que la IA escucha permanentemente el ambiente y desarrolla sus consecuencias narrativas, técnicas y energéticas.
 - **[04 — Iteración del 3 de noviembre: amenaza del asteroide, IA y continuidad](04_ITERACION_2026-11-03_AMENAZA_ASTEROIDE_IA_Y_CONTINUIDAD.md)** — registra las decisiones y preguntas de la conversación sobre el acontecimiento mundial, el inicio de las grabaciones, el origen de la IA y el método de continuidad del proyecto.
-- **[05 — Iteración del 3 de noviembre: motivo inicial de las grabaciones](05_ITERACION_2026-11-03_MOTIVO_INICIAL_DE_LAS_GRABACIONES.md)** — registra la decisión de que el protagonista comienza a grabar por un motivo concreto y las tres alternativas exploradas; el motivo exacto sigue abierto.
+- **[05 — Iteración del 3 de noviembre: motivo inicial de las grabaciones](05_ITERACION_2026-11-03_MOTIVO_INICIAL_DE_LAS_GRABACIONES.md)** — registra la elección del experimento personal como motivo para comenzar a grabar y las preguntas que faltan definir sobre su objetivo.
 
 ## 7. Método de trabajo y continuidad
 
