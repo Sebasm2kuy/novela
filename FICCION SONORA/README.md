@@ -71,6 +71,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[05 — Iteración del 3 de noviembre: motivo inicial de las grabaciones](05_ITERACION_2026-11-03_MOTIVO_INICIAL_DE_LAS_GRABACIONES.md)** — registra la elección del experimento personal como motivo para comenzar a grabar y las preguntas que faltan definir sobre su objetivo.
 - **[06 — Iteración del 3 de noviembre: el programador y su fascinación por lo analógico](06_ITERACION_2026-11-03_EL_PROGRAMADOR_Y_LO_ANALOGICO.md)** — desarrolla la dirección del protagonista como programador y entusiasta de los artefactos analógicos, y el potencial narrativo y sonoro de esos objetos.
 - **[07 — Iteración del 3 de noviembre: el gusto por lo analógico como motivo para grabar](07_ITERACION_2026-11-03_EL_GUSTO_ANALOGICO_COMO_MOTIVO.md)** — registra la decisión de que su amor por los artefactos analógicos basta para explicar el uso de cassettes; no hace falta justificarlo mediante un experimento.
+- **[08 — Iteración del 3 de noviembre: objetos y paisaje sonoro analógico](08_ITERACION_2026-11-03_OBJETOS_Y_PAISAJE_SONORO_ANALOGICO.md)** — reúne diez propuestas de artefactos, sonidos y posibles situaciones, incluida una máquina arcade con Pac-Man o Galaga; quedan como opciones por elegir.
 
 ## 7. Método de trabajo y continuidad
 
