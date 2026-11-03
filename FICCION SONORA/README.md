@@ -89,6 +89,7 @@ Las referencias y sus datos deberán verificarse y estudiarse antes de extraer c
 - **[15 — Iteración del 3 de noviembre: enfoque narrativo y primeras señales de la amenaza](15_ITERACION_2026-11-03_ENFOQUE_NARRATIVO_Y_PRIMERAS_SENALES.md)** — registra la preferencia por dejar los tecnicismos como respaldo y priorizar la experiencia de los personajes; propone una progresión gradual de las primeras señales.
 - **[16 — Iteración del 3 de noviembre: noticias y voces sin un elenco amplio](16_ITERACION_2026-11-03_NOTICIAS_Y_VOCES_SIN_ELENCO.md)** — registra la idea de contar noticias mediante emisiones diegéticas y propone recrearlas con una o dos voces y diseño sonoro, en lugar de depender de clips comerciales sin autorización.
 - **[17 — Iteración del 3 de noviembre: publicación en YouTube y clips de películas](17_ITERACION_2026-11-03_PUBLICACION_EN_YOUTUBE_Y_CLIPS_DE_PELICULAS.md)** — registra la preferencia del autor por una publicación artística no monetizada en YouTube y su interés en incorporar escenas reales, junto con las limitaciones de copyright y las opciones para conservar versiones alternativas.
+- **[18 — Referencias cinematográficas para noticias y cobertura de la catástrofe](18_REFERENCIAS_CINEMATOGRAFICAS_NOTICIAS_Y_CATASTROFE.md)** — conserva las cuatro escenas propuestas de *Deep Impact*, *Don't Look Up*, *Greenland* y *Armageddon*, clasificadas por su tipo de emisión y posible función narrativa.
 
 ## 7. Método de trabajo y continuidad
 
