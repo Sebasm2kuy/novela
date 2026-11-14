@@ -215,3 +215,20 @@ En cada actualización:
 ---
 
 **Regla final:** el repositorio es la fuente de verdad del proyecto. Si una conversación contradice un documento, no elijas por intuición: identifica la contradicción, consulta la instrucción más reciente del autor y registra la resolución. Nunca inventes aprobaciones ni presentes trabajo no verificado como terminado.
+
+## ACTUALIZACIÓN — REVISIÓN VISUAL DE LA HABITACIÓN (2026-11-14)
+
+La imagen conceptual `AVENTURA GRAFICA/Escenarios/Habitación Espacial Retro en Pixel Art.png` fue recuperada desde la Biblioteca de archivos de ChatGPT asociada a la conversación anterior e inspeccionada visualmente. Dimensiones: **2048 × 768 px**. No fue necesario pedir al autor que la volviera a subir.
+
+Se creó el documento `AVENTURA GRAFICA/REVISION_VISUAL_IMAGEN_CONCEPTUAL_HABITACION_WNL.md`, que contiene la comparación con el plano cuantificado, las discrepancias y la secuencia espacial recomendada.
+
+Hallazgos principales:
+- La secuencia visual de la referencia es: archivadores izquierdos → escritorio/PC → equipos analógicos y grabadora → biblioteca central → cajonera y reloj → cama con mesa baja delante → armario/taquilla en el extremo derecho.
+- El plano cuantificado actual coloca consola y grabadora a la derecha de la biblioteca, en contradicción con la referencia, donde los equipos están junto al escritorio, antes de la biblioteca.
+- Falta contemplar el archivador alto del extremo izquierdo, la alfombra principal, la mesa baja delante de la cama y varios elementos de ambientación.
+- El reloj debe relacionarse visualmente con la cajonera situada a la derecha de la biblioteca.
+- La imagen mide 2048 × 768 y no debe estirarse ni usarse como maestro de 3840 × 1080.
+
+**Estado:** la revisión visual está realizada; la nueva distribución recomendada sigue pendiente de aprobación del autor. No modificar todavía el plano cuantificado ni el SVG como si la propuesta estuviera aprobada.
+
+**Próximo paso:** elaborar una versión revisada del plano de distribución a 3840 × 1080, basada en la secuencia visual observada, y presentarla para revisión. Actualizar este documento y el historial en la siguiente iteración.
