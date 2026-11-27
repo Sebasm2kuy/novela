@@ -69,3 +69,17 @@ Puede haber peligro, pérdida, tensión o terror, pero deben nacer de la situaci
 **En exploración:** fecha de vencimiento inesperada del ciclo; una historia que el protagonista no quiere olvidar; identidad de quien llama a la puerta; mujer del paraguas y del pasillo; naturaleza del acontecimiento de catorce meses; posible pérdida o retirada del mecanismo.
 
 **No definido:** conflicto central definitivo, objetivo del protagonista, oposición, apuestas, causa del límite temporal, desenlace y razón final por la que este ciclo es el centro de la novela.
+
+
+## 8. Evaluación de propuestas externas — 27/11/2026
+
+Seba compartió propuestas de DeepSeek y Qwen. El análisis editorial completo está en [Evaluación DeepSeek y Qwen](2026-11-27_EVALUACION_DEEPSEEK_QWEN_CONFLICTO.md).
+
+Síntesis:
+- DeepSeek 4 (**la promesa que sobrevive a la persona**) aporta el dilema moral más fértil: una obligación nacida en otra línea, ¿puede justificar decisiones que afectan a personas de esta?
+- Qwen 2 (**la tiranía del guion conocido**) aporta el motor dramático más fuerte: el protagonista actúa según recuerdos de otras vidas, pero puede terminar invadiendo la autonomía de las personas de esta línea.
+- Se recomienda explorar una combinación de ambas ideas junto con los motores D y E elegidos por Seba: fecha de vencimiento inesperada y una historia que no quiere olvidar.
+- Las propuestas de reencontrar a alguien, la paternidad en otra línea y otro posible repetidor pueden ser materiales secundarios, pero no se aprueban como conflicto principal.
+- La hipótesis de que el protagonista desplaza o anula a un «yo nativo» no se incorpora; no está confirmada y añade una regla metafísica nueva.
+
+**Estado:** dirección combinada en exploración; no es todavía el conflicto definitivo. Faltan el objetivo concreto, la naturaleza del acontecimiento de los catorce meses, la función exacta de quien golpea la puerta y la decisión irreversible que sostendrá la trama.
