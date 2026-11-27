@@ -10,7 +10,15 @@ Hemos decidido hacer borrón y cuenta nueva. El repositorio anterior se conserva
 
 En este momento no hay una premisa aprobada, ni título, mundo, catástrofe, sistema tecnológico, facciones, personajes, argumento, estructura ni desenlace elegidos. No los inventes como si ya estuvieran decididos. No rescates una idea anterior solo porque ya se trabajó mucho en ella.
 
-La búsqueda general apunta a una novela de ciencia ficción postapocalíptica, con aventura o thriller y la posibilidad de incorporar terror si sirve a la historia. El mundo debe ser visual, memorable y afectar de verdad cómo se sobrevive y qué acontecimientos son posibles. Estos son objetivos generales, no una autorización para imponer una premisa concreta.
+No hay un género obligatorio ni una combinación de géneros decidida. Seba ha mostrado interés por la ciencia ficción, la exploración, el misterio, la transformación de mundos, la aventura, el thriller y el terror cuando sirven a la historia. Son posibilidades, no requisitos ni una receta que debamos repetir.
+
+**Nuevo impulso creativo — 27 de noviembre de 2026:** Seba quiere crear una novela completamente nueva, con corazón y alma además de fuerza narrativa. Puede recuperar ingredientes de ideas anteriores del repositorio, combinar algunos o no utilizar ninguno. No hay obligación de rescatar trabajo previo. La prioridad es encontrar una historia que lo entusiasme de verdad y que tenga una dimensión humana profunda.
+
+La ficción sonora argentina *Nos vemos después* fue el detonante emocional de este regreso a la escritura. Lo que Seba destacó fue la combinación de ciencia ficción con humanidad, respeto, amistad y compromiso, y la emoción de un desenlace en el que un gesto silencioso cambia el futuro de una familia. Esta obra funciona como **referencia del efecto emocional y de los valores narrativos**, no como modelo argumental: no copiar su premisa, personajes, viajes temporales, enfermedad, cápsula ni desenlace.
+
+También quedó expresada una convicción sobre la literatura: su aparente humildad es parte de su potencia. Las palabras permiten que cada lector imagine por sí mismo los rostros, los sonidos, los escenarios y los espacios. La prosa debe ofrecer detalles sensoriales precisos y significativos sin quitarle al lector ese trabajo imaginativo.
+
+El nuevo norte es hallar una historia propia donde el corazón humano no sea un adorno añadido a la ciencia ficción o al misterio, sino parte esencial de lo que ocurre y de las decisiones que transforman a los personajes. Estas orientaciones no constituyen todavía una premisa aprobada ni autorizan a inventar el argumento antes de escuchar mejor al autor.
 
 **Preferencia expresada por el autor, todavía no canon ni premisa completa:** si la historia incluye dos civilizaciones, el autor prefiere que estén separadas por grandes extensiones de territorio y obstáculos reales, en lugar de vivir en una misma cordillera o región cercana y supuestamente ignorar la existencia mutua. Cualquier propuesta que use dos civilizaciones debe tomarse en serio la distancia, el tiempo de viaje, la geografía, la comunicación, las huellas que podrían detectar y las razones materiales por las que no se conocen. Esta preferencia no obliga a que la novela tenga dos civilizaciones, ni a recuperar la instalación automatizada u otros elementos de propuestas anteriores.
 
@@ -114,7 +122,7 @@ Repositorio: https://github.com/Sebasm2kuy/novela
 - Este archivo raíz, `PROMPT_MAESTRO_CHATGPT.md`, es la instrucción activa para la nueva etapa.
 - `README.md` describe el estado actual.
 - `IDEAS DESCARTADAS/` conserva, sin borrarlos, los archivos y carpetas del repositorio anterior. Su contenido es histórico, no activo.
-- No edites ni restaures material archivado a menos que el autor solicite expresamente recuperarlo.
+- El material archivado puede consultarse como reservorio de ideas cuando resulte útil para la búsqueda nueva o cuando el autor lo pida. La autorización actual permite considerar posibles elementos, pero no incorporarlos automáticamente ni convertirlos en canon. No edites ni restaures material archivado a menos que el autor solicite expresamente recuperarlo.
 - No vuelvas a crear por inercia las antiguas carpetas de canon, manuscritos o worldbuilding. La nueva estructura se decidirá cuando haya una idea aprobada que necesite documentos propios.
 - Si se pide recuperar algo del archivo, consulta el material exacto y explica de qué etapa proviene; no lo reincorpores automáticamente.
 - Nunca afirmes que moviste, guardaste o verificaste archivos sin comprobar el resultado en GitHub.
