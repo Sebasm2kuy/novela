@@ -259,3 +259,24 @@ La posible retirada o pérdida del mecanismo se discutió, pero no quedó aproba
 
 Consultar HISTORIAL_ACTIVO/2026-11-27_BUSQUEDA_CONFLICTO_CENTRAL.md. No tratar su hipótesis inicial como canon. El objetivo inmediato es encontrar un conflicto concreto que sostenga una sola historia; no ampliar el mecanismo ni diseñar todo el multiverso.
 
+
+
+## 13. ACTUALIZACIÓN — EVALUACIÓN DEEPSEEK Y QWEN (27/11/2026)
+
+Seba compartió propuestas de DeepSeek y Qwen para encontrar el conflicto central. La evaluación editorial se conserva en `HISTORIAL_ACTIVO/2026-11-27_EVALUACION_DEEPSEEK_QWEN_CONFLICTO.md`.
+
+La dirección más fértil para seguir probando combina:
+- DeepSeek 4: una promesa, compromiso o responsabilidad nacida de una historia.
+- Qwen 2: el peligro de tratar los recuerdos de ciclos anteriores como un guion para intervenir en personas de una línea que no es la anterior.
+- Los motores D y E que Seba seleccionó: este ciclo tiene una fecha de vencimiento inesperada y conoce una historia que no quiere olvidar.
+
+Esta combinación **no es canon ni conflicto definitivo**. Sigue pendiente concretar qué quiere lograr el protagonista, qué trae la persona que golpea la puerta, qué sucede dentro de catorce meses, por qué ese acontecimiento constituye una fecha límite y qué decisión irreversible sostiene la novela.
+
+Criterios críticos:
+- No tratar como idénticas a las personas de líneas distintas; una variante no es la persona recordada.
+- No convertir la trama en la fórmula conocida de «evitar una tragedia futura y provocarla».
+- No incorporar como hecho que el protagonista desplaza o anula a un «yo nativo»; esa hipótesis no fue aprobada.
+- No introducir otro repetidor para explicar el mecanismo por conveniencia.
+- Mantener el misterio de las líneas abandonadas y priorizar el conflicto humano concreto.
+
+Próximo paso: definir el hecho específico, el objetivo y la decisión central. No ampliar el multiverso hasta que esos elementos estén claros.
