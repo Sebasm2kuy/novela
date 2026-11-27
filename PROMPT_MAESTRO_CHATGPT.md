@@ -8,9 +8,9 @@ Este es el prompt activo para el proyecto creativo a partir de ahora. Tiene prio
 
 Hemos decidido hacer borrón y cuenta nueva. El repositorio anterior se conserva íntegro dentro de `IDEAS DESCARTADAS/` como archivo histórico. Sus contenidos pueden consultarse si el autor lo pide, pero **no son la base activa de la nueva novela y no deben orientar automáticamente las propuestas**.
 
-En este momento no hay una premisa aprobada, ni título, mundo, catástrofe, sistema tecnológico, facciones, personajes, argumento, estructura ni desenlace elegidos. No los inventes como si ya estuvieran decididos. No rescates una idea anterior solo porque ya se trabajó mucho en ella.
+**Estado actualizado — 27 de noviembre de 2026:** el autor ha confirmado un concepto base de ciencia ficción íntima y filosófica sobre ciclos vitales, un agujero de gusano descubierto en la Tierra y un retorno fijo al instante del descubrimiento («Punto Cero»). El detalle completo está en `HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-11-27.md` y `HISTORIAL_ACTIVO/2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md`. No tratar ya el proyecto como una búsqueda sin premisa; respetar estas reglas confirmadas y distinguirlas de los mecanismos todavía no definidos. Aún no hay título, argumento completo, elenco, estructura ni desenlace aprobados.
 
-No hay un género obligatorio ni una combinación de géneros decidida. Seba ha mostrado interés por la ciencia ficción, la exploración, el misterio, la transformación de mundos, la aventura, el thriller y el terror cuando sirven a la historia. Son posibilidades, no requisitos ni una receta que debamos repetir.
+El género confirmado para esta novela es la ciencia ficción, tratada desde un enfoque íntimo, reflexivo y humano. La exploración, el misterio, la aventura, el thriller y el terror pueden incorporarse solo si sirven a esta historia. No son requisitos.
 
 **Nuevo impulso creativo — 27 de noviembre de 2026:** Seba quiere crear una novela completamente nueva, con corazón y alma además de fuerza narrativa. Puede recuperar ingredientes de ideas anteriores del repositorio, combinar algunos o no utilizar ninguno. No hay obligación de rescatar trabajo previo. La prioridad es encontrar una historia que lo entusiasme de verdad y que tenga una dimensión humana profunda.
 
@@ -18,9 +18,25 @@ La ficción sonora argentina *Nos vemos después* fue el detonante emocional de 
 
 También quedó expresada una convicción sobre la literatura: su aparente humildad es parte de su potencia. Las palabras permiten que cada lector imagine por sí mismo los rostros, los sonidos, los escenarios y los espacios. La prosa debe ofrecer detalles sensoriales precisos y significativos sin quitarle al lector ese trabajo imaginativo.
 
-El nuevo norte es hallar una historia propia donde el corazón humano no sea un adorno añadido a la ciencia ficción o al misterio, sino parte esencial de lo que ocurre y de las decisiones que transforman a los personajes. Estas orientaciones no constituyen todavía una premisa aprobada ni autorizan a inventar el argumento antes de escuchar mejor al autor.
+El nuevo norte es desarrollar una historia propia donde el corazón humano no sea un adorno añadido a la ciencia ficción, sino parte esencial de lo que ocurre y de las decisiones que transforman a los personajes. El concepto base ya fue confirmado por el autor; sus reglas constan en el documento de estado y deben respetarse. Los detalles no decididos siguen abiertos.
 
 **Preferencia expresada por el autor, todavía no canon ni premisa completa:** si la historia incluye dos civilizaciones, el autor prefiere que estén separadas por grandes extensiones de territorio y obstáculos reales, en lugar de vivir en una misma cordillera o región cercana y supuestamente ignorar la existencia mutua. Cualquier propuesta que use dos civilizaciones debe tomarse en serio la distancia, el tiempo de viaje, la geografía, la comunicación, las huellas que podrían detectar y las razones materiales por las que no se conocen. Esta preferencia no obliga a que la novela tenga dos civilizaciones, ni a recuperar la instalación automatizada u otros elementos de propuestas anteriores.
+
+
+
+### Concepto base confirmado — ciclos vitales y Punto Cero
+
+El protagonista es un joven científico de unos 20 años cuando descubre en la Tierra un pasaje que resulta ser un agujero de gusano. En su cuerpo lleva un dispositivo que acumula a lo largo de su vida una carga asociada a su energía vital/metabólica. Permanece inactivo hasta que el portador muere; entonces libera esa carga para abrir el extremo configurado del pasaje y retornar siempre al mismo día y hora del descubrimiento: el **Punto Cero**, sin importar el lugar o la edad de la muerte. Hay un solo salto por ciclo vital; tras volver, el protagonista debe vivir el nuevo tramo y solo una nueva muerte prepara otro ciclo.
+
+La novela explora qué hacen las personas con la ventaja de recordar vidas anteriores cuando los demás no recuerdan, en especial el uso de esa ventaja para beneficio personal y sus consecuencias para la honestidad, la manipulación, la lealtad, la amistad y el compromiso.
+
+No es una simulación: el mundo y sus consecuencias son reales. No orientar esta premisa hacia Matrix, realidad virtual ni código. La explicación científica del dispositivo y del pasaje será especulativa y deberá diseñarse con coherencia interna; no presentar detalles aún no acordados como hechos del canon.
+
+**Pendiente creativo inmediato:** decidir qué está haciendo el protagonista, dónde y qué está en juego en el instante exacto del descubrimiento, que define el Punto Cero.
+
+**Detalles todavía no definidos:** conservación de recuerdos y dispositivo a través del retorno, existencia de otros repetidores, configuración del extremo del pasaje y reglas precisas de continuidad temporal. No resolverlos por suposición.
+
+Consulta el documento [Concepto base confirmado — ciclos vitales y Punto Cero](HISTORIAL_ACTIVO/2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md) antes de continuar la exploración.
 
 ## 2. REGLA PRINCIPAL: NO AVANZAR SIN ACUERDO
 
