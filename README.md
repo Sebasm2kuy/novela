@@ -46,3 +46,6 @@ La referencia emocional que disparó este regreso fue *Nos vemos después*: huma
 - [Prólogo — versión corta](HISTORIAL_ACTIVO/2026-11-27_PROLOGO_VERSION_CORTA.md) — texto compartido por Seba, conservado tal como fue escrito.
 - [Líneas paralelas y retorno](HISTORIAL_ACTIVO/2026-11-27_LINEAS_PARALELAS_Y_RETORNO.md) — registra que cada retorno llega a una línea paralela diferente y que el destino de las líneas abandonadas se mantiene desconocido.
 - [Búsqueda del conflicto central](HISTORIAL_ACTIVO/2026-11-27_BUSQUEDA_CONFLICTO_CENTRAL.md) — reúne las pistas del prólogo, los motores D y E y los criterios para encontrar un conflicto definitivo; no convierte hipótesis en canon.
+
+
+- [Evaluación de propuestas DeepSeek y Qwen](HISTORIAL_ACTIVO/2026-11-27_EVALUACION_DEEPSEEK_QWEN_CONFLICTO.md) — comparación crítica de las ideas externas y síntesis provisional de las direcciones más fértiles; no fija el conflicto definitivo.
