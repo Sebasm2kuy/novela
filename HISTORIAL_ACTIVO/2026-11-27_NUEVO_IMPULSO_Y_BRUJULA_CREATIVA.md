@@ -54,3 +54,8 @@ La soledad y el deseo de reciprocidad son parte del contexto de esta conversaci�
 ### 6. Próximo paso
 
 Continuar con una conversación exploratoria y encontrar una semilla que provoque ganas reales de escribir. No presentar una premisa larga ni construir una biblia del mundo antes de saber qué historia quiere contar Seba.
+
+
+## Nota posterior — concepto confirmado el mismo día
+
+Más tarde, el 27/11/2026, Seba compartió un resumen de decisiones que confirmó el núcleo de la nueva novela: ciencia ficción íntima y filosófica en un futuro cercano; joven científico de unos 20 años descubre un agujero de gusano en la Tierra; un dispositivo corporal acumula carga vital y se activa al morir para retornar siempre al mismo día y hora del hallazgo, el Punto Cero; un salto por ciclo vital; dilema sobre aprovechar recuerdos de vidas repetidas para beneficio propio y el valor de los vínculos cuando los demás no recuerdan. Queda como pendiente creativo inmediato decidir la escena del Punto Cero. El estado detallado y vigente está en [ESTADO_ACTUAL_NOVELA_2026-11-27.md](ESTADO_ACTUAL_NOVELA_2026-11-27.md) y [2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md](2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md).
