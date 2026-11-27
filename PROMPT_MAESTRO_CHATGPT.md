@@ -41,7 +41,7 @@ No es una simulación: el mundo y sus consecuencias son reales. No orientar esta
 
 **Pendiente creativo inmediato:** decidir qué está haciendo el protagonista, dónde y qué está en juego en el instante exacto del descubrimiento, que define el Punto Cero.
 
-**Detalles todavía no definidos:** conservación de recuerdos y dispositivo a través del retorno, existencia de otros repetidores, configuración del extremo del pasaje y reglas precisas de continuidad temporal. No resolverlos por suposición.
+**Detalles todavía no definidos:** conservación de recuerdos y dispositivo a través del retorno, existencia de otros repetidores, configuración del extremo del pasaje, cómo el mecanismo crea o selecciona una línea paralela y qué diferencias puede haber entre ellas. Está confirmado que cada retorno llega a una línea paralela diferente. El destino de las líneas abandonadas se desconoce deliberadamente. No resolverlos por suposición.
 
 ### Estructura narrativa y enfoque tonal confirmados — 27 de noviembre de 2026
 
@@ -231,3 +231,31 @@ El autor solicita que **cada pregunta del usuario y cada respuesta del asistente
 - Al abrir un chat nuevo, consulta primero el prompt maestro, el resumen de continuidad activo y el registro cronológico activo. Distingue texto literal de reconstrucción y conserva el estado de cada idea: propuesta, en exploración, aceptada, descartada o decisión confirmada.
 - El historial documenta el proceso; no convierte ninguna propuesta en canon ni autoriza a desarrollar ideas que el autor no haya aprobado.
 - Si una limitación de acceso impide reconstruir un turno antiguo literalmente, dilo de forma transparente y conserva todo lo que sí se pueda recuperar. Nunca prometas una transcripción exacta de mensajes a los que no se tiene acceso.
+
+
+## 12. ACTUALIZACIÓN — PRÓLOGO Y LÍNEAS PARALELAS (27/11/2026)
+
+### Decisión confirmada sobre el retorno
+
+El protagonista **siempre** estuvo llegando a una línea paralela diferente en cada retorno. No es un desperfecto reciente. Tardó siglos en advertirlo porque las diferencias eran pequeñas y podían atribuirse a la memoria o a sus propias intervenciones. El Punto Cero conserva el mismo día y hora; el borrador de prólogo lo representa mediante un reloj detenido a las **10:17**.
+
+Seba eligió dejar sin respuesta qué sucede con las líneas que abandona. No decidir si continúan, desaparecen o cambian; ni el protagonista puede comprobarlo.
+
+La regla confirmada y las cuestiones abiertas constan en:
+- HISTORIAL_ACTIVO/2026-11-27_LINEAS_PARALELAS_Y_RETORNO.md
+- HISTORIAL_ACTIVO/2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md
+
+### Prólogo de trabajo
+
+El texto compartido por Seba se conserva literalmente en HISTORIAL_ACTIVO/2026-11-27_PROLOGO_VERSION_CORTA.md. No reemplazarlo por versiones improvisadas ni modificarlo sin pedido. Es un borrador de trabajo, no necesariamente una versión definitiva.
+
+### Conflicto central: todavía no definido
+
+Seba seleccionó para explorar dos pistas:
+- **D:** este ciclo tiene una fecha de vencimiento inesperada.
+- **E:** conoce una historia que no quiere olvidar.
+
+La posible retirada o pérdida del mecanismo se discutió, pero no quedó aprobada. La renuncia por amor fue rechazada por sentirse cursi. La búsqueda del conflicto debe responder qué quiere lograr o impedir el protagonista, qué se lo dificulta, qué ocurre dentro de catorce meses, por qué ese plazo importa y qué decisión humana hace singular este ciclo.
+
+Consultar HISTORIAL_ACTIVO/2026-11-27_BUSQUEDA_CONFLICTO_CENTRAL.md. No tratar su hipótesis inicial como canon. El objetivo inmediato es encontrar un conflicto concreto que sostenga una sola historia; no ampliar el mecanismo ni diseñar todo el multiverso.
+
