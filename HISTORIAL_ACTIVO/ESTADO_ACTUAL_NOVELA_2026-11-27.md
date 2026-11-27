@@ -33,11 +33,27 @@ Seba tiene intereses previos en ciencia ficción, exploración, misterio, aventu
 
 Las ideas y los documentos de otras etapas del repositorio pueden consultarse como material de inspiración si aportan algo a la búsqueda. Nada se hereda automáticamente y ninguna propuesta antigua queda rehabilitada por el hecho de estar disponible.
 
-## 5. Qué todavía no está decidido
+## 5. Concepto base confirmado — 27/11/2026
 
-No hay título, género definitivo, premisa, protagonista, personajes secundarios, mundo, época, conflicto principal, estructura, capítulos, narrador ni final aprobados.
+Seba compartió un resumen de decisiones confirmadas para la nueva novela. El desarrollo íntegro está en [Concepto base confirmado — ciclos vitales y Punto Cero](2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md).
 
-Tampoco se ha decidido que la historia sea autobiográfica. Las experiencias, observaciones y emociones de Seba pueden ayudar a comprender qué verdad humana quiere explorar, pero no hay que convertir su vida en argumento sin que él lo elija.
+- Ciencia ficción de enfoque íntimo, reflexivo y humano.
+- Futuro cercano; protagonista joven científico de unos 20 años al descubrir el fenómeno.
+- En la Tierra descubre un pasaje que resulta ser un agujero de gusano.
+- Lleva un dispositivo corporal que acumula una carga asociada a su energía vital/metabólica.
+- El dispositivo permanece inactivo durante la vida y se activa al morir para liberar la carga y abrir el extremo configurado del pasaje.
+- Regresa siempre al mismo día y hora del descubrimiento, el Punto Cero, sin importar dónde ni a qué edad haya muerto.
+- Un salto por ciclo vital; no puede dispararlo voluntariamente para corregir de inmediato sus actos. Una nueva muerte deja el mecanismo listo para otro ciclo.
+- El conflicto moral explora cómo usar el conocimiento de vidas repetidas para beneficio propio y cómo eso afecta honestidad, manipulación, lealtad y relaciones cuando los demás no recuerdan.
+- No es una simulación, realidad virtual ni código. El mundo y sus consecuencias son reales.
+
+## 6. Qué todavía no está decidido
+
+**Pendiente creativo inmediato señalado por Seba:** la escena del Punto Cero: qué está haciendo exactamente el protagonista, dónde sucede y qué está en juego en ese instante.
+
+Tampoco están definidos el título, el argumento completo, personajes secundarios, estructura de capítulos, narrador ni desenlace. No se ha decidido que la historia sea autobiográfica.
+
+Hay mecanismos que deberán detallarse después sin inventarlos por ahora: cómo se conservan memoria y dispositivo en el retorno, si otros individuos también repiten vidas, cómo se configura el extremo del pasaje y qué reglas temporales explican los cambios entre ciclos.
 
 ## 6. Método para continuar
 
@@ -55,3 +71,8 @@ Tampoco se ha decidido que la historia sea autobiográfica. Las experiencias, ob
 - *Ficción Sonora* queda en pausa por decisión de Seba; no es la obra que se está iniciando ahora.
 - *Lo que nunca se fue* y el resto de materiales históricos permanecen en sus ubicaciones y estados actuales.
 - Esta nueva búsqueda es independiente. Puede aprender de trabajos anteriores, pero no necesita continuarlos ni justificarlos.
+
+
+## 8. Nueva referencia de decisiones confirmadas
+
+El archivo [2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md](2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md) registra el concepto completo, las reglas confirmadas y los mecanismos que todavía no deben darse por definidos.
