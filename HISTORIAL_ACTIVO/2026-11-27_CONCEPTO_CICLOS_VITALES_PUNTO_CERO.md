@@ -93,11 +93,11 @@ Esa ventaja puede ser utilizada de maneras distintas:
 
 La historia debe examinar qué pasa con la amistad, el compromiso, la confianza y el amor cuando la memoria de una relación deja de ser compartida. No asumir de antemano qué elección hará el protagonista ni convertirlo en héroe o villano por la sola existencia del mecanismo.
 
-## 10. Único pendiente explícito de esta etapa
+## 10. Pendiente registrado en la primera etapa
 
 **La escena del Punto Cero:** falta decidir qué está haciendo exactamente el protagonista, dónde ocurre el descubrimiento y qué está en juego en ese instante.
 
-Ese momento debe ser lo bastante concreto, visual y significativo como para que el regreso repetido a la misma fecha y hora tenga peso narrativo y emocional.
+Ese momento debe ser lo bastante concreto, visual y significativo como para que el regreso repetido a la misma fecha y hora tenga peso narrativo y emocional. El prólogo corto posterior ya ofrece una primera imagen —laboratorio, ventanal, café y reloj detenido a las 10:17—, pero el conflicto que se inicia desde ese instante sigue por definirse.
 
 ## 11. Cuestiones que no deben resolverse por suposición
 
@@ -106,7 +106,7 @@ Aunque el concepto base está confirmado, todavía no se han detallado todos los
 - cómo se implanta, configura o acompaña el dispositivo a través del retorno;
 - si el protagonista es el único que repite vidas o si otros individuos también descubren el fenómeno;
 - cómo se elige o fija exactamente el extremo del pasaje;
-- qué reglas determinan si los cambios producen una única continuidad modificada u otra consecuencia temporal.
+- qué relación causal tiene el mecanismo con las líneas: si las crea, selecciona o conecta; cuál es el criterio de destino; y qué diferencias pueden existir entre ellas. Ya está confirmado que cada retorno llega a una línea paralela diferente.
 
 Estas preguntas deberán abordarse cuando la narración las necesite. La decisión de que cada retorno llega a una línea paralela diferente ya está confirmada; no lo están el mecanismo exacto por el que elige o genera esa línea ni el destino de las líneas que abandona.
 
