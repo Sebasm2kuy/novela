@@ -64,7 +64,7 @@ Seba compartió un resumen de decisiones confirmadas para la nueva novela. El de
 
 ### Cuestiones todavía abiertas
 
-**Pendiente creativo inmediato señalado por Seba:** la escena del Punto Cero: qué está haciendo exactamente el protagonista, dónde sucede y qué está en juego en ese instante.
+**Pendiente narrativo inmediato:** definir el conflicto central de este ciclo. El prólogo ya propone una imagen concreta del Punto Cero —laboratorio, ventanal, café y reloj detenido a las 10:17—, aunque todavía se puede precisar qué está ocurriendo y qué está en juego en ese instante.
 
 El título ya está confirmado: *Todos los nombres del mundo* (español) / *Every Name in the World* (inglés). La estructura temporal general también está acordada, pero todavía no están definidos el argumento completo, los personajes secundarios, la estructura detallada de capítulos, el narrador ni el desenlace. No se ha decidido que la historia sea autobiográfica.
 
