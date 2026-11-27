@@ -29,9 +29,10 @@ El gusto y la decisión del autor tienen prioridad sobre el tiempo invertido en 
 
 ## Estado creativo actualizado — 27 de noviembre de 2026
 
-Se reabrió la búsqueda de una novela completamente nueva, con la intención explícita de encontrar una historia con **corazón y alma**. No se ha aprobado premisa ni género. La ciencia ficción, el misterio, la aventura y los materiales de etapas anteriores son posibilidades, no obligaciones.
+La nueva novela ya cuenta con un **concepto base confirmado**: ciencia ficción íntima y filosófica sobre ciclos vitales, un agujero de gusano descubierto por un joven científico y un retorno fijo al instante del hallazgo, llamado Punto Cero. La historia debe explorar el uso moral de los recuerdos de vidas anteriores y el valor de los vínculos cuando los demás no recuerdan. El pendiente inmediato es definir la escena del Punto Cero.
 
 - [Estado actual de la nueva novela — 27/11/2026](HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-11-27.md)
 - [Registro del regreso a la escritura y nueva brújula creativa — 27/11/2026](HISTORIAL_ACTIVO/2026-11-27_NUEVO_IMPULSO_Y_BRUJULA_CREATIVA.md)
+- [Concepto base confirmado — ciclos vitales y Punto Cero](HISTORIAL_ACTIVO/2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md)
 
 La referencia emocional que disparó este regreso fue *Nos vemos después*: humanidad, respeto, amistad, compromiso y la fuerza de un gesto silencioso. Es una inspiración sobre el efecto que se busca, no una historia que debamos imitar.
