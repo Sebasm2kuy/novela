@@ -46,7 +46,9 @@ Seba compartió un resumen de decisiones confirmadas para la nueva novela. El de
 - En la Tierra descubre un pasaje que resulta ser un agujero de gusano.
 - Lleva un dispositivo corporal que acumula una carga asociada a su energía vital/metabólica.
 - El dispositivo permanece inactivo durante la vida y se activa al morir para liberar la carga y abrir el extremo configurado del pasaje.
-- Regresa siempre al mismo día y hora del descubrimiento, el Punto Cero, sin importar dónde ni a qué edad haya muerto.
+- Regresa siempre al mismo día y hora del descubrimiento, el Punto Cero, sin importar dónde ni a qué edad haya muerto; el prólogo representa ese instante con un reloj detenido a las 10:17.
+- Cada retorno lo lleva a una línea paralela diferente. Siempre fue así; el protagonista tardó siglos en descubrirlo.
+- No se sabe qué ocurre con las líneas que abandona. El protagonista tampoco puede comprobarlo.
 - Un salto por ciclo vital; no puede dispararlo voluntariamente para corregir de inmediato sus actos. Una nueva muerte deja el mecanismo listo para otro ciclo.
 - El conflicto moral explora cómo usar el conocimiento de vidas repetidas para beneficio propio y cómo eso afecta honestidad, manipulación, lealtad y relaciones cuando los demás no recuerdan.
 - No es una simulación, realidad virtual ni código. El mundo y sus consecuencias son reales.
@@ -66,7 +68,7 @@ Seba compartió un resumen de decisiones confirmadas para la nueva novela. El de
 
 El título ya está confirmado: *Todos los nombres del mundo* (español) / *Every Name in the World* (inglés). La estructura temporal general también está acordada, pero todavía no están definidos el argumento completo, los personajes secundarios, la estructura detallada de capítulos, el narrador ni el desenlace. No se ha decidido que la historia sea autobiográfica.
 
-Hay mecanismos que deberán detallarse después sin inventarlos por ahora: cómo se conservan memoria y dispositivo en el retorno, si otros individuos también repiten vidas, cómo se configura el extremo del pasaje y qué reglas temporales explican los cambios entre ciclos.
+Hay mecanismos que deberán detallarse después sin inventarlos por ahora: cómo se conservan memoria y dispositivo en el retorno, si otros individuos también repiten vidas, cómo se configura el extremo del pasaje, cómo el mecanismo llega a una línea paralela distinta y si la crea o la selecciona. El destino de las líneas abandonadas queda deliberadamente desconocido.
 
 ## 7. Método para continuar
 
@@ -77,7 +79,17 @@ Hay mecanismos que deberán detallarse después sin inventarlos por ahora: cómo
 5. No construir mundo, fichas ni estructura extensa antes de encontrar una historia que Seba quiera escribir.
 6. Mantener separados los estados: propuesta, en exploración, aceptada para desarrollar, descartada y decisión confirmada.
 
-**Próximo paso:** seguir conversando y encontrar la primera semilla narrativa. No hay que producir una premisa por obligación ni escribir un capítulo para demostrar que el proyecto comenzó.
+## 7. Prólogo y búsqueda del conflicto — actualización del 27/11/2026
+
+Seba compartió un **prólogo corto** como borrador de trabajo. Se conserva literalmente en [Prólogo — versión corta](2026-11-27_PROLOGO_VERSION_CORTA.md). Sus imágenes principales son el reloj detenido a las 10:17, cientos de vidas, las pequeñas diferencias entre líneas, una mujer recordada bajo la lluvia con un paraguas roto, su aparición futura en un pasillo dentro de catorce meses sin reconocer al protagonista y alguien a punto de golpear la puerta con un nombre que quizá no existió en ciclos anteriores.
+
+Seba eligió dos motores para explorar, todavía sin convertirlos en argumento definitivo:
+- **D:** este ciclo tiene una fecha de vencimiento inesperada.
+- **E:** el protagonista conoce una historia que no quiere olvidar.
+
+La posible retirada o pérdida del mecanismo se discutió, pero no se aprobó como decisión ni se definió su causa. La explicación romántica como renuncia por amor fue rechazada por resultar demasiado cursi.
+
+**Próximo paso:** encontrar el conflicto central definitivo que dé sentido a este ciclo. La búsqueda abierta, con los elementos del prólogo y las preguntas que el conflicto debe superar, está en [Búsqueda del conflicto central](2026-11-27_BUSQUEDA_CONFLICTO_CENTRAL.md).
 
 ## 8. Relación con los proyectos anteriores
 
@@ -98,3 +110,10 @@ El 27/11/2026 Seba decidió que la novela se llamará:
 - **Inglés:** *Every Name in the World*
 
 Ver el registro específico [Decisión de título — 27/11/2026](2026-11-27_TITULO_OFICIAL.md).
+
+
+## 8. Líneas paralelas — decisión confirmada
+
+Cada retorno lleva al protagonista a una línea paralela diferente. Esto siempre estuvo ocurriendo, no es una falla reciente. El protagonista tardó siglos en advertirlo. El destino de las líneas abandonadas no está definido y se mantiene como incertidumbre.
+
+Consulta [Líneas paralelas — aclaración del retorno](2026-11-27_LINEAS_PARALELAS_Y_RETORNO.md).
