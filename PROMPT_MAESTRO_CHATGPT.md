@@ -8,9 +8,9 @@ Este es el prompt activo para el proyecto creativo a partir de ahora. Tiene prio
 
 Hemos decidido hacer borrón y cuenta nueva. El repositorio anterior se conserva íntegro dentro de `IDEAS DESCARTADAS/` como archivo histórico. Sus contenidos pueden consultarse si el autor lo pide, pero **no son la base activa de la nueva novela y no deben orientar automáticamente las propuestas**.
 
-**Estado actualizado — 27 de noviembre de 2026:** el autor ha confirmado un concepto base de ciencia ficción íntima y filosófica sobre ciclos vitales, un agujero de gusano descubierto en la Tierra y un retorno fijo al instante del descubrimiento («Punto Cero»). El detalle completo está en `HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-11-27.md` y `HISTORIAL_ACTIVO/2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md`. No tratar ya el proyecto como una búsqueda sin premisa; respetar estas reglas confirmadas y distinguirlas de los mecanismos todavía no definidos. El título oficial ya está confirmado: *Todos los nombres del mundo* (español) / *Every Name in the World* (inglés). Aún no están aprobados el argumento completo, el elenco, la estructura ni el desenlace.
+**Estado actualizado — 27 de noviembre de 2026:** el autor ha confirmado un concepto base de ciencia ficción íntima y filosófica sobre ciclos vitales, un agujero de gusano descubierto en la Tierra y un retorno fijo al instante del descubrimiento («Punto Cero»). El detalle completo está en `HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-11-27.md` y `HISTORIAL_ACTIVO/2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md`. No tratar ya el proyecto como una búsqueda sin premisa; respetar estas reglas confirmadas y distinguirlas de los mecanismos todavía no definidos. El título oficial ya está confirmado: *Todos los nombres del mundo* (español) / *Every Name in the World* (inglés). La estructura narrativa general ya está acordada: la novela se detiene en un ciclo particular, con el arco de conocer a muchísimas personas mayormente recorrido antes del comienzo, y se mueve desde ese ciclo hacia atrás mediante *flashbacks* y hacia adelante mediante *flashforwards*. Esto no define todavía la estructura de capítulos, el narrador ni el orden concreto de las escenas. Aún no están aprobados el argumento completo, el elenco ni el desenlace.
 
-El género confirmado para esta novela es la ciencia ficción, tratada desde un enfoque íntimo, reflexivo y humano. La exploración, el misterio, la aventura, el thriller y el terror pueden incorporarse solo si sirven a esta historia. No son requisitos.
+El género base es la ciencia ficción, pero el enfoque tonal acordado es **all in one**: la historia puede contener la amplitud de la vida misma —intimidad, conversaciones filosóficas, humor, drama, tensión, pérdida, asombro y, cuando corresponda, terror—. No se trata de mezclar géneros como artificio ni de cumplir una lista; cada cambio de clima debe nacer de la experiencia vital y de lo que le sucede al protagonista. La historia no responde a la lógica de una fórmula de acción convencional. *The Man from Earth* es una referencia de cercanía humana y peso de las conversaciones, no un límite tonal ni un modelo argumental.
 
 **Nuevo impulso creativo — 27 de noviembre de 2026:** Seba quiere crear una novela completamente nueva, con corazón y alma además de fuerza narrativa. Puede recuperar ingredientes de ideas anteriores del repositorio, combinar algunos o no utilizar ninguno. No hay obligación de rescatar trabajo previo. La prioridad es encontrar una historia que lo entusiasme de verdad y que tenga una dimensión humana profunda.
 
@@ -24,12 +24,12 @@ El nuevo norte es desarrollar una historia propia donde el corazón humano no se
 
 
 
-### Título oficial
+### Título oficial y sentido
 
 - Español: *Todos los nombres del mundo*
 - Inglés: *Every Name in the World*
 
-Las dos versiones identifican la misma novela.
+Las dos versiones identifican la misma novela. El título expresa el impulso de conocer a tantas personas como sea posible a lo largo de los ciclos: viajar, recorrer lugares y culturas, encontrarse con desconocidos, escuchar historias y descubrir a la humanidad a través de cada persona. «Todas las personas del mundo» se entiende en un sentido humano y vital, no como el cumplimiento literal de conocer a miles de millones de individuos. El protagonista ya habrá recorrido gran parte de ese camino cuando comience la novela; el relato no parte de una búsqueda todavía por iniciar.
 
 ### Concepto base confirmado — ciclos vitales y Punto Cero
 
@@ -42,6 +42,12 @@ No es una simulación: el mundo y sus consecuencias son reales. No orientar esta
 **Pendiente creativo inmediato:** decidir qué está haciendo el protagonista, dónde y qué está en juego en el instante exacto del descubrimiento, que define el Punto Cero.
 
 **Detalles todavía no definidos:** conservación de recuerdos y dispositivo a través del retorno, existencia de otros repetidores, configuración del extremo del pasaje y reglas precisas de continuidad temporal. No resolverlos por suposición.
+
+### Estructura narrativa y enfoque tonal confirmados — 27 de noviembre de 2026
+
+La novela se concentra en **un ciclo particular** del protagonista. Cuando empieza la historia, él ya recorrió gran parte del camino de conocer personas a lo largo de ciclos anteriores —«todas las personas del mundo» en sentido humano y vital, no literalmente a todos los habitantes del planeta—. Desde ese ciclo central, el relato se desplaza hacia atrás con *flashbacks* y hacia adelante con *flashforwards*, cruzando recuerdos y anticipaciones. La singularidad de ese ciclo todavía no está definida.
+
+El tono es **all in one**: la novela puede contener intimidad, conversaciones filosóficas, humor, drama, tensión, pérdida, asombro y terror cuando la experiencia vital lo justifique. No es una mezcla de géneros colocada como artificio. Los cambios de clima nacen de lo que el protagonista vive y de las personas que encuentra; no de una fórmula de acción convencional. *The Man from Earth* sigue siendo referencia de sensibilidad humana y profundidad conversacional, no un molde ni una restricción de tono.
 
 Consulta el documento [Concepto base confirmado — ciclos vitales y Punto Cero](HISTORIAL_ACTIVO/2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md) antes de continuar la exploración.
 
