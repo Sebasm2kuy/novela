@@ -1,5 +1,13 @@
 # Concepto base confirmado — ciclos vitales y Punto Cero
 
+## Título oficial confirmado — 27 de noviembre de 2026
+
+- **Versión en español:** *Todos los nombres del mundo*
+- **Versión en inglés:** *Every Name in the World*
+
+Ambas formas corresponden a la misma novela. Se conservan como títulos oficiales en sus respectivos idiomas; no son títulos alternativos ni nombres provisionales.
+
+
 **Fecha de confirmación:** 27 de noviembre de 2026  
 **Estado:** concepto narrativo base confirmado por Seba. No equivale a que todos los detalles de ejecución estén definidos.
 
