@@ -2,7 +2,7 @@
 
 **Título oficial:** *Todos los nombres del mundo* (español) / *Every Name in the World* (inglés).
 
-**Estado: búsqueda creativa reabierta. No existe todavía una premisa aprobada.** Este documento actualiza la continuidad de la nueva etapa sin modificar ni reactivar las obras y propuestas archivadas.
+**Estado: concepto base, título, enfoque del título, estructura narrativa general y dirección tonal confirmados.** El argumento completo, el ciclo central concreto y sus personajes siguen abiertos. Este documento actualiza la continuidad de la nueva etapa sin modificar ni reactivar las obras y propuestas archivadas.
 
 ## 1. Punto de partida
 
@@ -29,11 +29,13 @@ Como orientación de prosa:
 - emoción transmitida mediante acciones, decisiones, silencios y consecuencias, no mediante explicaciones insistentes;
 - dejar espacio para que el lector complete lo que imagina.
 
-## 4. Paleta posible, sin obligación
+## 4. Enfoque tonal confirmado: all in one
 
-Seba tiene intereses previos en ciencia ficción, exploración, misterio, aventura, transformación de mundos, thriller y terror cuando encaja. Estos elementos pueden formar parte de la nueva obra, pero no hay que introducirlos todos ni asumir que la novela será postapocalíptica o de ciencia ficción.
+La novela no se encierra en un único registro ni trata la variedad como una mezcla de géneros artificial. Se concibe como un **all in one**: puede contener todo lo que la vida misma ofrece —intimidad, conversaciones filosóficas, humor, drama, tensión, pérdida, asombro y, en su momento, terror—. Los cambios de clima deben nacer de la experiencia vital y humana del protagonista, de las situaciones que atraviesa y de las personas que conoce. No deben obedecer a una fórmula de acción convencional ni a una lista de géneros que haya que cumplir.
 
-Las ideas y los documentos de otras etapas del repositorio pueden consultarse como material de inspiración si aportan algo a la búsqueda. Nada se hereda automáticamente y ninguna propuesta antigua queda rehabilitada por el hecho de estar disponible.
+*The Man from Earth* sigue siendo una referencia de sensibilidad: cercanía humana, peso de las conversaciones y preguntas que quedan resonando. No limita la novela a un solo clima ni debe usarse como plantilla argumental.
+
+Las ideas y los documentos de otras etapas del repositorio pueden consultarse como material de inspiración si aportan algo a esta novela. Nada se hereda automáticamente y ninguna propuesta antigua queda rehabilitada por el hecho de estar disponible.
 
 ## 5. Concepto base confirmado — 27/11/2026
 
@@ -49,15 +51,24 @@ Seba compartió un resumen de decisiones confirmadas para la nueva novela. El de
 - El conflicto moral explora cómo usar el conocimiento de vidas repetidas para beneficio propio y cómo eso afecta honestidad, manipulación, lealtad y relaciones cuando los demás no recuerdan.
 - No es una simulación, realidad virtual ni código. El mundo y sus consecuencias son reales.
 
-## 6. Qué todavía no está decidido
+## 6. Estructura narrativa acordada y qué todavía no está decidido
+
+### Estructura general confirmada
+
+- Cuando comienza la novela, el protagonista ya recorrió gran parte del camino de conocer personas a lo largo de sus ciclos anteriores. «Todos los nombres» expresa ese recorrido humano y vital; no implica que haya conocido literalmente a cada habitante del planeta.
+- La novela se detiene en **un ciclo particular**, en vez de narrar linealmente toda la secuencia de vidas anteriores.
+- Desde ese ciclo central, el relato se mueve hacia atrás mediante **flashbacks** y hacia adelante mediante **flashforwards**, cruzando recuerdos de otros momentos o ciclos con anticipaciones de acontecimientos posteriores.
+- Todavía no se sabe qué hace singular a ese ciclo ni por qué es el que merece convertirse en el centro de la novela.
+
+### Cuestiones todavía abiertas
 
 **Pendiente creativo inmediato señalado por Seba:** la escena del Punto Cero: qué está haciendo exactamente el protagonista, dónde sucede y qué está en juego en ese instante.
 
-El título ya está confirmado: *Todos los nombres del mundo* (español) / *Every Name in the World* (inglés). Todavía no están definidos el argumento completo, personajes secundarios, estructura de capítulos, narrador ni desenlace. No se ha decidido que la historia sea autobiográfica.
+El título ya está confirmado: *Todos los nombres del mundo* (español) / *Every Name in the World* (inglés). La estructura temporal general también está acordada, pero todavía no están definidos el argumento completo, los personajes secundarios, la estructura detallada de capítulos, el narrador ni el desenlace. No se ha decidido que la historia sea autobiográfica.
 
 Hay mecanismos que deberán detallarse después sin inventarlos por ahora: cómo se conservan memoria y dispositivo en el retorno, si otros individuos también repiten vidas, cómo se configura el extremo del pasaje y qué reglas temporales explican los cambios entre ciclos.
 
-## 6. Método para continuar
+## 7. Método para continuar
 
 1. Conversar para descubrir qué clase de historia le despierta curiosidad y emoción.
 2. Identificar un núcleo humano y una situación narrativa concreta.
@@ -68,19 +79,19 @@ Hay mecanismos que deberán detallarse después sin inventarlos por ahora: cómo
 
 **Próximo paso:** seguir conversando y encontrar la primera semilla narrativa. No hay que producir una premisa por obligación ni escribir un capítulo para demostrar que el proyecto comenzó.
 
-## 7. Relación con los proyectos anteriores
+## 8. Relación con los proyectos anteriores
 
 - *Ficción Sonora* queda en pausa por decisión de Seba; no es la obra que se está iniciando ahora.
 - *Lo que nunca se fue* y el resto de materiales históricos permanecen en sus ubicaciones y estados actuales.
 - Esta nueva búsqueda es independiente. Puede aprender de trabajos anteriores, pero no necesita continuarlos ni justificarlos.
 
 
-## 8. Nueva referencia de decisiones confirmadas
+## 9. Nueva referencia de decisiones confirmadas
 
 El archivo [2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md](2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md) registra el concepto completo, las reglas confirmadas y los mecanismos que todavía no deben darse por definidos.
 
 
-## 9. Título oficial confirmado
+## 10. Título oficial confirmado
 
 El 27/11/2026 Seba decidió que la novela se llamará:
 - **Español:** *Todos los nombres del mundo*
