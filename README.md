@@ -25,3 +25,13 @@ El gusto y la decisión del autor tienen prioridad sobre el tiempo invertido en 
 ## Resumen de continuidad vigente
 
 - **[ESTADO_ACTUAL_NOVELA_2026-10-24.md](HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-10-24.md)** — síntesis de preferencias, elementos confirmados y exploratorios, cronología del protagonista, dirección actual de las ventanas, asuntos pendientes y auditoría de originalidad. No constituye una premisa aprobada.
+
+
+## Estado creativo actualizado — 27 de noviembre de 2026
+
+Se reabrió la búsqueda de una novela completamente nueva, con la intención explícita de encontrar una historia con **corazón y alma**. No se ha aprobado premisa ni género. La ciencia ficción, el misterio, la aventura y los materiales de etapas anteriores son posibilidades, no obligaciones.
+
+- [Estado actual de la nueva novela — 27/11/2026](HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-11-27.md)
+- [Registro del regreso a la escritura y nueva brújula creativa — 27/11/2026](HISTORIAL_ACTIVO/2026-11-27_NUEVO_IMPULSO_Y_BRUJULA_CREATIVA.md)
+
+La referencia emocional que disparó este regreso fue *Nos vemos después*: humanidad, respeto, amistad, compromiso y la fuerza de un gesto silencioso. Es una inspiración sobre el efecto que se busca, no una historia que debamos imitar.
