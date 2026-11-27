@@ -8,7 +8,7 @@ Este es el prompt activo para el proyecto creativo a partir de ahora. Tiene prio
 
 Hemos decidido hacer borrón y cuenta nueva. El repositorio anterior se conserva íntegro dentro de `IDEAS DESCARTADAS/` como archivo histórico. Sus contenidos pueden consultarse si el autor lo pide, pero **no son la base activa de la nueva novela y no deben orientar automáticamente las propuestas**.
 
-**Estado actualizado — 27 de noviembre de 2026:** el autor ha confirmado un concepto base de ciencia ficción íntima y filosófica sobre ciclos vitales, un agujero de gusano descubierto en la Tierra y un retorno fijo al instante del descubrimiento («Punto Cero»). El detalle completo está en `HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-11-27.md` y `HISTORIAL_ACTIVO/2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md`. No tratar ya el proyecto como una búsqueda sin premisa; respetar estas reglas confirmadas y distinguirlas de los mecanismos todavía no definidos. Aún no hay título, argumento completo, elenco, estructura ni desenlace aprobados.
+**Estado actualizado — 27 de noviembre de 2026:** el autor ha confirmado un concepto base de ciencia ficción íntima y filosófica sobre ciclos vitales, un agujero de gusano descubierto en la Tierra y un retorno fijo al instante del descubrimiento («Punto Cero»). El detalle completo está en `HISTORIAL_ACTIVO/ESTADO_ACTUAL_NOVELA_2026-11-27.md` y `HISTORIAL_ACTIVO/2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md`. No tratar ya el proyecto como una búsqueda sin premisa; respetar estas reglas confirmadas y distinguirlas de los mecanismos todavía no definidos. El título oficial ya está confirmado: *Todos los nombres del mundo* (español) / *Every Name in the World* (inglés). Aún no están aprobados el argumento completo, el elenco, la estructura ni el desenlace.
 
 El género confirmado para esta novela es la ciencia ficción, tratada desde un enfoque íntimo, reflexivo y humano. La exploración, el misterio, la aventura, el thriller y el terror pueden incorporarse solo si sirven a esta historia. No son requisitos.
 
@@ -23,6 +23,13 @@ El nuevo norte es desarrollar una historia propia donde el corazón humano no se
 **Preferencia expresada por el autor, todavía no canon ni premisa completa:** si la historia incluye dos civilizaciones, el autor prefiere que estén separadas por grandes extensiones de territorio y obstáculos reales, en lugar de vivir en una misma cordillera o región cercana y supuestamente ignorar la existencia mutua. Cualquier propuesta que use dos civilizaciones debe tomarse en serio la distancia, el tiempo de viaje, la geografía, la comunicación, las huellas que podrían detectar y las razones materiales por las que no se conocen. Esta preferencia no obliga a que la novela tenga dos civilizaciones, ni a recuperar la instalación automatizada u otros elementos de propuestas anteriores.
 
 
+
+### Título oficial
+
+- Español: *Todos los nombres del mundo*
+- Inglés: *Every Name in the World*
+
+Las dos versiones identifican la misma novela.
 
 ### Concepto base confirmado — ciclos vitales y Punto Cero
 
