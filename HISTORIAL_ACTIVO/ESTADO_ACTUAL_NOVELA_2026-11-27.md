@@ -1,5 +1,7 @@
 # Estado actual de la nueva novela — 2026-11-27
 
+**Título oficial:** *Todos los nombres del mundo* (español) / *Every Name in the World* (inglés).
+
 **Estado: búsqueda creativa reabierta. No existe todavía una premisa aprobada.** Este documento actualiza la continuidad de la nueva etapa sin modificar ni reactivar las obras y propuestas archivadas.
 
 ## 1. Punto de partida
@@ -51,7 +53,7 @@ Seba compartió un resumen de decisiones confirmadas para la nueva novela. El de
 
 **Pendiente creativo inmediato señalado por Seba:** la escena del Punto Cero: qué está haciendo exactamente el protagonista, dónde sucede y qué está en juego en ese instante.
 
-Tampoco están definidos el título, el argumento completo, personajes secundarios, estructura de capítulos, narrador ni desenlace. No se ha decidido que la historia sea autobiográfica.
+El título ya está confirmado: *Todos los nombres del mundo* (español) / *Every Name in the World* (inglés). Todavía no están definidos el argumento completo, personajes secundarios, estructura de capítulos, narrador ni desenlace. No se ha decidido que la historia sea autobiográfica.
 
 Hay mecanismos que deberán detallarse después sin inventarlos por ahora: cómo se conservan memoria y dispositivo en el retorno, si otros individuos también repiten vidas, cómo se configura el extremo del pasaje y qué reglas temporales explican los cambios entre ciclos.
 
@@ -76,3 +78,12 @@ Hay mecanismos que deberán detallarse después sin inventarlos por ahora: cómo
 ## 8. Nueva referencia de decisiones confirmadas
 
 El archivo [2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md](2026-11-27_CONCEPTO_CICLOS_VITALES_PUNTO_CERO.md) registra el concepto completo, las reglas confirmadas y los mecanismos que todavía no deben darse por definidos.
+
+
+## 9. Título oficial confirmado
+
+El 27/11/2026 Seba decidió que la novela se llamará:
+- **Español:** *Todos los nombres del mundo*
+- **Inglés:** *Every Name in the World*
+
+Ver el registro específico [Decisión de título — 27/11/2026](2026-11-27_TITULO_OFICIAL.md).
