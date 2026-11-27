@@ -67,7 +67,7 @@ La idea de la carga vital es parte de la regla especulativa del mundo. Su explic
 
 ## 7. Retorno al Punto Cero
 
-El retorno se produce siempre en el mismo día y hora en que el protagonista realizó el descubrimiento inicial, cuando tenía alrededor de 20 años. Ese instante es fijo y recibe el nombre de **Punto Cero**.
+El retorno se produce siempre en el mismo día y hora en que el protagonista realizó el descubrimiento inicial, cuando tenía alrededor de 20 años. Ese instante es fijo y recibe el nombre de **Punto Cero**. Sin embargo, cada retorno lo lleva a una línea paralela diferente: no vuelve al mismo universo que abandonó. Las líneas son lo bastante parecidas como para que el protagonista tardara siglos en advertirlo.
 
 El ciclo permite volver a vivir desde ese punto con el conocimiento adquirido en la vida anterior. El mundo es real y las consecuencias de las decisiones ocurren de verdad; no se trata de rebobinar una simulación.
 
@@ -108,7 +108,7 @@ Aunque el concepto base está confirmado, todavía no se han detallado todos los
 - cómo se elige o fija exactamente el extremo del pasaje;
 - qué reglas determinan si los cambios producen una única continuidad modificada u otra consecuencia temporal.
 
-Estas preguntas deberán abordarse cuando la narración las necesite. No deben confundirse con el pendiente creativo inmediato, que es definir la escena del Punto Cero.
+Estas preguntas deberán abordarse cuando la narración las necesite. La decisión de que cada retorno llega a una línea paralela diferente ya está confirmada; no lo están el mecanismo exacto por el que elige o genera esa línea ni el destino de las líneas que abandona.
 
 ## 12. Inspiración y originalidad
 
@@ -119,3 +119,14 @@ Estas preguntas deberán abordarse cuando la narración las necesite. No deben c
 La novela debe encontrar una identidad propia, con escenas visualizables, prosa sensorial y espacio para que el lector imagine rostros, voces, sonidos y escenarios.
 
 ---
+
+
+## 13. Aclaración posterior — líneas paralelas y destino de los retornos
+
+**Decisión confirmada por Seba el 27 de noviembre de 2026:** el mecanismo siempre estuvo llevando al protagonista a una línea paralela diferente cada vez que moría. No se trata de un desperfecto que aparece después de cierto número de ciclos. El protagonista tardó siglos en reconocer las diferencias entre las líneas, porque al principio eran pequeñas y podían confundirse con errores de memoria o variaciones derivadas de sus actos.
+
+Seba eligió mantener **desconocido** el destino de las líneas que deja atrás. No se ha decidido si siguen existiendo ni qué sucede en ellas; el protagonista tampoco puede comprobarlo. Esta incertidumbre debe conservarse.
+
+El retorno al Punto Cero sigue siendo fijo en fecha y hora. El borrador de prólogo lo representa mediante un reloj detenido a las **10:17**. Cada llegada corresponde, sin embargo, a una versión paralela diferente del universo.
+
+Sigue sin definirse si el mecanismo crea una nueva línea, selecciona una ya existente o si esa distinción no tiene sentido dentro de la física especulativa de la novela. La decisión confirmada se limita a que cada retorno llega a una línea distinta.
