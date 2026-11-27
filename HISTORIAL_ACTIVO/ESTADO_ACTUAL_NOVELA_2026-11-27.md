@@ -117,3 +117,14 @@ Ver el registro específico [Decisión de título — 27/11/2026](2026-11-27_TIT
 Cada retorno lleva al protagonista a una línea paralela diferente. Esto siempre estuvo ocurriendo, no es una falla reciente. El protagonista tardó siglos en advertirlo. El destino de las líneas abandonadas no está definido y se mantiene como incertidumbre.
 
 Consulta [Líneas paralelas — aclaración del retorno](2026-11-27_LINEAS_PARALELAS_Y_RETORNO.md).
+
+
+## 11. Evaluación externa y dirección de conflicto — 27/11/2026
+
+Seba compartió propuestas de DeepSeek y Qwen. La evaluación editorial quedó registrada en [Evaluación DeepSeek y Qwen](2026-11-27_EVALUACION_DEEPSEEK_QWEN_CONFLICTO.md).
+
+La dirección que merece exploración combina dos ideas:
+- Una promesa, compromiso o responsabilidad ligada a una historia que el protagonista conoce en este ciclo.
+- El riesgo de que use recuerdos de otras líneas como un guion para intervenir en la vida de personas que no son las que recuerda y que tienen autonomía propia.
+
+Esta combinación se relaciona con las dos pistas elegidas por Seba: la fecha de vencimiento inesperada del ciclo y una historia que no quiere olvidar. **Todavía no es el conflicto definitivo.** No están definidos el objetivo concreto del protagonista, el acontecimiento de los catorce meses ni la decisión irreversible.
